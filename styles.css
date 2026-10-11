@@ -63,3 +63,39 @@ kbd { font: inherit; border: 1px solid var(--line); border-radius: 3px; padding:
 #source-link { color: var(--muted); text-underline-offset: 3px; }
 #source-link:hover { color: var(--accent); }
 @media (max-width: 650px) { .page-position { font-size: 10px; } }
+
+/* Optional reading companions, independently opened. */
+.pane-controls { display: flex; gap: 10px; }
+main:has(.with-commentary) { max-width: 1600px; }
+.reading-layout.with-commentary { display: grid; max-width: 1160px; grid-template-columns: minmax(260px, 1fr) minmax(0, 1.9fr); gap: 32px; align-items: start; }
+.reading-layout.with-commentary.with-english { max-width: 1520px; grid-template-columns: minmax(250px, 1fr) minmax(0, 1.8fr) minmax(230px, 1fr); gap: 28px; }
+.commentary { min-width: 0; padding: 26px 20px 12px 0; border-right: 1px solid var(--line); position: sticky; top: 20px; }
+.commentary .page-heading { margin-bottom: 10px; }
+.commentary-text { max-height: calc(100vh - 150px); overflow-y: auto; overscroll-behavior: contain; padding: 0 12px 12px 0; margin-top: 22px; font: 15px/1.65 Georgia, "Times New Roman", serif; scrollbar-width: thin; }
+.commentary-text:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.commentary-text h3 { font-size: 20px; line-height: 1.35; font-weight: normal; margin: 0 0 14px; }
+.commentary-intro { color: var(--muted); }
+.commentary-entry { padding: 20px 0; border-top: 1px solid var(--line); }
+.note-lines { font: 10px -apple-system, BlinkMacSystemFont, sans-serif; letter-spacing: .6px; color: var(--accent); }
+.commentary-text h4 { font: 18px/1.45 "Palatino Linotype", Palatino, serif; margin: 8px 0; }
+.commentary-text p { margin: 0 0 16px; }
+.commentary-entry p { margin: 0; }
+.commentary-sources a { display: block; color: var(--accent); margin: 12px 0; font-size: 13px; }
+.with-commentary .greek-page { padding-left: 22px; padding-right: 22px; }
+.with-commentary .verses { font-size: 20px; }
+.with-commentary .english-text { font-size: 17px; }
+@media (min-width: 761px) and (max-width: 1100px) {
+  .reading-layout.with-commentary.with-english { grid-template-columns: minmax(240px, 1fr) minmax(0, 1.9fr); }
+  .with-commentary .commentary { grid-column: 1; grid-row: 1 / span 2; }
+  .with-commentary .translation { grid-column: 2; border-left: 0; border-top: 1px solid var(--line); padding-left: 0; }
+}
+@media (max-width: 760px) {
+  .masthead { height: auto; min-height: 100px; padding: 16px 0; flex-wrap: wrap; }
+  .pane-controls { flex-wrap: wrap; }
+  .pane-controls .translation-toggle { min-width: 0; font-size: 11px; padding: 9px; }
+  .reading-layout.with-commentary, .reading-layout.with-commentary.with-english { display: flex; flex-direction: column; gap: 24px; }
+  .with-commentary .greek-page { order: 0; width: 100%; }
+  .commentary { order: 1; position: static; width: 100%; border-right: 0; border-top: 1px solid var(--line); padding: 24px 12px 0; }
+  .commentary-text { max-height: 60vh; }
+  .with-commentary .translation { order: 2; width: 100%; margin: 0; border-left: 0; border-top: 1px solid var(--line); padding: 24px 12px 0; }
+}

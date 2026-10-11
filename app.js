@@ -6,6 +6,8 @@ let currentPage = -1;
 let busy = false;
 let requestVersion = 0;
 let retryAction;
+let commentaryVersion = 0;
+const commentaryCache = new Map();
 
 async function getText(path) {
   const response = await fetch(path);
@@ -65,6 +67,7 @@ function render(page, content) {
   $('progress-fill').style.width = `${((currentPage + 1) / book.pages.length) * 100}%`;
   $('source-link').href = page.sourceUrl;
   $('source-link').hidden = false;
+  renderCommentary(page);
   document.title = `The Iliad · Book V · ${page.id}`;
 }
 
@@ -104,6 +107,72 @@ function setTranslation(open) {
   $('translation-toggle').querySelector('span').textContent = open ? 'Hide English' : 'Show English';
 }
 
+function setCommentary(open) {
+  $('commentary').hidden = !open;
+  $('reading-layout').classList.toggle('with-commentary', open);
+  $('commentary-toggle').setAttribute('aria-expanded', String(open));
+  $('commentary-toggle').querySelector('span').textContent = open ? 'Hide notes' : 'Show notes';
+}
+
+async function renderCommentary(page) {
+  const version = ++commentaryVersion;
+  const container = $('commentary-text');
+  $('commentary-range').textContent = `${page.id} · Lines ${page.lineStart}–${page.lineEnd}`;
+  container.scrollTop = 0;
+  container.replaceChildren();
+  container.setAttribute('aria-busy', 'false');
+  if (!page.commentary) {
+    container.textContent = 'Commentary hasn’t been added to this page yet. Start with page 5.1 for the first set of notes.';
+    return;
+  }
+  container.textContent = 'Loading notes…';
+  container.setAttribute('aria-busy', 'true');
+  try {
+    let notes = commentaryCache.get(page.id);
+    if (!notes) {
+      notes = JSON.parse(await getText(contentRoot + page.commentary));
+      if (notes.id !== page.id || !Array.isArray(notes.notes)) throw new Error('Mismatched commentary');
+      commentaryCache.set(page.id, notes);
+    }
+    if (version !== commentaryVersion) return;
+    const element = (tag, text, className) => {
+      const el = document.createElement(tag);
+      el.textContent = text;
+      if (className) el.className = className;
+      return el;
+    };
+    container.replaceChildren(element('h3', notes.title), element('p', notes.intro, 'commentary-intro'));
+    for (const note of notes.notes) {
+      const section = document.createElement('section');
+      section.className = 'commentary-entry';
+      section.append(element('span', `${/^\d+$/.test(note.lines) ? 'Line' : 'Lines'} ${note.lines}`, 'note-lines'), element('h4', note.lemma), element('p', note.text));
+      container.append(section);
+    }
+    const sources = element('div', '', 'commentary-sources');
+    sources.append(element('h4', 'References'));
+    for (const source of notes.sources || []) {
+      const link = element('a', source.title);
+      const url = new URL(source.url);
+      if (url.protocol !== 'https:') continue;
+      link.href = url.href;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      sources.append(link);
+    }
+    container.append(sources);
+  } catch (error) {
+    if (version !== commentaryVersion) return;
+    container.textContent = 'Couldn’t load these notes. ';
+    const retry = document.createElement('button');
+    retry.textContent = 'Try again';
+    retry.addEventListener('click', () => renderCommentary(page));
+    container.append(retry);
+    console.error(error);
+  } finally {
+    if (version === commentaryVersion) container.setAttribute('aria-busy', 'false');
+  }
+}
+
 function indexFromHash() {
   const index = book.pages.findIndex((page) => `#${page.id}` === location.hash);
   return index < 0 ? 0 : index;
@@ -127,6 +196,11 @@ async function initialize() {
   }
 }
 
+$('commentary-toggle').addEventListener('click', () => setCommentary($('commentary').hidden));
+$('close-commentary').addEventListener('click', () => {
+  setCommentary(false);
+  $('commentary-toggle').focus();
+});
 $('previous').addEventListener('click', () => turnPage(-1));
 $('next').addEventListener('click', () => turnPage(1));
 $('retry').addEventListener('click', () => retryAction?.());
@@ -142,7 +216,10 @@ document.addEventListener('keydown', (event) => {
     event.preventDefault();
     turnPage(event.key === 'ArrowLeft' ? -1 : 1);
   }
-  if (event.key === 'Escape' && !$('translation').hidden) {
+  if (event.key === 'Escape' && !$('commentary').hidden && ($('translation').hidden || $('commentary').contains(event.target) || event.target === $('commentary-toggle'))) {
+    setCommentary(false);
+    $('commentary-toggle').focus();
+  } else if (event.key === 'Escape' && !$('translation').hidden) {
     setTranslation(false);
     $('translation-toggle').focus();
   }

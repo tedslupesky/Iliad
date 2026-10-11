@@ -13,3 +13,9 @@ Fresh OCR of the scanned pages was aligned and cleaned using the Perseus Digital
 This is a normalized reading transcription, not a diplomatic transcription or a fully proofread scholarly edition. Greek punctuation, capitalization, and diacritics generally follow the reference text. Printed line wrapping is removed; footnotes, critical apparatus, running headers, and note callouts are omitted. English OCR/reference errors were corrected and paragraph breaks retained where identified. Further proofreading may still find differences. Each reader page links to the original spread for comparison.
 
 To correct a reading, edit its text file directly; preserve one verse per Greek line so that verse numbering stays accurate. If pagination changes, also update the manifest.
+
+## Commentary
+
+Optional commentary lives alongside the reading texts in `commentary/5.1.json`. JSON keeps each note's verse range, Greek lemma, explanation, and reference links separate for readable rendering without a Markdown dependency. The page ID uses the same book/page convention as the Greek and English files. Add a `commentary` path to the matching manifest entry when a new page is ready; pages without it display an explicit empty state.
+
+Page 5.1 contains original explanatory notes for a returning reader of Homer, including morphology, syntax, vocabulary, and literary observations. Reference links accompany the notes. These are reading aids, not a critical apparatus; interpretive observations are distinguished from grammatical parsing.

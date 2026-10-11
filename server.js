@@ -16,6 +16,9 @@ createServer(async (request, response) => {
   if (/^\/iliad\/(greek|english)\/5\.([1-9]|[12]\d|3[0-4])\.txt$/.test(pathname)) {
     file = [pathname.slice(1), 'text/plain'];
   }
+  if (/^\/iliad\/commentary\/5\.([1-9]|[12]\d|3[0-4])\.json$/.test(pathname)) {
+    file = [pathname.slice(1), 'application/json'];
+  }
   if (!file) { response.writeHead(404); response.end('Not found'); return; }
   try {
     const body = await readFile(new URL(file[0], import.meta.url));

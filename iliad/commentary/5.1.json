@@ -1,0 +1,170 @@
+{
+  "id": "5.1",
+  "title": "Athena kindles Diomedes’ aristeia",
+  "intro": "Lines 1–20 introduce Diomedes’ great run of battlefield prowess, conventionally called his aristeia. These notes assume a returning reader: the emphasis is on recovering stems, recognizing epic morphology, and seeing how the sentence fits together.",
+  "notes": [
+    {
+      "lines": "1–3",
+      "lemma": "The opening sentence",
+      "text": "Athena is the subject of δῶκε; Diomedes is the recipient. Two optatives depend on ἵνα: γένοιτο and ἄροιτο. Read the skeleton as ‘Athena gave Diomedes strength and daring, so that he might stand out … and win glory.’ The purpose clause uses the optative after a past-tense main verb. Neither optative needs ἄν."
+    },
+    {
+      "lines": "1",
+      "lemma": "Ἔνθ᾽ αὖ · Τυδεΐδῃ Διομήδεϊ",
+      "text": "ἔνθα is here temporal, ‘then’; αὖ turns the narrative to a new focus, ‘now / in turn.’ Τυδεΐδης is the patronymic ‘son of Tydeus,’ in apposition to Diomedes. Both names are dative singular. Διομήδεϊ preserves the uncontracted epic ending where Attic would have Διομήδει. The diaeresis reminds you to hear separate vowels."
+    },
+    {
+      "lines": "2",
+      "lemma": "δῶκε ← δίδωμι",
+      "text": "Third singular aorist active indicative, without the augment: compare ἔδωκε. In Homer, the absence of an augment does not make a form present tense. Here the aorist presents Athena’s gift as an event. μένος is active force or fighting spirit; θάρσος is boldness or confidence."
+    },
+    {
+      "lines": "2–3",
+      "lemma": "ἔκδηλος μετὰ πᾶσιν Ἀργείοισι",
+      "text": "ἔκδηλος means ‘conspicuous, standing out,’ predicative with γένοιτο. μετά with the dative means ‘among.’ Ἀργείοισι is the epic dative plural corresponding to Attic Ἀργείοις; πᾶσιν agrees with it. ‘Argives’ here is a collective designation for the Greek army, not just men from the city of Argos."
+    },
+    {
+      "lines": "3",
+      "lemma": "γένοιτο · ἄροιτο",
+      "text": "γένοιτο is third singular second-aorist middle optative of γίγνομαι: recognize γεν-, as in ἐγενόμην. ἄροιτο is third singular aorist middle optative of ἀείρω (Attic αἴρω), ‘lift, carry off’; here ‘win for himself.’ Compare the aorist middle ἠράμην. This is the stem ἀρ-, not the present stem αἰρ-. κλέος ἐσθλόν is its object, ‘good / noble renown.’ ἰδέ is an epic connective meaning ‘and.’"
+    },
+    {
+      "lines": "4, 7",
+      "lemma": "δαῖέ οἱ · δαῖεν",
+      "text": "δαίω here means ‘kindle, set ablaze.’ δαῖε and δαῖεν are unaugmented third-singular imperfect active forms; the final ν in line 7 is movable, not a plural ending. Athena remains the subject. οἱ is the enclitic third-person dative pronoun, ‘for him,’ referring to Diomedes. Do not read it as the nominative plural article. The extra acute in δαῖέ reflects the following enclitic."
+    },
+    {
+      "lines": "4",
+      "lemma": "κόρυθός τε καὶ ἀσπίδος · ἀκάματον",
+      "text": "κόρυθος is the genitive singular of κόρυς, ‘helmet’ (stem κορυθ-); ἀσπίδος comes from ἀσπίς, ‘shield.’ Both depend on ἐκ. τε … καί joins them, ‘both … and.’ ἀκάματος, from privative ἀ- and the root of κάμνω, is ‘untiring, unwearied’: the fire is imagined as inexhaustible. The second accent on κόρυθός likewise comes from an enclitic, τε."
+    },
+    {
+      "lines": "5",
+      "lemma": "ἀστέρ᾽ ὀπωρινῷ ἐναλίγκιον",
+      "text": "ἀστέρ᾽ is elided ἀστέρι, dative singular of ἀστήρ—not an accusative. ὀπωρινῷ agrees with it. ἐναλίγκιον, ‘like, resembling,’ agrees with πῦρ and takes the dative of the thing compared: ‘fire like a star of late summer / harvest-time.’ ὀπώρα need not mean our modern autumn; it is the season of ripe fruit and late-summer heat."
+    },
+    {
+      "lines": "5–7",
+      "lemma": "The star simile",
+      "text": "The star is traditionally identified as Sirius, the Dog Star. Compare the explicit and ominous Dog-of-Orion simile at Iliad 22.25–32. Here dazzling beauty advertises dangerous power. The relative clause momentarily follows the star; τοῖον … πῦρ in line 7 then brings us back to Diomedes: ‘such a fire.’ This is an interpretive connection, not an identification supplied by a proper name in this passage."
+    },
+    {
+      "lines": "5–6",
+      "lemma": "ὅς τε … παμφαίνῃσι",
+      "text": "ὅς refers to the masculine ἀστήρ, not neuter πῦρ. The τε in such relative clauses is characteristic or generalizing: it describes what the star regularly does, rather than simply adding ‘and.’ παμφαίνῃσι is third singular present active subjunctive of παμφαίνω, ‘shine very brightly,’ with the epic ending -ῃσι corresponding to -ῃ. The subjunctive belongs to the generalized comparison. λαμπρόν is adverbial, ‘brightly,’ and μάλιστα gives the sense ‘most brightly / above all.’"
+    },
+    {
+      "lines": "6",
+      "lemma": "λελουμένος ὠκεανοῖο",
+      "text": "λελουμένος is perfect middle/passive participle, nominative masculine singular, of λούω; here middle in sense, ‘having bathed,’ with the resulting freshness or brightness in view. The reduplication λε- signals the perfect. ὠκεανοῖο is the epic genitive singular in -οιο. This is a Homeric genitive of place: ‘having bathed in Ocean.’ Do not force it into a possessive English ‘of Ocean.’ Ocean is imagined as the great encircling stream from which heavenly bodies rise."
+    },
+    {
+      "lines": "7",
+      "lemma": "κρατός · ὤμων",
+      "text": "κρατός is a genitive of the epic noun for ‘head,’ related to κάρα; it is not the genitive of κράτος, ‘strength,’ which would be κράτεος / κράτους. ὤμων is the genitive plural of ὦμος, ‘shoulder.’ Both follow ἀπό. The helmet-and-shield radiance of line 4 is now described as flame from head and shoulders."
+    },
+    {
+      "lines": "8",
+      "lemma": "ὦρσε δέ μιν ← ὄρνυμι",
+      "text": "ὦρσε is third singular aorist active indicative, ‘roused / sent rushing.’ Recover the stem ὀρ- behind the augmented ω-. μιν is the epic enclitic accusative ‘him,’ again Diomedes. Compare the middle ὄρνυτο in lines 13 and 17: Athena sets him in motion; later he himself springs into action."
+    },
+    {
+      "lines": "8",
+      "lemma": "κατὰ μέσσον ὅθι πλεῖστοι κλονέοντο",
+      "text": "μέσσον is the epic double-σ form of μέσον, ‘the middle’; κατά with the accusative directs him into the thick of the action. ὅθι = ‘where.’ πλεῖστοι is substantival, ‘the greatest number [of men].’ κλονέοντο is unaugmented third plural imperfect middle/passive of κλονέω, ‘drive in confusion, press hard’: here men ‘were thronging / being driven about’ in battle. The uncontracted -έοντο is another epic recognition cue."
+    },
+    {
+      "lines": "9–10",
+      "lemma": "Τρώεσσι · ἀφνειὸς ἀμύμων · ἱρεύς",
+      "text": "Τρώεσσι is an epic dative plural of Τρώς, ‘Trojan,’ with -εσσι (compare Attic Τρωσί). ἀφνειός means ‘wealthy’; ἀμύμων, conventionally ‘blameless,’ is a stock term of praise and need not certify moral perfection in the modern sense. ἱρεύς is the epic form of ἱερεύς, ‘priest.’ Ἡφαίστοιο is another -οιο genitive: Dares is a priest of Hephaestus."
+    },
+    {
+      "lines": "10–11",
+      "lemma": "δύω δέ οἱ υἱέες ἤστην",
+      "text": "Literally ‘and two sons were to him’: οἱ is a possessive dative, so naturally ‘he had two sons.’ δύω is an epic form of δύο. υἱέες is nominative plural of υἱός. ἤστην is third-person dual imperfect of εἰμί, ‘the two were.’ Homer can combine a plural noun with a dual verb; do not try to make ἤστην a form of ἵστημι."
+    },
+    {
+      "lines": "11",
+      "lemma": "μάχης εὖ εἰδότε πάσης ← οἶδα",
+      "text": "εἰδότε is nominative masculine dual perfect active participle of οἶδα, agreeing with the two sons. Compare singular εἰδώς and plural εἰδότες. Although perfect in form, οἶδα and its participle have present meaning, ‘know / knowing.’ μάχης … πάσης is genitive of the sphere in which they are knowledgeable: ‘well versed in every kind of fighting.’ Notice the separation of noun and adjective around εὖ εἰδότε."
+    },
+    {
+      "lines": "12",
+      "lemma": "τώ … ἀποκρινθέντε … ἐναντίω",
+      "text": "Three nominative dual forms: τώ, ‘those two’; ἀποκρινθέντε, aorist passive participle of ἀποκρίνω, here ‘having separated themselves’; and ἐναντίω, ‘opposite / facing [him].’ The -θεντ- participial stem is the clue to the aorist passive. Passive morphology can have an intransitive sense here; it need not imply that someone else separated them. οἱ is dative ‘him,’ Diomedes, with the notion of facing or opposing."
+    },
+    {
+      "lines": "12",
+      "lemma": "ὁρμηθήτην ← ὁρμάω",
+      "text": "Unaugmented third-person dual aorist passive indicative, intransitive in meaning: ‘the two rushed forward.’ The -θη- is the aorist passive marker and -την the third-dual ending. Distinguish ὁρμάω, ‘set in motion / rush,’ from the related-in-meaning but differently formed ὄρνυμι in ὦρσε and ὄρνυτο. This whole line is unusually rich in duals because the brothers act as a pair."
+    },
+    {
+      "lines": "13",
+      "lemma": "τὼ μὲν … ὃ δ᾽ · ἀφ᾽ ἵπποιιν",
+      "text": "‘The two, on the one hand … but he …’: τώ is dual and ὃ is singular, both used as pronouns. Their accents change with the following particles. ἵπποιιν is genitive dual after ἀπό, ‘from the two horses’; in context the horses stand for the horse-drawn chariot, so ‘from their chariot.’ The contrast is with Diomedes fighting πεζός, ‘on foot.’"
+    },
+    {
+      "lines": "13–14",
+      "lemma": "ὄρνυτο · χθονός · ἰόντες",
+      "text": "ὄρνυτο is unaugmented third singular imperfect middle of ὄρνυμι, ‘was springing / rushing.’ χθονός is genitive singular of χθών, ‘earth, ground.’ ἰόντες is nominative masculine plural present participle of εἶμι, ‘go,’ not εἰμί, ‘be.’ The plural οἳ … ἰόντες now takes in the opposing combatants as they approach one another. ἐπί with ἀλλήλοισιν supplies ‘toward / against one another.’"
+    },
+    {
+      "lines": "14–15",
+      "lemma": "ὅτε δὴ σχεδὸν ἦσαν … Φηγεύς ῥα",
+      "text": "The temporal clause sets the moment: ‘when they were now near, advancing against one another.’ σχεδόν is spatial, ‘near,’ not ‘almost.’ δή emphasizes that the encounter has reached this point. ῥα is a reduced form of ἄρα, a light narrative connective; often it needs no separate English word. πρότερος is predicative of Phegeus: ‘Phegeus was first to …’."
+    },
+    {
+      "lines": "15",
+      "lemma": "προΐει ← προΐημι · δολιχόσκιον ἔγχος",
+      "text": "προΐει is third singular imperfect active of προΐημι, ‘send forth, hurl,’ here without augment. The imperfect carries the narrative action; translate naturally ‘he cast.’ δολιχόσκιος combines δολιχός, ‘long,’ and σκιά, ‘shadow’: the spear casts a long shadow. ἔγχος is neuter; its genitive ἔγχεος appears in line 17. The next clause instead makes ἀκωκή, ‘point,’ its subject."
+    },
+    {
+      "lines": "16–17",
+      "lemma": "Τυδεΐδεω … ἤλυθ᾽ ἀκωκὴ ἔγχεος",
+      "text": "Τυδεΐδεω is epic genitive singular of the first-declension masculine Τυδεΐδης: ‘of the son of Tydeus.’ ἀκωκή, ‘point, tip,’ is the subject of ἤλυθε, and ἔγχεος depends on it: ‘the point of the spear passed over [his] left shoulder.’ ὑπέρ takes the accusative ὦμον. ἤλυθε is an epic third-singular second-aorist active indicative of ἔρχομαι; compare the more familiar ἦλθε. The root looks quite unlike the present ἐρχ-."
+    },
+    {
+      "lines": "17–19",
+      "lemma": "ἔβαλ᾽ ← βάλλω · ὃ δ᾽ ὕστερος",
+      "text": "ἔβαλε is third singular second-aorist active indicative of βάλλω, with βαλ- rather than present βαλλ-. The spear-point ‘did not strike him’; then ὃ shifts to Diomedes, who attacks ‘afterwards / in his turn’ (ὕστερος). His name, Τυδεΐδης, is held over to the beginning of line 18. χαλκῷ is instrumental dative, ‘with the bronze,’ the material standing for the weapon."
+    },
+    {
+      "lines": "18",
+      "lemma": "τοῦ … βέλος ἔκφυγε χειρός",
+      "text": "ἔκφυγε is third singular second-aorist active indicative of ἐκφεύγω: ἐκ- + the aorist stem φυγ-, with the augment absent. βέλος, ‘missile,’ is the subject. χειρός is a genitive of separation, ‘from the hand’; τοῦ refers back to Diomedes, ‘from his hand.’ οὐχ ἅλιον says the missile was not ineffective or wasted: ‘his cast was not in vain.’ ἅλιον agrees with neuter βέλος while supplying this predicative sense; it is not ἅλιος, ‘of the sea.’"
+    },
+    {
+      "lines": "19",
+      "lemma": "στῆθος μεταμάζιον · ὦσε ← ὠθέω",
+      "text": "στῆθος is the accusative marking where he struck, ‘in the chest’; μεταμάζιον specifies ‘between the breasts.’ Greek can express the struck person and the body part with accusatives; the person is supplied from context here. ὦσε is third singular aorist active of ὠθέω, ‘thrust, push,’ with the epic aorist stem ὠσ- (compare Attic ἔωσα). He thrusts Phegeus ἀφ᾽ ἵππων, ‘from the chariot.’"
+    },
+    {
+      "lines": "20",
+      "lemma": "ἀπόρουσε · λιπών · περικαλλέα δίφρον",
+      "text": "ἀπόρουσε is unaugmented third singular aorist active of ἀπορούω, ‘spring away’: divide ἀπ-όρουσε, not as a form of ἀπορέω, ‘be at a loss.’ λιπών is nominative masculine singular second-aorist active participle of λείπω, with λιπ- corresponding to ἔλιπον. περικαλλέα is uncontracted accusative masculine singular of περικαλλής, ‘very beautiful,’ agreeing with δίφρον, ‘chariot’ (originally a seat). The sentence continues on the next reading page."
+    },
+    {
+      "lines": "1–20",
+      "lemma": "Recognition cues to carry forward",
+      "text": "An omitted augment is routine in epic narrative. The endings -οιο, -οισι, and -εσσι often hide familiar genitives and datives. Short οἱ and μιν are pronouns; ὁ / ὃ and τώ can also be independent pronouns. Keep the dual in view whenever two people or two horses act together. For unfamiliar verbs, strip off the prefix and identify the tense stem before looking for the dictionary present."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    },
+    {
+      "title": "Smyth · genitive of place (λελουμένος Ὠκεανοῖο)",
+      "url": "https://grammars.alpheios.net/smyth/xhtml/body.1_div1.4_div2.18.html"
+    },
+    {
+      "title": "Middle Liddell · ἀείρω",
+      "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Amiddle-liddell.perseus-eng2-n505/"
+    },
+    {
+      "title": "White · εἰμί and its dual imperfect",
+      "url": "https://www.chlt.org/FirstGreekBook/JWW_FGB18.html"
+    }
+  ]
+}
