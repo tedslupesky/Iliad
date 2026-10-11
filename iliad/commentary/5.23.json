@@ -1,0 +1,63 @@
+{
+  "id": "5.23",
+  "title": "Diomedes recognizes Ares",
+  "intro": "The hero who rushed like a flood now recoils before one. His withdrawal is deliberate obedience to the divine limit, and he tells the Greeks to retreat while still facing the Trojans. Hector’s successes draw Ajax into the fighting.",
+  "notes": [
+    {
+      "lines": "590–592",
+      "lemma": "ὦρτο · κεκλήγων · ἦρχε",
+      "text": "ὦρτο is aorist middle of ὄρνυμι, ‘sprang forward.’ κεκλήγων is perfect active participle of κλάζω, ‘cry out,’ with vivid continuing force, ‘shouting.’ εἵποντο is imperfect of ἕπομαι, ‘followed.’ ἦρχε takes dative σφιν, ‘led them,’ with Ares and Enyo as the leaders."
+    },
+    {
+      "lines": "592–595",
+      "lemma": "Κυδοιμόν · ἀναιδέα · ἐνώμα",
+      "text": "Κυδοιμός is battle tumult personified, borne by Enyo. ἀναιδής means shameless or pitiless, here accusative ἀναιδέα. ἐνώμα is imperfect of νωμάω, ‘wield, ply,’ of Ares’ enormous spear. His movement before and behind Hector makes the divine support visible to Diomedes."
+    },
+    {
+      "lines": "596–600",
+      "lemma": "ῥίγησε · ἀπάλαμνος · στήῃ",
+      "text": "ῥίγησε is aorist of ῥιγέω, ‘shudder.’ ἀπάλαμνος describes a helpless or resource-less man in the simile. στήῃ is an epic root-aorist subjunctive of ἵστημι, ‘come to a halt,’ in the general comparison. πολέος πεδίοιο is a genitive of space traversed, ‘across a great plain.’"
+    },
+    {
+      "lines": "598–600",
+      "lemma": "ἅλα προρέοντι · μορμύροντα · ἔδραμε",
+      "text": "ἅλα is accusative of ἅλς, ‘sea,’ the river’s destination. προρέοντι describes its forward flow; μορμύροντα, from μορμύρω, its roaring or seething, with instrumental ἀφρῷ, foam. ἔδραμε is second aorist of τρέχω, ‘ran,’ with ἀνά and ὀπίσσω giving retreat. The flood image reverses Diomedes’ earlier role."
+    },
+    {
+      "lines": "601–604",
+      "lemma": "θαυμάζομεν … ἔμεναι · πάρα",
+      "text": "ἔμεναι is epic infinitive of εἰμί, describing Hector as spearman and bold warrior. Diomedes explains what seemed extraordinary in him: a god is always at hand. πάρα is adverbial ‘beside him,’ with εἷς θεῶν, ‘one of the gods.’ λοιγός is ruin or destruction, which the divine helper wards off."
+    },
+    {
+      "lines": "604–606",
+      "lemma": "βροτῷ ἀνδρὶ ἐοικώς · τετραμμένοι",
+      "text": "ἐοικώς is perfect participle of ἔοικα, ‘resembling,’ with dative βροτῷ ἀνδρί. Diomedes sees the god behind his mortal appearance. τετραμμένοι is perfect middle/passive participle of τρέπω, ‘turned,’ with πρὸς Τρῶας: the soldiers must keep facing the enemy as they yield ground, not turn their backs."
+    },
+    {
+      "lines": "605–606",
+      "lemma": "εἴκετε · μενεαινέμεν · ἶφι",
+      "text": "εἴκετε is second-plural present imperative of εἴκω, ‘give way.’ μενεαινέμεν is epic present infinitive of μενεαίνω used as a prohibition with μηδέ, ‘do not be eager.’ μάχεσθαι is its complementary infinitive. ἶφι is an old instrumental adverb, ‘with strength, by force.’ The order explicitly avoids a contest of force with gods."
+    },
+    {
+      "lines": "607–609",
+      "lemma": "σχεδὸν αὐτῶν · εἰδότε χάρμης",
+      "text": "σχεδόν takes genitive αὐτῶν, ‘near them.’ φῶτε is accusative dual of φώς, ‘man’; εἰδότε is dual perfect participle of οἶδα with genitive χάρμης, ‘battle.’ ἐόντε is also dual. The two men in one chariot echo earlier paired victims, making Hector’s advance a counterpart to the Greek successes."
+    },
+    {
+      "lines": "610–612",
+      "lemma": "ἐλέησε · ἀκόντισε · Τελαμώνιος",
+      "text": "ἐλέησε is aorist of ἐλεέω, ‘pitied,’ the same response that moved Menelaus earlier. Τελαμώνιος distinguishes the greater Ajax, son of Telamon, from Oileus’ son. ἀκόντισε, aorist of ἀκοντίζω, means ‘cast a spear.’ His compassionate reaction immediately becomes an attack."
+    },
+    {
+      "lines": "613–615",
+      "lemma": "πολυκτήμων πολυλήϊος · ἐπικουρήσοντα",
+      "text": "πολυκτήμων means rich in possessions; πολυλήϊος rich in crops or cornland. μοῖρα is the subject of ἦγε, ‘fate led him.’ ἐπικουρήσοντα is future active participle of ἐπικουρέω, expressing purpose, ‘to come as an ally.’ The wealthy man’s home is briefly recalled before the spear hits his belt; the wound continues next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

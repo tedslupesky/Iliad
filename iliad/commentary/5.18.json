@@ -1,0 +1,63 @@
+{
+  "id": "5.18",
+  "title": "Ares rallies Troy; Sarpedon challenges Hector",
+  "intro": "Apollo recruits Ares with a request that echoes Athena’s earlier address to him. In disguise, Ares urges the Trojans to rescue Aeneas’ apparent body. Sarpedon’s rebuke then exposes tension between Troy’s own fighters and its allies.",
+  "notes": [
+    {
+      "lines": "452–453",
+      "lemma": "δῄουν · βοείας · λαισήϊα",
+      "text": "δῄουν is imperfect of δηϊόω, ‘ravage, cut at,’ describing blows against each other’s shields. βοείας means made of oxhide. λαισήϊα are a type of light shield; their exact construction is not secure, and πτερόεντα is conventionally ‘fluttering / winged.’ It is safer to retain that uncertainty than picture a specific later shield design."
+    },
+    {
+      "lines": "454–456",
+      "lemma": "the repeated address to Ares",
+      "text": "βροτολοιγέ, μιαιφόνε, and τειχεσιπλῆτα repeat Athena’s address at 5.31. The same violent titles now introduce the opposite request: Apollo wants Ares in action against Diomedes. ἐρύσαιο is aorist middle optative of ἐρύω, ‘draw away,’ with ἄν in a courteous but pointed question."
+    },
+    {
+      "lines": "456–459",
+      "lemma": "μετελθών · αὐτῷ μοι · δαίμονι ἶσος",
+      "text": "μετελθών is aorist participle of μετέρχομαι, ‘going after him.’ Apollo repeats Aphrodite’s claim that Diomedes would fight even Zeus, then stresses ‘me myself’ with αὐτῷ μοι. καρπός here is the wrist, not fruit. The god-like assault is now described by its divine target rather than by the narrator."
+    },
+    {
+      "lines": "460–462",
+      "lemma": "ἐφέζετο · οὖλος · εἰδόμενος",
+      "text": "ἐφέζετο is imperfect of ἐφέζομαι, ‘sat down upon,’ locating Apollo on the high citadel. οὖλος here means destructive or baneful. εἰδόμενος is a participle of εἴδομαι, ‘appearing like,’ with dative Ἀκάμαντι. Ares assumes the identity of the Thracian leader Acamas to rally the lines."
+    },
+    {
+      "lines": "463–464",
+      "lemma": "υἱάσι · υἱεῖς · διοτρεφέεσσι",
+      "text": "υἱάσι is an epic dative plural of υἱός, followed by vocative plural υἱεῖς. διοτρεφής means ‘nurtured by Zeus,’ a conventional royal epithet; διοτρεφέεσσι is its uncontracted epic dative plural. The genitive βασιλῆος, ‘king,’ is likewise epic rather than Attic βασιλέως."
+    },
+    {
+      "lines": "465–466",
+      "lemma": "ἐς τί · ἐάσετε · εἰς ὅ κεν",
+      "text": "ἐς τί asks ‘until when?’ ἐάσετε is future of ἐάω, ‘will you allow,’ with λαόν as accusative subject of passive infinitive κτείνεσθαι. Ἀχαιοῖς gives the killers. εἰς ὅ κεν with subjunctive μάχωνται means ‘until they fight’ around the gates: he warns that inaction will bring the enemy to the city itself."
+    },
+    {
+      "lines": "467–469",
+      "lemma": "ἶσον ἐτίομεν · σαώσομεν",
+      "text": "ἶσον is predicative, ‘as equal,’ with dative Ἕκτορι after ἐτίομεν, ‘we honoured.’ Ares’ claim that Aeneas lies fallen works through the phantom Apollo left behind. σαώσομεν has an exhortative force after ἄγετε, ‘let us save.’ φλοῖσβος is the battle din from which they should retrieve their companion."
+    },
+    {
+      "lines": "470–472",
+      "lemma": "νείκεσεν · πῇ … οἴχεται",
+      "text": "νείκεσεν is aorist of νεικέω, ‘rebuked.’ πῇ is ‘where?’ and οἴχεται, though present, describes a departed state: ‘where has your spirit gone?’ ἔχεσκες is iterative past of ἔχω, ‘you used to have.’ Sarpedon challenges Hector through the contrast between earlier confidence and present performance."
+    },
+    {
+      "lines": "473–474",
+      "lemma": "ἑξέμεν · ἄτερ · γαμβροῖσι",
+      "text": "ἑξέμεν is epic future infinitive of ἔχω, ‘hold, defend,’ dependent on φῄς. ἄτερ with genitive means ‘without.’ ἐπίκουροι are allied contingents; γαμβροί are male relatives by marriage, here Priam’s sons-in-law. ‘Alone’ is immediately qualified by Hector’s own family, distinguishing them from the allied troops."
+    },
+    {
+      "lines": "475–476",
+      "lemma": "ἰδέειν · νοῆσαι · κύνες ὥς",
+      "text": "ἰδέειν is an expanded epic second-aorist infinitive of seeing; νοῆσαι is aorist infinitive of νοέω, ‘notice.’ οὔ τινα is ‘not one’ of those relatives. καταπτώσσουσι means ‘cower.’ The postposed ὥς introduces the comparison to dogs around a lion, a deliberately humiliating reversal of heroic confidence."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

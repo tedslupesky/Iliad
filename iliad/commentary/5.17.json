@@ -1,0 +1,63 @@
+{
+  "id": "5.17",
+  "title": "Apollo enforces the boundary",
+  "intro": "Olympian teasing gives way to a serious limit. Diomedes presses the rescue even though he knows Apollo is protecting Aeneas. Apollo’s warning makes explicit the difference between mortal and divine kinds, and Diomedes finally yields.",
+  "notes": [
+    {
+      "lines": "424–425",
+      "lemma": "καρρέζουσα · καταμύξατο · περόνῃ",
+      "text": "καρρέζουσα is an assimilated form of καταρέζουσα, ‘stroking, caressing.’ καταμύξατο is aorist middle of καταμύσσω, ‘scratched.’ περόνη is a dress pin or brooch; ἀραιήν means slender. Athena’s invented pinprick diminishes the spear wound and links Aphrodite’s intervention to coaxing Greek women toward Trojan lovers."
+    },
+    {
+      "lines": "426–430",
+      "lemma": "δέδοται · μετέρχεο · μελήσει",
+      "text": "δέδοται is perfect middle/passive of δίδωμι, ‘has been assigned’; neuter plural ἔργα takes singular verb. μετέρχεο is uncontracted present middle imperative of μετέρχομαι, ‘attend to, pursue.’ ἱμερόεντα means desire-awakening. μελήσει with datives Ares and Athena means warfare will be their concern. Zeus distributes divine spheres of activity."
+    },
+    {
+      "lines": "431–434",
+      "lemma": "ὑπείρεχε χεῖρας · ἅζετο",
+      "text": "ὑπείρεχε, from ὑπερέχω, means ‘held above,’ Apollo’s hands protectively over Aeneas. γιγνώσκων emphasizes Diomedes’ knowledge. ἅζετο is imperfect of ἅζομαι, ‘stand in awe of, respect,’ negated: he does not yet defer even to this great god. ἵετο, from ἵεμαι, describes his continuing eagerness."
+    },
+    {
+      "lines": "435–437",
+      "lemma": "ἀπὸ … δῦσαι · κατακτάμεναι · ἐστυφέλιξε",
+      "text": "δῦσαι is aorist active infinitive of δύω, transitive here ‘strip off’ the armour; compare middle forms for putting on clothing. κατακτάμεναι is epic aorist infinitive of κατακτείνω, ‘kill.’ ἐστυφέλιξε is aorist of στυφελίζω, ‘battered / thrust back,’ with Diomedes’ shield as object. Apollo repels him three times."
+    },
+    {
+      "lines": "438–439",
+      "lemma": "τὸ τέταρτον · δαίμονι ἶσος",
+      "text": "τὸ τέταρτον is adverbial accusative, ‘for the fourth time.’ ἐπέσσυτο is an epic aorist middle of ἐπισεύω, ‘rushed upon.’ δαίμονι ἶσος compares the force of his charge to a divine being; Apollo immediately insists that this does not make him divine. ὁμοκλήσας is aorist participle of ὁμοκλάω, ‘shout a command.’"
+    },
+    {
+      "lines": "440–442",
+      "lemma": "φράζεο καὶ χάζεο · ἶσα φρονέειν",
+      "text": "Both are present middle imperatives: ‘take thought and withdraw.’ ἶσα is adverbial, ‘equally,’ with dative θεοῖσιν: do not think yourself the gods’ equal. φρονέειν is uncontracted infinitive of φρονέω after ἔθελε. The close verbal pairing φράζεο / χάζεο sharpens the command."
+    },
+    {
+      "lines": "441–442",
+      "lemma": "φῦλον ὁμοῖον · χαμαὶ ἐρχομένων",
+      "text": "φῦλον is a race or kind; the genitives name the two kinds being contrasted. χαμαί is ‘on the ground,’ and ἐρχομένων is present participle of ἔρχομαι: humans are earth-walking. Apollo states a categorical difference in nature, not merely a temporary superiority in strength."
+    },
+    {
+      "lines": "443–445",
+      "lemma": "τυτθὸν ὀπίσσω · ἀλευάμενος",
+      "text": "τυτθόν is adverbial ‘a little,’ with ὀπίσσω, ‘backward.’ ἀνεχάζετο is imperfect of ἀναχάζομαι, ‘drew back.’ ἀλευάμενος is aorist middle participle of ἀλεύομαι, ‘avoiding,’ with μῆνιν as object. ἑκατηβόλος characterizes Apollo as the far-shooter. Diomedes’ small retreat is nonetheless a real concession."
+    },
+    {
+      "lines": "445–448",
+      "lemma": "Περγάμῳ · νηός · ἀδύτῳ",
+      "text": "Pergamus here is Troy’s citadel. νηός means ‘temple,’ not a form of ναῦς, ‘ship.’ ἐτέτυκτο is pluperfect of τεύχω, ‘had been built / stood.’ ἄδυτον is the sanctuary’s inner, inaccessible chamber. ἀκέοντο, from ἀκέομαι, means ‘healed’; κύδαινον, from κυδαίνω, ‘glorified / honoured,’ of Leto and Artemis restoring Aeneas."
+    },
+    {
+      "lines": "449–451",
+      "lemma": "εἴδωλον τεῦξε · ἴκελον",
+      "text": "εἴδωλον is an image or phantom. τεῦξε is aorist of τεύχω, ‘made.’ ἴκελον, ‘like,’ takes dative αὐτῷ Αἰνείᾳ; τεύχεσι specifies the matching armour. The fighting continues around a likeness while the real man is healed elsewhere. The narrative thereby separates visible battlefield evidence from divine reality."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

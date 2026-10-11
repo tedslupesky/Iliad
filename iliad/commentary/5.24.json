@@ -1,0 +1,63 @@
+{
+  "id": "5.24",
+  "title": "Ajax withdraws; a challenge between Zeus’ descendants",
+  "intro": "Ajax can recover his spear but not the armour under Trojan pressure. The narrative then shifts to Tlepolemus and Sarpedon. Their duel begins with competing claims about divine parentage and the earlier generation’s achievements.",
+  "notes": [
+    {
+      "lines": "616–618",
+      "lemma": "πάγη · συλήσων · ἔχευαν",
+      "text": "πάγη is unaugmented second-aorist passive of πήγνυμι, ‘stuck fast.’ συλήσων is future active participle of συλάω, expressing Ajax’s purpose in running forward, ‘to strip the armour.’ ἔχευαν is epic aorist of χέω, ‘poured,’ vividly describing the mass of Trojan spears directed at him."
+    },
+    {
+      "lines": "619–622",
+      "lemma": "ἀνεδέξατο · λὰξ προσβάς · ἐσπάσατο",
+      "text": "ἀνεδέξατο is aorist middle of ἀναδέχομαι, ‘received,’ with σάκος, shield, as subject. λάξ means ‘with the foot’; προσβάς, root-aorist participle of προσβαίνω, describes planting his foot against the body to pull out the spear. ἐσπάσατο is aorist middle of σπάω, ‘drew out.’"
+    },
+    {
+      "lines": "621–624",
+      "lemma": "ἀφελέσθαι · ὤμοιιν · ἀμφίβασιν",
+      "text": "ἀφελέσθαι is second-aorist middle infinitive of ἀφαιρέω, ‘strip away.’ ὤμοιιν is genitive dual, ‘from the two shoulders.’ ἐπείγετο means ‘was pressed,’ with dative βελέεσσι, missiles. ἀμφίβασις is an encompassing advance or encirclement, which Ajax fears as the Trojans stand over him in numbers."
+    },
+    {
+      "lines": "624–626",
+      "lemma": "ἐφέστασαν · μέγαν περ · πελεμίχθη",
+      "text": "ἐφέστασαν is pluperfect of ἐφίστημι, describing the Trojans’ established threatening position. περ makes the adjectives concessive, ‘great and mighty though he was.’ ὦσαν is aorist of ὠθέω, ‘pushed.’ χασσάμενος is aorist middle participle of χάζομαι, ‘giving ground’; πελεμίχθη, from πελεμίζω, describes being shaken or forced back."
+    },
+    {
+      "lines": "628–631",
+      "lemma": "Ἡρακλεΐδην · υἱός θ᾽ υἱωνός τε",
+      "text": "Tlepolemus is Heracles’ son and therefore Zeus’ grandson; Sarpedon is Zeus’ son. υἱωνός means grandson. νεφεληγερέταο is epic genitive of νεφεληγερέτης, ‘cloud-gatherer,’ agreeing with Διός. μοῖρα κραταιή is the subject of ὦρσεν, ‘powerful fate drove him,’ framing the encounter before either man speaks."
+    },
+    {
+      "lines": "633–634",
+      "lemma": "τίς τοι ἀνάγκη πτώσσειν",
+      "text": "The challenge asks what necessity makes Sarpedon cower here. πτώσσειν is present infinitive of πτώσσω; ἀδαήμων, ‘unskilled,’ takes genitive μάχης. φωτί is dative singular of φώς, ‘man,’ agreeing with the person addressed in the dative. The characterization is taunting rhetoric, not the narrator’s assessment of Sarpedon."
+    },
+    {
+      "lines": "635–637",
+      "lemma": "ψευδόμενοι … φασι · ἐπιδεύεαι",
+      "text": "ψευδόμενοι describes the people making the claim: ‘they lie when they say you are Zeus’ offspring.’ γόνος is offspring or descendant. ἐπιδεύεαι is epic second-singular present middle of ἐπιδεύομαι, ‘fall short,’ with genitive κείνων ἀνδρῶν. ἐξεγένοντο is second-aorist middle of ἐκγίγνομαι, ‘were born from.’"
+    },
+    {
+      "lines": "638–639",
+      "lemma": "βίην Ἡρακληείην · θυμολέοντα",
+      "text": "βίη with an adjective and name is a heroic periphrasis, ‘the might of Heracles,’ effectively Heracles himself. ἀλλοῖον means ‘of another sort,’ contrasting him with Sarpedon. θρασυμέμνων is bold-hearted; θυμολέων, lion-hearted. Both praise Tlepolemus’ father as the superior model of Zeus’ lineage."
+    },
+    {
+      "lines": "640–642",
+      "lemma": "ἕνεχ᾽ ἵππων · οἴῃς · ἐξαλάπαξε",
+      "text": "ἕνεκα becomes ἕνεχ᾽ before the rough breathing of ἵππων, ‘on account of Laomedon’s horses.’ οἴῃς means ‘only,’ agreeing with six ships; παυροτέροισιν means comparatively few men. ἐξαλάπαξε is aorist of ἐξαλαπάζω, ‘sacked.’ χήρωσε, from χηρόω, ‘made empty,’ describes the deserted streets after Heracles’ earlier sack of Troy."
+    },
+    {
+      "lines": "643–644",
+      "lemma": "ἀποφθινύθουσι · ἄλκαρ",
+      "text": "ἀποφθινύθω means waste away or perish; Tlepolemus blames Sarpedon for his troops’ losses. ἄλκαρ is a neuter noun meaning defence or protection. ἔσεσθαι is future infinitive of εἰμί after ὀΐομαι, ‘I do not think you will be protection for the Trojans.’ The threat continues onto the next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "5.19",
+  "title": "What the allies risk; Hector rallies the line",
+  "intro": "Sarpedon contrasts his distant home with Hector’s immediate stake in Troy. The speech has a practical argument: a commander must keep his allies engaged. Hector responds, and a harvest simile turns the rising battle dust into windblown chaff.",
+  "notes": [
+    {
+      "lines": "477–479",
+      "lemma": "ἔνειμεν · τηλόθεν · δινήεντι",
+      "text": "ἔνειμεν is an epic first-plural form of ἔνειμι, ‘are among / present,’ here ‘we who are allies here.’ τηλόθεν and τηλοῦ both emphasize distance, the first with a source suffix. δινήεντι is dative of δινήεις, ‘eddying,’ describing the Lycian Xanthus. This river is not the Trojan Scamander, also called Xanthus elsewhere."
+    },
+    {
+      "lines": "480–481",
+      "lemma": "ἔλιπον · κὰδ … κτήματα · ἐπιδευής",
+      "text": "ἔλιπον is first-singular second aorist of λείπω, ‘I left.’ κάδ is κατά assimilated before δ, continuing the notion of leaving possessions behind. ἔλδεται is ‘desires,’ from ἔλδομαι; ἐπιδευής means needy or lacking. Sarpedon has left wife, infant son, and wealth, all the things Hector is defending nearby."
+    },
+    {
+      "lines": "482–484",
+      "lemma": "μέμονα · τοῖον οἷον · φέροιεν / ἄγοιεν",
+      "text": "μέμονα is a perfect with present meaning ‘I am eager.’ μαχήσασθαι is aorist middle infinitive of μάχομαι. The relative comparison says there is nothing of his here of the sort the Greeks could carry or drive off. φέρειν and ἄγειν distinguish portable goods and living booty; the optatives with κεν express potential seizure."
+    },
+    {
+      "lines": "485–486",
+      "lemma": "τύνη · ἕστηκας · ὤρεσσι",
+      "text": "τύνη is an emphatic epic form of σύ, ‘you.’ ἕστηκας is perfect of ἵστημι, ‘stand there.’ μενέμεν is epic present infinitive of μένω, ‘hold firm’; ἀμυνέμεναι is the corresponding infinitive of ἀμύνω, ‘defend.’ ὤρεσσι means wives or womenfolk, an uncommon Homeric noun in the dative."
+    },
+    {
+      "lines": "487–489",
+      "lemma": "ἀψῖσι λίνου · ἁλόντε · ἕλωρ καὶ κύρμα",
+      "text": "ἀψῖσι denotes meshes or loops; λίνον is the net, πανάγρον ‘all-catching.’ ἁλόντε is nominative dual aorist participle of ἁλίσκομαι, ‘be caught,’ with loose agreement before plural γένησθε. ἕλωρ and κύρμα are prey or spoil. Sarpedon imagines the defenders trapped for their enemies, then their city sacked (ἐκπέρσουσι)."
+    },
+    {
+      "lines": "490–492",
+      "lemma": "χρή … μέλειν · λισσομένῳ · ἐνιπήν",
+      "text": "χρή governs infinitive μέλειν, ‘these things must concern you.’ λισσομένῳ agrees with σοί: Hector must appeal to the allied leaders. ἐχέμεν is epic infinitive of ἔχω, ‘hold firm,’ with νωλεμέως, ‘unceasingly.’ ἐνιπή is reproach; ἀποθέσθαι, aorist middle of ἀποτίθημι, expresses putting the severe reproach away by effective action."
+    },
+    {
+      "lines": "493–495",
+      "lemma": "δάκε φρένας · ἆλτο · ὀξέε δοῦρε",
+      "text": "δάκε is unaugmented second aorist of δάκνω, ‘bit’: the speech bites Hector’s mind. ἆλτο is aorist of ἅλλομαι, ‘leapt.’ ὀξέε δοῦρε is accusative dual, ‘two sharp spears,’ object of πάλλων, ‘brandishing.’ The physical response follows instantly on the rebuke."
+    },
+    {
+      "lines": "496–498",
+      "lemma": "ἐλελίχθησαν · ἔσταν · ὑπέμειναν",
+      "text": "ἐλελίχθησαν is aorist passive of ἐλελίζω, ‘wheel about.’ ἔσταν is epic third-plural root-aorist of ἵστημι, ‘stood.’ ὑπέμειναν is aorist of ὑπομένω, ‘stood their ground.’ ἀολλέες means massed together; ἐφόβηθεν is epic third-plural aorist passive of φοβέω, here intransitive ‘fled.’ The Greeks do not break."
+    },
+    {
+      "lines": "499–501",
+      "lemma": "ἄχνας · λικμώντων · κρίνῃ",
+      "text": "ἄχναι are chaff, separated from grain by winnowing. λικμώντων, from λικμάω, appears in a genitive absolute with ἀνδρῶν. κρίνῃ is present active subjunctive of κρίνω, ‘separate,’ in the generalizing ὅτε τε clause. Demeter personifies the agricultural process aided by the winds."
+    },
+    {
+      "lines": "502–505",
+      "lemma": "ἀχυρμιαί · κονισάλῳ · ἐπέπληγον",
+      "text": "ἀχυρμιαί are heaps of chaff, whitening in the wind. κονισαλός is a cloud of dust, instrumental dative explaining why the Greeks become white. ἐπέπληγον is an epic reduplicated past form of ἐπιπλήσσω, ‘beat up,’ with horses’ feet as subject. The horses rejoin the fighting while the drivers turn them about; domestic harvest labour is the visual counterpart of the battlefield."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

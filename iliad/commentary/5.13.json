@@ -1,0 +1,68 @@
+{
+  "id": "5.13",
+  "title": "The horses captured; Aphrodite wounded",
+  "intro": "Two actions proceed in parallel: Sthenelus fulfils the plan to capture Aeneas’ horses, while Diomedes pursues Aphrodite. The goddess’ protective embrace becomes the vulnerable point of attack. Her wound introduces the distinction between divine ichor and mortal blood.",
+  "notes": [
+    {
+      "lines": "314–317",
+      "lemma": "ἐχεύατο πήχεε λευκώ",
+      "text": "ἐχεύατο is aorist middle of χέω, ‘poured / threw around.’ πήχεε and λευκώ are accusative dual, ‘her two white arms.’ ἑόν is possessive ‘her own.’ The body of Aeneas is surrounded by both her arms and a fold (πτύγμα) of her bright robe."
+    },
+    {
+      "lines": "315–317",
+      "lemma": "ἕρκος ἔμεν βελέων · ἕλοιτο",
+      "text": "ἔμεν is epic infinitive of εἰμί, expressing the robe’s purpose, ‘to be a barrier against missiles.’ ἕρκος is neuter, with genitive βελέων. μή with optative ἕλοιτο gives the feared purpose to prevent: someone might strike him and take his life. ἕλοιτο is aorist middle of αἱρέω, with ἐκ separated from the verb."
+    },
+    {
+      "lines": "318–320",
+      "lemma": "ὑπεξέφερεν · ἐλήθετο συνθεσιάων",
+      "text": "ὑπεξέφερεν is imperfect of ὑπεκφέρω, ‘carried out from under / away,’ continuing the rescue. ἐλήθετο is imperfect of λήθομαι, ‘forget,’ taking genitive συνθεσιάων, ‘agreements / instructions.’ τάων ἅς resumes those instructions with epic demonstrative genitive followed by relative accusative."
+    },
+    {
+      "lines": "321–324",
+      "lemma": "ἠρύκακε · φλοίσβου · καλλίτριχας",
+      "text": "ἠρύκακε is aorist of ἐρυκάκω, ‘restrained.’ φλοῖσβος is the din or tumult of battle, from which he secures the horses at a distance (νόσφιν). καλλίτριχας is accusative plural of καλλίθριξ, ‘beautiful-maned,’ with the stem τριχ- appearing in the compound’s inflection. The action exactly follows Diomedes’ earlier instructions."
+    },
+    {
+      "lines": "325–327",
+      "lemma": "περὶ πάσης τῖεν ὁμηλικίης",
+      "text": "τίω means ‘honour, esteem’; περί with genitive is comparative, ‘above all his age-mates.’ ὁμηλικίη is the peer group or company of the same age. ἄρτια ᾔδη means Deipylus ‘knew things in accord’ with Sthenelus, shared his outlook. ᾔδη is pluperfect of οἶδα, with past sense ‘knew.’"
+    },
+    {
+      "lines": "327–329",
+      "lemma": "νηυσὶν ἔπι · ἐλαυνέμεν · μέθεπε",
+      "text": "νηυσίν is dative plural of ναῦς; ἔπι is the postposed preposition, giving the destination at the hollow ships. ἐλαυνέμεν is epic present infinitive of ἐλαύνω after δῶκε, the task entrusted to Deipylus. μέθεπε is past of μεθέπω, ‘direct after / pursue,’ as Sthenelus drives his own team after Diomedes."
+    },
+    {
+      "lines": "330–333",
+      "lemma": "Κύπριν · ἄναλκις · κοιρανέουσιν",
+      "text": "Κύπρις, ‘the Cyprian,’ is Aphrodite. νηλέϊ means ‘pitiless,’ dative singular with χαλκῷ. ἄναλκις is ‘without fighting strength,’ and κοιρανέω means ‘rule, direct.’ The contrast is with the goddesses who govern men’s battle, Athena and Enyo. πτολίπορθος, ‘city-sacking,’ uses the epic πτολι- form of πόλις."
+    },
+    {
+      "lines": "331–333",
+      "lemma": "γιγνώσκων ὅ … θεάων τάων",
+      "text": "ὅ introduces what Diomedes recognizes: that she is a goddess without martial strength. θεάων is uncontracted genitive plural; τάων resumes it before the relative αἵ. The text distinguishes Aphrodite’s sphere from those of war goddesses. His knowledge and permission to strike her derive from Athena’s earlier intervention."
+    },
+    {
+      "lines": "334–336",
+      "lemma": "ἐκίχανε · ἐπορεξάμενος · μετάλμενος",
+      "text": "ἐκίχανε, from κιχάνω, means ‘caught up with,’ while ὀπάζων depicts pursuit. ἐπορεξάμενος is aorist middle participle of ἐπορέγω, ‘stretching toward.’ μετάλμενος is aorist middle participle of μετάλλομαι, ‘leaping after.’ The sequence brings him within spear reach of her hand, not into a distant exchange of missiles."
+    },
+    {
+      "lines": "336–338",
+      "lemma": "ἄκρην … ἀβληχρήν · ἀντετόρησεν",
+      "text": "ἄκρην and ἀβληχρήν agree with χεῖρα: the extremity of her delicate or feeble hand. ἀντετόρησεν is aorist of ἀντιτορέω, ‘pierce through.’ χροός is genitive of χρώς, ‘skin / flesh.’ The robe is ἀμβρόσιος, divine or immortal, but it does not make her impervious to the spear."
+    },
+    {
+      "lines": "338–341",
+      "lemma": "κάμον · θέναρος · ἰχώρ",
+      "text": "κάμον is unaugmented second aorist of κάμνω, here ‘worked, fashioned,’ with the Graces as subject. θέναρ is the palm, genitive θέναρος. ἰχώρ names the fluid that flows in gods; it stands in apposition to ἄμβροτον αἷμα, ‘immortal blood.’ The explanation begins with their different diet: they do not eat mortal bread or drink wine."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

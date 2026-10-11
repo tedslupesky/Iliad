@@ -1,0 +1,68 @@
+{
+  "id": "5.15",
+  "title": "Dione’s consolation: gods too have suffered",
+  "intro": "Aphrodite seeks comfort from her mother Dione. The reply offers precedents for divine suffering at mortal hands. Repeated forms of τλάω bind the examples together, turning endurance into the lesson of the speech.",
+  "notes": [
+    {
+      "lines": "369–372",
+      "lemma": "εἶδαρ · ἀγκάς · κατέρεξεν",
+      "text": "εἶδαρ is food or fodder, here ambrosial food for the horses. ἀγκάς is an adverb, ‘into the arms.’ ἑῆς and ἥν are possessives, ‘her own’ mother and daughter. κατέρεξεν is aorist of καταρέζω, ‘stroke, caress,’ not the ordinary doing verb ῥέζω in the next question."
+    },
+    {
+      "lines": "373–374",
+      "lemma": "ἔρεξε · Οὐρανιώνων · ἐνωπῇ",
+      "text": "ἔρεξε is aorist of ῥέζω, ‘do.’ τίς … Οὐρανιώνων is partitive, ‘which of the heavenly gods?’ Dione assumes a divine attacker. μαψιδίως means ‘recklessly / without cause.’ ἐνωπῇ is adverbial ‘openly, in full view’; ῥέζουσαν is present participle agreeing with σε in the imagined comparison, ‘as if you were doing something wrong openly.’"
+    },
+    {
+      "lines": "375–378",
+      "lemma": "φιλομμειδής · οὖτα · οὕνεκα",
+      "text": "φιλομμειδής is Aphrodite’s conventional ‘smile-loving’ epithet, pointedly contrasted with her pain. οὖτα is a past form of οὐτάω, ‘wounded.’ οὕνεκα introduces the reason: she was carrying Aeneas away. πολὺ φίλτατος is a superlative intensified by adverbial πολύ, ‘by far the dearest.’"
+    },
+    {
+      "lines": "379–380",
+      "lemma": "φύλοπις · καὶ ἀθανάτοισι",
+      "text": "φύλοπις is the din or turmoil of battle, here nominative singular. Aphrodite contrasts the battle of Trojans and Greeks with Greeks fighting ‘even the immortals.’ καί has an intensifying force. The plural Δαναοί broadens one hero’s attack into a general complaint about the army."
+    },
+    {
+      "lines": "382–384",
+      "lemma": "τέτλαθι · ἀνάσχεο · τλῆμεν",
+      "text": "τέτλαθι is perfect active imperative of τλάω, ‘endure’; ἀνάσχεο is aorist middle imperative of ἀνέχω, ‘bear up.’ κηδομένη περ is concessive, ‘though distressed.’ τλῆμεν is first-plural root-aorist, ‘we endured,’ not an infinitive in -μεν. The finite verb agrees with πολλοί, the Olympian sufferers."
+    },
+    {
+      "lines": "383–384",
+      "lemma": "ἐξ ἀνδρῶν … ἐπ᾽ ἀλλήλοισι τιθέντες",
+      "text": "The gods have suffered pain ‘from men’ while laying troubles upon one another. τιθέντες is present active participle of τίθημι, agreeing with the divine speakers. Mortal violence is thus also part of conflict among gods. Dione’s comfort acknowledges their vulnerability without treating them as ordinary mortals."
+    },
+    {
+      "lines": "385–387",
+      "lemma": "τλῆ · δῆσαν · δέδετο",
+      "text": "τλῆ is third-singular root-aorist of τλάω, ‘endured.’ δῆσαν is unaugmented aorist of δέω, ‘bound’; δέδετο is pluperfect middle/passive, ‘lay bound.’ The bronze κέραμος is a large jar or vessel. τρισκαίδεκα μῆνας is an accusative of duration, ‘for thirteen months.’"
+    },
+    {
+      "lines": "388–391",
+      "lemma": "ἆτος πολέμοιο · μητρυιή · ἐξέκλεψεν",
+      "text": "ἆτος πολέμοιο conventionally means ‘insatiable for war,’ a title made ironic by Ares’ imprisonment. μητρυιή is a stepmother, here Eeriboea, who reveals the secret to Hermes. ἐξέκλεψεν, aorist of ἐκκλέπτω, means ‘stole him out.’ ἐδάμνα is imperfect of δαμνάω, ‘was overcoming,’ describing the bonds’ continuing pressure."
+    },
+    {
+      "lines": "388–389",
+      "lemma": "κεν ἀπόλοιτο … εἰ μή",
+      "text": "The same unreal rescue pattern used for Aeneas recurs: Ares ‘would have perished’ without help. ἀπόλοιτο is aorist middle optative with κεν. Applied to an immortal, the language dramatizes extremity rather than establishing a consistent doctrine of divine death. Dione’s point is that Aphrodite’s humiliation has precedents."
+    },
+    {
+      "lines": "392–394",
+      "lemma": "πάϊς Ἀμφιτρύωνος · τριγλώχινι",
+      "text": "Amphitryon’s son is Heracles. τριγλώχινι is dative singular of τριγλώχιν, ‘three-pointed / three-barbed,’ modifying instrumental ὀϊστῷ. βεβλήκει is pluperfect of βάλλω, ‘had struck.’ ἀνήκεστον, ‘incurable / intolerable,’ modifies ἄλγος, the pain that seized Hera."
+    },
+    {
+      "lines": "395–396",
+      "lemma": "Ἀΐδης · εὖτε · ωὐτός",
+      "text": "Ἀΐδης is an epic form of Hades. εὖτε means ‘when.’ ωὐτός is crasis of ὁ αὐτός, ‘the same’: the attacker of Hades is again Heracles, now identified as Zeus’ son. The alternation between mortal father Amphitryon and divine father Zeus is a change of designation, not a different hero."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

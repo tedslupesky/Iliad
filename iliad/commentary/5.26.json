@@ -1,0 +1,63 @@
+{
+  "id": "5.26",
+  "title": "Sarpedon recovers beneath Zeus’ tree",
+  "intro": "Athena diverts Odysseus from Sarpedon to the Lycian ranks. The wounded man pleads with Hector, then receives help from his own companions. His loss and recovery of consciousness show why ψυχή cannot always be translated as a permanently departed soul.",
+  "notes": [
+    {
+      "lines": "672–675",
+      "lemma": "διώκοι … ἕλοιτο · μόρσιμον",
+      "text": "The optatives express the alternatives in Odysseus’ deliberation: pursue Zeus’ son or take the lives of more Lycians. ἕλοιτο is aorist middle of αἱρέω. μόρσιμον means allotted by fate, with impersonal ἦεν and infinitive ἀποκτάμεν, epic aorist of ἀποκτείνω. It is not his allotted role to kill Sarpedon here."
+    },
+    {
+      "lines": "676–680",
+      "lemma": "τράπε θυμόν · κεν … κτάνε",
+      "text": "τράπε is unaugmented second aorist of τρέπω: Athena turns his intent toward the Lycian mass. κτάνε is an unaugmented aorist of κτείνω. With κεν and εἰ μή it forms another unreal continuation: he would have killed still more had Hector not noticed. The listed names give a compressed measure of the slaughter."
+    },
+    {
+      "lines": "680–683",
+      "lemma": "κορυθαίολος · δεῖμα · ὀλοφυδνόν",
+      "text": "κορυθαίολος describes Hector’s glancing or flashing helmet. δεῖμα is terror, what his advance brings to the Greeks. χάρη is unaugmented aorist passive-form of χαίρω, ‘rejoiced,’ with dative προσιόντι, ‘at him approaching.’ ὀλοφυδνός means pitiful or plaintive, qualifying Sarpedon’s appeal."
+    },
+    {
+      "lines": "684–685",
+      "lemma": "ἕλωρ … κεῖσθαι · ἐπάμυνον",
+      "text": "ἕλωρ is prey or spoil, predicate to με after ἐάσῃς, ‘do not allow me to lie as prey.’ κεῖσθαι is present infinitive of κεῖμαι. ἐπάμυνον is aorist imperative of ἐπαμύνω, ‘come to my defence.’ The request is for protection against enemy possession of his body, not an assurance that Hector can heal him."
+    },
+    {
+      "lines": "685–688",
+      "lemma": "λίποι αἰών · οἶκονδε · εὐφρανέειν",
+      "text": "λίποι is aorist optative of λείπω used as a wish or concession: life may then leave him in Troy. αἰών here is life or life-span. οἶκον δέ represents directional οἶκονδε, ‘homeward.’ εὐφρανέειν is future infinitive of εὐφραίνω, ‘gladden,’ after ἔμελλον. He imagines losing the homecoming that would delight wife and infant son."
+    },
+    {
+      "lines": "689–691",
+      "lemma": "παρήϊξεν · λελιημένος · ὤσαιτο",
+      "text": "παρήϊξεν is aorist of παραΐσσω, ‘darted past.’ λελιημένος is a perfect participle from λιλαιομαι, ‘eager.’ ὤσαιτο is aorist middle optative of ὠθέω in the purpose clause, ‘push back’ the Greeks; ἕλοιτο is the second purpose, killing many. Hector does not answer, but his advance serves the broader defensive need."
+    },
+    {
+      "lines": "692–694",
+      "lemma": "εἷσαν · φηγῷ · ὦσε θύραζε",
+      "text": "εἷσαν is aorist of ἵζω, ‘seated.’ φηγός is conventionally rendered oak in Homer, a tree sacred here to Zeus. περικαλλέϊ is uncontracted dative singular. ὦσε is aorist of ὠθέω, ‘pushed’; θύραζε, literally ‘out of doors,’ is adverbial ‘out.’ Pelagon finally removes the spear from Sarpedon’s thigh."
+    },
+    {
+      "lines": "695–696",
+      "lemma": "λίπε ψυχή · κέχυτ᾽ ἀχλύς",
+      "text": "λίπε is unaugmented second aorist of λείπω. Here the departure of ψυχή is a faint, because consciousness returns in the next line. κέχυτο is pluperfect middle/passive of χέω, ‘had spread / poured,’ with ἀχλύς, mist, as subject. Darkness over the eyes can mark either death or a death-like loss of awareness; context decides."
+    },
+    {
+      "lines": "697–698",
+      "lemma": "ἀμπνύνθη · ζώγρει · κεκαφηότα",
+      "text": "ἀμπνύνθη is an epic aorist passive-form of ἀναπνέω, ‘revived / breathed again.’ ζώγρει, from ζωγρέω, here means ‘restored to life.’ κεκαφηότα is accusative perfect participle of καπύω, describing gasping or failing breath, agreeing with θυμόν. The north wind’s breath refreshes the wounded man’s own life-breath."
+    },
+    {
+      "lines": "699–700",
+      "lemma": "ὑπ᾽ Ἄρηϊ καὶ Ἕκτορι · προτρέποντο",
+      "text": "The datives after ὑπό mark the pressure exerted by Ares and Hector. χαλκοκορυστής means armed in bronze. προτρέποντο is imperfect middle of προτρέπω, ‘turned forward / were driven onward,’ toward the ships. The οὔτε construction remains incomplete here and will distinguish controlled withdrawal from full flight on the next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

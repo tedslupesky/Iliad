@@ -1,0 +1,63 @@
+{
+  "id": "5.27",
+  "title": "Hera intervenes; the divine chariot",
+  "intro": "The Greeks retreat steadily under Ares’ pressure. Hera treats this as a threat to the promised outcome of the war and prepares to intervene with Athena. The chariot description suspends the slaughter for an elaborate picture of divine craftsmanship.",
+  "notes": [
+    {
+      "lines": "701–702",
+      "lemma": "ἀντεφέροντο · χάζοντο · ἐπύθοντο",
+      "text": "ἀντεφέροντο is imperfect middle of ἀντιφέρω, ‘set themselves against / resist.’ Together with the previous page’s οὔτε, the passage says they neither rush back to the ships in rout nor stand to oppose the attack; they keep yielding ground. ἐπύθοντο is second-aorist middle of πυνθάνομαι, ‘learned,’ that Ares was among the Trojans."
+    },
+    {
+      "lines": "703–707",
+      "lemma": "τίνα πρῶτον τίνα δ᾽ ὕστατον",
+      "text": "The narrator’s question introduces a kill catalogue and marks the scale of the joint assault. χάλκεος, ‘brazen,’ characterizes Ares through his weaponry. πλήξιππος means horse-driving; αἰολομίτρης describes a glittering or variegated belt. The named Orestes is a battlefield victim, not automatically Agamemnon’s famous son."
+    },
+    {
+      "lines": "708–710",
+      "lemma": "ναίεσκε · μεμηλώς · κεκλιμένος",
+      "text": "ναίεσκε is iterative imperfect of ναίω, ‘used to dwell.’ μεμηλώς is perfect participle of μέλω, with genitive πλούτοιο, ‘much concerned with wealth.’ κεκλιμένος is perfect middle/passive of κλίνω, describing his situation by the lake. πίονα δῆμον means fertile territory, not ‘a fat population.’"
+    },
+    {
+      "lines": "711–713",
+      "lemma": "τοὺς … Ἀργείους ὀλέκοντας",
+      "text": "τούς refers to Hector and Ares; Ἀργείους is the object of participle ὀλέκοντας, ‘destroying the Argives.’ Keeping those accusatives distinct prevents reading the Greeks as the destroyers. λευκώλενος, ‘white-armed,’ is Hera’s conventional epithet, contrasting with her impending martial action."
+    },
+    {
+      "lines": "714–717",
+      "lemma": "ἅλιον … ὑπέστημεν",
+      "text": "ὑπέστημεν is first-plural aorist of ὑφίστημι, ‘undertook / promised.’ ἅλιον means vain or unfulfilled, predicative to μῦθον, the promise. ἐκπέρσαντα is aorist participle agreeing with Menelaus as the understood subject of ἀπονέεσθαι, ‘return home after sacking Troy.’ Hera treats continued inaction as making their promise empty."
+    },
+    {
+      "lines": "718–721",
+      "lemma": "νῶϊ μεδώμεθα · πρέσβα",
+      "text": "νῶϊ is first-person dual, ‘we two,’ while μεδώμεθα is first-plural middle subjunctive of μέδομαι, ‘take thought for,’ with genitive θούριδος ἀλκῆς, ‘rushing valour.’ πρέσβα means venerable or elder, describing Hera. ἔντυεν is imperfect of ἐντύνω, ‘made ready,’ here harnessing the horses."
+    },
+    {
+      "lines": "722–723",
+      "lemma": "ὀκτάκνημα · ἄξονι",
+      "text": "Hebe fits wheels around the chariot. ὀκτάκνημος means eight-spoked, from κνήμη, literally a shin or spoke. ἄξων is the axle, here iron. ἀμφίς repeats the placing on either side. The materials and precision distinguish divine equipment from an ordinary battlefield vehicle."
+    },
+    {
+      "lines": "724–725",
+      "lemma": "ἴτυς · ἐπίσσωτρα · προσαρηρότα",
+      "text": "ἴτυς is the wheel rim, here gold and imperishable (ἄφθιτος). ἐπίσσωτρα are the outer tyres, here bronze. προσαρηρότα is perfect active participle of προσαραρίσκω, ‘fitted firmly onto,’ agreeing with the tyres. θαῦμα ἰδέσθαι is the familiar evaluative phrase ‘a wonder to behold,’ with aorist infinitive of seeing."
+    },
+    {
+      "lines": "726–728",
+      "lemma": "πλῆμναι · ἐντέταται · ἄντυγες",
+      "text": "πλῆμναι are wheel hubs, silver in material genitive ἀργύρου. ἐντέταται is perfect middle/passive of ἐντείνω, ‘is stretched / braced,’ describing the chariot body with gold and silver straps. ἄντυγες are rails or rims around that body, here a double arrangement. These parts should be distinguished from the wheel rims."
+    },
+    {
+      "lines": "729",
+      "lemma": "ῥυμός · πέλεν · ἐπ᾽ ἄκρῳ",
+      "text": "ῥυμός is the pole projecting from the chariot, here silver. πέλεν is epic past of πέλω, ‘was / extended.’ ἐπ᾽ ἄκρῳ, ‘at its end,’ leads into the attachment of the yoke on the next page. The construction description proceeds outward from wheels and body to pole and harness."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

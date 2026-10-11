@@ -1,0 +1,63 @@
+{
+  "id": "5.25",
+  "title": "The duel’s unequal outcome",
+  "intro": "Sarpedon answers the insult by blaming Laomedon’s breach of obligation, then the spears fly together. Both men are hit, but only Tlepolemus dies: Zeus protects his own son. The wounded Sarpedon’s removal is hurried and painfully imperfect.",
+  "notes": [
+    {
+      "lines": "645–646",
+      "lemma": "δμηθέντα · περήσειν",
+      "text": "δμηθέντα is aorist passive participle of δαμάζω, with the shortened stem δμη-, ‘subdued.’ περήσειν is future infinitive of περάω, ‘pass through,’ still dependent on Tlepolemus’ prediction. Ἀΐδαο is epic genitive of Hades; passing his gates is death. οὐδ᾽ εἰ gives the concessive ‘not even if you are very strong.’"
+    },
+    {
+      "lines": "648–651",
+      "lemma": "ἀφραδίῃσιν · εὖ ἕρξαντα · ἠνίπαπε",
+      "text": "ἀφραδίη is folly or thoughtlessness, here instrumental dative plural. ἕρξαντα is aorist participle of ἔρδω, ‘do,’ with εὖ: Heracles had done good service. ἠνίπαπε is a reduplicated aorist of ἐνίπτω, ‘rebuke, insult.’ Sarpedon attributes the earlier sack to Laomedon’s misconduct, not proof that Zeus’ present sons are inferior."
+    },
+    {
+      "lines": "651",
+      "lemma": "ἀπέδωχ᾽ ἵππους · ὧν εἵνεκα",
+      "text": "ἀπέδωχ᾽ is elided ἀπέδωκε with aspiration before ἵππους, aorist of ἀποδίδωμι, ‘give back / pay what is due.’ The horses are the promised recompense. ὧν is genitive plural after εἵνεκα, ‘for which.’ The dispute turns on reciprocity: good service was answered with insult and nonpayment."
+    },
+    {
+      "lines": "652–654",
+      "lemma": "σοὶ … τεύξεσθαι · ἐμέθεν",
+      "text": "τεύξεσθαι is future middle infinitive of τεύχω, here ‘be brought about,’ with φόνον καὶ κῆρα as the predicted death and doom. ἐμέθεν is epic genitive of ἐγώ after ἐκ, ‘from me.’ δαμέντα is aorist passive participle referring to Tlepolemus: subdued by the spear, he will give victory to Sarpedon and his life to Hades."
+    },
+    {
+      "lines": "654–656",
+      "lemma": "κλυτοπώλῳ · ἀνέσχετο · ἁμαρτῇ",
+      "text": "κλυτόπωλος means famed for horses, an epithet of Hades. ἀνέσχετο is aorist middle of ἀνέχω, ‘raised.’ μείλινος means made of ash wood, not ‘honeyed.’ ἁμαρτῇ is adverbial ‘at the same time,’ distinct from ἁμαρτάνω, ‘miss.’ The simultaneous cast creates the possibility of mutual death."
+    },
+    {
+      "lines": "657–659",
+      "lemma": "ἤϊξαν · ἀλεγεινή · ἐρεβεννή",
+      "text": "ἤϊξαν is aorist of ἀΐσσω, ‘darted.’ αὐχένα μέσσον is the middle of the neck, struck by Sarpedon. ἀλεγεινός means painful or grievous; ἐρεβεννός, dark as Erebus. The covering darkness confirms Tlepolemus’ fatal wound before the narrative returns to the other spear."
+    },
+    {
+      "lines": "660–662",
+      "lemma": "βεβλήκειν · διέσσυτο · ἐγχριμφθεῖσα",
+      "text": "βεβλήκειν is an epic third-singular pluperfect of βάλλω, despite its -ν: Tlepolemus had hit the thigh. διέσσυτο is aorist middle of διασεύω, ‘rushed through.’ μαιμώωσα personifies the point as eager. ἐγχριμφθεῖσα is aorist passive participle of ἐγχρίμπτω, ‘grazing / coming close against,’ with genitive ὀστέω, bone."
+    },
+    {
+      "lines": "662–664",
+      "lemma": "πατὴρ … ἄμυνεν · βάρυνε",
+      "text": "The father who still wards off destruction is Zeus, Sarpedon’s father. ἄμυνεν is past of ἀμύνω, ‘kept away,’ with λοιγόν as object. βάρυνε is imperfect of βαρύνω, ‘weighed upon’; the long spear remains lodged and drags as the companions carry Sarpedon off."
+    },
+    {
+      "lines": "665–667",
+      "lemma": "ἐπεφράσατο · ἐξερύσαι · ἐπιβαίη",
+      "text": "ἐπεφράσατο is aorist middle of ἐπιφράζομαι, ‘noticed / considered.’ ἐξερύσαι is aorist active infinitive of ἐξερύω, ‘pull out,’ with genitive μηροῦ, ‘from the thigh.’ ἐπιβαίη is root-aorist optative of ἐπιβαίνω after ὄφρα, so he could step or mount. Their haste leaves this practical aid undone."
+    },
+    {
+      "lines": "667–671",
+      "lemma": "σπευδόντων · τλήμονα θυμόν · μερμήριξε",
+      "text": "σπευδόντων is a genitive participle describing the hurrying rescuers. ἀμφιέποντες means tending or busily attending him. τλήμων, ‘enduring,’ describes Odysseus’ spirit; μαίμησε means his heart surged eagerly. μερμήριξε is aorist of μερμηρίζω, ‘ponder alternatives.’ The choice he considers is completed on the next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

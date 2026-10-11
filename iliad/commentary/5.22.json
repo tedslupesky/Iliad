@@ -1,0 +1,63 @@
+{
+  "id": "5.22",
+  "title": "Antilochus protects Menelaus",
+  "intro": "Ares encourages Menelaus for a hostile purpose, but Antilochus’ timely support prevents the intended duel. The pair recovers the brothers’ bodies and then kills a chariot team’s warrior and driver. Pronoun tracking matters as one pair of men replaces another.",
+  "notes": [
+    {
+      "lines": "562–564",
+      "lemma": "κεκορυθμένος · ἵνα … δαμείη",
+      "text": "κεκορυθμένος is perfect middle/passive participle of κορύσσω, ‘equip, arm’; αἴθοπι χαλκῷ means gleaming bronze. δαμείη is aorist passive optative of δαμάζω in a purpose clause after past ὄτρυνεν. Ares rouses Menelaus precisely so that Aeneas may kill him: encouragement is not necessarily benevolence."
+    },
+    {
+      "lines": "565–567",
+      "lemma": "περὶ δίε · πάθοι · ἀποσφήλειε",
+      "text": "δίε is past of δίω, ‘fear’; περί intensifies concern for the leader. πάθοι is second-aorist optative of πάσχω, ‘suffer something,’ under μή. ἀποσφήλειε is aorist optative of ἀποσφάλλω, ‘frustrate / deprive,’ with σφας, ‘them,’ and genitive πόνοιο, their labour. Menelaus’ loss would undermine the expedition’s purpose."
+    },
+    {
+      "lines": "568–571",
+      "lemma": "τὼ … ἐχέτην · παρίστατο",
+      "text": "The first dual pair is Menelaus and Aeneas, confronting one another with hands and spears. ἐχέτην is third-dual imperfect of ἔχω; μεμαῶτε is dual perfect participle of μέμονα, ‘eager.’ Antilochus then stands very close to Menelaus, changing the tactical situation from one against one to two against one."
+    },
+    {
+      "lines": "571–572",
+      "lemma": "θοός περ ἐών · δύο φῶτε",
+      "text": "περ with the participle is concessive, ‘although he was a swift warrior.’ φῶτε is accusative dual of φώς, ‘man’; μένοντε is its dual participle. Aeneas does not remain when he sees the two men standing together. The narrator presents a tactical withdrawal, not a denial of his courage."
+    },
+    {
+      "lines": "573–575",
+      "lemma": "ἔρυσαν · τὼ δειλώ · μαχέσθην",
+      "text": "ἔρυσαν is aorist of ἐρύω, ‘dragged.’ τὼ δειλώ are the two unfortunate dead brothers, accusative dual, not Menelaus and Antilochus. βαλέτην is third-dual aorist of βάλλω, ‘placed’ in companions’ hands. αὐτώ switches back to the rescuers; μαχέσθην is a dual past middle form of μάχομαι, ‘fought.’"
+    },
+    {
+      "lines": "576–579",
+      "lemma": "ἑλέτην · ἀτάλαντον · ἑσταότα",
+      "text": "ἑλέτην is third-dual aorist of αἱρέω, ‘slew’; the narrative credits the team before detailing each man’s act. ἀτάλαντος means ‘equal in weight / comparable,’ with dative Ἄρηϊ. ἑσταότα is epic accusative perfect participle of ἵστημι, ‘standing.’ κληΐς is the collarbone, where Menelaus’ spear strikes."
+    },
+    {
+      "lines": "580–582",
+      "lemma": "ἡνίοχον θεράποντα · ἀγκῶνα",
+      "text": "ἡνίοχος is the charioteer; θεράπων marks his attendant role. Ἀτυμνιάδης is the patronymic, ‘son of Atymnius.’ ὑπέστρεφε is imperfect of ὑποστρέφω, ‘was turning back’ the horses. ἀγκών is elbow; μέσον locates the stone’s hit squarely in the joint."
+    },
+    {
+      "lines": "583",
+      "lemma": "ἡνία λεύκ᾽ ἐλέφαντι",
+      "text": "The reins are ‘white with ivory,’ ἐλέφαντι a dative specifying their decoration or material. ἐλέφας can mean ivory, not only an elephant. χαμαί gives the downward destination and ἐν κονίῃσιν the dust in which they fall. Loss of the reins leaves the chariot exposed to Antilochus’ next attack."
+    },
+    {
+      "lines": "584–586",
+      "lemma": "κόρσην · ἀσθμαίνων · κύμβαχος",
+      "text": "κόρση is the temple or side of the head. ἤλασε is aorist of ἐλαύνω, ‘struck,’ with instrumental ξίφει. ἀσθμαίνων means gasping. κύμβαχος describes a headlong fall; βρεχμός is the top or front of the head, paired with shoulders in the grotesquely inverted landing."
+    },
+    {
+      "lines": "587–589",
+      "lemma": "ἑστήκει · ἀμάθοιο · πλήξαντε",
+      "text": "ἑστήκει is pluperfect of ἵστημι, ‘remained standing,’ of the body embedded headfirst. τύχε with genitive ἀμάθοιο means he encountered deep sand. πλήξαντε is dual aorist participle of πλήσσω, the horses striking him down. ἵμασε, from ἱμάσσω, ‘lashed,’ and ἤλασε, ‘drove,’ complete Antilochus’ capture of the team."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

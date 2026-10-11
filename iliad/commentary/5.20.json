@@ -1,0 +1,63 @@
+{
+  "id": "5.20",
+  "title": "Aeneas restored; the Greek line holds",
+  "intro": "Divine action restores Aeneas and sustains the Trojans. The Greeks remain motionless like clouds in calm weather. Agamemnon’s exhortation presents mutual shame or respect as a practical means of survival, not simply a demand for glory.",
+  "notes": [
+    {
+      "lines": "506–508",
+      "lemma": "ἰθύς · Τρώεσσιν ἀρήγων · ἐκράαινεν",
+      "text": "ἰθύς is adverbial, ‘straight forward,’ with the force of their hands brought to bear. ἀρήγων is present participle of ἀρήγω, ‘help,’ taking dative Τρώεσσιν. ἐκράαινεν is an epic imperfect of κραίνω, ‘accomplish’; ἐφετμαί are commands. Ares carries out Apollo’s instructions while spreading darkness over the battle."
+    },
+    {
+      "lines": "509–511",
+      "lemma": "χρυσαόρου · ἀνώγει · ἀρηγών",
+      "text": "χρυσάορος means ‘of the golden sword.’ ἀνώγει is an epic past command-form of ἄνωγα, ‘order,’ governing aorist infinitive ἐγεῖραι, ‘rouse.’ οἰχομένην means Athena has departed. ἀρηγών in line 511 functions as ‘helper,’ applied to Athena; her absence creates Apollo’s opportunity."
+    },
+    {
+      "lines": "512–514",
+      "lemma": "πίονος ἀδύτοιο · ἧκε · μεθίστατο",
+      "text": "πίων literally means ‘fat,’ here rich or well-endowed, describing the sanctuary. ἧκε is aorist of ἵημι, ‘sent forth.’ μένος βάλε means he put strength in Aeneas’ breast. μεθίστατο is imperfect middle of μεθίστημι, ‘took his place among,’ with dative ἑτάροισι."
+    },
+    {
+      "lines": "514–518",
+      "lemma": "ἀρτεμέα · μετάλλησαν · πόνος",
+      "text": "ἀρτεμέα is accusative singular of ἀρτεμής, ‘sound, unhurt,’ agreeing with Aeneas alongside ζωόν. μεταλλάω means ‘question, inquire.’ They do not stop to ask because πόνος, the urgent work or ordeal of battle, prevents it. ἔα is imperfect of ἐάω, ‘allowed.’ The restoration is accepted amid the pressure of combat."
+    },
+    {
+      "lines": "518",
+      "lemma": "Ἔρις ἄμοτον μεμαυῖα",
+      "text": "Ἔρις is Strife personified. μεμαυῖα is feminine nominative perfect active participle of μέμονα, the counterpart of masculine μεμαώς. ἄμοτον is adverbial, ‘insatiably, unceasingly.’ Apollo, Ares, and Strife together sustain the battle’s intensity."
+    },
+    {
+      "lines": "519–521",
+      "lemma": "Αἴαντε δύω · πολεμιζέμεν · ἰωκάς",
+      "text": "Αἴαντε is nominative dual, the two Ajaxes, Telamon’s son and Oileus’ son. πολεμιζέμεν is epic present infinitive of πολεμίζω, ‘fight,’ after ὄτρυνον, ‘urged.’ ὑπεδείδισαν means ‘feared / shrank before.’ ἰωκαί are pursuits or onrushes. The troops themselves are already resolute before the leaders urge them."
+    },
+    {
+      "lines": "522–524",
+      "lemma": "νεφέλῃσιν ἐοικότες · νηνεμίης",
+      "text": "ἐοικότες is perfect active participle of ἔοικα, ‘resembling,’ with dative νεφέλῃσιν. νηνεμίης is a genitive of circumstance or time, ‘in a calm.’ ἔστησεν is transitive aorist of ἵστημι: Zeus has set the clouds on high mountain tops. ἀτρέμας means motionless."
+    },
+    {
+      "lines": "524–527",
+      "lemma": "εὕδῃσι · ζαχρειῶν · διασκιδνᾶσιν",
+      "text": "εὕδῃσι is epic third-singular present subjunctive of εὕδω, ‘sleep,’ after ὄφρα, ‘while / so long as.’ The winds’ force sleeps. ζαχρεῖος is ‘violent’; διασκιδνᾶσιν, from διασκίδνημι, means ‘scatter apart.’ ἀέντες is present participle of ἄημι, ‘blow.’ The still clouds define the Greeks’ steadiness by contrast with potential disturbance."
+    },
+    {
+      "lines": "528–530",
+      "lemma": "ἀνέρες ἔστε · ἦτορ ἕλεσθε · αἰδεῖσθε",
+      "text": "ἔστε is second-plural imperative of εἰμί, ‘be men.’ ἕλεσθε is aorist middle imperative of αἱρέω, ‘take on’ a stout heart. αἰδεῖσθε is present middle imperative of αἰδέομαι, ‘feel shame before / respect.’ ἀλλήλους makes this a mutual relation among comrades, the social restraint against abandoning the line."
+    },
+    {
+      "lines": "531–532",
+      "lemma": "σόοι ἠὲ πέφανται",
+      "text": "σόοι means safe, alive. πέφανται is perfect middle/passive from the root of φένω / πέφνω, ‘slay’: ‘have been killed,’ not from φαίνω. ἠέ introduces the comparison, ‘more survive than are killed.’ The genitive phrases αἰδομένων ἀνδρῶν and φευγόντων contrast men who respect one another with men who flee; flight yields neither renown nor effective defence."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

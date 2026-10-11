@@ -1,0 +1,63 @@
+{
+  "id": "5.16",
+  "title": "Divine healing and a mortal warning",
+  "intro": "Dione finishes her examples and imagines the domestic cost of Diomedes’ boldness. Her consolation is immediately undercut by Athena and Hera’s mockery. The contrast between easily healed gods and potentially bereaved mortals is central to the passage.",
+  "notes": [
+    {
+      "lines": "397–400",
+      "lemma": "νεκύεσσι · κῆρ ἀχέων · πεπαρμένος",
+      "text": "νεκύεσσι is epic dative plural of νέκυς, ‘dead person.’ κῆρ is accusative of respect, ‘in his heart,’ with ἀχέων, ‘grieving.’ πεπαρμένος is perfect middle/passive participle of πείρω, ‘pierce’: Hades is pierced by pain. The precise mythical setting of Pylos is compressed here; the text’s emphasis is his suffering and ascent to Zeus."
+    },
+    {
+      "lines": "400–402",
+      "lemma": "ἠλήλατο · ὀδυνήφατα · ἠκέσατο",
+      "text": "ἠλήλατο is pluperfect middle/passive of ἐλαύνω, ‘had been driven in,’ of the arrow in his shoulder. ὀδυνήφατα means ‘pain-killing,’ qualifying φάρμακα. πάσσων is present participle of πάσσω, ‘sprinkle / apply.’ ἠκέσατο is aorist middle of ἀκέομαι, ‘healed.’ Paeëon is the divine healer named here."
+    },
+    {
+      "lines": "402–404",
+      "lemma": "καταθνητός · ὀβριμοεργός · ὄθετο",
+      "text": "καταθνητός means subject to death; τέτυκτο, pluperfect of τεύχω, has the stative sense ‘was.’ ὀβριμοεργός is ‘mighty in deeds,’ here reproachful of Heracles. ὄθετο, from ὄθομαι, means ‘heeded, cared’; he took no account while doing αἴσυλα, ‘outrageous things.’ ἔκηδε is past of κήδω, ‘distressed.’"
+    },
+    {
+      "lines": "405–407",
+      "lemma": "ἀνῆκε · νήπιος · δηναιός",
+      "text": "ἀνῆκε is aorist of ἀνίημι, ‘set on / let loose,’ with Diomedes as object and Athena as subject. Dione recognizes the divine agent behind the attack. νήπιος calls the hero foolish or unthinking. δηναιός means ‘long-lived’: one who fights immortals does not last long. μάχηται is a subjunctive in a generalizing relative clause."
+    },
+    {
+      "lines": "408–409",
+      "lemma": "ποτὶ γούνασι παππάζουσιν",
+      "text": "ποτί is epic πρός, ‘at / toward,’ with dative γούνασι. παππάζω means to call someone ‘papa,’ an unusually intimate verb in martial epic. The accusative μιν is the father whom children greet after battle. The imagined failure to return brings divine combat back to a household’s loss."
+    },
+    {
+      "lines": "410–411",
+      "lemma": "φραζέσθω μή … μάχηται",
+      "text": "φραζέσθω is third-singular present middle imperative of φράζω, ‘let him consider / beware.’ μή introduces the danger he should consider. ἀμείνων σεῖο means ‘stronger than you,’ with epic genitive σεῖο after the comparative; Dione tells Aphrodite he might encounter a more formidable deity."
+    },
+    {
+      "lines": "412–415",
+      "lemma": "Αἰγιάλεια … Ἀδρηστίνη · κουρίδιον πόσιν",
+      "text": "Aegialeia is Diomedes’ wife; Ἀδρηστίνη marks her connection with Adrastus. οἰκῆες are members or servants of the household. ἐγείρῃ is subjunctive under μή: she may wake them from sleep with lamentation. κουρίδιος denotes the wedded husband, and πόσιν is accusative of πόσις. The scene is an imagined consequence, not a narrated death of Diomedes."
+    },
+    {
+      "lines": "416–417",
+      "lemma": "ἰχῶ · ὀμόργνυ · ἄλθετο",
+      "text": "ἰχῶ is the contracted accusative of ἰχώρ, ‘ichor.’ ἀμφοτέρῃσιν means ‘with both [hands].’ ὀμόργνυ is unaugmented imperfect of ὀμόργνυμι, ‘wipe.’ ἄλθετο, from ἄλθομαι, means ‘healed’; κατηπιόωντο, from κατηπιάω, depicts the pains becoming gentle or subsiding. Divine healing is swift and complete."
+    },
+    {
+      "lines": "418–420",
+      "lemma": "κερτομίοις ἐπέεσσι · μύθων ἦρχε",
+      "text": "κερτόμιος means mocking or taunting; ἐπέεσσι is dative plural of ἔπος. ἐρέθιζον is imperfect of ἐρεθίζω, ‘provoked / teased,’ with Zeus as object. ἦρχε takes genitive μύθων, ‘began the speech.’ Athena takes the lead in teasing the father of the goddess she has helped wound."
+    },
+    {
+      "lines": "421–423",
+      "lemma": "κεχολώσεαι · ἀνιεῖσα · σπέσθαι",
+      "text": "κεχολώσεαι is an epic reduplicated future middle of χολόω, ‘will you be angry?’ ὅττι κεν εἴπω means ‘at whatever I may say.’ ἀνιεῖσα is present active participle of ἀνίημι, here urging or encouraging an Achaean woman. σπέσθαι is aorist middle infinitive of ἕπομαι, ‘follow,’ with dative Τρωσίν. Athena invents a teasing explanation for the wound, continued on the next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

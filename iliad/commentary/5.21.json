@@ -1,0 +1,67 @@
+{
+  "id": "5.21",
+  "title": "Aeneas’ answering victory and the twin lions",
+  "intro": "Agamemnon kills a valued Trojan, and the restored Aeneas answers by killing two brothers. Their river ancestry and lion simile expand the death notice into a family history. Here the lion comparison belongs to the victims, not the victorious attacker.",
+  "notes": [
+    {
+      "lines": "533–536",
+      "lemma": "πρόμον · Αἰνείω · ἔσκε",
+      "text": "πρόμος is a front-rank fighter or champion. Αἰνείω is an epic genitive of Aeneas, depending on ἕταρον. Περγασίδην identifies Deicoon as Pergasus’ son. ἔσκε is iterative imperfect of εἰμί, ‘used to be’; θοός with μάχεσθαι means eager or swift to fight among the foremost."
+    },
+    {
+      "lines": "535–538",
+      "lemma": "ὁμῶς … τέκεσσι · ἔρυτο · εἴσατο",
+      "text": "τέκεσσι is epic dative plural of τέκος, ‘children.’ The Trojans honoured him equally with Priam’s sons. ἔρυτο is ‘warded off,’ from the protective ἔρυμαι family, negated: the shield fails. εἴσατο is an epic aorist middle meaning ‘rushed / went,’ listed under εἴσομαι (the rushing sense) in LSJ; the bronze passes right through. It is not the ‘seemed’ sense of εἴδομαι here."
+    },
+    {
+      "lines": "539–540",
+      "lemma": "νειαίρῃ γαστρί · ζωστῆρος",
+      "text": "νειαίρῃ means lower or lowest, agreeing with dative γαστρί, ‘belly.’ ζωστήρ is the belt or girdle through which the spear passes. ἔλασσε is aorist of ἐλαύνω, ‘drove.’ The familiar thud and armour-clatter formula closes the kill before the opposing hero’s success begins."
+    },
+    {
+      "lines": "541–544",
+      "lemma": "υἷε Διοκλῆος · ἀφνειὸς βιότοιο",
+      "text": "υἷε is accusative dual, introducing Crethon and Orsilochus. Διοκλῆος is epic genitive of Diocles. ἀφνειός means wealthy, with genitive βιότοιο, ‘means of life / property.’ ἔναιεν is imperfect of ναίω, ‘lived.’ The text pauses to locate their father’s prosperous home at Pherae."
+    },
+    {
+      "lines": "544–549",
+      "lemma": "γένος … ἐκ ποταμοῖο · γενέσθην",
+      "text": "γένος is accusative of respect, ‘by descent,’ as the genealogy traces them to the river Alpheus. The elder Orsilochus is their grandfather; one brother bears his name. γενέσθην is third-dual aorist middle of γίγνομαι, ‘were born.’ διδυμάονε παῖδε, ‘twin children,’ and εἰδότε, ‘knowing,’ are dual forms."
+    },
+    {
+      "lines": "550–553",
+      "lemma": "ἡβήσαντε · ἑπέσθην · ἀρνυμένω",
+      "text": "ἡβήσαντε is dual aorist participle of ἡβάω, ‘reach young manhood.’ ἑπέσθην is third-dual aorist middle of ἕπομαι, ‘followed.’ ἀρνυμένω is dual present middle participle of ἄρνυμαι, ‘win, gain,’ here honour for the sons of Atreus. The sentence contrasts their purpose in coming with the death that overtakes them."
+    },
+    {
+      "lines": "551–553",
+      "lemma": "εὔπωλον · Ἀτρεΐδῃς · τέλος θανάτοιο",
+      "text": "εὔπωλος means ‘rich in good horses,’ an epithet of Troy. Ἀτρεΐδῃς is dative plural of the patronymic, clarified by Agamemnon and Menelaus. τέλος θανάτοιο is the fulfilment or consummation of death, personified as covering the pair. αὖθι means ‘there on the spot.’"
+    },
+    {
+      "lines": "554–555",
+      "lemma": "οἵω … λέοντε · ἐτραφέτην",
+      "text": "οἵω and λέοντε are nominative dual, introducing the comparison of the brothers to two lions. ἐτραφέτην is third-dual second-aorist passive of τρέφω, ‘were reared.’ τάρφεσιν is dative plural of τάρφος, ‘thicket,’ and βαθείης ὕλης the dense woodland. The mother’s care echoes the preceding family history."
+    },
+    {
+      "lines": "556–558",
+      "lemma": "ἴφια μῆλα · κεραΐζετον · κατέκταθεν",
+      "text": "ἴφιος means strong or sturdy; μῆλα are sheep or smaller livestock. κεραΐζετον is a dual present, ‘ravage,’ while κατέκταθεν is epic third-plural aorist passive of κατακτείνω, ‘were killed.’ The lions’ predation eventually meets human resistance. This is not a simple image of invincible heroic strength."
+    },
+    {
+      "lines": "559–561",
+      "lemma": "δαμέντε · καππεσέτην · ἐλάτῃσιν",
+      "text": "δαμέντε is dual aorist passive participle of δαμάζω, ‘subdued.’ καππεσέτην is an assimilated third-dual aorist of καταπίπτω, ‘fell down.’ ἐλάτῃσιν is dative plural of ἐλάτη, ‘fir tree,’ after ἐοικότες. The comparison shifts from living lions to tall fallen trees, and Menelaus’ pity immediately answers their collapse."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    },
+    {
+      "title": "LSJ · εἴσομαι, rushing sense (5.538)",
+      "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n31460/"
+    }
+  ]
+}
