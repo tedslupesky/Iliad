@@ -1,0 +1,361 @@
+{
+  "work": "iliad",
+  "book": 5,
+  "title": "The deeds of Diomedes",
+  "translator": "A. T. Murray",
+  "source": {
+    "title": "The Iliad, Volume I, Loeb Classical Library",
+    "url": "https://archive.org/details/in.ernet.dli.2015.12689",
+    "printedPages": [
+      194,
+      261
+    ],
+    "pdfPages": [
+      210,
+      277
+    ],
+    "scanSha256": "6f41d92f5019d6ad25e46e31b7171937894a40248dce1cf0ac0a2d288a0254f9"
+  },
+  "pages": [
+    {
+      "id": "5.1",
+      "greek": "greek/5.1.txt",
+      "english": "english/5.1.txt",
+      "lineStart": 1,
+      "lineEnd": 20,
+      "greekPrintedPage": 194,
+      "englishPrintedPage": 195,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/194/mode/2up"
+    },
+    {
+      "id": "5.2",
+      "greek": "greek/5.2.txt",
+      "english": "english/5.2.txt",
+      "lineStart": 21,
+      "lineEnd": 48,
+      "greekPrintedPage": 196,
+      "englishPrintedPage": 197,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/196/mode/2up"
+    },
+    {
+      "id": "5.3",
+      "greek": "greek/5.3.txt",
+      "english": "english/5.3.txt",
+      "lineStart": 49,
+      "lineEnd": 75,
+      "greekPrintedPage": 198,
+      "englishPrintedPage": 199,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/198/mode/2up"
+    },
+    {
+      "id": "5.4",
+      "greek": "greek/5.4.txt",
+      "english": "english/5.4.txt",
+      "lineStart": 76,
+      "lineEnd": 103,
+      "greekPrintedPage": 200,
+      "englishPrintedPage": 201,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/200/mode/2up"
+    },
+    {
+      "id": "5.5",
+      "greek": "greek/5.5.txt",
+      "english": "english/5.5.txt",
+      "lineStart": 104,
+      "lineEnd": 126,
+      "greekPrintedPage": 202,
+      "englishPrintedPage": 203,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/202/mode/2up"
+    },
+    {
+      "id": "5.6",
+      "greek": "greek/5.6.txt",
+      "english": "english/5.6.txt",
+      "lineStart": 127,
+      "lineEnd": 150,
+      "greekPrintedPage": 204,
+      "englishPrintedPage": 205,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/204/mode/2up"
+    },
+    {
+      "id": "5.7",
+      "greek": "greek/5.7.txt",
+      "english": "english/5.7.txt",
+      "lineStart": 151,
+      "lineEnd": 176,
+      "greekPrintedPage": 206,
+      "englishPrintedPage": 207,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/206/mode/2up"
+    },
+    {
+      "id": "5.8",
+      "greek": "greek/5.8.txt",
+      "english": "english/5.8.txt",
+      "lineStart": 177,
+      "lineEnd": 204,
+      "greekPrintedPage": 208,
+      "englishPrintedPage": 209,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/208/mode/2up"
+    },
+    {
+      "id": "5.9",
+      "greek": "greek/5.9.txt",
+      "english": "english/5.9.txt",
+      "lineStart": 205,
+      "lineEnd": 233,
+      "greekPrintedPage": 210,
+      "englishPrintedPage": 211,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/210/mode/2up"
+    },
+    {
+      "id": "5.10",
+      "greek": "greek/5.10.txt",
+      "english": "english/5.10.txt",
+      "lineStart": 234,
+      "lineEnd": 262,
+      "greekPrintedPage": 212,
+      "englishPrintedPage": 213,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/212/mode/2up"
+    },
+    {
+      "id": "5.11",
+      "greek": "greek/5.11.txt",
+      "english": "english/5.11.txt",
+      "lineStart": 263,
+      "lineEnd": 287,
+      "greekPrintedPage": 214,
+      "englishPrintedPage": 215,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/214/mode/2up"
+    },
+    {
+      "id": "5.12",
+      "greek": "greek/5.12.txt",
+      "english": "english/5.12.txt",
+      "lineStart": 288,
+      "lineEnd": 313,
+      "greekPrintedPage": 216,
+      "englishPrintedPage": 217,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/216/mode/2up"
+    },
+    {
+      "id": "5.13",
+      "greek": "greek/5.13.txt",
+      "english": "english/5.13.txt",
+      "lineStart": 314,
+      "lineEnd": 341,
+      "greekPrintedPage": 218,
+      "englishPrintedPage": 219,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/218/mode/2up"
+    },
+    {
+      "id": "5.14",
+      "greek": "greek/5.14.txt",
+      "english": "english/5.14.txt",
+      "lineStart": 342,
+      "lineEnd": 368,
+      "greekPrintedPage": 220,
+      "englishPrintedPage": 221,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/220/mode/2up"
+    },
+    {
+      "id": "5.15",
+      "greek": "greek/5.15.txt",
+      "english": "english/5.15.txt",
+      "lineStart": 369,
+      "lineEnd": 396,
+      "greekPrintedPage": 222,
+      "englishPrintedPage": 223,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/222/mode/2up"
+    },
+    {
+      "id": "5.16",
+      "greek": "greek/5.16.txt",
+      "english": "english/5.16.txt",
+      "lineStart": 397,
+      "lineEnd": 423,
+      "greekPrintedPage": 224,
+      "englishPrintedPage": 225,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/224/mode/2up"
+    },
+    {
+      "id": "5.17",
+      "greek": "greek/5.17.txt",
+      "english": "english/5.17.txt",
+      "lineStart": 424,
+      "lineEnd": 451,
+      "greekPrintedPage": 226,
+      "englishPrintedPage": 227,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/226/mode/2up"
+    },
+    {
+      "id": "5.18",
+      "greek": "greek/5.18.txt",
+      "english": "english/5.18.txt",
+      "lineStart": 452,
+      "lineEnd": 476,
+      "greekPrintedPage": 228,
+      "englishPrintedPage": 229,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/228/mode/2up"
+    },
+    {
+      "id": "5.19",
+      "greek": "greek/5.19.txt",
+      "english": "english/5.19.txt",
+      "lineStart": 477,
+      "lineEnd": 505,
+      "greekPrintedPage": 230,
+      "englishPrintedPage": 231,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/230/mode/2up"
+    },
+    {
+      "id": "5.20",
+      "greek": "greek/5.20.txt",
+      "english": "english/5.20.txt",
+      "lineStart": 506,
+      "lineEnd": 532,
+      "greekPrintedPage": 232,
+      "englishPrintedPage": 233,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/232/mode/2up"
+    },
+    {
+      "id": "5.21",
+      "greek": "greek/5.21.txt",
+      "english": "english/5.21.txt",
+      "lineStart": 533,
+      "lineEnd": 561,
+      "greekPrintedPage": 234,
+      "englishPrintedPage": 235,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/234/mode/2up"
+    },
+    {
+      "id": "5.22",
+      "greek": "greek/5.22.txt",
+      "english": "english/5.22.txt",
+      "lineStart": 562,
+      "lineEnd": 589,
+      "greekPrintedPage": 236,
+      "englishPrintedPage": 237,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/236/mode/2up"
+    },
+    {
+      "id": "5.23",
+      "greek": "greek/5.23.txt",
+      "english": "english/5.23.txt",
+      "lineStart": 590,
+      "lineEnd": 615,
+      "greekPrintedPage": 238,
+      "englishPrintedPage": 239,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/238/mode/2up"
+    },
+    {
+      "id": "5.24",
+      "greek": "greek/5.24.txt",
+      "english": "english/5.24.txt",
+      "lineStart": 616,
+      "lineEnd": 644,
+      "greekPrintedPage": 240,
+      "englishPrintedPage": 241,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/240/mode/2up"
+    },
+    {
+      "id": "5.25",
+      "greek": "greek/5.25.txt",
+      "english": "english/5.25.txt",
+      "lineStart": 645,
+      "lineEnd": 671,
+      "greekPrintedPage": 242,
+      "englishPrintedPage": 243,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/242/mode/2up"
+    },
+    {
+      "id": "5.26",
+      "greek": "greek/5.26.txt",
+      "english": "english/5.26.txt",
+      "lineStart": 672,
+      "lineEnd": 700,
+      "greekPrintedPage": 244,
+      "englishPrintedPage": 245,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/244/mode/2up"
+    },
+    {
+      "id": "5.27",
+      "greek": "greek/5.27.txt",
+      "english": "english/5.27.txt",
+      "lineStart": 701,
+      "lineEnd": 729,
+      "greekPrintedPage": 246,
+      "englishPrintedPage": 247,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/246/mode/2up"
+    },
+    {
+      "id": "5.28",
+      "greek": "greek/5.28.txt",
+      "english": "english/5.28.txt",
+      "lineStart": 730,
+      "lineEnd": 756,
+      "greekPrintedPage": 248,
+      "englishPrintedPage": 249,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/248/mode/2up"
+    },
+    {
+      "id": "5.29",
+      "greek": "greek/5.29.txt",
+      "english": "english/5.29.txt",
+      "lineStart": 757,
+      "lineEnd": 784,
+      "greekPrintedPage": 250,
+      "englishPrintedPage": 251,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/250/mode/2up"
+    },
+    {
+      "id": "5.30",
+      "greek": "greek/5.30.txt",
+      "english": "english/5.30.txt",
+      "lineStart": 785,
+      "lineEnd": 811,
+      "greekPrintedPage": 252,
+      "englishPrintedPage": 253,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/252/mode/2up"
+    },
+    {
+      "id": "5.31",
+      "greek": "greek/5.31.txt",
+      "english": "english/5.31.txt",
+      "lineStart": 812,
+      "lineEnd": 838,
+      "greekPrintedPage": 254,
+      "englishPrintedPage": 255,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/254/mode/2up"
+    },
+    {
+      "id": "5.32",
+      "greek": "greek/5.32.txt",
+      "english": "english/5.32.txt",
+      "lineStart": 839,
+      "lineEnd": 866,
+      "greekPrintedPage": 256,
+      "englishPrintedPage": 257,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/256/mode/2up"
+    },
+    {
+      "id": "5.33",
+      "greek": "greek/5.33.txt",
+      "english": "english/5.33.txt",
+      "lineStart": 867,
+      "lineEnd": 894,
+      "greekPrintedPage": 258,
+      "englishPrintedPage": 259,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/258/mode/2up"
+    },
+    {
+      "id": "5.34",
+      "greek": "greek/5.34.txt",
+      "english": "english/5.34.txt",
+      "lineStart": 895,
+      "lineEnd": 909,
+      "greekPrintedPage": 260,
+      "englishPrintedPage": 261,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/260/mode/2up"
+    }
+  ]
+}

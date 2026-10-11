@@ -1,0 +1,15 @@
+# Iliad reading text
+
+Each facing pair has the same base filename in `greek/` and `english/`: `5.1.txt` means Book 5, reading page 1. Files use UTF-8. Greek has one verse per line; English has paragraphs separated by blank lines. Pagination follows the printed edition, so English sentences can continue into the next file. English page 5.29 ends with `white-`, continued by `armed` on 5.30.
+
+`book-5.json` supplies numeric reading order, Greek verse ranges, printed page numbers, and source links. There are 34 pairs covering Greek verses 1–909, printed pages 194–261 (PDF pages 210–277, counted from 1).
+
+## Sources and method
+
+The page boundaries and translation follow [The Iliad, Volume I, Loeb Classical Library, translated by A. T. Murray, Internet Archive scan](https://archive.org/details/in.ernet.dli.2015.12689/page/194/mode/2up). This is the user-selected online edition, rather than the original local `loeb.pdf`.
+
+Fresh OCR of the scanned pages was aligned and cleaned using the Perseus Digital Library's [Greek Monro/Allen text](https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0012/tlg001/tlg0012.tlg001.perseus-grc2.xml) and [Murray English translation](https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0012/tlg001/tlg0012.tlg001.perseus-eng3.xml). Disputed readings were checked against scan crops. `transcription-variants.json` records Greek lexical variants restored from the scan relative to that reference text.
+
+This is a normalized reading transcription, not a diplomatic transcription or a fully proofread scholarly edition. Greek punctuation, capitalization, and diacritics generally follow the reference text. Printed line wrapping is removed; footnotes, critical apparatus, running headers, and note callouts are omitted. English OCR/reference errors were corrected and paragraph breaks retained where identified. Further proofreading may still find differences. Each reader page links to the original spread for comparison.
+
+To correct a reading, edit its text file directly; preserve one verse per Greek line so that verse numbering stays accurate. If pagination changes, also update the manifest.
