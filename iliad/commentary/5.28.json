@@ -1,63 +1,177 @@
 {
   "id": "5.28",
   "title": "Athena arms herself; the gates of heaven",
-  "intro": "Athena exchanges her own woven robe for Zeus’ martial equipment. The aegis carries terrifying powers and images, making this an arming scene on a divine scale. Hera then drives the pair to obtain Zeus’ authorization.",
+  "intro": "Athena arms herself. Hera drives through heaven's gates to ask Zeus for leave to intervene.",
   "notes": [
     {
-      "lines": "730–732",
-      "lemma": "λέπαδνα · μεμαυῖα ἔριδος",
-      "text": "λέπαδνα are straps or pads of the harness associated with the yoke, not the reins held by the driver. δῆσε is aorist of δέω, ‘fastened.’ μεμαυῖα is feminine perfect participle of μέμονα, ‘eager,’ taking genitives ἔριδος and ἀϋτῆς, strife and battle-cry. The preparations have an explicitly combative purpose."
+      "lines": "730",
+      "lemma": "δῆσε · ζυγόν · λέπαδνα",
+      "text": "δέω, bind / fasten: unaugmented 3sg aor. ζυγόν, yoke; λέπαδνον, breast-strap / harness strap: acc pl."
     },
     {
-      "lines": "733–735",
-      "lemma": "κατέχευεν · ἑανόν · οὔδει",
-      "text": "κατέχευεν is epic aorist of καταχέω, ‘poured / let fall.’ ἑανός here describes the soft or fine robe; ποικίλον adds its elaborate patterning. οὖδας is the ground or floor, dative οὔδει. Athena herself made and worked the garment: the scene begins by recalling her craft before displaying her warfare."
+      "lines": "731–732",
+      "lemma": "ὑπὸ … ἤγαγεν · ὠκύποδας",
+      "text": "ἄγω, lead: 3sg 2aor; “led under the yoke.” ὠκύπους, swift-footed: acc pl."
     },
     {
-      "lines": "736–737",
-      "lemma": "ἐνδῦσα · θωρήσσετο · δακρυόεντα",
-      "text": "ἐνδῦσα is aorist active participle of ἐνδύω, ‘putting on,’ with Zeus’ tunic as object. θωρήσσετο is imperfect middle of θωρήσσω, ‘armed herself,’ with dative τεύχεσιν. δακρυόεντα agrees with πόλεμον, ‘tear-bringing war.’ The epithet keeps mortal suffering present amid the splendour of divine equipment."
+      "lines": "732",
+      "lemma": "μεμαυῖ᾽ ἔριδος καὶ ἀϋτῆς",
+      "text": "μέμονα, be eager: perf act ptc nom fem sg + gen; ἔρις, strife; ἀϋτή, battle-cry / din."
     },
     {
-      "lines": "738–740",
-      "lemma": "αἰγίδα θυσσανόεσσαν · ἐστεφάνωται",
-      "text": "αἰγίς is the aegis, a divine protective and terrifying object, worn here around the shoulders. θυσσανόεις means tasselled. ἐστεφάνωται is perfect middle/passive of στεφανόω, ‘is wreathed around,’ with Fear as subject. The description gives personified Panic, Strife, Strength, and chilling Pursuit a place on the object."
+      "lines": "734",
+      "lemma": "πέπλον … ἑανόν",
+      "text": "πέπλος, robe; ἑανός, soft / fine, agrees with πέπλον here."
     },
     {
-      "lines": "740–742",
-      "lemma": "κρυόεσσα Ἰωκή · Γοργείη κεφαλή",
-      "text": "κρυόεις is chilling or freezing; Ἰωκή is pursuit or rout personified. Γοργείη means Gorgonian, qualifying the head of the monster (πέλωρον). τέρας is a portent or fearful sign. The aegis’ imagery is designed to overwhelm enemies, not merely decorate its bearer."
+      "lines": "734",
+      "lemma": "κατέχευεν … οὔδει",
+      "text": "καταχέω, pour down / let fall: epic 3sg aor; οὖδας, floor: dat sg. She drops her robe on her father's floor."
     },
     {
-      "lines": "743–744",
-      "lemma": "κυνέην · ἀμφίφαλον · τετραφάληρον",
-      "text": "κυνέη is a helmet, whatever its original association with dogskin; this one is gold. ἀμφίφαλος and τετραφάληρος describe projections, bosses, or crests, whose exact physical reconstruction is uncertain. πρυλέεσσι are foot-soldiers. ἀραρυῖαν is feminine accusative perfect participle of ἀραρίσκω, ‘fitted,’ in the extravagant image of a helmet suited to the fighting men of a hundred cities."
+      "lines": "735",
+      "lemma": "ποικίλον · κάμε",
+      "text": "ποικίλος, patterned / richly worked. κάμνω, work / fashion: unaugmented 3sg 2aor; “made with her own hands.”"
     },
     {
-      "lines": "745–747",
-      "lemma": "βήσετο · βριθύ · δάμνησι",
-      "text": "βήσετο is an epic aorist middle of βαίνω in this narrative, ‘stepped,’ rather than a prediction. βριθύ, ‘heavy,’ and στιβαρόν, ‘stout,’ qualify the spear. δάμνησι is epic present subjunctive of δάμνημι, ‘subdue,’ in a general description of what she does with it. ὀβριμοπάτρη means daughter of a mighty father."
+      "lines": "736",
+      "lemma": "χιτῶν᾽ ἐνδῦσα",
+      "text": "ἐνδύω, put on: aor act ptc nom fem sg; χιτών, tunic: acc sg. Διὸς νεφεληγερέταο, “of cloud-gathering Zeus.”"
     },
     {
-      "lines": "748–749",
-      "lemma": "ἐπεμαίετο · αὐτόμαται · μύκον",
-      "text": "ἐπεμαίετο is imperfect of ἐπιμαίομαι, ‘reached at / plied,’ here using the whip. αὐτόμαται says the gates move of themselves. μύκον is imperfect of μύκω, ‘bellow, groan,’ giving them an audible opening. The Hours, Ὧραι, are their divine keepers, associated with ordered seasons and cosmic order."
+      "lines": "737",
+      "lemma": "τεύχεσιν … θωρήσσετο",
+      "text": "θωρήσσομαι, arm oneself: unaugmented 3sg impf mid; τεῦχος, armour: dat pl."
     },
     {
-      "lines": "750–752",
-      "lemma": "ἐπιτέτραπται · ἀνακλῖναι · ἐπιθεῖναι",
-      "text": "ἐπιτέτραπται is perfect middle/passive of ἐπιτρέπω, ‘has been entrusted,’ with dative τῇς referring to the Hours. ἀνακλῖναι is aorist infinitive of ἀνακλίνω, ‘push back’; ἐπιθεῖναι is aorist of ἐπιτίθημι, ‘put in place.’ Opening and closing heaven is described as moving its dense cloud barrier. κεντρηνεκής characterizes horses responsive to the goad."
+      "lines": "737",
+      "lemma": "δακρυόεντα",
+      "text": "δακρυόεις, tear-bringing: acc masc sg with πόλεμον, not with τεύχεσιν."
     },
     {
-      "lines": "753–756",
-      "lemma": "ἄτερ … ἄλλων · πολυδειράδος · ἐξείρετο",
-      "text": "ἄτερ governs the separated genitive θεῶν … ἄλλων, ‘apart from the other gods.’ πολυδείρας means many-ridged, genitive πολυδειράδος. στήσασα is transitive aorist participle of ἵστημι, stopping the horses. ἐξείρετο, from ἐξείρομαι, means ‘questioned.’ Hera addresses Zeus at the highest summit before joining battle."
+      "lines": "738",
+      "lemma": "βάλετ᾽ αἰγίδα θυσσανόεσσαν",
+      "text": "βάλλω, put on: unaugmented 3sg 2aor mid. αἰγίς, aegis: acc sg; θυσσανόεις, tasselled / fringed, acc fem sg."
+    },
+    {
+      "lines": "739",
+      "lemma": "περὶ … ἐστεφάνωται",
+      "text": "στεφανόω, encircle / crown: 3sg perf mid/pass; “Fear is set all around it.” πάντῃ, on every side."
+    },
+    {
+      "lines": "740",
+      "lemma": "Ἔρις · Ἀλκή · κρυόεσσα Ἰωκή",
+      "text": "Strife; Battle-strength; chilling Pursuit. κρυόεις, chilling: nom fem sg; personifications on the aegis."
+    },
+    {
+      "lines": "741–742",
+      "lemma": "Γοργείη … πελώρου · σμερδνή",
+      "text": "Γοργείη, Gorgon's; πέλωρον, monster: gen sg; σμερδνός, dreadful / terrifying. τέρας, portent / fearsome sign."
+    },
+    {
+      "lines": "743",
+      "lemma": "κρατί · κυνέην",
+      "text": "κάρα, head: dat sg κρατί; κυνέη, helmet: acc sg (originally a dogskin cap)."
+    },
+    {
+      "lines": "743",
+      "lemma": "ἀμφίφαλον … τετραφάληρον",
+      "text": "Helmet epithets: traditionally “double-crested … four-bossed.” Exact construction uncertain; φάλος refers to a helmet projection / crest-piece."
+    },
+    {
+      "lines": "744",
+      "lemma": "πρυλέεσσ᾽ ἀραρυῖαν",
+      "text": "πρύλις, foot-soldier: dat pl; ἀραρίσκω, fit: perf act ptc acc fem sg with helmet. “Fitted for the warriors of a hundred cities,” divine-scale exaggeration."
+    },
+    {
+      "lines": "745",
+      "lemma": "ὄχεα φλόγεα · βήσετο",
+      "text": "ὄχεα, chariot; φλόγεος, flaming / shining. βαίνω, mount: unaugmented 3sg aor mid."
+    },
+    {
+      "lines": "745",
+      "lemma": "λάζετο",
+      "text": "λάζομαι, take hold of: unaugmented 3sg impf mid."
+    },
+    {
+      "lines": "746",
+      "lemma": "βριθὺ … στιβαρόν",
+      "text": "βριθύς, heavy / weighty; στιβαρός, stout / massive; both with ἔγχος."
+    },
+    {
+      "lines": "746",
+      "lemma": "δάμνησι στίχας",
+      "text": "δάμνημι, subdue: 3sg pres act indicative (athematic -σι); στίξ, rank: acc pl."
+    },
+    {
+      "lines": "747",
+      "lemma": "κοτέσσεται · ὀβριμοπάτρη",
+      "text": "κοτέω, be angry with: epic 3sg aor mid subj (-εται = -ηται), generalized relative clause + dat οἷσιν. ὀβριμοπάτρη, daughter of a mighty father, Athena."
+    },
+    {
+      "lines": "748",
+      "lemma": "μάστιγι … ἐπεμαίετο",
+      "text": "μάστιξ, whip: dat sg; ἐπιμαίομαι, reach towards / ply: 3sg impf mid; Hera lashes the horses."
+    },
+    {
+      "lines": "749",
+      "lemma": "αὐτόμαται … μύκον",
+      "text": "αὐτόματος, of one's own accord: nom fem pl with gates. μύκον, unaugmented 3pl 2aor of μυκάομαι, rumble / bellow."
+    },
+    {
+      "lines": "749–750",
+      "lemma": "Ὧραι · τῇς ἐπιτέτραπται",
+      "text": "Ὧραι, Seasons / Hours, heaven's gatekeepers. τῇς = αἷς, dat pl; ἐπιτρέπω, entrust: 3sg perf pass."
+    },
+    {
+      "lines": "751",
+      "lemma": "ἠμὲν … ἠδέ",
+      "text": "Both … and; two infinitives explain the gatekeepers' charge."
+    },
+    {
+      "lines": "751",
+      "lemma": "ἀνακλῖναι … ἐπιθεῖναι",
+      "text": "ἀνακλίνω, push back / open: aor act inf; ἐπιτίθημι, put on / close: aor act inf. πυκινόν, dense; the cloud serves as a gate."
+    },
+    {
+      "lines": "752",
+      "lemma": "τῇ … αὐτάων · κεντρηνεκέας",
+      "text": "τῇ, that way; αὐτάων gen fem pl, the gates. κεντρηνεκής, goaded / obedient to the goad: acc pl with horses."
+    },
+    {
+      "lines": "753",
+      "lemma": "ἄτερ ἥμενον",
+      "text": "ἄτερ + gen, apart from; ἧμαι, sit: pres mid ptc acc sg with Κρονίωνα, Zeus."
+    },
+    {
+      "lines": "754",
+      "lemma": "ἀκροτάτῃ … πολυδειράδος",
+      "text": "ἄκρος superlative, highest: dat fem sg with κορυφή, summit. πολυδειράς, many-ridged: gen sg with Olympus."
+    },
+    {
+      "lines": "755–756",
+      "lemma": "στήσασα · Ζῆν᾽ ὕπατον",
+      "text": "ἵστημι, halt: transitive aor ptc nom fem sg. Ζῆνα, epic acc of Zeus; ὕπατος, highest / supreme."
+    },
+    {
+      "lines": "756",
+      "lemma": "ἐξείρετο",
+      "text": "ἐξείρομαι, question / ask: 3sg impf mid."
     }
   ],
   "sources": [
     {
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    },
+    {
+      "title": "LSJ · δάμνημι",
+      "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n23395/"
+    },
+    {
+      "title": "LSJ · κοτέω",
+      "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n59369/"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

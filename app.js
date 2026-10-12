@@ -142,11 +142,18 @@ async function renderCommentary(page) {
       return el;
     };
     container.replaceChildren(element('h3', notes.title), element('p', notes.intro, 'commentary-intro'));
+    const compact = notes.format === 'vocabulary';
+    const noteList = compact ? element('ul', '', 'vocabulary-notes') : container;
+    if (compact) container.append(noteList);
     for (const note of notes.notes) {
-      const section = document.createElement('section');
+      const section = document.createElement(compact ? 'li' : 'section');
       section.className = 'commentary-entry';
-      section.append(element('span', `${/^\d+$/.test(note.lines) ? 'Line' : 'Lines'} ${note.lines}`, 'note-lines'), element('h4', note.lemma), element('p', note.text));
-      container.append(section);
+      if (compact) {
+        section.append(element('span', note.lines, 'note-lines'), document.createTextNode(' · '), element('strong', note.lemma), document.createTextNode(` — ${note.text}`));
+      } else {
+        section.append(element('span', `${/^\d+$/.test(note.lines) ? 'Line' : 'Lines'} ${note.lines}`, 'note-lines'), element('h4', note.lemma), element('p', note.text));
+      }
+      noteList.append(section);
     }
     const sources = element('div', '', 'commentary-sources');
     sources.append(element('h4', 'References'));

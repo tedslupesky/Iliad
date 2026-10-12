@@ -20,4 +20,6 @@ Commentary lives alongside the reading texts in `commentary/5.1.json` through `c
 
 All 34 pages contain original explanatory notes for a returning reader of Homer, including morphology, syntax, vocabulary, and literary observations. Reference links accompany the notes. These are reading aids, not a critical apparatus; interpretive observations are distinguished from grammatical parsing.
 
+Pages 20–34 use `"format": "vocabulary"`: compact bullet notes in Greek reading order, with expanded vocabulary coverage and abbreviated morphology (e.g. `dat pl`, `3sg aor`, `ptc`, `inf`). Each entry retains the same `lines`, `lemma`, and `text` fields. Pages without this format flag retain the original paragraph layout. Keep notes ordered by their first occurrence in the Greek, including within a verse.
+
 Each page was written and saved separately, with its manifest entry added immediately. The helper `scripts/save-commentary.py` accepts a new page as JSON on standard input, checks its ID and verse ranges, refuses to overwrite an existing page, then saves and registers it. Sources listed as Greek text and word lookup identify the primary text used; the explanations are original reading notes, not quotations from a published commentary.

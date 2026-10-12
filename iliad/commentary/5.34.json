@@ -1,47 +1,137 @@
 {
   "id": "5.34",
   "title": "Ares healed; the goddesses return",
-  "intro": "Zeus’ anger yields to the obligation of kinship. Ares’ recovery is almost instantaneous, illustrated by the curdling of milk, and the book closes with Hera and Athena’s successful withdrawal. The divine episode ends in restored comfort after so many irreversible mortal deaths.",
+  "intro": "Zeus relents because Ares is his son. A rapid cure restores the god; Hera and Athena return after ending his slaughter.",
   "notes": [
     {
-      "lines": "895–896",
-      "lemma": "ἀνέξομαι · ἄλγε᾽ ἔχοντα · γένος",
-      "text": "ἀνέξομαι is future middle of ἀνέχω, ‘endure / tolerate,’ with accusative σε and participle ἔχοντα: Zeus will not leave him suffering for long. γένος is offspring or stock, predicate to σύ understood in ἐσσί. The reason for help is explicit parentage, not acquittal of Ares’ behaviour."
+      "lines": "895",
+      "lemma": "οὐ μάν … δηρόν",
+      "text": "“Certainly not … for long”; μάν = μήν, emphatic particle; δηρόν adv."
+    },
+    {
+      "lines": "895",
+      "lemma": "ἀνέξομαι ἄλγε᾽ ἔχοντα",
+      "text": "ἀνέχομαι, tolerate: 1sg fut mid + acc and ptc; ἄλγος, pain: acc pl. “I will not allow you to remain in pain.”"
+    },
+    {
+      "lines": "896",
+      "lemma": "ἐκ … ἐμεῦ γένος ἐσσί",
+      "text": "“You are my offspring”; γένος predicate noun, stock / descent; ἐσσί = εἶ."
+    },
+    {
+      "lines": "896",
+      "lemma": "ἐμοὶ … γείνατο",
+      "text": "γείνομαι, bear / beget: unaugmented 3sg aor mid; mother is subject; ἐμοί, “to me.”"
+    },
+    {
+      "lines": "897",
+      "lemma": "τευ ἐξ ἄλλου γε θεῶν",
+      "text": "τευ = τινός, enclitic gen sg; θεῶν partitive. “From some other one of the gods.”"
+    },
+    {
+      "lines": "897",
+      "lemma": "γένευ · ὧδ᾽ ἀΐδηλος",
+      "text": "γίγνομαι: epic 2sg 2aor mid, “had been born”; ὧδε, so; ἀΐδηλος, destructive."
     },
     {
       "lines": "897–898",
-      "lemma": "τευ ἐξ ἄλλου · γένευ · ἦσθα",
-      "text": "τευ is enclitic genitive of τις, ‘some other [god],’ with partitive θεῶν. γένευ is epic second-singular aorist middle of γίγνομαι, ‘had been born.’ The condition is contrary to fact, with κεν and imperfect ἦσθα in the consequence. ἐνέρτερος is comparative, ‘lower down than the heavenly gods,’ threatening a place beneath them rather than Olympus."
+      "lemma": "εἰ … καί κεν … ἦσθα",
+      "text": "Past unreal condition; ἦσθα 2sg impf of εἰμί. “If you had been born … you would long since have been…”"
     },
     {
-      "lines": "899–901",
-      "lemma": "ἀνώγειν · ἰήσασθαι · ἠκέσατο",
-      "text": "ἀνώγειν is an epic third-singular past form of ἄνωγα, ‘ordered,’ not an infinitive despite -ειν. ἰήσασθαι is aorist middle infinitive of ἰάομαι, ‘heal,’ with Paeëon as the commanded agent. ἠκέσατο belongs to ἀκέομαι, also ‘heal.’ The wording repeats Dione’s account of Hades’ treatment earlier in the book."
+      "lines": "898",
+      "lemma": "ἐνέρτερος Οὐρανιώνων",
+      "text": "ἐνέρτερος, lower down, + gen of comparison; Οὐρανίωνες, heavenly gods. Threat of confinement below Olympus."
     },
     {
-      "lines": "900–901",
-      "lemma": "ὀδυνήφατα φάρμακα · καταθνητός",
-      "text": "ὀδυνήφατα means pain-killing, and φάρμακα here are healing substances, not necessarily harmful drugs. πάσσων is present participle of πάσσω, ‘sprinkling / applying.’ ἐτέτυκτο is pluperfect of τεύχω with stative meaning ‘was.’ Ares is not mortal, which explains the ease and completeness of recovery."
+      "lines": "899",
+      "lemma": "Παιήον᾽ ἀνώγειν",
+      "text": "Παιήων, divine healer: acc sg; ἄνωγα, command: epic 3sg past indicative with movable -ν, not an inf."
     },
     {
-      "lines": "902–903",
-      "lemma": "ὀπός · συνέπηξεν · ὑγρὸν ἐόν",
-      "text": "ὀπός is plant sap or juice, traditionally understood here as fig juice used to curdle milk. συνέπηξεν is aorist of συμπήγνυμι, ‘coagulated, made set.’ ὑγρὸν ἐόν is a participial phrase describing milk while still liquid. The simile’s focus is the rapid transformation from one bodily state to another, not a claim that the healer literally uses milk."
+      "lines": "899",
+      "lemma": "ἰήσασθαι",
+      "text": "ἰάομαι, heal: aor mid inf; Paeëon is to heal Ares."
     },
     {
-      "lines": "903–904",
-      "lemma": "περιτρέφεται κυκόωντι · καρπαλίμως",
-      "text": "περιτρέφεται means thickens or sets around, from περιτρέφω in this coagulating sense. κυκόωντι is an epic dative singular present participle of κυκάω, ‘stir,’ referring to the person stirring it. ὦκα and καρπαλίμως both emphasize speed. The familiar domestic process makes the otherwise extraordinary divine cure imaginable."
+      "lines": "900",
+      "lemma": "ὀδυνήφατα φάρμακα",
+      "text": "ὀδυνήφατος, pain-killing (ὀδύνη, pain); φάρμακον, drug / remedy: acc neut pl."
     },
     {
-      "lines": "905–906",
-      "lemma": "λοῦσεν · εἵματα ἕσσε · κύδεϊ γαίων",
-      "text": "λοῦσεν is aorist of λούω, ‘bathed.’ εἵματα are garments, accusative plural of εἷμα; ἕσσε is aorist of ἕννυμι, ‘clothed.’ κύδεϊ is uncontracted dative of κῦδος, glory or splendour, with γαίων, ‘rejoicing / exulting.’ Ares resumes a place beside Zeus, now clean, dressed, and pleased with his status."
+      "lines": "900",
+      "lemma": "πάσσων",
+      "text": "πάσσω, sprinkle / apply: pres act ptc nom sg. ἐπί with the verb: applying remedies to the wound."
     },
     {
-      "lines": "907–909",
-      "lemma": "νέοντο · Ἀλαλκομενηΐς · παύσασαι",
-      "text": "νέοντο is imperfect of νέομαι, ‘returned,’ not a form of νέος, ‘new.’ Ἀλαλκομενηΐς is Athena’s traditional epithet, associated with Alalcomenae. παύσασαι is feminine nominative plural aorist active participle of παύω, ‘having stopped’; Ἄρηα is its object and ἀνδροκτασιάων the genitive of what he is stopped from, man-slaying. Their completed purpose closes the book."
+      "lines": "901",
+      "lemma": "ἠκέσατ᾽",
+      "text": "ἀκέομαι, heal: 3sg aor mid, ἠκέσατο."
+    },
+    {
+      "lines": "901",
+      "lemma": "καταθνητός … ἐτέτυκτο",
+      "text": "καταθνητός, mortal; τεύχω, make: 3sg plup mid/pass, stative “was constituted / was.” Negated: he is immortal."
+    },
+    {
+      "lines": "902",
+      "lemma": "ὀπός · ἐπειγόμενος",
+      "text": "ὀπός, plant juice / sap, conventionally fig juice as a milk coagulant. ἐπείγομαι, hasten: pres mid ptc, “swiftly acting.”"
+    },
+    {
+      "lines": "902",
+      "lemma": "συνέπηξεν",
+      "text": "συμπήγνυμι, cause to set / curdle: 3sg aor act; gnomic aor in a simile, “as sap curdles milk.”"
+    },
+    {
+      "lines": "903",
+      "lemma": "ὑγρὸν ἐόν · ὦκα",
+      "text": "“Though liquid”; εἰμί pres ptc acc neut sg with milk. ὦκα, quickly."
+    },
+    {
+      "lines": "903",
+      "lemma": "περιτρέφεται κυκόωντι",
+      "text": "περιτρέφω, thicken / set: 3sg pres mid/pass. κυκάω, stir: epic pres ptc dat sg, “for the person stirring it.”"
+    },
+    {
+      "lines": "904",
+      "lemma": "καρπαλίμως ἰήσατο θοῦρον Ἄρηα",
+      "text": "καρπαλίμως, swiftly; ἰάομαι 3sg aor mid, heal; θοῦρος, impetuous. The simile illustrates speed of healing."
+    },
+    {
+      "lines": "905",
+      "lemma": "λοῦσεν · χαρίεντα εἵματα",
+      "text": "λούω, bathe: unaugmented 3sg aor; χαρίεις, graceful / lovely: acc neut pl; εἷμα, garment: acc pl."
+    },
+    {
+      "lines": "905",
+      "lemma": "ἕσσε",
+      "text": "ἕννυμι, clothe: 3sg aor act; Hebe clothes Ares, with garments as a second accusative."
+    },
+    {
+      "lines": "906",
+      "lemma": "κύδεϊ γαίων",
+      "text": "κῦδος, glory / splendour: uncontracted dat sg; γαίω, rejoice / exult: pres ptc nom sg. Ares resumes his seat beside Zeus."
+    },
+    {
+      "lines": "907",
+      "lemma": "αἳ … νέοντο",
+      "text": "αἵ, “the two goddesses”; νέομαι, return: unaugmented 3pl impf mid. δῶμα, house / dwelling, here Zeus' palace."
+    },
+    {
+      "lines": "908",
+      "lemma": "Ἀργείη · Ἀλαλκομενηΐς",
+      "text": "Ἀργείη, Argive, epithet of Hera. Ἀλαλκομενηΐς, Athena's epithet, associated with Alalcomenae; traditional connection also with ἀλαλκεῖν, ward off."
+    },
+    {
+      "lines": "909",
+      "lemma": "παύσασαι … ἀνδροκτασιάων",
+      "text": "παύω, stop: aor act ptc nom fem pl; Ἄρηα object, gen of what he is stopped from. ἀνδροκτασίη, slaughter of men: gen pl -άων."
+    },
+    {
+      "lines": "909",
+      "lemma": "βροτολοιγόν",
+      "text": "Mortal-destroying; Ares' characteristic activity has been interrupted, closing Book V."
     }
   ],
   "sources": [
@@ -49,5 +139,6 @@
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

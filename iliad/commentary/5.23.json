@@ -1,57 +1,157 @@
 {
   "id": "5.23",
   "title": "Diomedes recognizes Ares",
-  "intro": "The hero who rushed like a flood now recoils before one. His withdrawal is deliberate obedience to the divine limit, and he tells the Greeks to retreat while still facing the Trojans. Hector’s successes draw Ajax into the fighting.",
+  "intro": "Diomedes recognizes Ares beside Hector and orders a controlled retreat. Ajax counters the Trojan advance.",
   "notes": [
     {
-      "lines": "590–592",
-      "lemma": "ὦρτο · κεκλήγων · ἦρχε",
-      "text": "ὦρτο is aorist middle of ὄρνυμι, ‘sprang forward.’ κεκλήγων is perfect active participle of κλάζω, ‘cry out,’ with vivid continuing force, ‘shouting.’ εἵποντο is imperfect of ἕπομαι, ‘followed.’ ἦρχε takes dative σφιν, ‘led them,’ with Ares and Enyo as the leaders."
+      "lines": "590",
+      "lemma": "ἐνόησε · κατὰ στίχας",
+      "text": "νοέω, notice: 3sg aor. στίξ, rank / row: acc pl; “along the ranks.”"
     },
     {
-      "lines": "592–595",
-      "lemma": "Κυδοιμόν · ἀναιδέα · ἐνώμα",
-      "text": "Κυδοιμός is battle tumult personified, borne by Enyo. ἀναιδής means shameless or pitiless, here accusative ἀναιδέα. ἐνώμα is imperfect of νωμάω, ‘wield, ply,’ of Ares’ enormous spear. His movement before and behind Hector makes the divine support visible to Diomedes."
+      "lines": "590",
+      "lemma": "ὦρτο",
+      "text": "ὄρνυμι, spring / rush: 3sg root aor mid."
     },
     {
-      "lines": "596–600",
-      "lemma": "ῥίγησε · ἀπάλαμνος · στήῃ",
-      "text": "ῥίγησε is aorist of ῥιγέω, ‘shudder.’ ἀπάλαμνος describes a helpless or resource-less man in the simile. στήῃ is an epic root-aorist subjunctive of ἵστημι, ‘come to a halt,’ in the general comparison. πολέος πεδίοιο is a genitive of space traversed, ‘across a great plain.’"
+      "lines": "591",
+      "lemma": "κεκλήγων · εἵποντο",
+      "text": "κλάζω, shout / shriek: perf act ptc nom sg, present force. ἕπομαι, follow: 3pl impf."
     },
     {
-      "lines": "598–600",
-      "lemma": "ἅλα προρέοντι · μορμύροντα · ἔδραμε",
-      "text": "ἅλα is accusative of ἅλς, ‘sea,’ the river’s destination. προρέοντι describes its forward flow; μορμύροντα, from μορμύρω, its roaring or seething, with instrumental ἀφρῷ, foam. ἔδραμε is second aorist of τρέχω, ‘ran,’ with ἀνά and ὀπίσσω giving retreat. The flood image reverses Diomedes’ earlier role."
+      "lines": "591–592",
+      "lemma": "φάλαγγες καρτεραί",
+      "text": "Strong / close-packed ranks; φάλαγξ, line of battle, nom pl; not the later technical phalanx formation."
     },
     {
-      "lines": "601–604",
-      "lemma": "θαυμάζομεν … ἔμεναι · πάρα",
-      "text": "ἔμεναι is epic infinitive of εἰμί, describing Hector as spearman and bold warrior. Diomedes explains what seemed extraordinary in him: a god is always at hand. πάρα is adverbial ‘beside him,’ with εἷς θεῶν, ‘one of the gods.’ λοιγός is ruin or destruction, which the divine helper wards off."
+      "lines": "592",
+      "lemma": "ἦρχε … σφιν · πότνια",
+      "text": "ἄρχω, lead: 3sg impf + dat σφιν, “them.” πότνια, lady / mistress; Enyo, a war goddess."
     },
     {
-      "lines": "604–606",
-      "lemma": "βροτῷ ἀνδρὶ ἐοικώς · τετραμμένοι",
-      "text": "ἐοικώς is perfect participle of ἔοικα, ‘resembling,’ with dative βροτῷ ἀνδρί. Diomedes sees the god behind his mortal appearance. τετραμμένοι is perfect middle/passive participle of τρέπω, ‘turned,’ with πρὸς Τρῶας: the soldiers must keep facing the enemy as they yield ground, not turn their backs."
+      "lines": "593",
+      "lemma": "Κυδοιμὸν ἀναιδέα δηϊοτῆτος",
+      "text": "“Pitiless Tumult of battle”; κυδοιμός, din / confusion, personified; ἀναιδής, shameless / ruthless, acc sg; δηϊοτής, warfare, gen sg."
     },
     {
-      "lines": "605–606",
-      "lemma": "εἴκετε · μενεαινέμεν · ἶφι",
-      "text": "εἴκετε is second-plural present imperative of εἴκω, ‘give way.’ μενεαινέμεν is epic present infinitive of μενεαίνω used as a prohibition with μηδέ, ‘do not be eager.’ μάχεσθαι is its complementary infinitive. ἶφι is an old instrumental adverb, ‘with strength, by force.’ The order explicitly avoids a contest of force with gods."
+      "lines": "594",
+      "lemma": "παλάμῃσι · πελώριον · ἐνώμα",
+      "text": "παλάμη, hand: dat pl. πελώριος, huge / monstrous. νωμάω, wield / ply: 3sg impf."
     },
     {
-      "lines": "607–609",
-      "lemma": "σχεδὸν αὐτῶν · εἰδότε χάρμης",
-      "text": "σχεδόν takes genitive αὐτῶν, ‘near them.’ φῶτε is accusative dual of φώς, ‘man’; εἰδότε is dual perfect participle of οἶδα with genitive χάρμης, ‘battle.’ ἐόντε is also dual. The two men in one chariot echo earlier paired victims, making Hector’s advance a counterpart to the Greek successes."
+      "lines": "595",
+      "lemma": "φοίτα · πρόσθε · ὄπισθε",
+      "text": "φοιτάω, move to and fro: unaugmented 3sg impf. “Now before Hector, now behind”; πρόσθε + gen."
     },
     {
-      "lines": "610–612",
-      "lemma": "ἐλέησε · ἀκόντισε · Τελαμώνιος",
-      "text": "ἐλέησε is aorist of ἐλεέω, ‘pitied,’ the same response that moved Menelaus earlier. Τελαμώνιος distinguishes the greater Ajax, son of Telamon, from Oileus’ son. ἀκόντισε, aorist of ἀκοντίζω, means ‘cast a spear.’ His compassionate reaction immediately becomes an attack."
+      "lines": "596",
+      "lemma": "ῥίγησε · βοὴν ἀγαθός",
+      "text": "ῥιγέω, shudder: 3sg aor. “Good at the war-cry”; βοή acc of respect."
     },
     {
-      "lines": "613–615",
-      "lemma": "πολυκτήμων πολυλήϊος · ἐπικουρήσοντα",
-      "text": "πολυκτήμων means rich in possessions; πολυλήϊος rich in crops or cornland. μοῖρα is the subject of ἦγε, ‘fate led him.’ ἐπικουρήσοντα is future active participle of ἐπικουρέω, expressing purpose, ‘to come as an ally.’ The wealthy man’s home is briefly recalled before the spear hits his belt; the wound continues next page."
+      "lines": "597",
+      "lemma": "ἀπάλαμνος",
+      "text": "Helpless / at a loss; literally without resource or means."
+    },
+    {
+      "lines": "597",
+      "lemma": "πολέος πεδίοιο",
+      "text": "πολύς + πεδίον, gen sg; gen of space traversed, “across a broad plain.”"
+    },
+    {
+      "lines": "598",
+      "lemma": "στήῃ",
+      "text": "ἵστημι: epic 3sg root aor subj, “comes to a halt”; generalized simile after ὡς δ᾽ ὅτε."
+    },
+    {
+      "lines": "598",
+      "lemma": "ὠκυρόῳ … ἅλα προρέοντι",
+      "text": "ὠκύροος, swift-flowing: dat sg with ποταμῷ. ἅλα: acc sg of ἅλς, sea, destination; προρέω, flow onward, pres ptc dat sg."
+    },
+    {
+      "lines": "599",
+      "lemma": "ἀφρῷ μορμύροντα",
+      "text": "“Seething with foam”; ἀφρός, foam: dat sg; μορμύρω, roar / surge: pres ptc acc sg, referring to the river."
+    },
+    {
+      "lines": "599",
+      "lemma": "ἀνά … ἔδραμ᾽ ὀπίσσω",
+      "text": "τρέχω, run: 3sg 2aor, stem δραμ-; ἀνά + ὀπίσσω, “ran back again.” Aorist within the generalized simile."
+    },
+    {
+      "lines": "600",
+      "lemma": "ἀνεχάζετο",
+      "text": "ἀναχάζομαι, draw back: 3sg impf mid."
+    },
+    {
+      "lines": "601–602",
+      "lemma": "οἷον … θαυμάζομεν … ἔμεναι",
+      "text": "“How we marvelled that Hector was such a…”; ἔμεναι = εἶναι, epic pres inf; αἰχμητής, spearman; θαρσαλέος, bold."
+    },
+    {
+      "lines": "603",
+      "lemma": "πάρα · λοιγὸν ἀμύνει",
+      "text": "πάρα = πάρεστι, “is beside him.” λοιγός, ruin / destruction; ἀμύνω, ward off."
+    },
+    {
+      "lines": "604",
+      "lemma": "βροτῷ ἀνδρὶ ἐοικώς",
+      "text": "“In the likeness of a mortal man”; ἔοικα, perf act ptc nom sg + dat."
+    },
+    {
+      "lines": "605",
+      "lemma": "τετραμμένοι",
+      "text": "τρέπω, turn: perf mid/pass ptc nom pl; πρὸς Τρῶας, “facing the Trojans.” Keep facing them while retreating."
+    },
+    {
+      "lines": "606",
+      "lemma": "εἴκετε",
+      "text": "εἴκω, yield / give ground: 2pl pres imperative."
+    },
+    {
+      "lines": "606",
+      "lemma": "μηδὲ … μενεαινέμεν ἶφι μάχεσθαι",
+      "text": "μενεαίνω, be eager: epic pres inf used as imperative, “do not be eager to fight.” ἶφι, by force / with strength, old instrumental adv."
+    },
+    {
+      "lines": "607",
+      "lemma": "ἤλυθον · σχεδὸν αὐτῶν",
+      "text": "ἔρχομαι, come: 3pl epic 2aor, = ἦλθον. σχεδόν + gen, “close to them.”"
+    },
+    {
+      "lines": "608",
+      "lemma": "φῶτε … εἰδότε χάρμης",
+      "text": "φώς, warrior: acc dual; οἶδα perf ptc acc dual + gen; χάρμη, battle. “Two men skilled in battle.”"
+    },
+    {
+      "lines": "609",
+      "lemma": "εἰν … ἐόντε",
+      "text": "εἰν = ἐν; ἐόντε = ὄντε, pres ptc acc dual of εἰμί; the two occupy one chariot."
+    },
+    {
+      "lines": "610",
+      "lemma": "πεσόντ᾽ ἐλέησε",
+      "text": "πεσόντε: acc dual 2aor ptc of πίπτω, “the fallen pair”; ἐλεέω, pity: 3sg aor."
+    },
+    {
+      "lines": "611",
+      "lemma": "στῆ · ἀκόντισε · φαεινῷ",
+      "text": "ἵστημι, stand: unaugmented 3sg root aor. ἀκοντίζω, cast a spear: 3sg aor. φαεινός, shining."
+    },
+    {
+      "lines": "613",
+      "lemma": "ναῖε · πολυκτήμων πολυλήϊος",
+      "text": "ναίω, dwell: unaugmented 3sg impf. πολυκτήμων, rich in possessions; πολυλήϊος, rich in crops / cornland."
+    },
+    {
+      "lines": "613–614",
+      "lemma": "ἑ μοῖρα ἦγ᾽ ἐπικουρήσοντα",
+      "text": "“Fate led him to serve as an ally”; ἑ acc sg pronoun; ἦγε impf of ἄγω; ἐπικουρέω fut ptc acc sg, purpose."
+    },
+    {
+      "lines": "615",
+      "lemma": "ζωστῆρα",
+      "text": "ζωστήρ, war-belt: acc sg; wound continues next page."
     }
   ],
   "sources": [
@@ -59,5 +159,6 @@
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

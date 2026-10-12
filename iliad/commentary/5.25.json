@@ -1,57 +1,167 @@
 {
   "id": "5.25",
   "title": "The duel’s unequal outcome",
-  "intro": "Sarpedon answers the insult by blaming Laomedon’s breach of obligation, then the spears fly together. Both men are hit, but only Tlepolemus dies: Zeus protects his own son. The wounded Sarpedon’s removal is hurried and painfully imperfect.",
+  "intro": "Sarpedon answers the taunt. Tlepolemus dies; the wounded Sarpedon is carried away with the spear still in his thigh.",
   "notes": [
     {
-      "lines": "645–646",
-      "lemma": "δμηθέντα · περήσειν",
-      "text": "δμηθέντα is aorist passive participle of δαμάζω, with the shortened stem δμη-, ‘subdued.’ περήσειν is future infinitive of περάω, ‘pass through,’ still dependent on Tlepolemus’ prediction. Ἀΐδαο is epic genitive of Hades; passing his gates is death. οὐδ᾽ εἰ gives the concessive ‘not even if you are very strong.’"
+      "lines": "645",
+      "lemma": "ἐλθόντ᾽ · οὐδ᾽ εἰ … ἐσσι",
+      "text": "ἐλθόντα: 2aor ptc acc sg of ἔρχομαι, with σε from 644. “Not even if you are very strong”; ἐσσι = εἶ."
     },
     {
-      "lines": "648–651",
-      "lemma": "ἀφραδίῃσιν · εὖ ἕρξαντα · ἠνίπαπε",
-      "text": "ἀφραδίη is folly or thoughtlessness, here instrumental dative plural. ἕρξαντα is aorist participle of ἔρδω, ‘do,’ with εὖ: Heracles had done good service. ἠνίπαπε is a reduplicated aorist of ἐνίπτω, ‘rebuke, insult.’ Sarpedon attributes the earlier sack to Laomedon’s misconduct, not proof that Zeus’ present sons are inferior."
+      "lines": "646",
+      "lemma": "δμηθέντα",
+      "text": "δαμάζω / δάμνημι, subdue: aor pass ptc acc sg; shortened stem δμη-. ὑπ᾽ ἐμοί, “by me.”"
+    },
+    {
+      "lines": "646",
+      "lemma": "πύλας Ἀΐδαο περήσειν",
+      "text": "περάω, pass through: fut act inf, still dependent on ὀΐομαι (644); Ἀΐδαο gen sg of Hades."
+    },
+    {
+      "lines": "647",
+      "lemma": "ἀγός · ηὔδα",
+      "text": "ἀγός, leader; αὐδάω, speak: 3sg impf."
+    },
+    {
+      "lines": "648–649",
+      "lemma": "ἀπώλεσεν … ἀφραδίῃσιν",
+      "text": "ἀπόλλυμι, destroy: 3sg aor. ἀφραδίη, folly / thoughtlessness: dat pl, cause; Laomedon's folly explains the earlier sack."
+    },
+    {
+      "lines": "650",
+      "lemma": "εὖ ἕρξαντα",
+      "text": "ἔρδω, do: aor act ptc acc sg; “him who had done good service,” Heracles."
+    },
+    {
+      "lines": "650",
+      "lemma": "ἠνίπαπε",
+      "text": "ἐνίπτω, rebuke / abuse: 3sg reduplicated aor; κακῷ μύθῳ, “with harsh words.”"
     },
     {
       "lines": "651",
-      "lemma": "ἀπέδωχ᾽ ἵππους · ὧν εἵνεκα",
-      "text": "ἀπέδωχ᾽ is elided ἀπέδωκε with aspiration before ἵππους, aorist of ἀποδίδωμι, ‘give back / pay what is due.’ The horses are the promised recompense. ὧν is genitive plural after εἵνεκα, ‘for which.’ The dispute turns on reciprocity: good service was answered with insult and nonpayment."
+      "lemma": "ἀπέδωχ᾽ ἵππους",
+      "text": "ἀπέδωκε, 3sg aor of ἀποδίδωμι, pay / give what is due; κ → χ before ἵππους. The promised horses were withheld."
     },
     {
-      "lines": "652–654",
-      "lemma": "σοὶ … τεύξεσθαι · ἐμέθεν",
-      "text": "τεύξεσθαι is future middle infinitive of τεύχω, here ‘be brought about,’ with φόνον καὶ κῆρα as the predicted death and doom. ἐμέθεν is epic genitive of ἐγώ after ἐκ, ‘from me.’ δαμέντα is aorist passive participle referring to Tlepolemus: subdued by the spear, he will give victory to Sarpedon and his life to Hades."
+      "lines": "651",
+      "lemma": "ὧν εἵνεκα · τηλόθεν",
+      "text": "“For which”; εἵνεκα = ἕνεκα, + gen. τηλόθεν, from far away."
     },
     {
-      "lines": "654–656",
-      "lemma": "κλυτοπώλῳ · ἀνέσχετο · ἁμαρτῇ",
-      "text": "κλυτόπωλος means famed for horses, an epithet of Hades. ἀνέσχετο is aorist middle of ἀνέχω, ‘raised.’ μείλινος means made of ash wood, not ‘honeyed.’ ἁμαρτῇ is adverbial ‘at the same time,’ distinct from ἁμαρτάνω, ‘miss.’ The simultaneous cast creates the possibility of mutual death."
+      "lines": "652",
+      "lemma": "φόνον καὶ κῆρα μέλαιναν",
+      "text": "φόνος, death / slaughter; κήρ, doom: acc sg, with μέλαιναν, black. These are the subjects of the following inf."
     },
     {
-      "lines": "657–659",
-      "lemma": "ἤϊξαν · ἀλεγεινή · ἐρεβεννή",
-      "text": "ἤϊξαν is aorist of ἀΐσσω, ‘darted.’ αὐχένα μέσσον is the middle of the neck, struck by Sarpedon. ἀλεγεινός means painful or grievous; ἐρεβεννός, dark as Erebus. The covering darkness confirms Tlepolemus’ fatal wound before the narrative returns to the other spear."
+      "lines": "653",
+      "lemma": "ἐξ ἐμέθεν τεύξεσθαι",
+      "text": "τεύχω, bring about: fut mid inf, passive sense here, “will be brought about by me,” with σοὶ (652), “for you.” ἐμέθεν = ἐμοῦ."
     },
     {
-      "lines": "660–662",
-      "lemma": "βεβλήκειν · διέσσυτο · ἐγχριμφθεῖσα",
-      "text": "βεβλήκειν is an epic third-singular pluperfect of βάλλω, despite its -ν: Tlepolemus had hit the thigh. διέσσυτο is aorist middle of διασεύω, ‘rushed through.’ μαιμώωσα personifies the point as eager. ἐγχριμφθεῖσα is aorist passive participle of ἐγχρίμπτω, ‘grazing / coming close against,’ with genitive ὀστέω, bone."
+      "lines": "653",
+      "lemma": "δαμέντα",
+      "text": "δάμνημι, subdue / kill: 2aor pass ptc acc sg, referring to Tlepolemus, the understood subject of δώσειν."
     },
     {
-      "lines": "662–664",
-      "lemma": "πατὴρ … ἄμυνεν · βάρυνε",
-      "text": "The father who still wards off destruction is Zeus, Sarpedon’s father. ἄμυνεν is past of ἀμύνω, ‘kept away,’ with λοιγόν as object. βάρυνε is imperfect of βαρύνω, ‘weighed upon’; the long spear remains lodged and drags as the companions carry Sarpedon off."
+      "lines": "654",
+      "lemma": "εὖχος · ψυχήν · κλυτοπώλῳ",
+      "text": "εὖχος, triumph / glory; ψυχή, life. κλυτόπωλος, famed for horses: dat sg with Hades; “glory to me, life to Hades.”"
     },
     {
-      "lines": "665–667",
-      "lemma": "ἐπεφράσατο · ἐξερύσαι · ἐπιβαίη",
-      "text": "ἐπεφράσατο is aorist middle of ἐπιφράζομαι, ‘noticed / considered.’ ἐξερύσαι is aorist active infinitive of ἐξερύω, ‘pull out,’ with genitive μηροῦ, ‘from the thigh.’ ἐπιβαίη is root-aorist optative of ἐπιβαίνω after ὄφρα, so he could step or mount. Their haste leaves this practical aid undone."
+      "lines": "655",
+      "lemma": "ἀνέσχετο · μείλινον",
+      "text": "ἀνέχω, hold up / raise: 3sg 2aor mid, stem σχε-. μείλινος, ash-wood, with ἔγχος."
     },
     {
-      "lines": "667–671",
-      "lemma": "σπευδόντων · τλήμονα θυμόν · μερμήριξε",
-      "text": "σπευδόντων is a genitive participle describing the hurrying rescuers. ἀμφιέποντες means tending or busily attending him. τλήμων, ‘enduring,’ describes Odysseus’ spirit; μαίμησε means his heart surged eagerly. μερμήριξε is aorist of μερμηρίζω, ‘ponder alternatives.’ The choice he considers is completed on the next page."
+      "lines": "656",
+      "lemma": "ἁμαρτῇ · δούρατα",
+      "text": "ἁμαρτῇ, at the same time; δόρυ, spear: nom pl."
+    },
+    {
+      "lines": "657",
+      "lemma": "ἤϊξαν · αὐχένα μέσσον",
+      "text": "ἀΐσσω, dart: 3pl aor. αὐχήν, neck: acc sg; “struck the middle of the neck.”"
+    },
+    {
+      "lines": "658",
+      "lemma": "αἰχμή · διαμπερές · ἀλεγεινή",
+      "text": "αἰχμή, spear-point; διαμπερές adv., right through; ἀλεγεινός, painful / grievous."
+    },
+    {
+      "lines": "659",
+      "lemma": "ἐρεβεννὴ νύξ",
+      "text": "Erebus-dark / murky night; death's darkness covers Tlepolemus' eyes."
+    },
+    {
+      "lines": "660–661",
+      "lemma": "μηρόν … βεβλήκειν",
+      "text": "μηρός, thigh. βάλλω: epic 3sg plup act, “had struck”; final -ν is not a 1sg ending here."
+    },
+    {
+      "lines": "661",
+      "lemma": "διέσσυτο μαιμώωσα",
+      "text": "διασεύω, rush through: 3sg aor mid. μαιμάω, be eager / rage: pres ptc nom fem sg, epic expanded form; the spear-point is personified."
+    },
+    {
+      "lines": "662",
+      "lemma": "ὀστέω ἐγχριμφθεῖσα",
+      "text": "ὀστέον, bone: gen sg. ἐγχρίμπτω, press close / graze: aor pass ptc nom fem sg + gen; “grazing the bone.”"
+    },
+    {
+      "lines": "662",
+      "lemma": "πατὴρ … λοιγὸν ἄμυνεν",
+      "text": "πατήρ = Zeus, Sarpedon's father; λοιγός, destruction; ἀμύνω, keep off: unaugmented 3sg impf."
+    },
+    {
+      "lines": "664",
+      "lemma": "βάρυνε … ἑλκόμενον",
+      "text": "βαρύνω, weigh upon: unaugmented 3sg impf. ἕλκω, drag: pres pass ptc nom neut sg with δόρυ; the spear drags as he is carried."
+    },
+    {
+      "lines": "665",
+      "lemma": "ἐπεφράσατ᾽",
+      "text": "ἐπιφράζομαι, consider / think of: 3sg aor mid. Neither this nor ἐνόησε is a perfect."
+    },
+    {
+      "lines": "666",
+      "lemma": "μηροῦ ἐξερύσαι",
+      "text": "ἐξερύω, pull out: aor act inf; gen of separation, “from the thigh.”"
+    },
+    {
+      "lines": "666",
+      "lemma": "ὄφρ᾽ ἐπιβαίη",
+      "text": "ἐπιβαίνω, step upon / mount: 3sg root aor opt; purpose, “so that he might mount [the chariot].”"
+    },
+    {
+      "lines": "667",
+      "lemma": "σπευδόντων",
+      "text": "σπεύδω, hurry: pres ptc gen pl; partitive with οὔ τις (665), “none of those hurrying [to help].”"
+    },
+    {
+      "lines": "667",
+      "lemma": "τοῖον … πόνον ἀμφιέποντες",
+      "text": "ἀμφιέπω, attend to / busy oneself about: pres ptc nom pl; “so hard pressed were they as they tended him.”"
+    },
+    {
+      "lines": "668",
+      "lemma": "ἑτέρωθεν · ἐϋκνήμιδες",
+      "text": "ἑτέρωθεν, on the other side; ἐϋκνήμις, well-greaved: nom pl (κνημίς, greave)."
+    },
+    {
+      "lines": "670",
+      "lemma": "τλήμονα θυμόν",
+      "text": "τλήμων, enduring / steadfast: acc sg, with θυμός, spirit; from the endurance root τλα-/τλη-."
+    },
+    {
+      "lines": "670",
+      "lemma": "μαίμησε … ἦτορ",
+      "text": "μαιμάω, surge eagerly / rage: 3sg aor; ἦτορ, heart (neut); οἱ, “his.”"
+    },
+    {
+      "lines": "671",
+      "lemma": "μερμήριξε … φρένα",
+      "text": "μερμηρίζω, ponder: 3sg aor; φρήν, mind: acc sg. The alternatives follow next page."
     }
   ],
   "sources": [
@@ -59,5 +169,6 @@
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

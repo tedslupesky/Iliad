@@ -1,57 +1,182 @@
 {
   "id": "5.24",
   "title": "Ajax withdraws; a challenge between Zeus’ descendants",
-  "intro": "Ajax can recover his spear but not the armour under Trojan pressure. The narrative then shifts to Tlepolemus and Sarpedon. Their duel begins with competing claims about divine parentage and the earlier generation’s achievements.",
+  "intro": "Ajax is forced back. Tlepolemus challenges Sarpedon, contrasting him with his own father Heracles.",
   "notes": [
     {
-      "lines": "616–618",
-      "lemma": "πάγη · συλήσων · ἔχευαν",
-      "text": "πάγη is unaugmented second-aorist passive of πήγνυμι, ‘stuck fast.’ συλήσων is future active participle of συλάω, expressing Ajax’s purpose in running forward, ‘to strip the armour.’ ἔχευαν is epic aorist of χέω, ‘poured,’ vividly describing the mass of Trojan spears directed at him."
+      "lines": "616",
+      "lemma": "νειαίρῃ … γαστρί",
+      "text": "“In the lower belly”; νείαιρα, lower; γαστήρ dat sg."
     },
     {
-      "lines": "619–622",
-      "lemma": "ἀνεδέξατο · λὰξ προσβάς · ἐσπάσατο",
-      "text": "ἀνεδέξατο is aorist middle of ἀναδέχομαι, ‘received,’ with σάκος, shield, as subject. λάξ means ‘with the foot’; προσβάς, root-aorist participle of προσβαίνω, describes planting his foot against the body to pull out the spear. ἐσπάσατο is aorist middle of σπάω, ‘drew out.’"
+      "lines": "616",
+      "lemma": "πάγη · δολιχόσκιον",
+      "text": "πήγνυμι, fix: unaugmented 3sg 2aor pass, “stuck fast.” δολιχόσκιος, long-shadowed, with ἔγχος."
     },
     {
-      "lines": "621–624",
-      "lemma": "ἀφελέσθαι · ὤμοιιν · ἀμφίβασιν",
-      "text": "ἀφελέσθαι is second-aorist middle infinitive of ἀφαιρέω, ‘strip away.’ ὤμοιιν is genitive dual, ‘from the two shoulders.’ ἐπείγετο means ‘was pressed,’ with dative βελέεσσι, missiles. ἀμφίβασις is an encompassing advance or encirclement, which Ajax fears as the Trojans stand over him in numbers."
+      "lines": "617",
+      "lemma": "δούπησεν · ἐπέδραμε",
+      "text": "δουπέω, fall with a thud: 3sg aor. ἐπιτρέχω, run up: 3sg 2aor, stem δραμ-."
     },
     {
-      "lines": "624–626",
-      "lemma": "ἐφέστασαν · μέγαν περ · πελεμίχθη",
-      "text": "ἐφέστασαν is pluperfect of ἐφίστημι, describing the Trojans’ established threatening position. περ makes the adjectives concessive, ‘great and mighty though he was.’ ὦσαν is aorist of ὠθέω, ‘pushed.’ χασσάμενος is aorist middle participle of χάζομαι, ‘giving ground’; πελεμίχθη, from πελεμίζω, describes being shaken or forced back."
+      "lines": "618",
+      "lemma": "τεύχεα συλήσων",
+      "text": "“To strip the armour”; συλάω, fut act ptc nom sg, purpose."
     },
     {
-      "lines": "628–631",
-      "lemma": "Ἡρακλεΐδην · υἱός θ᾽ υἱωνός τε",
-      "text": "Tlepolemus is Heracles’ son and therefore Zeus’ grandson; Sarpedon is Zeus’ son. υἱωνός means grandson. νεφεληγερέταο is epic genitive of νεφεληγερέτης, ‘cloud-gatherer,’ agreeing with Διός. μοῖρα κραταιή is the subject of ὦρσεν, ‘powerful fate drove him,’ framing the encounter before either man speaks."
+      "lines": "618",
+      "lemma": "ἐπὶ … ἔχευαν",
+      "text": "χέω, pour: epic 3pl aor; “poured [spears] upon him”; δούρατα acc pl of δόρυ."
     },
     {
-      "lines": "633–634",
-      "lemma": "τίς τοι ἀνάγκη πτώσσειν",
-      "text": "The challenge asks what necessity makes Sarpedon cower here. πτώσσειν is present infinitive of πτώσσω; ἀδαήμων, ‘unskilled,’ takes genitive μάχης. φωτί is dative singular of φώς, ‘man,’ agreeing with the person addressed in the dative. The characterization is taunting rhetoric, not the narrator’s assessment of Sarpedon."
+      "lines": "619",
+      "lemma": "παμφανόωντα",
+      "text": "παμφανάω, shine brightly: uncontracted pres ptc acc neut pl with δούρατα."
     },
     {
-      "lines": "635–637",
-      "lemma": "ψευδόμενοι … φασι · ἐπιδεύεαι",
-      "text": "ψευδόμενοι describes the people making the claim: ‘they lie when they say you are Zeus’ offspring.’ γόνος is offspring or descendant. ἐπιδεύεαι is epic second-singular present middle of ἐπιδεύομαι, ‘fall short,’ with genitive κείνων ἀνδρῶν. ἐξεγένοντο is second-aorist middle of ἐκγίγνομαι, ‘were born from.’"
+      "lines": "619",
+      "lemma": "σάκος … ἀνεδέξατο",
+      "text": "σάκος, shield (neut): subject; ἀναδέχομαι, receive / catch: 3sg aor mid. πολλά = many spears."
+    },
+    {
+      "lines": "620",
+      "lemma": "λὰξ προσβάς",
+      "text": "“Planting his foot against [the corpse]”; λάξ, with the foot; προσβαίνω, root aor ptc nom sg."
+    },
+    {
+      "lines": "621",
+      "lemma": "ἐσπάσατ᾽ · δυνήσατο",
+      "text": "σπάω, pull out: 3sg aor mid. δύναμαι, be able: 3sg aor mid."
+    },
+    {
+      "lines": "622",
+      "lemma": "ὤμοιιν ἀφελέσθαι",
+      "text": "ὦμος, shoulder: gen dual, separation; ἀφαιρέω, remove: 2aor mid inf, “strip from the shoulders.”"
+    },
+    {
+      "lines": "622",
+      "lemma": "ἐπείγετο … βελέεσσι",
+      "text": "ἐπείγω, press hard: 3sg impf pass; βέλος, missile: dat pl, instrument / cause."
+    },
+    {
+      "lines": "623",
+      "lemma": "δεῖσε · ἀμφίβασιν",
+      "text": "δείδω, fear: unaugmented 3sg aor. ἀμφίβασις, encompassing advance / encirclement: acc sg."
+    },
+    {
+      "lines": "623",
+      "lemma": "ἀγερώχων",
+      "text": "ἀγέρωχος, proud / high-spirited; gen pl with Τρώων."
+    },
+    {
+      "lines": "624",
+      "lemma": "ἐφέστασαν",
+      "text": "ἐφίστημι, stand over / press upon: 3pl plup act, “stood threateningly nearby.”"
+    },
+    {
+      "lines": "625",
+      "lemma": "μέγαν περ … ἴφθιμον … ἀγαυόν",
+      "text": "“Great, mighty and noble though he was”; περ makes the ptc phrase concessive. ἴφθιμος, strong; ἀγαυός, illustrious."
+    },
+    {
+      "lines": "626",
+      "lemma": "ὦσαν ἀπὸ σφείων",
+      "text": "ὠθέω, push: unaugmented 3pl aor; σφεῖς gen pl, “away from themselves.”"
+    },
+    {
+      "lines": "626",
+      "lemma": "χασσάμενος πελεμίχθη",
+      "text": "χάζομαι, give ground: aor mid ptc; πελεμίζω, shake / drive back: 3sg aor pass. Ajax reels back."
+    },
+    {
+      "lines": "627",
+      "lemma": "πονέοντο · ὑσμίνην",
+      "text": "πονέομαι, toil / struggle: unaugmented 3pl impf mid. ὑσμίνη, battle: acc sg."
+    },
+    {
+      "lines": "628",
+      "lemma": "Ἡρακλεΐδην · ἠΰν",
+      "text": "Ἡρακλεΐδης, son of Heracles: acc sg. ἠΰς, good / noble: acc sg, with Tlepolemus."
+    },
+    {
+      "lines": "629",
+      "lemma": "ὦρσεν · ἀντιθέῳ · κραταιή",
+      "text": "ὄρνυμι, rouse / drive: 3sg aor. ἀντίθεος, godlike; κραταιός, mighty. μοῖρα is the subject, Tlepolemus the object."
+    },
+    {
+      "lines": "631",
+      "lemma": "υἱός θ᾽ υἱωνός τε",
+      "text": "“Son and grandson”; Sarpedon is Zeus' son; Tlepolemus, Heracles' son, his grandson."
+    },
+    {
+      "lines": "631",
+      "lemma": "νεφεληγερέταο",
+      "text": "νεφεληγερέτης, cloud-gatherer: epic gen sg, with Διός."
+    },
+    {
+      "lines": "633",
+      "lemma": "βουληφόρε · τίς τοι ἀνάγκη",
+      "text": "βουληφόρος, counsellor: voc sg. “What need have you…?” τοι = σοι."
+    },
+    {
+      "lines": "634",
+      "lemma": "πτώσσειν · ἀδαήμονι φωτί",
+      "text": "πτώσσω, cower: pres inf. ἀδαήμων, unskilled, + gen μάχης; φώς, man: dat sg; both in apposition to τοι."
+    },
+    {
+      "lines": "635",
+      "lemma": "ψευδόμενοι … φασι",
+      "text": "“They lie when they say…”; pres mid ptc nom pl with the unnamed speakers; φημί 3pl pres, + acc and inf."
+    },
+    {
+      "lines": "635",
+      "lemma": "γόνον αἰγιόχοιο",
+      "text": "γόνος, offspring; αἰγίοχος, aegis-bearing: gen sg, with Διός."
+    },
+    {
+      "lines": "636",
+      "lemma": "πολλὸν … ἐπιδεύεαι",
+      "text": "ἐπιδεύομαι, fall short of: 2sg pres mid, uncontracted -εαι, + gen; πολλόν adv., “by far.”"
+    },
+    {
+      "lines": "637",
+      "lemma": "ἐξεγένοντο · ἐπὶ προτέρων ἀνθρώπων",
+      "text": "ἐκγίγνομαι, descend from: 3pl 2aor mid. “In the time of earlier men”; ἐπί + gen, temporal."
     },
     {
       "lines": "638–639",
-      "lemma": "βίην Ἡρακληείην · θυμολέοντα",
-      "text": "βίη with an adjective and name is a heroic periphrasis, ‘the might of Heracles,’ effectively Heracles himself. ἀλλοῖον means ‘of another sort,’ contrasting him with Sarpedon. θρασυμέμνων is bold-hearted; θυμολέων, lion-hearted. Both praise Tlepolemus’ father as the superior model of Zeus’ lineage."
+      "lemma": "βίην Ἡρακληείην",
+      "text": "“The might of Heracles,” periphrasis for Heracles himself; hence masculine ἀλλοῖον and apposition ἐμὸν πατέρα."
     },
     {
-      "lines": "640–642",
-      "lemma": "ἕνεχ᾽ ἵππων · οἴῃς · ἐξαλάπαξε",
-      "text": "ἕνεκα becomes ἕνεχ᾽ before the rough breathing of ἵππων, ‘on account of Laomedon’s horses.’ οἴῃς means ‘only,’ agreeing with six ships; παυροτέροισιν means comparatively few men. ἐξαλάπαξε is aorist of ἐξαλαπάζω, ‘sacked.’ χήρωσε, from χηρόω, ‘made empty,’ describes the deserted streets after Heracles’ earlier sack of Troy."
+      "lines": "639",
+      "lemma": "θρασυμέμνονα θυμολέοντα",
+      "text": "θρασυμέμνων, bold-hearted; θυμολέων, lion-hearted: acc masc sg."
     },
     {
-      "lines": "643–644",
-      "lemma": "ἀποφθινύθουσι · ἄλκαρ",
-      "text": "ἀποφθινύθω means waste away or perish; Tlepolemus blames Sarpedon for his troops’ losses. ἄλκαρ is a neuter noun meaning defence or protection. ἔσεσθαι is future infinitive of εἰμί after ὀΐομαι, ‘I do not think you will be protection for the Trojans.’ The threat continues onto the next page."
+      "lines": "640",
+      "lemma": "ἕνεχ᾽ ἵππων",
+      "text": "ἕνεκα + gen, “for the sake of the horses”; κ becomes χ before the rough breathing after elision."
+    },
+    {
+      "lines": "641",
+      "lemma": "οἴῃς · παυροτέροισιν",
+      "text": "οἶος, alone / only: dat fem pl with νηυσί. παυρότερος, fewer: dat masc pl with ἀνδράσι."
+    },
+    {
+      "lines": "642",
+      "lemma": "ἐξαλάπαξε · χήρωσε · ἀγυιάς",
+      "text": "ἐξαλαπάζω, sack: 3sg aor. χηρόω, empty / bereave: 3sg aor. ἀγυιά, street: acc pl."
+    },
+    {
+      "lines": "643",
+      "lemma": "ἀποφθινύθουσι",
+      "text": "ἀποφθινύθω, perish / waste away: 3pl pres; Sarpedon's men are dying while he allegedly hangs back."
+    },
+    {
+      "lines": "644",
+      "lemma": "ἄλκαρ ἔσεσθαι",
+      "text": "ἄλκαρ, defence / protection (neut). εἰμί fut inf after ὀΐομαι; “I do not think you will be any protection for the Trojans.”"
     }
   ],
   "sources": [
@@ -59,5 +184,6 @@
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

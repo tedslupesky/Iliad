@@ -3,3 +3,6 @@ node_modules/
 tmp/
 preview*.jpg
 preview*.png
+dist/
+.vercel/
+.vercel

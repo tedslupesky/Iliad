@@ -1,63 +1,173 @@
 {
   "id": "5.26",
   "title": "Sarpedon recovers beneath Zeus’ tree",
-  "intro": "Athena diverts Odysseus from Sarpedon to the Lycian ranks. The wounded man pleads with Hector, then receives help from his own companions. His loss and recovery of consciousness show why ψυχή cannot always be translated as a permanently departed soul.",
+  "intro": "Odysseus' attack draws Hector forward. Sarpedon pleads for protection, then revives after the spear is removed.",
   "notes": [
     {
-      "lines": "672–675",
-      "lemma": "διώκοι … ἕλοιτο · μόρσιμον",
-      "text": "The optatives express the alternatives in Odysseus’ deliberation: pursue Zeus’ son or take the lives of more Lycians. ἕλοιτο is aorist middle of αἱρέω. μόρσιμον means allotted by fate, with impersonal ἦεν and infinitive ἀποκτάμεν, epic aorist of ἀποκτείνω. It is not his allotted role to kill Sarpedon here."
+      "lines": "672",
+      "lemma": "προτέρω · ἐριγδούποιο",
+      "text": "προτέρω, farther forward; ἐρίγδουπος, loud-thundering: gen sg with Διός."
     },
     {
-      "lines": "676–680",
-      "lemma": "τράπε θυμόν · κεν … κτάνε",
-      "text": "τράπε is unaugmented second aorist of τρέπω: Athena turns his intent toward the Lycian mass. κτάνε is an unaugmented aorist of κτείνω. With κεν and εἰ μή it forms another unreal continuation: he would have killed still more had Hector not noticed. The listed names give a compressed measure of the slaughter."
+      "lines": "672–673",
+      "lemma": "διώκοι … ἕλοιτο",
+      "text": "διώκω pres opt; αἱρέω 2aor mid opt, both 3sg. Indirect deliberation after μερμήριξε (671): whether to pursue Sarpedon or kill more Lycians."
     },
     {
-      "lines": "680–683",
-      "lemma": "κορυθαίολος · δεῖμα · ὀλοφυδνόν",
-      "text": "κορυθαίολος describes Hector’s glancing or flashing helmet. δεῖμα is terror, what his advance brings to the Greeks. χάρη is unaugmented aorist passive-form of χαίρω, ‘rejoiced,’ with dative προσιόντι, ‘at him approaching.’ ὀλοφυδνός means pitiful or plaintive, qualifying Sarpedon’s appeal."
+      "lines": "673",
+      "lemma": "ἀπὸ θυμὸν ἕλοιτο",
+      "text": "ἀπό separated from the verb; “take away the life.” τῶν πλεόνων Λυκίων: gen pl, “of the greater number of Lycians.”"
+    },
+    {
+      "lines": "674",
+      "lemma": "μεγαλήτορι · μόρσιμον ἦεν",
+      "text": "μεγαλήτωρ, great-hearted: dat sg with Odysseus. μόρσιμος, fated; impersonal “it was not allotted”; ἦεν = ἦν."
+    },
+    {
+      "lines": "675",
+      "lemma": "ἴφθιμον · ἀποκτάμεν",
+      "text": "ἴφθιμος, mighty. ἀποκτείνω, kill: epic root aor act inf -μεν, stem κτα-."
+    },
+    {
+      "lines": "676",
+      "lemma": "τώ · πληθύν · τράπε",
+      "text": "τώ, therefore. πληθύς, mass / multitude: acc sg. τρέπω, turn: unaugmented 3sg 2aor; Athena redirects his θυμός, intent."
+    },
+    {
+      "lines": "677",
+      "lemma": "εἷλεν",
+      "text": "αἱρέω, take / slay: 3sg 2aor; followed by seven victims' names through 678."
+    },
+    {
+      "lines": "679–680",
+      "lemma": "κεν … κτάνε … εἰ μή",
+      "text": "κτείνω, unaugmented 3sg aor; unreal past: “would have killed … if Hector had not noticed.” πλέονας = πλείονας, more."
+    },
+    {
+      "lines": "680",
+      "lemma": "ὀξύ · κορυθαίολος",
+      "text": "ὀξύ adv., keenly / quickly; κορυθαίολος, flashing-helmed (κόρυς + αἰόλος)."
+    },
+    {
+      "lines": "681",
+      "lemma": "κεκορυθμένος αἴθοπι χαλκῷ",
+      "text": "κορύσσω, arm: perf mid/pass ptc; αἶθοψ, gleaming: dat sg; “armed in gleaming bronze.”"
+    },
+    {
+      "lines": "682",
+      "lemma": "δεῖμα · χάρη … προσιόντι",
+      "text": "δεῖμα, terror. χαίρω: unaugmented 3sg aor pass form, “rejoiced”; + dat οἱ προσιόντι, “at his approach.”"
+    },
+    {
+      "lines": "683",
+      "lemma": "ὀλοφυδνόν",
+      "text": "Piteous / plaintive; with ἔπος, word / speech."
     },
     {
       "lines": "684–685",
-      "lemma": "ἕλωρ … κεῖσθαι · ἐπάμυνον",
-      "text": "ἕλωρ is prey or spoil, predicate to με after ἐάσῃς, ‘do not allow me to lie as prey.’ κεῖσθαι is present infinitive of κεῖμαι. ἐπάμυνον is aorist imperative of ἐπαμύνω, ‘come to my defence.’ The request is for protection against enemy possession of his body, not an assurance that Hector can heal him."
+      "lemma": "μὴ … ἕλωρ … ἐάσῃς κεῖσθαι",
+      "text": "ἐάω: 2sg aor subj, prohibition. ἕλωρ, prey / spoil (neut), predicate to με; κεῖμαι pres inf. “Do not leave me lying as prey for the Greeks.”"
     },
     {
-      "lines": "685–688",
-      "lemma": "λίποι αἰών · οἶκονδε · εὐφρανέειν",
-      "text": "λίποι is aorist optative of λείπω used as a wish or concession: life may then leave him in Troy. αἰών here is life or life-span. οἶκον δέ represents directional οἶκονδε, ‘homeward.’ εὐφρανέειν is future infinitive of εὐφραίνω, ‘gladden,’ after ἔμελλον. He imagines losing the homecoming that would delight wife and infant son."
+      "lines": "685",
+      "lemma": "ἐπάμυνον",
+      "text": "ἐπαμύνω, come to someone's defence: 2sg aor imperative."
     },
     {
-      "lines": "689–691",
-      "lemma": "παρήϊξεν · λελιημένος · ὤσαιτο",
-      "text": "παρήϊξεν is aorist of παραΐσσω, ‘darted past.’ λελιημένος is a perfect participle from λιλαιομαι, ‘eager.’ ὤσαιτο is aorist middle optative of ὠθέω in the purpose clause, ‘push back’ the Greeks; ἕλοιτο is the second purpose, killing many. Hector does not answer, but his advance serves the broader defensive need."
+      "lines": "685",
+      "lemma": "λίποι αἰών",
+      "text": "λείπω, leave: 3sg 2aor opt, wish / resigned concession; αἰών, life: “then let life leave me.”"
     },
     {
-      "lines": "692–694",
-      "lemma": "εἷσαν · φηγῷ · ὦσε θύραζε",
-      "text": "εἷσαν is aorist of ἵζω, ‘seated.’ φηγός is conventionally rendered oak in Homer, a tree sacred here to Zeus. περικαλλέϊ is uncontracted dative singular. ὦσε is aorist of ὠθέω, ‘pushed’; θύραζε, literally ‘out of doors,’ is adverbial ‘out.’ Pelagon finally removes the spear from Sarpedon’s thigh."
+      "lines": "686–688",
+      "lemma": "ἔμελλον … εὐφρανέειν",
+      "text": "μέλλω: 1sg impf, “I was destined / was going to”; εὐφραίνω, gladden: uncontracted fut act inf. Negated: he expects no homecoming."
     },
     {
-      "lines": "695–696",
-      "lemma": "λίπε ψυχή · κέχυτ᾽ ἀχλύς",
-      "text": "λίπε is unaugmented second aorist of λείπω. Here the departure of ψυχή is a faint, because consciousness returns in the next line. κέχυτο is pluperfect middle/passive of χέω, ‘had spread / poured,’ with ἀχλύς, mist, as subject. Darkness over the eyes can mark either death or a death-like loss of awareness; context decides."
+      "lines": "687",
+      "lemma": "νοστήσας · οἶκον δέ",
+      "text": "νοστέω, return home: aor ptc nom sg. οἶκον δέ = οἶκονδε, homeward (-δε directional)."
+    },
+    {
+      "lines": "688",
+      "lemma": "ἄλοχον · νήπιον",
+      "text": "ἄλοχος, wife; νήπιος, infant / very young, with υἱόν."
+    },
+    {
+      "lines": "690",
+      "lemma": "παρήϊξεν · λελιημένος",
+      "text": "παραΐσσω, dart past: 3sg aor. λελίημαι, be eager / strain: perf mid ptc nom sg; a dictionary headword in its own right."
+    },
+    {
+      "lines": "690–691",
+      "lemma": "ὄφρα … ὤσαιτο … ἕλοιτο",
+      "text": "Purpose clause, two 3sg aor mid optatives: ὠθέω, push back; αἱρέω, take [life]. πολέων = πολλῶν."
+    },
+    {
+      "lines": "693",
+      "lemma": "εἷσαν",
+      "text": "ἵζω, seat: 3pl aor act; companions set Sarpedon down."
+    },
+    {
+      "lines": "693",
+      "lemma": "περικαλλέϊ φηγῷ",
+      "text": "περικαλλής, very beautiful: uncontracted dat sg; φηγός, oak (fem), sacred to Zeus here."
+    },
+    {
+      "lines": "694",
+      "lemma": "μείλινον · ὦσε θύραζε",
+      "text": "μείλινος, ash-wood. ὠθέω, push: 3sg aor; θύραζε, out (literally out of doors); “pushed the spear out.”"
+    },
+    {
+      "lines": "695",
+      "lemma": "ἴφθιμος · ἦεν",
+      "text": "ἴφθιμος, strong / valiant; ἦεν = ἦν."
+    },
+    {
+      "lines": "696",
+      "lemma": "λίπε ψυχή",
+      "text": "λείπω, unaugmented 3sg 2aor; “his life-breath left him.” A faint here: he revives immediately."
+    },
+    {
+      "lines": "696",
+      "lemma": "κέχυτ᾽ ἀχλύς",
+      "text": "χέω, pour / spread: 3sg plup mid/pass, κέχυτο; ἀχλύς, mist / darkness, subject."
+    },
+    {
+      "lines": "697",
+      "lemma": "ἀμπνύνθη",
+      "text": "“Breathed again / revived”; 3sg aor pass form of ἄμπνυτο / ἀμπνύω, related to ἀναπνέω."
     },
     {
       "lines": "697–698",
-      "lemma": "ἀμπνύνθη · ζώγρει · κεκαφηότα",
-      "text": "ἀμπνύνθη is an epic aorist passive-form of ἀναπνέω, ‘revived / breathed again.’ ζώγρει, from ζωγρέω, here means ‘restored to life.’ κεκαφηότα is accusative perfect participle of καπύω, describing gasping or failing breath, agreeing with θυμόν. The north wind’s breath refreshes the wounded man’s own life-breath."
+      "lemma": "πνοιὴ Βορέαο … ἐπιπνείουσα",
+      "text": "πνοιή, breeze / breath; Βορέας, north wind: gen sg. ἐπιπνέω, blow upon: pres ptc nom fem sg."
     },
     {
-      "lines": "699–700",
-      "lemma": "ὑπ᾽ Ἄρηϊ καὶ Ἕκτορι · προτρέποντο",
-      "text": "The datives after ὑπό mark the pressure exerted by Ares and Hector. χαλκοκορυστής means armed in bronze. προτρέποντο is imperfect middle of προτρέπω, ‘turned forward / were driven onward,’ toward the ships. The οὔτε construction remains incomplete here and will distinguish controlled withdrawal from full flight on the next page."
+      "lines": "698",
+      "lemma": "ζώγρει · κεκαφηότα",
+      "text": "ζωγρέω, restore to life: unaugmented 3sg impf. κεκαφηώς, gasping / exhausted: perf act ptc acc masc sg with θυμόν; rare form, no ordinary present in Homer."
+    },
+    {
+      "lines": "699",
+      "lemma": "χαλκοκορυστῇ",
+      "text": "χαλκοκορυστής, bronze-armoured warrior: dat sg with Hector; ὑπό + dat, under pressure from."
+    },
+    {
+      "lines": "700",
+      "lemma": "οὔτε … προτρέποντο",
+      "text": "προτρέπομαι, turn to flight / be driven headlong: 3pl impf; negated. The second οὔτε and continuing retreat follow next page."
     }
   ],
   "sources": [
     {
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    },
+    {
+      "title": "LSJ · λελίημαι",
+      "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n62358/"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

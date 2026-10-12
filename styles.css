@@ -80,6 +80,10 @@ main:has(.with-commentary) { max-width: 1600px; }
 .commentary-text h4 { font: 18px/1.45 "Palatino Linotype", Palatino, serif; margin: 8px 0; }
 .commentary-text p { margin: 0 0 16px; }
 .commentary-entry p { margin: 0; }
+.vocabulary-notes { margin: 0; padding-left: 19px; }
+.vocabulary-notes .commentary-entry { padding: 0 0 12px 3px; border: 0; }
+.vocabulary-notes .commentary-entry::marker { color: var(--accent); }
+.vocabulary-notes strong { font-weight: 600; }
 .commentary-sources a { display: block; color: var(--accent); margin: 12px 0; font-size: 13px; }
 .with-commentary .greek-page { padding-left: 22px; padding-right: 22px; }
 .with-commentary .verses { font-size: 20px; }

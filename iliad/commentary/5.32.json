@@ -1,57 +1,177 @@
 {
   "id": "5.32",
   "title": "Diomedes and Athena wound Ares",
-  "intro": "Athena conceals herself, diverts Ares’ spear, and drives Diomedes’ weapon home. The mortal and divine contributions are carefully distinguished by the verbs. Ares’ cry and departure then expand the scene from a close-range thrust to an overwhelming sound and dark sky.",
+  "intro": "Athena deflects Ares' thrust and guides Diomedes' spear home. Ares' cry terrifies both armies.",
   "notes": [
     {
-      "lines": "839–841",
-      "lemma": "βριθοσύνῃ · λάζετο · ἔχε",
-      "text": "βριθοσύνη is weight or heaviness, dative explaining the axle’s groan from the preceding page. ἄγεν is imperfect of ἄγω, ‘carried,’ with the goddess and hero as objects. λάζετο is imperfect of λάζομαι, ‘took hold of,’ whip and reins. Athena now drives directly toward Ares."
+      "lines": "839",
+      "lemma": "βριθοσύνῃ · ἄγεν",
+      "text": "βριθοσύνη, weight: dat sg, cause of the axle's groan. ἄγω, carry: unaugmented 3sg impf; axle / chariot the subject."
     },
     {
-      "lines": "842–845",
-      "lemma": "ἐξενάριζεν · δῦνε Ἄϊδος κυνέην",
-      "text": "ἐξενάριζεν and ἐνάριζε describe Ares killing or stripping Periphas. δῦνε is unaugmented imperfect of δύνω, ‘put on,’ with Hades’ cap as object. Its function is invisibility, made explicit by μή … ἴδοι, ‘so Ares might not see her.’ ἴδοι is aorist optative of seeing after the past action."
+      "lines": "840",
+      "lemma": "λάζετο · μάστιγα · ἡνία",
+      "text": "λάζομαι, grasp: unaugmented 3sg impf. μάστιξ, whip: acc sg; ἡνία, reins: acc neut pl."
     },
     {
-      "lines": "846–849",
-      "lemma": "αὐτόθι ἔασε κεῖσθαι · ἰθύς",
-      "text": "Ares leaves Periphas lying where he killed him. ἔασε is aorist of ἐάω, ‘let,’ governing κεῖσθαι, present infinitive of κεῖμαι. ἐξαίνυτο θυμόν is the taking of his life. ἰθύς with genitive Διομήδεος means straight toward Diomedes. Ares sees the mortal opponent but not the hidden helper."
+      "lines": "841",
+      "lemma": "ἐπ᾽ Ἄρηϊ πρώτῳ ἔχε",
+      "text": "ἔχω: unaugmented 3sg impf, “drove at Ares first”; echoes the imperative at 829. μώνυχας, solid-hoofed."
     },
     {
-      "lines": "850–852",
-      "lemma": "ὠρέξατο · ὑπὲρ ζυγόν · ἑλέσθαι",
-      "text": "ὠρέξατο is aorist middle of ὀρέγω, ‘reached / thrust.’ Ares strikes first over the yoke and reins, with instrumental ἔγχεϊ. ἑλέσθαι is aorist middle infinitive of αἱρέω after μεμαώς, ‘eager to take away the life.’ The physical position of the chariot matters to the spear’s path."
+      "lines": "842",
+      "lemma": "πελώριον · ἐξενάριζεν",
+      "text": "πελώριος, huge; ἐξεναρίζω, slay / strip of armour: 3sg impf."
     },
     {
-      "lines": "853–854",
-      "lemma": "λαβοῦσα · ὦσεν · ἀϊχθῆναι",
-      "text": "λαβοῦσα is second-aorist active participle of λαμβάνω: Athena catches the spear in her hand. ὦσεν is aorist of ὠθέω, ‘pushed,’ directing it beneath or away from the chariot (ὑπέκ). ἀϊχθῆναι is aorist passive infinitive of ἀΐσσω, ‘be sent darting.’ ἐτώσιον means futile or fruitless, describing the defeated thrust."
+      "lines": "843",
+      "lemma": "ὄχ᾽ ἄριστον · ἀγλαόν",
+      "text": "ὄχα, far / by far, strengthens superlative; ἀγλαός, splendid / illustrious."
     },
     {
-      "lines": "855–857",
-      "lemma": "ὡρμᾶτο · ἐπέρεισε · κενεῶνα",
-      "text": "ὡρμᾶτο is imperfect middle of ὁρμάω, ‘made his attack’; δεύτερος marks Diomedes’ answering turn. ἐπέρεισε is aorist of ἐπερείδω, ‘pressed / drove in,’ with Athena explicitly as subject. κενεών is the flank, the lower belly or side above the belt. The mortal thrust succeeds through the goddess’ additional force."
+      "lines": "844",
+      "lemma": "μιαιφόνος",
+      "text": "Blood-stained / blood-polluted; epithet of Ares."
     },
     {
-      "lines": "857–859",
-      "lemma": "ζωννύσκετο · ἔδαψεν · σπάσεν",
-      "text": "ζωννύσκετο is iterative imperfect middle of ζώννυμι, ‘used to gird himself,’ with dative μίτρῃ, belt. ἔδαψεν is aorist of δάπτω, ‘tear, rend,’ through the god’s skin (χρόα). σπάσεν is unaugmented aorist of σπάω, ‘drew out,’ the spear. The account uses the same bodily language as mortal wounds."
+      "lines": "845",
+      "lemma": "δῦν᾽ Ἄϊδος κυνέην",
+      "text": "δύνω, put on: unaugmented 3sg impf, δῦνε; κυνέη, cap / helmet; Ἄϊδος, of Hades. This cap conceals Athena."
     },
     {
-      "lines": "859–863",
-      "lemma": "ἔβραχε · ἐννεάχιλοι / δεκάχιλοι",
-      "text": "ἔβραχε, from βράχω, means roared. The simile measures it against nine or ten thousand shouting men; it is an overwhelming approximation, not a head count. ξυνάγοντες ἔριδα Ἄρηος means joining battle, with Ares’ name also denoting warfare. Both armies feel the terror, although only one side is his immediate enemy."
+      "lines": "845",
+      "lemma": "μή μιν ἴδοι ὄβριμος Ἄρης",
+      "text": "εἶδον, see: 3sg 2aor opt, negative purpose, “so Ares would not see her.” ὄβριμος, mighty."
     },
     {
-      "lines": "862–863",
-      "lemma": "ὑπὸ τρόμος εἷλεν · δείσαντας",
-      "text": "εἷλεν is aorist of αἱρέω, ‘seized,’ with τρόμος, trembling, as subject and both armies as object. ὑπό functions with the seizing image. δείσαντας is accusative plural aorist participle of δείδω, ‘frightened.’ The cry’s effect extends beyond Diomedes’ individual victory."
+      "lines": "846",
+      "lemma": "βροτολοιγός",
+      "text": "Mortal-destroying; βροτός + λοιγός, destruction."
     },
     {
-      "lines": "864–866",
-      "lemma": "ἐρεβεννὴ ἀήρ · καύματος · δυσαέος",
-      "text": "ἀήρ is a dark atmospheric haze or cloud mass, not simply clear air. καῦμα is heat; ἐκ καύματος situates the rising storm after heat. ἀνέμοιο … ὀρνυμένοιο is a genitive absolute, ‘as a harsh-blowing wind rises.’ οἵη … τοῖος sets up the comparison between this dark phenomenon and Ares’ appearance as he ascends, completed next page."
+      "lines": "847–848",
+      "lemma": "αὐτόθ᾽ ἔασε κεῖσθαι",
+      "text": "αὐτόθι, right there; ἐάω, leave / allow: 3sg aor; κεῖμαι pres inf, lie. Ares leaves Periphas' body."
+    },
+    {
+      "lines": "848",
+      "lemma": "ἐξαίνυτο θυμόν",
+      "text": "ἐξαίνυμαι, take away: unaugmented 3sg impf mid; θυμός, life here."
+    },
+    {
+      "lines": "849",
+      "lemma": "βῆ … ἰθὺς Διομήδεος",
+      "text": "βαίνω unaugmented 3sg root aor; ἰθύς + gen, straight towards; ἱππόδαμος, horse-taming."
+    },
+    {
+      "lines": "850",
+      "lemma": "σχεδόν … ἰόντες",
+      "text": "σχεδόν, near; εἶμι, go: pres ptc nom pl. The usual formula for combatants closing."
+    },
+    {
+      "lines": "851",
+      "lemma": "πρόσθεν … ὠρέξατο",
+      "text": "πρόσθεν, first / before the other; ὀρέγω, reach / thrust: 3sg aor mid."
+    },
+    {
+      "lines": "851",
+      "lemma": "ὑπὲρ ζυγὸν ἡνία τε",
+      "text": "ὑπέρ + acc, over the yoke and reins; path of Ares' spear."
+    },
+    {
+      "lines": "852",
+      "lemma": "μεμαὼς … ἑλέσθαι",
+      "text": "μέμονα perf act ptc nom sg, eager; αἱρέω 2aor mid inf. ἀπὸ θυμόν, “take away his life.”"
+    },
+    {
+      "lines": "853",
+      "lemma": "τό γε χειρὶ λαβοῦσα",
+      "text": "τό = the spear; χείρ dat sg; λαμβάνω 2aor act ptc nom fem sg, stem λαβ-."
+    },
+    {
+      "lines": "854",
+      "lemma": "ὦσεν ὑπὲκ δίφροιο",
+      "text": "ὠθέω, push: 3sg aor; ὑπέκ + gen, out from under / away below the chariot."
+    },
+    {
+      "lines": "854",
+      "lemma": "ἐτώσιον ἀϊχθῆναι",
+      "text": "ἐτώσιος, fruitless / ineffectual, with the spear; ἀΐσσω, dart: aor pass inf, result, “to dart harmlessly away.”"
+    },
+    {
+      "lines": "855",
+      "lemma": "δεύτερος … ὡρμᾶτο",
+      "text": "δεύτερος, in his turn / second; ὁρμάομαι, charge: 3sg impf mid."
+    },
+    {
+      "lines": "856",
+      "lemma": "ἐπέρεισε",
+      "text": "ἐπερείδω, press / drive in: 3sg aor act. Athena supplies the force behind the thrust."
+    },
+    {
+      "lines": "857",
+      "lemma": "νείατον ἐς κενεῶνα",
+      "text": "νείατος, lowest; κενεών, flank / lower belly: acc sg."
+    },
+    {
+      "lines": "857",
+      "lemma": "ζωννύσκετο μίτρῃ",
+      "text": "ζώννυμι, gird: iterative impf mid; μίτρη, protective waist-band: dat sg."
+    },
+    {
+      "lines": "858",
+      "lemma": "οὖτα τυχών",
+      "text": "οὐτάω, stab: epic 3sg aor; τυγχάνω, hit: 2aor ptc nom sg; “struck him there.”"
+    },
+    {
+      "lines": "858",
+      "lemma": "χρόα … ἔδαψεν",
+      "text": "χρώς, skin / flesh: epic acc sg; δάπτω, tear / rend: 3sg aor. διά separated from the verb, “tore through.”"
+    },
+    {
+      "lines": "859",
+      "lemma": "σπάσεν · ἔβραχε",
+      "text": "σπάω, pull out: unaugmented 3sg aor. βράχω, roar: 3sg 2aor; Ares now the subject."
+    },
+    {
+      "lines": "860",
+      "lemma": "ἐννεάχιλοι … δεκάχιλοι · ἐπίαχον",
+      "text": "Nine thousand … ten thousand; ἐπιάχω, shout: unaugmented 3pl impf, “as [so many men] shout.”"
+    },
+    {
+      "lines": "861",
+      "lemma": "ἔριδα ξυνάγοντες Ἄρηος",
+      "text": "συνάγω, join: pres ptc nom pl; ξυν- = συν-. “Joining in the strife of war”; Ares also names warfare itself."
+    },
+    {
+      "lines": "862",
+      "lemma": "ὑπὸ τρόμος εἷλεν",
+      "text": "τρόμος, trembling: subject; αἱρέω 3sg 2aor, “seized”; ὑπό with the verb reinforces the seizing image."
+    },
+    {
+      "lines": "863",
+      "lemma": "δείσαντας · ἆτος πολέμοιο",
+      "text": "δείδω, fear: aor act ptc acc pl with both armies. ἆτος, insatiate, + gen “of war.”"
+    },
+    {
+      "lines": "864",
+      "lemma": "οἵη … ἐρεβεννὴ … ἀήρ",
+      "text": "“Like the dark haze…”; ἐρεβεννός, murky / Erebus-dark; ἀήρ fem here, mist / cloud-bank. τοῖος at 866 answers οἵη."
+    },
+    {
+      "lines": "865",
+      "lemma": "καύματος ἐξ",
+      "text": "καῦμα, heat: gen sg; postposed ἐξ, “out of / after heat.”"
+    },
+    {
+      "lines": "865",
+      "lemma": "ἀνέμοιο δυσαέος ὀρνυμένοιο",
+      "text": "Gen absolute: “as a harsh-blowing wind arises”; δυσαής, ill-blowing / stormy; ὄρνυμαι pres mid ptc."
+    },
+    {
+      "lines": "866",
+      "lemma": "τοῖος Τυδεΐδῃ",
+      "text": "“Such [Ares appeared] to Diomedes”; dat of observer. The verb completes the simile on the next page."
     }
   ],
   "sources": [
@@ -59,5 +179,6 @@
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

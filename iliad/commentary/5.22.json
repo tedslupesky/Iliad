@@ -1,57 +1,172 @@
 {
   "id": "5.22",
   "title": "Antilochus protects Menelaus",
-  "intro": "Ares encourages Menelaus for a hostile purpose, but Antilochus’ timely support prevents the intended duel. The pair recovers the brothers’ bodies and then kills a chariot team’s warrior and driver. Pronoun tracking matters as one pair of men replaces another.",
+  "intro": "Menelaus and Antilochus fight together. Dual endings track the paired fighters, corpses, and horses.",
   "notes": [
     {
-      "lines": "562–564",
-      "lemma": "κεκορυθμένος · ἵνα … δαμείη",
-      "text": "κεκορυθμένος is perfect middle/passive participle of κορύσσω, ‘equip, arm’; αἴθοπι χαλκῷ means gleaming bronze. δαμείη is aorist passive optative of δαμάζω in a purpose clause after past ὄτρυνεν. Ares rouses Menelaus precisely so that Aeneas may kill him: encouragement is not necessarily benevolence."
+      "lines": "562",
+      "lemma": "βῆ · πρόμαχοι",
+      "text": "βαίνω, go: unaugmented 3sg root aor. πρόμαχοι, front-rank fighters; διά + gen, “through the front ranks.”"
     },
     {
-      "lines": "565–567",
-      "lemma": "περὶ δίε · πάθοι · ἀποσφήλειε",
-      "text": "δίε is past of δίω, ‘fear’; περί intensifies concern for the leader. πάθοι is second-aorist optative of πάσχω, ‘suffer something,’ under μή. ἀποσφήλειε is aorist optative of ἀποσφάλλω, ‘frustrate / deprive,’ with σφας, ‘them,’ and genitive πόνοιο, their labour. Menelaus’ loss would undermine the expedition’s purpose."
+      "lines": "562",
+      "lemma": "κεκορυθμένος αἴθοπι χαλκῷ",
+      "text": "κορύσσω, arm: perf mid/pass ptc nom sg; αἶθοψ, gleaming / fiery: dat sg; “armed in gleaming bronze.”"
     },
     {
-      "lines": "568–571",
-      "lemma": "τὼ … ἐχέτην · παρίστατο",
-      "text": "The first dual pair is Menelaus and Aeneas, confronting one another with hands and spears. ἐχέτην is third-dual imperfect of ἔχω; μεμαῶτε is dual perfect participle of μέμονα, ‘eager.’ Antilochus then stands very close to Menelaus, changing the tactical situation from one against one to two against one."
+      "lines": "563",
+      "lemma": "σείων ἐγχείην",
+      "text": "σείω, brandish: pres act ptc; ἐγχείη, spear (acc sg)."
     },
     {
-      "lines": "571–572",
-      "lemma": "θοός περ ἐών · δύο φῶτε",
-      "text": "περ with the participle is concessive, ‘although he was a swift warrior.’ φῶτε is accusative dual of φώς, ‘man’; μένοντε is its dual participle. Aeneas does not remain when he sees the two men standing together. The narrator presents a tactical withdrawal, not a denial of his courage."
+      "lines": "563–564",
+      "lemma": "ὄτρυνεν … ἵνα … δαμείη",
+      "text": "ὀτρύνω, urge: unaugmented 3sg impf. δαμείη: 3sg 2aor pass opt of δάμνημι, “so that he might be killed.” Ares intends Menelaus' death."
     },
     {
-      "lines": "573–575",
-      "lemma": "ἔρυσαν · τὼ δειλώ · μαχέσθην",
-      "text": "ἔρυσαν is aorist of ἐρύω, ‘dragged.’ τὼ δειλώ are the two unfortunate dead brothers, accusative dual, not Menelaus and Antilochus. βαλέτην is third-dual aorist of βάλλω, ‘placed’ in companions’ hands. αὐτώ switches back to the rescuers; μαχέσθην is a dual past middle form of μάχομαι, ‘fought.’"
+      "lines": "566",
+      "lemma": "περὶ γὰρ δίε ποιμένι λαῶν",
+      "text": "“He feared greatly for the shepherd of the host”; δίω, fear: unaugmented 3sg impf; περί intensifies, dat marks the person feared for."
     },
     {
-      "lines": "576–579",
-      "lemma": "ἑλέτην · ἀτάλαντον · ἑσταότα",
-      "text": "ἑλέτην is third-dual aorist of αἱρέω, ‘slew’; the narrative credits the team before detailing each man’s act. ἀτάλαντος means ‘equal in weight / comparable,’ with dative Ἄρηϊ. ἑσταότα is epic accusative perfect participle of ἵστημι, ‘standing.’ κληΐς is the collarbone, where Menelaus’ spear strikes."
+      "lines": "567",
+      "lemma": "μή τι πάθοι",
+      "text": "“Lest he suffer some harm”; πάσχω, 3sg 2aor opt, stem παθ-."
     },
     {
-      "lines": "580–582",
-      "lemma": "ἡνίοχον θεράποντα · ἀγκῶνα",
-      "text": "ἡνίοχος is the charioteer; θεράπων marks his attendant role. Ἀτυμνιάδης is the patronymic, ‘son of Atymnius.’ ὑπέστρεφε is imperfect of ὑποστρέφω, ‘was turning back’ the horses. ἀγκών is elbow; μέσον locates the stone’s hit squarely in the joint."
+      "lines": "567",
+      "lemma": "σφας ἀποσφήλειε πόνοιο",
+      "text": "ἀποσφάλλω, frustrate / rob of: 3sg aor opt; σφας acc pl, the Greeks; gen πόνοιο, “rob them of [the fruit of] their toil.”"
+    },
+    {
+      "lines": "568–569",
+      "lemma": "ὀξυόεντα · ἐχέτην",
+      "text": "ὀξυόεις, pointed / sharp: acc neut pl with ἔγχεα. ἔχω: unaugmented 3dual impf."
+    },
+    {
+      "lines": "569",
+      "lemma": "μεμαῶτε μάχεσθαι",
+      "text": "μέμονα, be eager: perf act ptc nom dual; + inf “eager to fight.” Menelaus and Aeneas are the pair here."
+    },
+    {
+      "lines": "570",
+      "lemma": "ἄγχι παρίστατο",
+      "text": "ἄγχι, close by; παρίστημι, stand beside: unaugmented 3sg impf mid."
+    },
+    {
+      "lines": "571",
+      "lemma": "μεῖνε · θοός περ ἐών",
+      "text": "μένω, stand one's ground: unaugmented 3sg aor. περ with ptc, concessive: “swift fighter though he was.”"
+    },
+    {
+      "lines": "572",
+      "lemma": "δύο φῶτε … μένοντε",
+      "text": "φώς, man / warrior: acc dual (not φῶς, light); μένω pres ptc acc dual. The two are now Menelaus and Antilochus."
+    },
+    {
+      "lines": "573",
+      "lemma": "ἔρυσαν",
+      "text": "ἐρύω, drag: 3pl aor act; “dragged the bodies into the Greek host.”"
+    },
+    {
+      "lines": "574",
+      "lemma": "τὼ … δειλὼ βαλέτην",
+      "text": "“They laid the two hapless men…”; τώ + δειλώ acc dual, objects; βάλλω unaugmented 3dual 2aor, subject the rescuers."
+    },
+    {
+      "lines": "575",
+      "lemma": "αὐτὼ … στρεφθέντε … μαχέσθην",
+      "text": "αὐτώ nom dual; στρέφω aor pass ptc nom dual, “having turned”; μάχομαι unaugmented 3dual aor mid, “fought.”"
+    },
+    {
+      "lines": "576",
+      "lemma": "ἑλέτην · ἀτάλαντον",
+      "text": "αἱρέω, slay: unaugmented 3dual 2aor. ἀτάλαντος, equal / a match for, + dat Ἄρηϊ."
+    },
+    {
+      "lines": "577",
+      "lemma": "ἀρχόν · ἀσπιστάων",
+      "text": "ἀρχός, leader: acc sg. ἀσπιστής, shield-bearing warrior: gen pl -άων."
+    },
+    {
+      "lines": "578",
+      "lemma": "δουρικλειτός",
+      "text": "Famed for the spear; δόρυ + κλειτός."
+    },
+    {
+      "lines": "579",
+      "lemma": "ἑσταότ᾽ · νύξε",
+      "text": "ἵστημι, stand: perf act ptc acc sg, uncontracted ἑσταότα. νύσσω, stab: 3sg aor."
+    },
+    {
+      "lines": "579",
+      "lemma": "κληῗδα τυχήσας",
+      "text": "κληΐς, collarbone: acc sg; τυχέω, hit / strike: aor act ptc nom sg, “hitting the collarbone.”"
+    },
+    {
+      "lines": "580",
+      "lemma": "ἡνίοχον θεράποντα",
+      "text": "ἡνίοχος, charioteer (ἡνία, reins, + ἔχω); θεράπων, attendant: acc sg."
+    },
+    {
+      "lines": "581",
+      "lemma": "ὑπέστρεφε μώνυχας ἵππους",
+      "text": "ὑποστρέφω, turn back: 3sg impf. μῶνυξ, single-hoofed / solid-hoofed: acc pl."
+    },
+    {
+      "lines": "582",
+      "lemma": "χερμαδίῳ · ἀγκῶνα … μέσον",
+      "text": "χερμάδιον, hand-sized stone: dat sg, instrument. ἀγκών, elbow: acc sg; μέσον, “in the middle.”"
+    },
+    {
+      "lines": "582",
+      "lemma": "τυχών",
+      "text": "τυγχάνω, hit: 2aor act ptc nom sg; compare the related τυχήσας at 579."
     },
     {
       "lines": "583",
       "lemma": "ἡνία λεύκ᾽ ἐλέφαντι",
-      "text": "The reins are ‘white with ivory,’ ἐλέφαντι a dative specifying their decoration or material. ἐλέφας can mean ivory, not only an elephant. χαμαί gives the downward destination and ἐν κονίῃσιν the dust in which they fall. Loss of the reins leaves the chariot exposed to Antilochus’ next attack."
+      "text": "“Reins white with ivory”; ἡνία neut pl; ἐλέφας, ivory: dat sg (material / ornament)."
     },
     {
-      "lines": "584–586",
-      "lemma": "κόρσην · ἀσθμαίνων · κύμβαχος",
-      "text": "κόρση is the temple or side of the head. ἤλασε is aorist of ἐλαύνω, ‘struck,’ with instrumental ξίφει. ἀσθμαίνων means gasping. κύμβαχος describes a headlong fall; βρεχμός is the top or front of the head, paired with shoulders in the grotesquely inverted landing."
+      "lines": "583",
+      "lemma": "χαμαί · κονίῃσιν",
+      "text": "χαμαί, to the ground; κονίη, dust: dat pl. πέσον = ἔπεσον, 3pl 2aor of πίπτω."
     },
     {
-      "lines": "587–589",
-      "lemma": "ἑστήκει · ἀμάθοιο · πλήξαντε",
-      "text": "ἑστήκει is pluperfect of ἵστημι, ‘remained standing,’ of the body embedded headfirst. τύχε with genitive ἀμάθοιο means he encountered deep sand. πλήξαντε is dual aorist participle of πλήσσω, the horses striking him down. ἵμασε, from ἱμάσσω, ‘lashed,’ and ἤλασε, ‘drove,’ complete Antilochus’ capture of the team."
+      "lines": "584",
+      "lemma": "ἐπαΐξας · ἤλασε κόρσην",
+      "text": "ἐπαΐσσω, rush upon: aor ptc. ἐλαύνω, strike: 3sg aor. κόρση, temple / side of head: acc sg."
+    },
+    {
+      "lines": "585",
+      "lemma": "ἀσθμαίνων · εὐεργέος δίφρου",
+      "text": "ἀσθμαίνω, gasp: pres ptc. εὐεργής, well-made: gen sg with δίφρος, chariot."
+    },
+    {
+      "lines": "586",
+      "lemma": "κύμβαχος · βρεχμόν",
+      "text": "κύμβαχος, headlong / head foremost. βρεχμός, crown of head: acc sg; “on his head and shoulders.”"
+    },
+    {
+      "lines": "587",
+      "lemma": "δηθά · ἑστήκει",
+      "text": "δηθά, long / for a long time. ἵστημι: 3sg plup act, “stood fixed” in his head-first fall."
+    },
+    {
+      "lines": "587",
+      "lemma": "τύχε … ἀμάθοιο βαθείης",
+      "text": "τυγχάνω, meet with / fall into: unaugmented 3sg 2aor + gen; ἄμαθος, sand (fem), gen sg -οιο."
+    },
+    {
+      "lines": "588",
+      "lemma": "ὄφρ᾽ ἵππω πλήξαντε … βάλον",
+      "text": "“Until the two horses struck and threw him down”; ἵππω nom dual; πλήσσω aor ptc nom dual; βάλον 3pl 2aor, dual → plural shift."
+    },
+    {
+      "lines": "589",
+      "lemma": "ἵμασ᾽ · ἤλασε",
+      "text": "ἱμάσσω, lash: 3sg aor (from ἱμάς, strap). ἐλαύνω, drive: 3sg aor; τούς = the horses."
     }
   ],
   "sources": [
@@ -59,5 +174,6 @@
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

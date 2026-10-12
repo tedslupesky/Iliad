@@ -1,57 +1,177 @@
 {
   "id": "5.30",
   "title": "The absent Achilles; Athena invokes Tydeus",
-  "intro": "Hera shames the Greeks by recalling the security Achilles once gave them. Athena then uses Diomedes’ father as a goad, even though his caution follows her own earlier orders. The wound remains physically troublesome despite his extraordinary fighting strength.",
+  "intro": "Hera shames the Greeks; Athena confronts Diomedes and invokes his father's example.",
   "notes": [
     {
-      "lines": "785–786",
-      "lemma": "εἰσαμένη · χαλκεοφώνῳ · αὐδήσασκε",
-      "text": "εἰσαμένη is aorist middle participle of εἴδομαι, ‘taking the likeness of,’ with dative Stentor. χαλκεόφωνος means bronze-voiced. αὐδήσασκε is an iterative past of αὐδάω: his customary shout equals that of fifty others. The name Stentor underlies the later adjective ‘stentorian.’"
+      "lines": "785",
+      "lemma": "Στέντορι εἰσαμένη",
+      "text": "εἴδομαι, assume the likeness of: aor mid ptc nom fem sg + dat; Stentor supplies Hera's voice."
+    },
+    {
+      "lines": "785",
+      "lemma": "μεγαλήτορι χαλκεοφώνῳ",
+      "text": "μεγαλήτωρ, great-hearted; χαλκεόφωνος, bronze-voiced: dat sg."
+    },
+    {
+      "lines": "786",
+      "lemma": "αὐδήσασχ᾽",
+      "text": "αὐδάω, shout / speak: iterative aor αὐδήσασκε, “would shout”; κ → χ before rough breathing. As loud as fifty men."
     },
     {
       "lines": "787",
-      "lemma": "αἰδώς · κάκ᾽ ἐλέγχεα · εἶδος ἀγητοί",
-      "text": "αἰδώς is an exclamation, ‘shame!’ ἐλέγχεα is a neuter plural insult, ‘disgraces,’ applied to the men. εἶδος is accusative of respect, ‘in appearance’; ἀγητοί means admirable. Hera opposes impressive looks to inadequate performance, a standard shaming strategy in battle exhortation."
+      "lemma": "αἰδώς · κάκ᾽ ἐλέγχεα",
+      "text": "“Shame!”; ἔλεγχος, disgrace / reproach: neut pl used as insult, “wretched disgraces.”"
     },
     {
-      "lines": "788–791",
-      "lemma": "πωλέσκετο · οἴχνεσκον · ἐδείδισαν",
-      "text": "πωλέσκετο and οἴχνεσκον are iterative imperfects, ‘used to come’ and ‘used to go.’ ἐδείδισαν is an epic past form of δείδω, ‘feared.’ The habitual past when Achilles fought contrasts with νῦν: the Trojans now fight far from their city at the ships. His absence is made tactically palpable without bringing him into the scene."
+      "lines": "787",
+      "lemma": "εἶδος ἀγητοί",
+      "text": "“Admirable in appearance”; εἶδος acc of respect; ἀγητός, admirable. Good looks contrasted with weak performance."
     },
     {
-      "lines": "793–795",
+      "lines": "788",
+      "lemma": "ὄφρα … πωλέσκετο",
+      "text": "“As long as [Achilles] used to go”; πωλέομαι, go about / frequent: iterative impf mid."
+    },
+    {
+      "lines": "789–790",
+      "lemma": "πρὸ πυλάων … οἴχνεσκον",
+      "text": "“Used to venture outside the gates”; πύλη gen pl -άων; οἰχνέω, go: iterative impf, negated."
+    },
+    {
+      "lines": "790",
+      "lemma": "ἐδείδισαν · ὄβριμον",
+      "text": "δείδω, fear: epic 3pl plup with impf sense; ὄβριμος, mighty / formidable."
+    },
+    {
+      "lines": "791",
+      "lemma": "ἑκὰς πόλιος · κοίλῃς … νηυσί",
+      "text": "ἑκάς + gen, far from; πόλις epic gen sg. κοῖλος, hollow; ναῦς dat pl, at the ships."
+    },
+    {
+      "lines": "792",
+      "lemma": "ὄτρυνε",
+      "text": "ὀτρύνω, rouse / urge: unaugmented 3sg impf; μένος καὶ θυμόν, strength and spirit."
+    },
+    {
+      "lines": "793",
+      "lemma": "ἐπόρουσε",
+      "text": "ἐπορούω, spring / hasten towards: 3sg aor; + dat Τυδεΐδῃ."
+    },
+    {
+      "lines": "794",
+      "lemma": "ἄνακτα · ὄχεσφιν",
+      "text": "ἄναξ, lord: acc sg. ὄχεα, chariot, epic -φι(ν) form functioning as dat after παρά."
+    },
+    {
+      "lines": "795",
       "lemma": "ἕλκος ἀναψύχοντα",
-      "text": "ἀναψύχοντα is present active participle of ἀναψύχω, ‘cool, refresh,’ agreeing with Diomedes after εὗρε. ἕλκος is the wound, and the relative τό refers to the place Pandarus struck with an arrow (ἰῷ). The scene returns to the earlier injury rather than introducing a new wound."
+      "text": "ἕλκος, wound (neut); ἀναψύχω, cool / refresh: pres ptc acc sg with Diomedes."
     },
     {
-      "lines": "796–798",
-      "lemma": "τελαμῶνος · κάμνε χεῖρα · ἀπομόργνυ",
-      "text": "τελαμών is the shield strap pressing on the wounded shoulder. κάμνε is imperfect of κάμνω, ‘was weary,’ with accusative of respect χεῖρα, his arm. ἂν is shortened ἀνά with ἴσχων, ‘holding up,’ to lift the strap. ἀπομόργνυ is imperfect of ἀπομόργνυμι, ‘wiped away,’ the dark blood."
+      "lines": "795",
+      "lemma": "τό μιν βάλε … ἰῷ",
+      "text": "“Where Pandarus struck him with an arrow”; τό refers to the wound / wounded spot; ἰός, arrow: dat sg."
     },
     {
-      "lines": "799–801",
-      "lemma": "ζυγοῦ ἥψατο · οἷ … ἐοικότα",
-      "text": "ἥψατο is aorist middle of ἅπτω, ‘touched,’ with genitive ζυγοῦ, yoke. οἷ is third-person dative, ‘to himself,’ after ἐοικότα, perfect participle of ἔοικα. Athena says Tydeus fathered a son little like himself. δέμας is accusative of respect: Tydeus was small in body, but a fighter."
+      "lines": "796",
+      "lemma": "ἱδρώς · ἔτειρεν",
+      "text": "ἱδρώς, sweat (nom sg); τείρω, wear down / chafe: 3sg impf."
     },
     {
-      "lines": "802–804",
-      "lemma": "εἴασκον · ἐκπαιφάσσειν · νόσφιν",
-      "text": "εἴασκον is iterative imperfect of ἐάω, ‘allowed,’ here negated. ἐκπαιφάσσειν, from ἐκπαιφάσσω, means rush out or show impetuous aggression. νόσφιν Ἀχαιῶν means apart from the other Greeks. Tydeus went as an envoy (ἄγγελος) to the Cadmeans at Thebes, a setting that called for restraint."
+      "lines": "796–797",
+      "lemma": "πλατέος τελαμῶνος … εὐκύκλου",
+      "text": "πλατύς, broad: gen sg; τελαμών, shoulder-strap; εὔκυκλος, well-rounded, with shield."
     },
     {
-      "lines": "805–808",
-      "lemma": "δαίνυσθαι · προκαλίζετο · ἐνίκα",
-      "text": "δαίνυσθαι is present middle infinitive of δαίνυμι, ‘feast,’ after ἄνωγον, ‘I ordered.’ Instead Tydeus challenged the young Cadmeans (προκαλίζετο, imperfect middle of προκαλίζομαι) and won every contest. ἐνίκα is imperfect of νικάω; πάντα is adverbial ‘in everything.’ Athena’s anecdote makes his competitive spirit the model."
+      "lines": "797",
+      "lemma": "τῷ τείρετο · κάμνε … χεῖρα",
+      "text": "τῷ, “by this [sweat / chafing].” τείρω impf pass, “was distressed”; κάμνω impf, “was weary in the arm,” acc of respect."
     },
     {
-      "lines": "806–808",
-      "lemma": "θυμὸν ὃν · ἐπιτάρροθος ἦα",
-      "text": "ὅν is possessive ‘his own,’ not a relative pronoun here. ἐπιτάρροθος means helper or supporter. ἦα is epic first-singular imperfect of εἰμί, ‘I was.’ Athena simultaneously praises Tydeus’ independence and claims credit for his effortless victories, a characteristic tension in divine encouragement."
+      "lines": "798",
+      "lemma": "ἂν … ἴσχων",
+      "text": "ἀνά + ἴσχω, hold up: pres ptc; lifting the shield strap to relieve pressure."
     },
     {
-      "lines": "809–811",
-      "lemma": "προφρονέως · κάματος πολυᾶϊξ · δέδυκεν",
-      "text": "προφρονέως means eagerly or kindly. κέλομαι governs μάχεσθαι, ‘I urge you to fight.’ πολυᾶϊξ describes exhausting, much-rushing effort. δέδυκεν is perfect active of δύω, ‘has entered,’ with fatigue as subject and γυῖα, limbs, as object. Athena offers fatigue as one possible explanation before a harsher alternative on the next page."
+      "lines": "798",
+      "lemma": "κελαινεφές · ἀπομόργνυ",
+      "text": "κελαινεφής, dark / black-clouded: acc neut sg with blood. ἀπομόργνυμι, wipe away: unaugmented 3sg impf."
+    },
+    {
+      "lines": "799",
+      "lemma": "ἱππείου … ζυγοῦ ἥψατο",
+      "text": "ἅπτομαι, touch: 3sg aor mid + gen; ζυγόν, yoke; ἵππειος, of horses."
+    },
+    {
+      "lines": "800",
+      "lemma": "ὀλίγον οἷ … ἐοικότα",
+      "text": "“Little like himself”; ἔοικα perf act ptc acc sg + dat οἷ. ὀλίγον adv., to a small degree."
+    },
+    {
+      "lines": "800",
+      "lemma": "γείνατο",
+      "text": "γείνομαι, beget: unaugmented 3sg aor mid; subject Tydeus, object παῖδα."
+    },
+    {
+      "lines": "801",
+      "lemma": "ἔην δέμας",
+      "text": "ἔην = ἦν; δέμας, build / stature, acc of respect. Small in body, but a fighter."
+    },
+    {
+      "lines": "802",
+      "lemma": "εἴασκον",
+      "text": "ἐάω, allow: 1sg iterative impf, negated; Athena recalls forbidding combat."
+    },
+    {
+      "lines": "803",
+      "lemma": "ἐκπαιφάσσειν",
+      "text": "ἐκπαιφάσσω, rush out aggressively / bluster: pres act inf."
+    },
+    {
+      "lines": "803–804",
+      "lemma": "νόσφιν … ἄγγελος",
+      "text": "νόσφιν + gen, apart from [the Greeks]; ἄγγελος, messenger / envoy. Καδμείωνες, Cadmeans, the Thebans."
+    },
+    {
+      "lines": "805",
+      "lemma": "δαίνυσθαι … ἄνωγον … ἕκηλον",
+      "text": "δαίνυμι pres mid inf, feast; ἄνωγα, command: 1sg past here; ἕκηλος, at ease, acc sg with μιν."
+    },
+    {
+      "lines": "806",
+      "lemma": "θυμὸν … ὃν · τὸ πάρος περ",
+      "text": "ὅν possessive, “his own”; τὸ πάρος περ, “just as before,” adverbial phrase."
+    },
+    {
+      "lines": "807",
+      "lemma": "κούρους … προκαλίζετο",
+      "text": "κοῦρος, young man: acc pl. προκαλίζομαι, challenge: unaugmented 3sg impf mid."
+    },
+    {
+      "lines": "807–808",
+      "lemma": "πάντα … ἐνίκα ῥηϊδίως",
+      "text": "νικάω, win: 3sg impf; πάντα adv., “in everything”; ῥηϊδίως, easily (Attic ῥᾳδίως)."
+    },
+    {
+      "lines": "808",
+      "lemma": "ἐπιτάρροθος ἦα",
+      "text": "ἐπιτάρροθος, helper / supporter; ἦα, epic 1sg impf of εἰμί."
+    },
+    {
+      "lines": "809–810",
+      "lemma": "παρά … ἵσταμαι · προφρονέως κέλομαι",
+      "text": "“I stand beside you”; προφρονέως, eagerly / with goodwill; κέλομαι, urge / command, + inf μάχεσθαι."
+    },
+    {
+      "lines": "811",
+      "lemma": "κάματος πολυᾶϊξ",
+      "text": "κάματος, weariness; πολυᾶϊξ, impetuous / much-rushing, here the exhaustion of strenuous activity."
+    },
+    {
+      "lines": "811",
+      "lemma": "γυῖα δέδυκεν",
+      "text": "γυῖον, limb: acc pl; δύω, enter: 3sg perf act, “has entered your limbs.” σευ = σου; fatigue is the subject."
     }
   ],
   "sources": [
@@ -59,5 +179,6 @@
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

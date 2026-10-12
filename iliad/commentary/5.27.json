@@ -1,57 +1,167 @@
 {
   "id": "5.27",
   "title": "Hera intervenes; the divine chariot",
-  "intro": "The Greeks retreat steadily under Ares’ pressure. Hera treats this as a threat to the promised outcome of the war and prepares to intervene with Athena. The chariot description suspends the slaughter for an elaborate picture of divine craftsmanship.",
+  "intro": "The Greeks yield ground. Hera and Athena prepare their chariot; the vehicle's parts get individual glosses below.",
   "notes": [
     {
-      "lines": "701–702",
-      "lemma": "ἀντεφέροντο · χάζοντο · ἐπύθοντο",
-      "text": "ἀντεφέροντο is imperfect middle of ἀντιφέρω, ‘set themselves against / resist.’ Together with the previous page’s οὔτε, the passage says they neither rush back to the ships in rout nor stand to oppose the attack; they keep yielding ground. ἐπύθοντο is second-aorist middle of πυνθάνομαι, ‘learned,’ that Ares was among the Trojans."
+      "lines": "701",
+      "lemma": "ἀντεφέροντο",
+      "text": "ἀντιφέρομαι, press against / face in battle: 3pl impf; second οὔτε, “nor did they counterattack.”"
     },
     {
-      "lines": "703–707",
-      "lemma": "τίνα πρῶτον τίνα δ᾽ ὕστατον",
-      "text": "The narrator’s question introduces a kill catalogue and marks the scale of the joint assault. χάλκεος, ‘brazen,’ characterizes Ares through his weaponry. πλήξιππος means horse-driving; αἰολομίτρης describes a glittering or variegated belt. The named Orestes is a battlefield victim, not automatically Agamemnon’s famous son."
+      "lines": "702",
+      "lemma": "χάζονθ᾽ · ἐπύθοντο",
+      "text": "χάζομαι, retreat: unaugmented 3pl impf; χάζοντο elided before rough breathing. πυνθάνομαι, learn: 3pl 2aor mid, stem πυθ-."
     },
     {
-      "lines": "708–710",
-      "lemma": "ναίεσκε · μεμηλώς · κεκλιμένος",
-      "text": "ναίεσκε is iterative imperfect of ναίω, ‘used to dwell.’ μεμηλώς is perfect participle of μέλω, with genitive πλούτοιο, ‘much concerned with wealth.’ κεκλιμένος is perfect middle/passive of κλίνω, describing his situation by the lake. πίονα δῆμον means fertile territory, not ‘a fat population.’"
+      "lines": "703",
+      "lemma": "πρῶτον … ὕστατον · ἐξενάριξαν",
+      "text": "First … last; ἐξεναρίζω, slay / strip: 3pl aor. A catalogue-opening question."
     },
     {
-      "lines": "711–713",
-      "lemma": "τοὺς … Ἀργείους ὀλέκοντας",
-      "text": "τούς refers to Hector and Ares; Ἀργείους is the object of participle ὀλέκοντας, ‘destroying the Argives.’ Keeping those accusatives distinct prevents reading the Greeks as the destroyers. λευκώλενος, ‘white-armed,’ is Hera’s conventional epithet, contrasting with her impending martial action."
+      "lines": "704",
+      "lemma": "χάλκεος",
+      "text": "Bronze / brazen; Ares as bronze-armoured war-god."
     },
     {
-      "lines": "714–717",
+      "lines": "705",
+      "lemma": "ἐπὶ δέ · πλήξιππον",
+      "text": "ἐπί adv., next / in addition. πλήξιππος, horse-driving (literally horse-striking), epithet of Orestes."
+    },
+    {
+      "lines": "706",
+      "lemma": "αἰχμητήν",
+      "text": "αἰχμητής, spearman / warrior: acc sg."
+    },
+    {
+      "lines": "707",
+      "lemma": "Οἰνοπίδην · αἰολομίτρην",
+      "text": "Οἰνοπίδης, son of Oenops; αἰολομίτρης, with flashing / gleaming belt: acc sg. μίτρη is a protective waist-band."
+    },
+    {
+      "lines": "708",
+      "lemma": "ναίεσκε",
+      "text": "ναίω, dwell: iterative impf in -σκε, “used to live.”"
+    },
+    {
+      "lines": "708",
+      "lemma": "μέγα πλούτοιο μεμηλώς",
+      "text": "μέλω: perf act ptc nom sg, “greatly concerned with wealth”; πλοῦτος gen sg, object of concern."
+    },
+    {
+      "lines": "709",
+      "lemma": "λίμνῃ κεκλιμένος Κηφισίδι",
+      "text": "κλίνω, lean / lie: perf mid/pass ptc + dat; “dwelling beside Lake Cephisus” (Copais)."
+    },
+    {
+      "lines": "710",
+      "lemma": "πίονα δῆμον",
+      "text": "πίων, fat / fertile: acc masc sg; δῆμος here district / land, not “people.”"
+    },
+    {
+      "lines": "711",
+      "lemma": "λευκώλενος",
+      "text": "White-armed; λευκός + ὠλένη, arm."
+    },
+    {
+      "lines": "712",
+      "lemma": "ὀλέκοντας · ὑσμίνῃ",
+      "text": "ὀλέκω, slay: pres act ptc acc masc pl with τούς (711), Hector and Ares; ὑσμίνη, battle: dat sg."
+    },
+    {
+      "lines": "714",
+      "lemma": "ὢ πόποι · Ἀτρυτώνη",
+      "text": "ὢ πόποι, exclamation of alarm / indignation. Ἀτρυτώνη, Athena's epithet, traditionally “Unwearied”; etymology uncertain."
+    },
+    {
+      "lines": "715",
       "lemma": "ἅλιον … ὑπέστημεν",
-      "text": "ὑπέστημεν is first-plural aorist of ὑφίστημι, ‘undertook / promised.’ ἅλιον means vain or unfulfilled, predicative to μῦθον, the promise. ἐκπέρσαντα is aorist participle agreeing with Menelaus as the understood subject of ἀπονέεσθαι, ‘return home after sacking Troy.’ Hera treats continued inaction as making their promise empty."
+      "text": "ἅλιος, vain / fruitless. ὑφίστημι, undertake / promise: 1pl root aor act, “was our promise to Menelaus vain?”"
     },
     {
-      "lines": "718–721",
-      "lemma": "νῶϊ μεδώμεθα · πρέσβα",
-      "text": "νῶϊ is first-person dual, ‘we two,’ while μεδώμεθα is first-plural middle subjunctive of μέδομαι, ‘take thought for,’ with genitive θούριδος ἀλκῆς, ‘rushing valour.’ πρέσβα means venerable or elder, describing Hera. ἔντυεν is imperfect of ἐντύνω, ‘made ready,’ here harnessing the horses."
+      "lines": "716",
+      "lemma": "ἐκπέρσαντ᾽ … ἀπονέεσθαι",
+      "text": "ἐκπέρθω, sack: aor ptc acc sg (ἐκπέρσαντα); ἀπονέομαι, return home: pres inf. Menelaus is the understood subject of both."
     },
     {
-      "lines": "722–723",
-      "lemma": "ὀκτάκνημα · ἄξονι",
-      "text": "Hebe fits wheels around the chariot. ὀκτάκνημος means eight-spoked, from κνήμη, literally a shin or spoke. ἄξων is the axle, here iron. ἀμφίς repeats the placing on either side. The materials and precision distinguish divine equipment from an ordinary battlefield vehicle."
+      "lines": "716",
+      "lemma": "εὐτείχεον",
+      "text": "εὐτείχεος, well-walled: acc sg with Ἴλιον."
     },
     {
-      "lines": "724–725",
-      "lemma": "ἴτυς · ἐπίσσωτρα · προσαρηρότα",
-      "text": "ἴτυς is the wheel rim, here gold and imperishable (ἄφθιτος). ἐπίσσωτρα are the outer tyres, here bronze. προσαρηρότα is perfect active participle of προσαραρίσκω, ‘fitted firmly onto,’ agreeing with the tyres. θαῦμα ἰδέσθαι is the familiar evaluative phrase ‘a wonder to behold,’ with aorist infinitive of seeing."
+      "lines": "717",
+      "lemma": "μαίνεσθαι · οὖλον",
+      "text": "μαίνομαι, rage: pres inf; οὖλος, destructive / accursed, with Ares."
     },
     {
-      "lines": "726–728",
-      "lemma": "πλῆμναι · ἐντέταται · ἄντυγες",
-      "text": "πλῆμναι are wheel hubs, silver in material genitive ἀργύρου. ἐντέταται is perfect middle/passive of ἐντείνω, ‘is stretched / braced,’ describing the chariot body with gold and silver straps. ἄντυγες are rails or rims around that body, here a double arrangement. These parts should be distinguished from the wheel rims."
+      "lines": "718",
+      "lemma": "νῶϊ μεδώμεθα θούριδος ἀλκῆς",
+      "text": "νῶϊ, we two (nom dual); μέδομαι, take thought for: 1pl pres subj + gen, exhortation. θοῦρις, impetuous; ἀλκή, fighting strength / valour."
+    },
+    {
+      "lines": "719",
+      "lemma": "ἀπίθησε · γλαυκῶπις",
+      "text": "ἀπιθέω, disobey: 3sg aor, negated. γλαυκῶπις, bright-eyed, Athena's epithet."
+    },
+    {
+      "lines": "720",
+      "lemma": "ἐποιχομένη · χρυσάμπυκας · ἔντυεν",
+      "text": "ἐποίχομαι, go about: pres ptc. χρυσάμπυξ, gold-frontleted: acc pl (ἄμπυξ, headband). ἐντύω, equip / harness: 3sg impf."
+    },
+    {
+      "lines": "721",
+      "lemma": "πρέσβα",
+      "text": "Venerable / august; feminine adjective with θεά."
+    },
+    {
+      "lines": "722",
+      "lemma": "ὀχέεσσι · κύκλα",
+      "text": "ὄχεα, chariot: dat pl; κύκλον, wheel: acc pl, with καμπύλα, curved / round."
+    },
+    {
+      "lines": "723",
+      "lemma": "ὀκτάκνημα · ἄξονι ἀμφίς",
+      "text": "ὀκτάκνημος, eight-spoked (κνήμη, spoke); ἄξων, axle: dat sg; ἀμφίς, on either side / around."
+    },
+    {
+      "lines": "724",
+      "lemma": "ἴτυς ἄφθιτος",
+      "text": "ἴτυς, wheel-rim; ἄφθιτος, imperishable (ἀ- + φθίνω). This inner rim is gold."
+    },
+    {
+      "lines": "725",
+      "lemma": "ἐπίσσωτρα προσαρηρότα",
+      "text": "ἐπίσσωτρον, outer tire: nom neut pl; προσαραρίσκω, fit on: perf act ptc nom neut pl. Bronze tires fitted over gold rims."
+    },
+    {
+      "lines": "725",
+      "lemma": "θαῦμα ἰδέσθαι",
+      "text": "“A wonder to behold”; εἶδον, 2aor mid inf, explanatory after θαῦμα."
+    },
+    {
+      "lines": "726",
+      "lemma": "πλῆμναι … περίδρομοι",
+      "text": "πλήμνη, wheel-hub / nave: nom pl; περίδρομος, revolving / circular. ἀργύρου: gen of material; ἀμφοτέρωθεν, on both sides."
+    },
+    {
+      "lines": "727",
+      "lemma": "δίφρος · ἱμᾶσιν",
+      "text": "δίφρος, chariot body; ἱμάς, strap: dat pl. Gold and silver straps support the body."
+    },
+    {
+      "lines": "728",
+      "lemma": "ἐντέταται",
+      "text": "ἐντείνω, stretch / brace: 3sg perf mid/pass; subject δίφρος."
+    },
+    {
+      "lines": "728",
+      "lemma": "δοιαὶ … ἄντυγες",
+      "text": "δοιός, two; ἄντυξ, curved rim / rail: nom pl. The chariot's two rails, not its wheel-rims."
     },
     {
       "lines": "729",
       "lemma": "ῥυμός · πέλεν · ἐπ᾽ ἄκρῳ",
-      "text": "ῥυμός is the pole projecting from the chariot, here silver. πέλεν is epic past of πέλω, ‘was / extended.’ ἐπ᾽ ἄκρῳ, ‘at its end,’ leads into the attachment of the yoke on the next page. The construction description proceeds outward from wheels and body to pole and harness."
+      "text": "ῥυμός, chariot-pole; πέλω, be: unaugmented 3sg impf. “At its end”; the yoke is attached next page."
     }
   ],
   "sources": [
@@ -59,5 +169,6 @@
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

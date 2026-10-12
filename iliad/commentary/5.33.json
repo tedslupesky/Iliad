@@ -1,57 +1,182 @@
 {
   "id": "5.33",
   "title": "Ares complains; Zeus rebukes him",
-  "intro": "Ares takes his wound to Zeus and blames Athena’s privileged freedom. His complaint repeats language earlier used by the goddesses against him. Zeus rejects the appeal, condemning Ares’ love of conflict while also blaming Hera’s influence.",
+  "intro": "Ares complains to Zeus. Zeus rebukes his love of conflict and compares his temper to Hera's.",
   "notes": [
     {
-      "lines": "867–871",
-      "lemma": "φαίνετο · καρπαλίμως · ὠτειλῆς",
-      "text": "φαίνετο completes the storm-cloud comparison: that is how Ares appeared to Diomedes. καρπαλίμως means swiftly. ὠτειλή is a wound, here genitive after ἐκ; καταρρέον is present participle describing the flowing immortal blood. θυμὸν ἀχεύων is ‘grieving in heart,’ accusative of respect."
+      "lines": "867",
+      "lemma": "φαίνεθ᾽ · ὁμοῦ νεφέεσσιν",
+      "text": "φαίνομαι, appear: 3sg impf, φαίνετο; completes the preceding simile. ὁμοῦ + dat, together with the clouds."
     },
     {
-      "lines": "872–874",
-      "lemma": "νεμεσίζῃ · ῥίγιστα · τετληότες εἰμέν",
-      "text": "Ares opens with Hera’s own question, ‘are you not indignant?’ ῥίγιστα is neuter plural, ‘the most dreadful things,’ object of endurance. τετληότες is epic perfect participle of τλάω; with εἰμέν, ‘we are,’ it forms a periphrastic perfect sense, ‘we have endured.’ Divine suffering is again the basis of an appeal."
+      "lines": "868",
+      "lemma": "καρπαλίμως · ἵκανε",
+      "text": "καρπαλίμως, swiftly; ἱκάνω, reach: unaugmented 3sg impf."
     },
     {
-      "lines": "874–876",
-      "lemma": "ἀλλήλων ἰότητι · χάριν φέροντες",
-      "text": "ἰότης is will or purpose, dative of cause: gods suffer through one another’s designs while doing favours for men. χάριν φέρειν with dative is ‘gratify / favour.’ σοὶ πάντες μαχόμεσθα says they are all at odds with Zeus. Ares shifts blame from his own intervention to Zeus’ parentage of Athena."
+      "lines": "868",
+      "lemma": "ἕδος · αἰπύν",
+      "text": "ἕδος, seat / abode (neut); αἰπύς, steep / lofty: acc masc sg with Olympus."
+    },
+    {
+      "lines": "869",
+      "lemma": "πάρ · καθέζετο · θυμὸν ἀχεύων",
+      "text": "πάρ = παρά, beside; καθέζομαι, sit down: 3sg impf. ἀχεύω, grieve: pres ptc; θυμόν acc of respect, “grieving at heart.”"
+    },
+    {
+      "lines": "870",
+      "lemma": "ἄμβροτον … καταρρέον",
+      "text": "ἄμβροτος, immortal; καταρρέω, flow down: pres ptc acc neut sg with blood."
+    },
+    {
+      "lines": "870",
+      "lemma": "ὠτειλῆς",
+      "text": "ὠτειλή, wound: gen sg after ἐκ."
+    },
+    {
+      "lines": "871",
+      "lemma": "ὀλοφυρόμενος · προσηύδα",
+      "text": "ὀλοφύρομαι, lament / complain: pres mid ptc; προσαυδάω, address: 3sg impf."
+    },
+    {
+      "lines": "872",
+      "lemma": "νεμεσίζῃ",
+      "text": "νεμεσίζομαι, feel indignation: 2sg pres mid; repeats Hera's opening question at 757."
+    },
+    {
+      "lines": "873",
+      "lemma": "ῥίγιστα",
+      "text": "ῥίγιστος, most dreadful / chilling: acc neut pl, “the most dreadful things,” object of endurance."
+    },
+    {
+      "lines": "873",
+      "lemma": "τετληότες εἰμέν",
+      "text": "τλάω / τέτληκα, endure: perf act ptc nom pl + epic εἰμέν = ἐσμέν; “we have endured.”"
+    },
+    {
+      "lines": "874",
+      "lemma": "ἀλλήλων ἰότητι",
+      "text": "ἰότης, will / purpose: dat sg of cause, “through one another's designs.”"
+    },
+    {
+      "lines": "874",
+      "lemma": "χάριν … φέροντες",
+      "text": "“Doing favours for [men]”; χάριν φέρω + dat, gratify / oblige."
+    },
+    {
+      "lines": "875",
+      "lemma": "σοὶ … μαχόμεσθα · τέκες",
+      "text": "σοί dat, “we are all at odds with you”; μαχόμεσθα = μαχόμεθα. τίκτω, beget: unaugmented 2sg 2aor."
     },
     {
       "lines": "875–876",
-      "lemma": "οὐλομένην · ἀήσυλα · μέμηλεν",
-      "text": "οὐλομένην is a destructive or accursed epithet, a participial form associated with ὄλλυμι. ἀήσυλα means outrageous or improper deeds. μέμηλεν is perfect of μέλω, ‘are her concern,’ with dative ᾗ and neuter plural ἔργα as subject. The moral language mirrors Athena’s description of Ares as embodied evil."
+      "lemma": "ἄφρονα κούρην οὐλομένην",
+      "text": "ἄφρων, senseless / reckless: acc fem sg; κούρη, daughter; οὐλομένην, accursed / destructive, aor mid ptc form of ὄλλυμι used adjectivally."
     },
     {
-      "lines": "877–880",
-      "lemma": "δεδμήμεσθα · προτιβάλλεαι · ἀνιεῖς",
-      "text": "δεδμήμεσθα is epic first-plural perfect middle/passive of δαμάζω, ‘we are subdued,’ while ἕκαστος distributes that obedience among them. προτιβάλλεαι is epic second-singular middle of προσβάλλω, ‘oppose, confront,’ by word or deed. ἀνιεῖς is present of ἀνίημι, ‘let loose.’ Ares says Zeus lets Athena do as she pleases."
+      "lines": "876",
+      "lemma": "ᾗ … ἀήσυλα ἔργα μέμηλεν",
+      "text": "ἀήσυλος, outrageous / lawless; μέλω, be a concern: 3sg perf act + dat ᾗ, Athena. Neut pl subject, sg verb."
     },
     {
-      "lines": "880–882",
-      "lemma": "ἐγείναο · ἀΐδηλον · μαργαίνειν",
-      "text": "ἐγείναο is epic second-singular aorist middle of γείνομαι, ‘begot.’ αὐτός stresses Zeus’ own production of Athena. ἀΐδηλος means destructive or annihilating. μαργαίνειν is present infinitive of μαργαίνω, ‘rage madly,’ after ἀνέηκεν, aorist of ἀνίημι. Ares portrays Diomedes as a weapon she has unleashed."
+      "lines": "878",
+      "lemma": "ἐπιπείθονται · δεδμήμεσθα",
+      "text": "ἐπιπείθομαι, obey: 3pl pres mid. δάμνημι, subdue: epic 1pl perf pass, “we are subject”; ἕκαστος distributes over “we,” each one."
     },
     {
-      "lines": "883–884",
-      "lemma": "αὐτῷ μοι · δαίμονι ἶσος",
-      "text": "The report closely repeats Apollo’s earlier complaint: first Aphrodite’s wrist, then an attack ‘on me myself.’ The same formula now carries Ares’ wounded indignation. ‘Like a god’ remains a comparison of Diomedes’ attacking force; the action has actually depended on Athena’s concealed assistance."
+      "lines": "879",
+      "lemma": "ἔπεϊ προτιβάλλεαι … ἔργῳ",
+      "text": "ἔπος, word: dat sg; προτιβάλλομαι = προσβάλλομαι, oppose: uncontracted 2sg pres mid. “You oppose her neither in word nor deed.”"
     },
     {
-      "lines": "885–887",
-      "lemma": "ὑπήνεικαν · κε … ἔπασχον · ἔα",
-      "text": "ὑπήνεικαν is epic aorist of ὑποφέρω, ‘carried me away,’ with swift feet as subject. κεν with the past indicative gives the unreal alternative: he would have suffered long among the heaps of dead (νεκάδες). ἔα is epic first-singular imperfect of εἰμί, ‘I would have been.’ ζὼς ἀμενηνός means alive but strengthless, explicitly distinguishing divine suffering from mortal death."
+      "lines": "880",
+      "lemma": "ἀνιεῖς",
+      "text": "ἀνίημι, let loose / leave free: 2sg pres act; Athena is the object."
     },
     {
-      "lines": "888–891",
-      "lemma": "ἀλλοπρόσαλλε · μινύριζε · ἔχθιστος",
-      "text": "ἀλλοπρόσαλλε is the vocative of the same ‘fickle’ epithet Athena used. μινύριζε is present imperative of μινυρίζω, ‘whine,’ prohibited by μή. ἔχθιστος is superlative, ‘most hateful,’ with partitive θεῶν. Zeus grounds the judgment in Ares’ constant love of strife, wars, and battles."
+      "lines": "880",
+      "lemma": "ἐγείναο … ἀΐδηλον",
+      "text": "γείνομαι, beget: epic 2sg aor mid, -αο = -ω. ἀΐδηλος, destructive / annihilating, with παῖδα."
     },
     {
-      "lines": "892–894",
-      "lemma": "ἀάσχετον · ἐπιεικτόν · ἐννεσίῃσιν",
-      "text": "ἀάσχετος means unrestrainable; οὐκ ἐπιεικτός, unyielding. Zeus identifies this spirit with Hera. σπουδῇ means with difficulty or great effort, as he claims to subdue her by words. ἐννεσίῃσιν is dative plural of ἐννεσίη, prompting or counsel; he supposes her instigation lies behind Ares’ present suffering. The sentence continues next page."
+      "lines": "881",
+      "lemma": "ὑπερφίαλον",
+      "text": "ὑπερφίαλος, overbearing / arrogant: acc sg, Ares' hostile description of Diomedes."
+    },
+    {
+      "lines": "882",
+      "lemma": "μαργαίνειν ἀνέηκεν",
+      "text": "μαργαίνω, rage madly: pres inf; ἀνίημι, let loose: 3sg aor, epic uncontracted form. “Unleashed him to rage against the gods.”"
+    },
+    {
+      "lines": "883",
+      "lemma": "Κύπριδα · οὔτασε · καρπῷ",
+      "text": "Κύπρις, Aphrodite: acc sg. οὐτάω, wound: 3sg aor. καρπός, wrist: dat sg; χεῖρα, hand, acc of wounded part."
+    },
+    {
+      "lines": "884",
+      "lemma": "αὐτῷ μοι ἐπέσσυτο",
+      "text": "“He rushed at me myself”; ἐπισεύω, rush upon: 3sg aor mid; emphatic dat αὐτῷ μοι."
+    },
+    {
+      "lines": "884",
+      "lemma": "δαίμονι ἶσος",
+      "text": "“Like a god”; δαίμων, divine power / god: dat sg after ἶσος."
+    },
+    {
+      "lines": "885",
+      "lemma": "ὑπήνεικαν",
+      "text": "ὑποφέρω, carry away / out of danger: epic 3pl aor act, stem ἐνεικ-; subject πόδες, feet."
+    },
+    {
+      "lines": "885–886",
+      "lemma": "κε δηρὸν … ἔπασχον",
+      "text": "πάσχω, suffer: 1sg impf with κε, unreal consequence, “otherwise I would have suffered long”; δηρόν, for a long time; αὐτοῦ, there."
+    },
+    {
+      "lines": "886",
+      "lemma": "πήματα · νεκάδεσσιν",
+      "text": "πῆμα, misery / affliction: acc pl; νεκάς, heap of corpses: dat pl, epic -εσσι."
+    },
+    {
+      "lines": "887",
+      "lemma": "ζὼς ἀμενηνὸς ἔα",
+      "text": "ζώς, alive; ἀμενηνός, strengthless; ἔα, epic 1sg impf of εἰμί with κε, “I would have been.” An immortal can be disabled, though not killed."
+    },
+    {
+      "lines": "887",
+      "lemma": "χαλκοῖο τυπῇσι",
+      "text": "χαλκός gen sg, bronze [weapon]; τυπή, blow / stroke: dat pl, cause."
+    },
+    {
+      "lines": "888",
+      "lemma": "ὑπόδρα ἰδών",
+      "text": "“Looking grimly / from under his brows”; ὑπόδρα adv.; εἶδον 2aor ptc nom sg."
+    },
+    {
+      "lines": "889",
+      "lemma": "ἀλλοπρόσαλλε · παρεζόμενος · μινύριζε",
+      "text": "ἀλλοπρόσαλλος, fickle: voc sg. παρέζομαι, sit beside: pres ptc. μινυρίζω, whine: 2sg pres imperative, negated."
+    },
+    {
+      "lines": "890",
+      "lemma": "ἔχθιστος … θεῶν",
+      "text": "Most hateful of the gods; superlative of ἐχθρός + partitive gen."
+    },
+    {
+      "lines": "892",
+      "lemma": "ἀάσχετον οὐκ ἐπιεικτόν",
+      "text": "ἀάσχετος, unrestrainable; ἐπιεικτός, yielding / compliant, negated. Both with μένος, spirit / temper."
+    },
+    {
+      "lines": "893",
+      "lemma": "σπουδῇ δάμνημ᾽ ἐπέεσσι",
+      "text": "σπουδῇ, with difficulty; δάμνημι, subdue: 1sg pres act; ἔπος dat pl. “I can barely control her with words.”"
+    },
+    {
+      "lines": "894",
+      "lemma": "κείνης … ἐννεσίῃσιν",
+      "text": "ἐννεσίη, prompting / instigation: dat pl of cause; κείνης = ἐκείνης, Hera. Zeus attributes Ares' suffering to her urging."
     }
   ],
   "sources": [
@@ -59,5 +184,6 @@
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

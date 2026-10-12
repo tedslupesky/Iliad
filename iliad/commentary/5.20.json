@@ -1,63 +1,213 @@
 {
   "id": "5.20",
   "title": "Aeneas restored; the Greek line holds",
-  "intro": "Divine action restores Aeneas and sustains the Trojans. The Greeks remain motionless like clouds in calm weather. Agamemnon’s exhortation presents mutual shame or respect as a practical means of survival, not simply a demand for glory.",
+  "intro": "Aeneas returns; the Greeks hold their ground. Vocabulary and forms follow the Greek in reading order.",
   "notes": [
     {
-      "lines": "506–508",
-      "lemma": "ἰθύς · Τρώεσσιν ἀρήγων · ἐκράαινεν",
-      "text": "ἰθύς is adverbial, ‘straight forward,’ with the force of their hands brought to bear. ἀρήγων is present participle of ἀρήγω, ‘help,’ taking dative Τρώεσσιν. ἐκράαινεν is an epic imperfect of κραίνω, ‘accomplish’; ἐφετμαί are commands. Ares carries out Apollo’s instructions while spreading darkness over the battle."
+      "lines": "506",
+      "lemma": "μένος χειρῶν ἰθὺς φέρον",
+      "text": "“Brought the force of their hands straight forward”; ἰθύς adv., straight ahead; φέρον = ἔφερον, 3pl impf."
     },
     {
-      "lines": "509–511",
-      "lemma": "χρυσαόρου · ἀνώγει · ἀρηγών",
-      "text": "χρυσάορος means ‘of the golden sword.’ ἀνώγει is an epic past command-form of ἄνωγα, ‘order,’ governing aorist infinitive ἐγεῖραι, ‘rouse.’ οἰχομένην means Athena has departed. ἀρηγών in line 511 functions as ‘helper,’ applied to Athena; her absence creates Apollo’s opportunity."
+      "lines": "506–507",
+      "lemma": "ἀμφὶ … ἐκάλυψε μάχῃ",
+      "text": "“Spread [night] around the battle”; ἀμφί separated from the verb; μάχῃ dat sg."
     },
     {
-      "lines": "512–514",
-      "lemma": "πίονος ἀδύτοιο · ἧκε · μεθίστατο",
-      "text": "πίων literally means ‘fat,’ here rich or well-endowed, describing the sanctuary. ἧκε is aorist of ἵημι, ‘sent forth.’ μένος βάλε means he put strength in Aeneas’ breast. μεθίστατο is imperfect middle of μεθίστημι, ‘took his place among,’ with dative ἑτάροισι."
+      "lines": "507",
+      "lemma": "θοῦρος",
+      "text": "Rushing, impetuous; epithet of Ares."
     },
     {
-      "lines": "514–518",
-      "lemma": "ἀρτεμέα · μετάλλησαν · πόνος",
-      "text": "ἀρτεμέα is accusative singular of ἀρτεμής, ‘sound, unhurt,’ agreeing with Aeneas alongside ζωόν. μεταλλάω means ‘question, inquire.’ They do not stop to ask because πόνος, the urgent work or ordeal of battle, prevents it. ἔα is imperfect of ἐάω, ‘allowed.’ The restoration is accepted amid the pressure of combat."
+      "lines": "507",
+      "lemma": "Τρώεσσιν ἀρήγων",
+      "text": "“Helping the Trojans”; ἀρήγω + dat; pres act ptc nom sg; Τρώεσσιν = Τρωσί."
+    },
+    {
+      "lines": "508",
+      "lemma": "πάντοσ᾽ ἐποιχόμενος",
+      "text": "“Going everywhere”; πάντοσε, in every direction; ἐποίχομαι, range over / go about; pres mid ptc."
+    },
+    {
+      "lines": "508",
+      "lemma": "ἐκράαινεν · ἐφετμάς",
+      "text": "κραίνω, fulfil: 3sg impf, epic expanded form. ἐφετμή, command: acc pl."
+    },
+    {
+      "lines": "509",
+      "lemma": "χρυσαόρου",
+      "text": "χρυσάορος, golden-sworded; gen sg with Ἀπόλλωνος; ἄορ = sword."
+    },
+    {
+      "lines": "509–510",
+      "lemma": "ἀνώγει … ἐγεῖραι",
+      "text": "ἄνωγα, command; past indicative here. ἐγεῖραι: aor act inf of ἐγείρω, rouse; θυμόν its object."
+    },
+    {
+      "lines": "510–511",
+      "lemma": "ἴδε … οἰχομένην",
+      "text": "εἶδον, see: unaugmented 3sg aor; οἴχομαι, be gone: pres mid ptc acc fem sg with Athena. “Saw that Athena had departed.”"
+    },
+    {
+      "lines": "511",
+      "lemma": "πέλεν · ἀρηγών",
+      "text": "πέλω, be: unaugmented 3sg impf. ἀρηγών, helper (nom sg), + dat Δαναοῖσιν."
+    },
+    {
+      "lines": "512",
+      "lemma": "πίονος … ἀδύτοιο",
+      "text": "πίων, rich / well-endowed (literally fat): gen sg. ἄδυτον, inner sanctuary: epic gen sg -οιο."
+    },
+    {
+      "lines": "513",
+      "lemma": "ἧκε · βάλε",
+      "text": "ἵημι, send forth: 3sg aor act. βάλλω, put / cast: unaugmented 3sg 2aor; “put strength in his breast.”"
+    },
+    {
+      "lines": "513",
+      "lemma": "στήθεσσι · ποιμένι λαῶν",
+      "text": "στῆθος, breast: dat pl. ποιμήν, shepherd: dat sg; “shepherd of the host,” Aeneas."
+    },
+    {
+      "lines": "514",
+      "lemma": "ἑτάροισι μεθίστατο",
+      "text": "μεθίστημι, take one's place among: unaugmented 3sg impf mid; ἑτάροισι dat pl, companions."
+    },
+    {
+      "lines": "514",
+      "lemma": "τοὶ δ᾽ ἐχάρησαν",
+      "text": "τοί = οἱ, “they”; χαίρω, rejoice: 3pl aor pass in form, intransitive in sense."
+    },
+    {
+      "lines": "515",
+      "lemma": "ζωόν · ἀρτεμέα",
+      "text": "Alive; unhurt / sound. ἀρτεμής: acc masc sg, uncontracted -έα; both describe Aeneas."
+    },
+    {
+      "lines": "515",
+      "lemma": "προσιόντα",
+      "text": "πρόσειμι (εἶμι, go), approach: pres ptc acc masc sg; “coming towards them.”"
+    },
+    {
+      "lines": "516",
+      "lemma": "ἐσθλόν · μετάλλησαν",
+      "text": "ἐσθλός, good / strong. μεταλλάω, question / inquire: unaugmented 3pl aor act. γε μὲν οὔ τι: “but they did not question him at all.”"
+    },
+    {
+      "lines": "517",
+      "lemma": "ἔα · πόνος",
+      "text": "ἐάω, allow: 3sg impf, “did not allow [them to ask].” πόνος: toil, here battle's pressing work."
+    },
+    {
+      "lines": "517–518",
+      "lemma": "ἀργυρότοξος · βροτολοιγός",
+      "text": "Silver-bowed (Apollo); mortal-destroying (Ares): βροτός + λοιγός, destruction."
     },
     {
       "lines": "518",
-      "lemma": "Ἔρις ἄμοτον μεμαυῖα",
-      "text": "Ἔρις is Strife personified. μεμαυῖα is feminine nominative perfect active participle of μέμονα, the counterpart of masculine μεμαώς. ἄμοτον is adverbial, ‘insatiably, unceasingly.’ Apollo, Ares, and Strife together sustain the battle’s intensity."
+      "lemma": "ἄμοτον μεμαυῖα",
+      "text": "“Raging insatiably”; ἄμοτον adv.; μέμονα, be eager: perf act ptc nom fem sg (masc μεμαώς), with Ἔρις."
     },
     {
-      "lines": "519–521",
-      "lemma": "Αἴαντε δύω · πολεμιζέμεν · ἰωκάς",
-      "text": "Αἴαντε is nominative dual, the two Ajaxes, Telamon’s son and Oileus’ son. πολεμιζέμεν is epic present infinitive of πολεμίζω, ‘fight,’ after ὄτρυνον, ‘urged.’ ὑπεδείδισαν means ‘feared / shrank before.’ ἰωκαί are pursuits or onrushes. The troops themselves are already resolute before the leaders urge them."
+      "lines": "519–520",
+      "lemma": "Αἴαντε δύω · ὄτρυνον",
+      "text": "The two Ajaxes: nom dual. ὀτρύνω, urge on: unaugmented 3pl impf."
     },
     {
-      "lines": "522–524",
-      "lemma": "νεφέλῃσιν ἐοικότες · νηνεμίης",
-      "text": "ἐοικότες is perfect active participle of ἔοικα, ‘resembling,’ with dative νεφέλῃσιν. νηνεμίης is a genitive of circumstance or time, ‘in a calm.’ ἔστησεν is transitive aorist of ἵστημι: Zeus has set the clouds on high mountain tops. ἀτρέμας means motionless."
+      "lines": "520",
+      "lemma": "πολεμιζέμεν",
+      "text": "πολεμίζω, fight: epic pres act inf -έμεν = -ειν."
     },
     {
-      "lines": "524–527",
-      "lemma": "εὕδῃσι · ζαχρειῶν · διασκιδνᾶσιν",
-      "text": "εὕδῃσι is epic third-singular present subjunctive of εὕδω, ‘sleep,’ after ὄφρα, ‘while / so long as.’ The winds’ force sleeps. ζαχρεῖος is ‘violent’; διασκιδνᾶσιν, from διασκίδνημι, means ‘scatter apart.’ ἀέντες is present participle of ἄημι, ‘blow.’ The still clouds define the Greeks’ steadiness by contrast with potential disturbance."
+      "lines": "521",
+      "lemma": "ὑπεδείδισαν · ἰωκάς",
+      "text": "ὑποδείδω, shrink in fear before: 3pl plup with impf sense. ἰωκή, pursuit / onrush: acc pl."
     },
     {
-      "lines": "528–530",
-      "lemma": "ἀνέρες ἔστε · ἦτορ ἕλεσθε · αἰδεῖσθε",
-      "text": "ἔστε is second-plural imperative of εἰμί, ‘be men.’ ἕλεσθε is aorist middle imperative of αἱρέω, ‘take on’ a stout heart. αἰδεῖσθε is present middle imperative of αἰδέομαι, ‘feel shame before / respect.’ ἀλλήλους makes this a mutual relation among comrades, the social restraint against abandoning the line."
+      "lines": "522",
+      "lemma": "νεφέλῃσιν ἐοικότες",
+      "text": "“Like clouds”; νεφέλη dat pl; ἔοικα, resemble: perf act ptc nom masc pl + dat."
     },
     {
-      "lines": "531–532",
-      "lemma": "σόοι ἠὲ πέφανται",
-      "text": "σόοι means safe, alive. πέφανται is perfect middle/passive from the root of φένω / πέφνω, ‘slay’: ‘have been killed,’ not from φαίνω. ἠέ introduces the comparison, ‘more survive than are killed.’ The genitive phrases αἰδομένων ἀνδρῶν and φευγόντων contrast men who respect one another with men who flee; flight yields neither renown nor effective defence."
+      "lines": "523",
+      "lemma": "νηνεμίης · ἔστησεν",
+      "text": "νηνεμίη, still air: gen sg, “in a calm.” ἵστημι: 3sg transitive aor, “set [the clouds].”"
+    },
+    {
+      "lines": "523–524",
+      "lemma": "ἀκροπόλοισιν ὄρεσσιν · ἀτρέμας",
+      "text": "“On lofty mountains”; dat pl, ὄρος neuter. ἀτρέμας adv., motionless."
+    },
+    {
+      "lines": "524",
+      "lemma": "ὄφρ᾽ εὕδῃσι",
+      "text": "“While [the wind's force] sleeps”; εὕδω, 3sg pres subj, epic -ῃσι = -ῃ. Βορέαο: gen sg of Βορέας, north wind."
+    },
+    {
+      "lines": "525",
+      "lemma": "ζαχρειῶν · σκιόεντα",
+      "text": "ζαχρεῖος, violent: gen pl. σκιόεις, shadowy / dark: acc neut pl with νέφεα."
+    },
+    {
+      "lines": "526",
+      "lemma": "πνοιῇσιν λιγυρῇσι",
+      "text": "“With shrill blasts”; πνοιή + λιγυρός, dat fem pl."
+    },
+    {
+      "lines": "526",
+      "lemma": "διασκιδνᾶσιν ἀέντες",
+      "text": "διασκίδνημι, scatter: 3pl pres act; ἄημι, blow: pres act ptc nom masc pl."
+    },
+    {
+      "lines": "527",
+      "lemma": "ἔμπεδον · ἐφέβοντο",
+      "text": "ἔμπεδον adv., firmly / without moving. φέβομαι, flee in fear: 3pl impf; “did not give way.”"
+    },
+    {
+      "lines": "528",
+      "lemma": "ἀν᾽ ὅμιλον ἐφοίτα",
+      "text": "“Went to and fro through the throng”; ἀνά + acc; φοιτάω, 3sg impf."
+    },
+    {
+      "lines": "529",
+      "lemma": "ἀνέρες ἔστε",
+      "text": "“Be men”; ἀνέρες = ἄνδρες; ἔστε 2pl pres imperative of εἰμί."
+    },
+    {
+      "lines": "529",
+      "lemma": "ἄλκιμον ἦτορ ἕλεσθε",
+      "text": "“Take courage”; ἄλκιμος, stout / brave; ἦτορ, heart (neut). αἱρέω: 2pl 2aor mid imperative, stem ἑλ-."
+    },
+    {
+      "lines": "530",
+      "lemma": "αἰδεῖσθε · ὑσμίνας",
+      "text": "αἰδέομαι, respect / feel shame before: 2pl pres mid imperative, + acc ἀλλήλους. ὑσμίνη, battle: acc pl."
+    },
+    {
+      "lines": "531",
+      "lemma": "αἰδομένων ἀνδρῶν … σόοι",
+      "text": "“Among men who respect [one another], more survive”; gen pl, partitive; σόος = σῶς, safe / alive."
+    },
+    {
+      "lines": "531",
+      "lemma": "ἠὲ πέφανται",
+      "text": "“Than have been killed”; ἠέ = ἤ. πέφανται: 3pl perf pass, slay-root φεν-/φαν- (πέφνω), not φαίνω."
+    },
+    {
+      "lines": "532",
+      "lemma": "κλέος ὄρνυται · ἀλκή",
+      "text": "“Renown arises”; ὄρνυμαι, 3sg pres mid. ἀλκή, strength / effective defence. φευγόντων: “for those who flee.”"
     }
   ],
   "sources": [
     {
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    },
+    {
+      "title": "Lexicon · ὑποδείδω",
+      "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Amiddle-liddell.perseus-eng2-n33991/"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

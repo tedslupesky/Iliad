@@ -1,57 +1,187 @@
 {
   "id": "5.21",
   "title": "Aeneas’ answering victory and the twin lions",
-  "intro": "Agamemnon kills a valued Trojan, and the restored Aeneas answers by killing two brothers. Their river ancestry and lion simile expand the death notice into a family history. Here the lion comparison belongs to the victims, not the victorious attacker.",
+  "intro": "Agamemnon kills Deïcoön; Aeneas kills the twin sons of Diocles. Watch the succession of dual forms.",
   "notes": [
     {
-      "lines": "533–536",
-      "lemma": "πρόμον · Αἰνείω · ἔσκε",
-      "text": "πρόμος is a front-rank fighter or champion. Αἰνείω is an epic genitive of Aeneas, depending on ἕταρον. Περγασίδην identifies Deicoon as Pergasus’ son. ἔσκε is iterative imperfect of εἰμί, ‘used to be’; θοός with μάχεσθαι means eager or swift to fight among the foremost."
+      "lines": "533",
+      "lemma": "Ἦ · ἀκόντισε · θοῶς",
+      "text": "ἦ, “he spoke” (past of ἠμί). ἀκοντίζω, cast a javelin: 3sg aor. θοῶς, swiftly."
     },
     {
-      "lines": "535–538",
-      "lemma": "ὁμῶς … τέκεσσι · ἔρυτο · εἴσατο",
-      "text": "τέκεσσι is epic dative plural of τέκος, ‘children.’ The Trojans honoured him equally with Priam’s sons. ἔρυτο is ‘warded off,’ from the protective ἔρυμαι family, negated: the shield fails. εἴσατο is an epic aorist middle meaning ‘rushed / went,’ listed under εἴσομαι (the rushing sense) in LSJ; the bronze passes right through. It is not the ‘seemed’ sense of εἴδομαι here."
+      "lines": "533",
+      "lemma": "δουρί · πρόμον",
+      "text": "δόρυ, spear: dat sg. πρόμος, frontline fighter / champion: acc sg."
     },
     {
-      "lines": "539–540",
-      "lemma": "νειαίρῃ γαστρί · ζωστῆρος",
-      "text": "νειαίρῃ means lower or lowest, agreeing with dative γαστρί, ‘belly.’ ζωστήρ is the belt or girdle through which the spear passes. ἔλασσε is aorist of ἐλαύνω, ‘drove.’ The familiar thud and armour-clatter formula closes the kill before the opposing hero’s success begins."
+      "lines": "534–535",
+      "lemma": "Αἰνείω · Περγασίδην",
+      "text": "Αἰνείω: epic gen sg of Αἰνείας. Περγασίδης, son of Pergasus: patronymic, acc sg with Δηϊκόωντα."
     },
     {
-      "lines": "541–544",
-      "lemma": "υἷε Διοκλῆος · ἀφνειὸς βιότοιο",
-      "text": "υἷε is accusative dual, introducing Crethon and Orsilochus. Διοκλῆος is epic genitive of Diocles. ἀφνειός means wealthy, with genitive βιότοιο, ‘means of life / property.’ ἔναιεν is imperfect of ναίω, ‘lived.’ The text pauses to locate their father’s prosperous home at Pherae."
+      "lines": "535",
+      "lemma": "ὁμῶς … τέκεσσι",
+      "text": "“Equally with [Priam's] children”; τέκος, child: dat pl, epic -εσσι."
     },
     {
-      "lines": "544–549",
-      "lemma": "γένος … ἐκ ποταμοῖο · γενέσθην",
-      "text": "γένος is accusative of respect, ‘by descent,’ as the genealogy traces them to the river Alpheus. The elder Orsilochus is their grandfather; one brother bears his name. γενέσθην is third-dual aorist middle of γίγνομαι, ‘were born.’ διδυμάονε παῖδε, ‘twin children,’ and εἰδότε, ‘knowing,’ are dual forms."
+      "lines": "536",
+      "lemma": "τῖον · ἔσκε",
+      "text": "τίω, honour: unaugmented 3pl impf. ἔσκε, iterative past of εἰμί, “was / used to be.”"
     },
     {
-      "lines": "550–553",
-      "lemma": "ἡβήσαντε · ἑπέσθην · ἀρνυμένω",
-      "text": "ἡβήσαντε is dual aorist participle of ἡβάω, ‘reach young manhood.’ ἑπέσθην is third-dual aorist middle of ἕπομαι, ‘followed.’ ἀρνυμένω is dual present middle participle of ἄρνυμαι, ‘win, gain,’ here honour for the sons of Atreus. The sentence contrasts their purpose in coming with the death that overtakes them."
+      "lines": "536",
+      "lemma": "θοὸς … μάχεσθαι",
+      "text": "“Quick / eager to fight”; inf explains θοός. μετὰ πρώτοισι: among the foremost."
     },
     {
-      "lines": "551–553",
-      "lemma": "εὔπωλον · Ἀτρεΐδῃς · τέλος θανάτοιο",
-      "text": "εὔπωλος means ‘rich in good horses,’ an epithet of Troy. Ἀτρεΐδῃς is dative plural of the patronymic, clarified by Agamemnon and Menelaus. τέλος θανάτοιο is the fulfilment or consummation of death, personified as covering the pair. αὖθι means ‘there on the spot.’"
+      "lines": "537",
+      "lemma": "κρείων",
+      "text": "Ruler / lord; nom sg, epithet of Agamemnon (gen κρείοντος)."
     },
     {
-      "lines": "554–555",
-      "lemma": "οἵω … λέοντε · ἐτραφέτην",
-      "text": "οἵω and λέοντε are nominative dual, introducing the comparison of the brothers to two lions. ἐτραφέτην is third-dual second-aorist passive of τρέφω, ‘were reared.’ τάρφεσιν is dative plural of τάρφος, ‘thicket,’ and βαθείης ὕλης the dense woodland. The mother’s care echoes the preceding family history."
+      "lines": "538",
+      "lemma": "ἔρυτο",
+      "text": "ἔρυμαι, protect / ward off: unaugmented 3sg past mid; subject ἥ = shield, object ἔγχος."
     },
     {
-      "lines": "556–558",
-      "lemma": "ἴφια μῆλα · κεραΐζετον · κατέκταθεν",
-      "text": "ἴφιος means strong or sturdy; μῆλα are sheep or smaller livestock. κεραΐζετον is a dual present, ‘ravage,’ while κατέκταθεν is epic third-plural aorist passive of κατακτείνω, ‘were killed.’ The lions’ predation eventually meets human resistance. This is not a simple image of invincible heroic strength."
+      "lines": "538",
+      "lemma": "διαπρὸ … εἴσατο",
+      "text": "“The bronze went right through”; διαπρό, through and through; εἴσατο, 3sg aor mid of εἶμι, go / pass (see εἴσομαι in lexica)."
     },
     {
-      "lines": "559–561",
-      "lemma": "δαμέντε · καππεσέτην · ἐλάτῃσιν",
-      "text": "δαμέντε is dual aorist passive participle of δαμάζω, ‘subdued.’ καππεσέτην is an assimilated third-dual aorist of καταπίπτω, ‘fell down.’ ἐλάτῃσιν is dative plural of ἐλάτη, ‘fir tree,’ after ἐοικότες. The comparison shifts from living lions to tall fallen trees, and Menelaus’ pity immediately answers their collapse."
+      "lines": "539",
+      "lemma": "νειαίρῃ … γαστρί",
+      "text": "“In the lower belly”; νείαιρα, lower / lowest; γαστήρ, belly: dat sg."
+    },
+    {
+      "lines": "539",
+      "lemma": "ζωστῆρος · ἔλασσε",
+      "text": "ζωστήρ, belt / war-belt: gen sg. ἐλαύνω, drive / strike: 3sg aor, epic -σσ-."
+    },
+    {
+      "lines": "540",
+      "lemma": "δούπησεν · ἀράβησε · τεύχεα",
+      "text": "δουπέω, fall with a thud: 3sg aor. ἀραβέω, clang: 3sg aor. τεύχεα, armour (neut pl subject with sg verb)."
+    },
+    {
+      "lines": "541–542",
+      "lemma": "ἕλεν · υἷε",
+      "text": "αἱρέω, take / slay: unaugmented 3sg 2aor. υἷε: acc dual of υἱός, “the two sons.”"
+    },
+    {
+      "lines": "543",
+      "lemma": "ἔναιεν · ἐϋκτιμένῃ",
+      "text": "ναίω, dwell: 3sg impf. ἐϋκτίμενος, well-built; dat fem sg with Φηρῇ."
+    },
+    {
+      "lines": "544",
+      "lemma": "ἀφνειὸς βιότοιο",
+      "text": "“Rich in livelihood / possessions”; βίοτος gen sg -οιο. γένος: acc of respect, “by descent.”"
+    },
+    {
+      "lines": "545",
+      "lemma": "εὐρὺ ῥέει",
+      "text": "“Flows broadly”; εὐρύ adv. acc neut sg; ῥέω, flow: uncontracted 3sg pres."
+    },
+    {
+      "lines": "546",
+      "lemma": "τέκετ᾽ · πολέεσσ᾽ ἄνδρεσσιν ἄνακτα",
+      "text": "τίκτω, beget: unaugmented 3sg 2aor mid. “Lord over many men”; πολέεσσι = πολλοῖς, dat pl; ἄναξ acc sg."
+    },
+    {
+      "lines": "547",
+      "lemma": "ἔτικτε",
+      "text": "τίκτω: 3sg impf, “begot”; genealogical sequence, no need for “was begetting.”"
+    },
+    {
+      "lines": "548",
+      "lemma": "διδυμάονε παῖδε γενέσθην",
+      "text": "“Twin sons were born”; διδυμάων + παῖς, nom dual; γίγνομαι, unaugmented 3dual 2aor mid."
+    },
+    {
+      "lines": "549",
+      "lemma": "εἰδότε",
+      "text": "οἶδα, know: perf act ptc nom dual; present sense, “versed in,” + gen μάχης."
+    },
+    {
+      "lines": "550",
+      "lemma": "ἡβήσαντε",
+      "text": "ἡβάω, reach manhood: aor act ptc nom dual."
+    },
+    {
+      "lines": "550–551",
+      "lemma": "μελαινάων … νηῶν · εὔπωλον",
+      "text": "μέλας + ναῦς, gen fem pl; “on black ships.” εὔπωλος, rich in horses, with Ἴλιον."
+    },
+    {
+      "lines": "551",
+      "lemma": "ἑπέσθην",
+      "text": "ἕπομαι, follow: 3dual aor mid; ἅμα + dat, “along with the Argives.”"
+    },
+    {
+      "lines": "552–553",
+      "lemma": "Ἀτρεΐδῃς · ἀρνυμένω",
+      "text": "Ἀτρεΐδῃς: dat pl, sons of Atreus. ἄρνυμαι, win / gain: pres mid ptc nom dual; “winning honour for…”"
+    },
+    {
+      "lines": "553",
+      "lemma": "αὖθι · τέλος θανάτοιο",
+      "text": "αὖθι, there / on that spot. “The end of death,” i.e. death's consummation; τέλος subject of κάλυψεν, τώ object."
+    },
+    {
+      "lines": "554",
+      "lemma": "οἵω … λέοντε",
+      "text": "“Like two lions”; οἷος and λέων, nom dual. Answered by τοίω at 559, “such were the two.”"
+    },
+    {
+      "lines": "555",
+      "lemma": "ἐτραφέτην",
+      "text": "τρέφω, rear: 3dual 2aor pass, “were reared.” ὑπὸ μητρί: under their mother / in her care."
+    },
+    {
+      "lines": "555",
+      "lemma": "τάρφεσιν ὕλης",
+      "text": "τάρφος, thicket / dense growth: dat pl; ὕλη, woodland: gen sg."
+    },
+    {
+      "lines": "556",
+      "lemma": "ἁρπάζοντε · ἴφια μῆλα",
+      "text": "ἁρπάζω, seize / carry off: pres ptc nom dual. ἴφιος, strong / fat; μῆλα, sheep / small livestock."
+    },
+    {
+      "lines": "557",
+      "lemma": "σταθμούς · κεραΐζετον",
+      "text": "σταθμός, fold / farmstead: acc pl. κεραΐζω, ravage: unaugmented 3dual impf, epic secondary -τον."
+    },
+    {
+      "lines": "557–558",
+      "lemma": "ὄφρα … κατέκταθεν",
+      "text": "“Until they too were killed”; κατακτείνω, unaugmented 3pl aor pass. Plural verb despite the dual pair."
+    },
+    {
+      "lines": "558",
+      "lemma": "παλάμῃσι",
+      "text": "παλάμη, palm / hand: dat pl; “at men's hands.”"
+    },
+    {
+      "lines": "559",
+      "lemma": "δαμέντε",
+      "text": "δάμνημι / δαμάζω, subdue / kill: 2aor pass ptc nom dual; ὑπὸ χείρεσσιν, under / by the hands."
+    },
+    {
+      "lines": "560",
+      "lemma": "καππεσέτην",
+      "text": "καταπίπτω, fall down: unaugmented 3dual 2aor; κατ-πεσ- → καππεσ-."
+    },
+    {
+      "lines": "560",
+      "lemma": "ἐλάτῃσιν ἐοικότες ὑψηλῇσι",
+      "text": "“Like tall firs”; ἐλάτη + ὑψηλός dat fem pl; ἔοικα perf ptc nom pl. Plural participle resumes a dual subject."
+    },
+    {
+      "lines": "561",
+      "lemma": "τὼ … πεσόντ᾽ · ἐλέησεν",
+      "text": "τώ + πεσόντε: acc dual, “the two fallen men.” ἐλεέω, pity: 3sg aor. ἀρηΐφιλος, dear to Ares."
     }
   ],
   "sources": [
@@ -62,6 +192,11 @@
     {
       "title": "LSJ · εἴσομαι, rushing sense (5.538)",
       "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n31460/"
+    },
+    {
+      "title": "Lexicon · εἶμι",
+      "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n31131/"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }

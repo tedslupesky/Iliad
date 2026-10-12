@@ -1,57 +1,167 @@
 {
   "id": "5.29",
   "title": "Zeus authorizes the counterattack",
-  "intro": "Hera obtains Zeus’ consent to set Athena against Ares. The divine horses cross an immense distance, then the goddesses approach the Greek line. The change of scale—from the horizon to a cluster of fighters—brings Olympian power back into the human battle.",
+  "intro": "Zeus authorizes intervention. The goddesses descend to Troy and find Diomedes' men standing firm.",
   "notes": [
     {
-      "lines": "757–759",
-      "lemma": "νεμεσίζῃ · ὁσσάτιον καὶ οἷον",
-      "text": "νεμεσίζῃ is second-singular present middle of νεμεσίζομαι, ‘feel indignation,’ with dative Ἄρῃ. ὁσσάτιον stresses quantity, οἷον quality: how numerous and excellent a force he has destroyed. μάψ means recklessly or without purpose; οὐ κατὰ κόσμον, ‘not in due order,’ frames Ares’ violence as disorderly excess."
+      "lines": "757",
+      "lemma": "νεμεσίζῃ",
+      "text": "νεμεσίζομαι, feel indignation: 2sg pres mid; + dat Ἄρῃ, “at Ares,” and acc τάδε ἔργα, “for these deeds.”"
     },
     {
-      "lines": "759–761",
-      "lemma": "ἕκηλοι · ἀνέντες · θέμιστα",
-      "text": "ἕκηλος means at ease, untroubled. ἀνέντες is aorist active participle of ἀνίημι, ‘having let loose,’ with Ares as object. θέμις is an established right or ordinance; θέμιστα is accusative singular here. Hera contrasts her grief with Aphrodite and Apollo’s unconcern and calls Ares ignorant of proper limits."
+      "lines": "758",
+      "lemma": "ὁσσάτιον … οἷον",
+      "text": "“How numerous … how fine a [host]”; quantity then quality, both with λαόν."
+    },
+    {
+      "lines": "759",
+      "lemma": "μάψ · οὐ κατὰ κόσμον",
+      "text": "μάψ, recklessly / wantonly; “not in due order,” without proper restraint."
+    },
+    {
+      "lines": "759",
+      "lemma": "ἄχος · ἕκηλοι",
+      "text": "ἄχος, grief (neut); ἕκηλος, at ease / untroubled: nom pl with Aphrodite and Apollo."
+    },
+    {
+      "lines": "760",
+      "lemma": "τέρπονται · Κύπρις",
+      "text": "τέρπομαι, take pleasure: 3pl pres mid. Κύπρις, Cyprian goddess, Aphrodite."
+    },
+    {
+      "lines": "761",
+      "lemma": "ἀνέντες",
+      "text": "ἀνίημι, let loose: aor act ptc nom pl; Ares is its object, τοῦτον."
+    },
+    {
+      "lines": "761",
+      "lemma": "θέμιστα",
+      "text": "θέμις, established right / rule: epic acc sg; “knows no law.”"
+    },
+    {
+      "lines": "762",
+      "lemma": "κεχολώσεαι",
+      "text": "χολόω, anger: epic reduplicated fut mid, 2sg -εαι; “will you be angry with me?”"
     },
     {
       "lines": "762–763",
-      "lemma": "κεχολώσεαι · πεπληγυῖα · ἀποδίωμαι",
-      "text": "κεχολώσεαι is a reduplicated future middle of χολόω, ‘will you be angry?’ πεπληγυῖα is feminine perfect active participle of πλήσσω, ‘having struck,’ and ἀποδίωμαι is a middle subjunctive of ἀποδιώκω after αἴ κε. ἐκ μάχης gives the removal from battle. Hera seeks permission before the assault."
+      "lemma": "αἴ κεν … πεπληγυῖα … ἀποδίωμαι",
+      "text": "“If I strike … and drive him away”; πλήσσω perf act ptc nom fem sg; ἀποδίομαι, drive away: 1sg pres mid subj; ἐκ μάχης, out of battle."
     },
     {
-      "lines": "764–766",
-      "lemma": "ἄγρει · ἔπορσον · εἴωθε",
-      "text": "ἄγρει is an encouraging imperative, ‘come on.’ ἔπορσον is aorist active imperative of ἐπόρνυμι, ‘rouse / set upon,’ with Athena as object and Ares as target. εἴωθε is perfect of ἔθω, ‘is accustomed,’ governing πελάζειν, ‘bring near,’ with dative ὀδύνῃσι. Zeus remarks that Athena habitually gives Ares pain."
+      "lines": "763",
+      "lemma": "λυγρῶς",
+      "text": "Grievously / cruelly; adv. from λυγρός, painful / disastrous."
     },
     {
-      "lines": "767–769",
-      "lemma": "πετέσθην · μεσσηγύς · ἀστερόεντος",
-      "text": "πετέσθην is third-dual aorist middle of πέτομαι, ‘flew,’ with the two horses as subject. μεσσηγύς governs the two genitives, earth and starry heaven. ἀστερόεις means star-filled. The horses’ flight occupies the space between the terrestrial battlefield and the divine dwelling."
+      "lines": "764",
+      "lemma": "ἀπαμειβόμενος",
+      "text": "ἀπαμείβομαι, answer: pres mid ptc nom sg."
     },
     {
-      "lines": "770–772",
-      "lemma": "ὅσσον … τόσσον · ἠεροειδές",
-      "text": "The correlative pair measures each stride by how far a watcher can see across the hazy sea. ἠεροειδές describes the misty extent of vision. λεύσσων is present participle of λεύσσω, ‘gaze.’ οἶνοψ, ‘wine-dark,’ is the conventional sea epithet; the comparison is visual scale rather than a literal calculation of distance."
+      "lines": "765",
+      "lemma": "ἄγρει μάν · ἔπορσον",
+      "text": "“Come now, indeed”; ἐπόρνυμι, rouse / set upon: 2sg aor imperative; οἱ = upon him, Ares."
     },
     {
-      "lines": "772–774",
-      "lemma": "ἐπιθρῴσκουσι · συμβάλλετον",
-      "text": "ἐπιθρῴσκουσι is present of ἐπιθρῴσκω, ‘spring forward.’ ὑψηχής means loud-neighing. ποταμώ and ῥέοντε are accusative dual, ‘the two flowing rivers,’ while συμβάλλετον is third-dual present, ‘bring together,’ with Simois and Scamander as subjects and ῥοάς, streams, as object."
+      "lines": "765",
+      "lemma": "ἀγελείην",
+      "text": "ἀγελείη, Athena's epithet, traditionally “driver of spoil”; interpretation disputed."
     },
     {
-      "lines": "775–777",
-      "lemma": "ἠέρα … ἔχευε · ἀνέτειλε νέμεσθαι",
-      "text": "ἠέρα is accusative of ἀήρ, mist, here poured around the horses to conceal them. ἀνέτειλε is aorist of ἀνατέλλω used transitively, ‘made grow.’ The river Simois produces ambrosia for the horses νέμεσθαι, ‘to graze on.’ The landscape itself provides hospitality to the divine team."
+      "lines": "766",
+      "lemma": "εἴωθε … πελάζειν",
+      "text": "ἔθω, be accustomed: 3sg perf act + inf. πελάζω, bring near / visit with; κακῇς ὀδύνῃσι, grievous pains (dat pl)."
     },
     {
-      "lines": "778–779",
-      "lemma": "τρήρωσι πελειάσιν ἴθμαθ᾽ ὁμοῖαι",
-      "text": "πελειάδες are doves; τρήρων conventionally describes them as timid or tremulous. ἴθματα, ‘steps / gait,’ is accusative of respect after ὁμοῖαι, ‘like in their movement.’ The text makes a comparison of movement, not an explicit physical transformation into birds. ἀλεξέμεναι is epic infinitive of ἀλέξω, ‘defend,’ after μεμαυῖαι."
+      "lines": "768",
+      "lemma": "μάστιξεν · οὐκ ἀέκοντε",
+      "text": "μαστίζω, whip: 3sg aor. ἀέκων, unwilling: nom dual; litotes, “willingly.”"
     },
     {
-      "lines": "780–784",
-      "lemma": "εἰλόμενοι · λείουσιν · ἀλαπαδνόν",
-      "text": "εἰλόμενοι is aorist participle of εἴλω, ‘crowded together.’ λείουσιν is an epic dative plural of λέων, ‘lion,’ not the adjective λεῖος, ‘smooth.’ ὠμοφάγος means raw-flesh-eating. κάπροι are wild boars; ἀλαπαδνός means feeble. The clustered Greeks’ strength contrasts with the delicate dove comparison of the approaching goddesses."
+      "lines": "768",
+      "lemma": "πετέσθην",
+      "text": "πέτομαι, fly: unaugmented 3dual aor mid; subject the two horses."
+    },
+    {
+      "lines": "769",
+      "lemma": "μεσσηγὺς … ἀστερόεντος",
+      "text": "μεσσηγύς, between, + gen; ἀστερόεις, starry: gen masc sg with οὐρανοῦ."
+    },
+    {
+      "lines": "770",
+      "lemma": "ὅσσον … ἠεροειδές",
+      "text": "“As far as [a man sees] into the haze”; ἠεροειδής, misty: acc neut sg expressing extent."
+    },
+    {
+      "lines": "771",
+      "lemma": "σκοπιῇ · λεύσσων · οἴνοπα πόντον",
+      "text": "σκοπιή, lookout / height: dat sg. λεύσσω, gaze: pres ptc. οἶνοψ, wine-dark: acc sg with sea."
+    },
+    {
+      "lines": "772",
+      "lemma": "ἐπιθρῴσκουσι · ὑψηχέες",
+      "text": "ἐπιθρῴσκω, leap forward: 3pl pres. ὑψηχής, loud-neighing: nom pl. τόσσον answers ὅσσον: a whole horizon in one stride."
+    },
+    {
+      "lines": "773",
+      "lemma": "ἷξον · ποταμώ … ῥέοντε",
+      "text": "ἱκνέομαι / ἵκω, arrive: unaugmented 3pl aor. ποταμώ + ῥέοντε: acc dual, “the two flowing rivers.”"
+    },
+    {
+      "lines": "774",
+      "lemma": "ἧχι · ῥοὰς … συμβάλλετον",
+      "text": "ἧχι, where. ῥοή, stream: acc pl. συμβάλλω, bring together: 3dual pres act; Simois and Scamander mingle their waters."
+    },
+    {
+      "lines": "775–776",
+      "lemma": "ἔστησε · λύσασ᾽ ἐξ ὀχέων",
+      "text": "ἵστημι transitive 3sg aor, “halted [the horses].” λύω aor ptc nom fem sg, “unyoking”; ὄχεα, chariot."
+    },
+    {
+      "lines": "776",
+      "lemma": "ἠέρα πουλὺν ἔχευε",
+      "text": "ἀήρ, mist: acc sg; πουλύς = πολύς. χέω, pour: epic 3sg aor; concealing mist around the horses."
+    },
+    {
+      "lines": "777",
+      "lemma": "ἀμβροσίην … ἀνέτειλε νέμεσθαι",
+      "text": "ἀμβροσίη, ambrosia, divine food. ἀνατέλλω transitive 3sg aor, “made grow”; νέμω pres mid inf, “to graze on.”"
+    },
+    {
+      "lines": "778",
+      "lemma": "βάτην · τρήρωσι πελειάσιν",
+      "text": "βαίνω unaugmented 3dual root aor, “the two went.” τρήρων, timid / tremulous; πέλεια / πελειάς, dove: dat pl."
+    },
+    {
+      "lines": "778",
+      "lemma": "ἴθμαθ᾽ ὁμοῖαι",
+      "text": "ἴθματα, steps / gait: acc of respect; “like [doves] in their movement,” not necessarily transformed into birds."
+    },
+    {
+      "lines": "779",
+      "lemma": "ἀλεξέμεναι μεμαυῖαι",
+      "text": "ἀλέξω, defend: epic pres act inf; μέμονα, be eager: perf act ptc nom fem pl. ἀνδράσιν dat, the men they help."
+    },
+    {
+      "lines": "781",
+      "lemma": "ἕστασαν · βίην Διομήδεος",
+      "text": "ἵστημι, 3pl plup act, “stood.” “The might of Diomedes,” heroic periphrasis for Diomedes himself."
+    },
+    {
+      "lines": "782",
+      "lemma": "εἰλόμενοι · λείουσιν … ὠμοφάγοισιν",
+      "text": "εἴλω, crowd together: aor mid/pass ptc nom pl. λείουσιν, epic dat pl of λέων, lion; ὠμοφάγος, raw-flesh-eating."
+    },
+    {
+      "lines": "783",
+      "lemma": "συσὶ κάπροισιν · ἀλαπαδνόν",
+      "text": "σῦς, pig: dat pl; κάπρος, wild boar. ἀλαπαδνός, feeble; οὐκ ἀλαπαδνόν, “no feeble strength.”"
+    },
+    {
+      "lines": "784",
+      "lemma": "στᾶσ᾽ ἤϋσε",
+      "text": "ἵστημι root aor ptc nom fem sg; ἀΰω, shout: 3sg aor. Her assumed voice follows next page."
     }
   ],
   "sources": [
@@ -59,5 +169,6 @@
       "title": "Greek text and word lookup · Perseus, Iliad 5",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
     }
-  ]
+  ],
+  "format": "vocabulary"
 }
