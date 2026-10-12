@@ -1,0 +1,53 @@
+{
+  "id": "5.34",
+  "title": "Ares healed; the goddesses return",
+  "intro": "Zeus’ anger yields to the obligation of kinship. Ares’ recovery is almost instantaneous, illustrated by the curdling of milk, and the book closes with Hera and Athena’s successful withdrawal. The divine episode ends in restored comfort after so many irreversible mortal deaths.",
+  "notes": [
+    {
+      "lines": "895–896",
+      "lemma": "ἀνέξομαι · ἄλγε᾽ ἔχοντα · γένος",
+      "text": "ἀνέξομαι is future middle of ἀνέχω, ‘endure / tolerate,’ with accusative σε and participle ἔχοντα: Zeus will not leave him suffering for long. γένος is offspring or stock, predicate to σύ understood in ἐσσί. The reason for help is explicit parentage, not acquittal of Ares’ behaviour."
+    },
+    {
+      "lines": "897–898",
+      "lemma": "τευ ἐξ ἄλλου · γένευ · ἦσθα",
+      "text": "τευ is enclitic genitive of τις, ‘some other [god],’ with partitive θεῶν. γένευ is epic second-singular aorist middle of γίγνομαι, ‘had been born.’ The condition is contrary to fact, with κεν and imperfect ἦσθα in the consequence. ἐνέρτερος is comparative, ‘lower down than the heavenly gods,’ threatening a place beneath them rather than Olympus."
+    },
+    {
+      "lines": "899–901",
+      "lemma": "ἀνώγειν · ἰήσασθαι · ἠκέσατο",
+      "text": "ἀνώγειν is an epic third-singular past form of ἄνωγα, ‘ordered,’ not an infinitive despite -ειν. ἰήσασθαι is aorist middle infinitive of ἰάομαι, ‘heal,’ with Paeëon as the commanded agent. ἠκέσατο belongs to ἀκέομαι, also ‘heal.’ The wording repeats Dione’s account of Hades’ treatment earlier in the book."
+    },
+    {
+      "lines": "900–901",
+      "lemma": "ὀδυνήφατα φάρμακα · καταθνητός",
+      "text": "ὀδυνήφατα means pain-killing, and φάρμακα here are healing substances, not necessarily harmful drugs. πάσσων is present participle of πάσσω, ‘sprinkling / applying.’ ἐτέτυκτο is pluperfect of τεύχω with stative meaning ‘was.’ Ares is not mortal, which explains the ease and completeness of recovery."
+    },
+    {
+      "lines": "902–903",
+      "lemma": "ὀπός · συνέπηξεν · ὑγρὸν ἐόν",
+      "text": "ὀπός is plant sap or juice, traditionally understood here as fig juice used to curdle milk. συνέπηξεν is aorist of συμπήγνυμι, ‘coagulated, made set.’ ὑγρὸν ἐόν is a participial phrase describing milk while still liquid. The simile’s focus is the rapid transformation from one bodily state to another, not a claim that the healer literally uses milk."
+    },
+    {
+      "lines": "903–904",
+      "lemma": "περιτρέφεται κυκόωντι · καρπαλίμως",
+      "text": "περιτρέφεται means thickens or sets around, from περιτρέφω in this coagulating sense. κυκόωντι is an epic dative singular present participle of κυκάω, ‘stir,’ referring to the person stirring it. ὦκα and καρπαλίμως both emphasize speed. The familiar domestic process makes the otherwise extraordinary divine cure imaginable."
+    },
+    {
+      "lines": "905–906",
+      "lemma": "λοῦσεν · εἵματα ἕσσε · κύδεϊ γαίων",
+      "text": "λοῦσεν is aorist of λούω, ‘bathed.’ εἵματα are garments, accusative plural of εἷμα; ἕσσε is aorist of ἕννυμι, ‘clothed.’ κύδεϊ is uncontracted dative of κῦδος, glory or splendour, with γαίων, ‘rejoicing / exulting.’ Ares resumes a place beside Zeus, now clean, dressed, and pleased with his status."
+    },
+    {
+      "lines": "907–909",
+      "lemma": "νέοντο · Ἀλαλκομενηΐς · παύσασαι",
+      "text": "νέοντο is imperfect of νέομαι, ‘returned,’ not a form of νέος, ‘new.’ Ἀλαλκομενηΐς is Athena’s traditional epithet, associated with Alalcomenae. παύσασαι is feminine nominative plural aorist active participle of παύω, ‘having stopped’; Ἄρηα is its object and ἀνδροκτασιάων the genitive of what he is stopped from, man-slaying. Their completed purpose closes the book."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

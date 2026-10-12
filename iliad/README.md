@@ -16,6 +16,8 @@ To correct a reading, edit its text file directly; preserve one verse per Greek 
 
 ## Commentary
 
-Optional commentary lives alongside the reading texts in `commentary/5.1.json`. JSON keeps each note's verse range, Greek lemma, explanation, and reference links separate for readable rendering without a Markdown dependency. The page ID uses the same book/page convention as the Greek and English files. Add a `commentary` path to the matching manifest entry when a new page is ready; pages without it display an explicit empty state.
+Commentary lives alongside the reading texts in `commentary/5.1.json` through `commentary/5.34.json`. JSON keeps each note's verse range, Greek lemma, explanation, and reference links separate for readable rendering without a Markdown dependency. The page ID uses the same book/page convention as the Greek and English files. Add a `commentary` path to the matching manifest entry when a new page is ready; pages without it display an explicit empty state.
 
-Page 5.1 contains original explanatory notes for a returning reader of Homer, including morphology, syntax, vocabulary, and literary observations. Reference links accompany the notes. These are reading aids, not a critical apparatus; interpretive observations are distinguished from grammatical parsing.
+All 34 pages contain original explanatory notes for a returning reader of Homer, including morphology, syntax, vocabulary, and literary observations. Reference links accompany the notes. These are reading aids, not a critical apparatus; interpretive observations are distinguished from grammatical parsing.
+
+Each page was written and saved separately, with its manifest entry added immediately. The helper `scripts/save-commentary.py` accepts a new page as JSON on standard input, checks its ID and verse ranges, refuses to overwrite an existing page, then saves and registers it. Sources listed as Greek text and word lookup identify the primary text used; the explanations are original reading notes, not quotations from a published commentary.

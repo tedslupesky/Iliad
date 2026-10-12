@@ -1,0 +1,63 @@
+{
+  "id": "5.33",
+  "title": "Ares complains; Zeus rebukes him",
+  "intro": "Ares takes his wound to Zeus and blames Athena’s privileged freedom. His complaint repeats language earlier used by the goddesses against him. Zeus rejects the appeal, condemning Ares’ love of conflict while also blaming Hera’s influence.",
+  "notes": [
+    {
+      "lines": "867–871",
+      "lemma": "φαίνετο · καρπαλίμως · ὠτειλῆς",
+      "text": "φαίνετο completes the storm-cloud comparison: that is how Ares appeared to Diomedes. καρπαλίμως means swiftly. ὠτειλή is a wound, here genitive after ἐκ; καταρρέον is present participle describing the flowing immortal blood. θυμὸν ἀχεύων is ‘grieving in heart,’ accusative of respect."
+    },
+    {
+      "lines": "872–874",
+      "lemma": "νεμεσίζῃ · ῥίγιστα · τετληότες εἰμέν",
+      "text": "Ares opens with Hera’s own question, ‘are you not indignant?’ ῥίγιστα is neuter plural, ‘the most dreadful things,’ object of endurance. τετληότες is epic perfect participle of τλάω; with εἰμέν, ‘we are,’ it forms a periphrastic perfect sense, ‘we have endured.’ Divine suffering is again the basis of an appeal."
+    },
+    {
+      "lines": "874–876",
+      "lemma": "ἀλλήλων ἰότητι · χάριν φέροντες",
+      "text": "ἰότης is will or purpose, dative of cause: gods suffer through one another’s designs while doing favours for men. χάριν φέρειν with dative is ‘gratify / favour.’ σοὶ πάντες μαχόμεσθα says they are all at odds with Zeus. Ares shifts blame from his own intervention to Zeus’ parentage of Athena."
+    },
+    {
+      "lines": "875–876",
+      "lemma": "οὐλομένην · ἀήσυλα · μέμηλεν",
+      "text": "οὐλομένην is a destructive or accursed epithet, a participial form associated with ὄλλυμι. ἀήσυλα means outrageous or improper deeds. μέμηλεν is perfect of μέλω, ‘are her concern,’ with dative ᾗ and neuter plural ἔργα as subject. The moral language mirrors Athena’s description of Ares as embodied evil."
+    },
+    {
+      "lines": "877–880",
+      "lemma": "δεδμήμεσθα · προτιβάλλεαι · ἀνιεῖς",
+      "text": "δεδμήμεσθα is epic first-plural perfect middle/passive of δαμάζω, ‘we are subdued,’ while ἕκαστος distributes that obedience among them. προτιβάλλεαι is epic second-singular middle of προσβάλλω, ‘oppose, confront,’ by word or deed. ἀνιεῖς is present of ἀνίημι, ‘let loose.’ Ares says Zeus lets Athena do as she pleases."
+    },
+    {
+      "lines": "880–882",
+      "lemma": "ἐγείναο · ἀΐδηλον · μαργαίνειν",
+      "text": "ἐγείναο is epic second-singular aorist middle of γείνομαι, ‘begot.’ αὐτός stresses Zeus’ own production of Athena. ἀΐδηλος means destructive or annihilating. μαργαίνειν is present infinitive of μαργαίνω, ‘rage madly,’ after ἀνέηκεν, aorist of ἀνίημι. Ares portrays Diomedes as a weapon she has unleashed."
+    },
+    {
+      "lines": "883–884",
+      "lemma": "αὐτῷ μοι · δαίμονι ἶσος",
+      "text": "The report closely repeats Apollo’s earlier complaint: first Aphrodite’s wrist, then an attack ‘on me myself.’ The same formula now carries Ares’ wounded indignation. ‘Like a god’ remains a comparison of Diomedes’ attacking force; the action has actually depended on Athena’s concealed assistance."
+    },
+    {
+      "lines": "885–887",
+      "lemma": "ὑπήνεικαν · κε … ἔπασχον · ἔα",
+      "text": "ὑπήνεικαν is epic aorist of ὑποφέρω, ‘carried me away,’ with swift feet as subject. κεν with the past indicative gives the unreal alternative: he would have suffered long among the heaps of dead (νεκάδες). ἔα is epic first-singular imperfect of εἰμί, ‘I would have been.’ ζὼς ἀμενηνός means alive but strengthless, explicitly distinguishing divine suffering from mortal death."
+    },
+    {
+      "lines": "888–891",
+      "lemma": "ἀλλοπρόσαλλε · μινύριζε · ἔχθιστος",
+      "text": "ἀλλοπρόσαλλε is the vocative of the same ‘fickle’ epithet Athena used. μινύριζε is present imperative of μινυρίζω, ‘whine,’ prohibited by μή. ἔχθιστος is superlative, ‘most hateful,’ with partitive θεῶν. Zeus grounds the judgment in Ares’ constant love of strife, wars, and battles."
+    },
+    {
+      "lines": "892–894",
+      "lemma": "ἀάσχετον · ἐπιεικτόν · ἐννεσίῃσιν",
+      "text": "ἀάσχετος means unrestrainable; οὐκ ἐπιεικτός, unyielding. Zeus identifies this spirit with Hera. σπουδῇ means with difficulty or great effort, as he claims to subdue her by words. ἐννεσίῃσιν is dative plural of ἐννεσίη, prompting or counsel; he supposes her instigation lies behind Ares’ present suffering. The sentence continues next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

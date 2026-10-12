@@ -1,0 +1,63 @@
+{
+  "id": "5.32",
+  "title": "Diomedes and Athena wound Ares",
+  "intro": "Athena conceals herself, diverts Ares’ spear, and drives Diomedes’ weapon home. The mortal and divine contributions are carefully distinguished by the verbs. Ares’ cry and departure then expand the scene from a close-range thrust to an overwhelming sound and dark sky.",
+  "notes": [
+    {
+      "lines": "839–841",
+      "lemma": "βριθοσύνῃ · λάζετο · ἔχε",
+      "text": "βριθοσύνη is weight or heaviness, dative explaining the axle’s groan from the preceding page. ἄγεν is imperfect of ἄγω, ‘carried,’ with the goddess and hero as objects. λάζετο is imperfect of λάζομαι, ‘took hold of,’ whip and reins. Athena now drives directly toward Ares."
+    },
+    {
+      "lines": "842–845",
+      "lemma": "ἐξενάριζεν · δῦνε Ἄϊδος κυνέην",
+      "text": "ἐξενάριζεν and ἐνάριζε describe Ares killing or stripping Periphas. δῦνε is unaugmented imperfect of δύνω, ‘put on,’ with Hades’ cap as object. Its function is invisibility, made explicit by μή … ἴδοι, ‘so Ares might not see her.’ ἴδοι is aorist optative of seeing after the past action."
+    },
+    {
+      "lines": "846–849",
+      "lemma": "αὐτόθι ἔασε κεῖσθαι · ἰθύς",
+      "text": "Ares leaves Periphas lying where he killed him. ἔασε is aorist of ἐάω, ‘let,’ governing κεῖσθαι, present infinitive of κεῖμαι. ἐξαίνυτο θυμόν is the taking of his life. ἰθύς with genitive Διομήδεος means straight toward Diomedes. Ares sees the mortal opponent but not the hidden helper."
+    },
+    {
+      "lines": "850–852",
+      "lemma": "ὠρέξατο · ὑπὲρ ζυγόν · ἑλέσθαι",
+      "text": "ὠρέξατο is aorist middle of ὀρέγω, ‘reached / thrust.’ Ares strikes first over the yoke and reins, with instrumental ἔγχεϊ. ἑλέσθαι is aorist middle infinitive of αἱρέω after μεμαώς, ‘eager to take away the life.’ The physical position of the chariot matters to the spear’s path."
+    },
+    {
+      "lines": "853–854",
+      "lemma": "λαβοῦσα · ὦσεν · ἀϊχθῆναι",
+      "text": "λαβοῦσα is second-aorist active participle of λαμβάνω: Athena catches the spear in her hand. ὦσεν is aorist of ὠθέω, ‘pushed,’ directing it beneath or away from the chariot (ὑπέκ). ἀϊχθῆναι is aorist passive infinitive of ἀΐσσω, ‘be sent darting.’ ἐτώσιον means futile or fruitless, describing the defeated thrust."
+    },
+    {
+      "lines": "855–857",
+      "lemma": "ὡρμᾶτο · ἐπέρεισε · κενεῶνα",
+      "text": "ὡρμᾶτο is imperfect middle of ὁρμάω, ‘made his attack’; δεύτερος marks Diomedes’ answering turn. ἐπέρεισε is aorist of ἐπερείδω, ‘pressed / drove in,’ with Athena explicitly as subject. κενεών is the flank, the lower belly or side above the belt. The mortal thrust succeeds through the goddess’ additional force."
+    },
+    {
+      "lines": "857–859",
+      "lemma": "ζωννύσκετο · ἔδαψεν · σπάσεν",
+      "text": "ζωννύσκετο is iterative imperfect middle of ζώννυμι, ‘used to gird himself,’ with dative μίτρῃ, belt. ἔδαψεν is aorist of δάπτω, ‘tear, rend,’ through the god’s skin (χρόα). σπάσεν is unaugmented aorist of σπάω, ‘drew out,’ the spear. The account uses the same bodily language as mortal wounds."
+    },
+    {
+      "lines": "859–863",
+      "lemma": "ἔβραχε · ἐννεάχιλοι / δεκάχιλοι",
+      "text": "ἔβραχε, from βράχω, means roared. The simile measures it against nine or ten thousand shouting men; it is an overwhelming approximation, not a head count. ξυνάγοντες ἔριδα Ἄρηος means joining battle, with Ares’ name also denoting warfare. Both armies feel the terror, although only one side is his immediate enemy."
+    },
+    {
+      "lines": "862–863",
+      "lemma": "ὑπὸ τρόμος εἷλεν · δείσαντας",
+      "text": "εἷλεν is aorist of αἱρέω, ‘seized,’ with τρόμος, trembling, as subject and both armies as object. ὑπό functions with the seizing image. δείσαντας is accusative plural aorist participle of δείδω, ‘frightened.’ The cry’s effect extends beyond Diomedes’ individual victory."
+    },
+    {
+      "lines": "864–866",
+      "lemma": "ἐρεβεννὴ ἀήρ · καύματος · δυσαέος",
+      "text": "ἀήρ is a dark atmospheric haze or cloud mass, not simply clear air. καῦμα is heat; ἐκ καύματος situates the rising storm after heat. ἀνέμοιο … ὀρνυμένοιο is a genitive absolute, ‘as a harsh-blowing wind rises.’ οἵη … τοῖος sets up the comparison between this dark phenomenon and Ares’ appearance as he ascends, completed next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

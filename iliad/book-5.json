@@ -333,7 +333,8 @@
       "lineEnd": 784,
       "greekPrintedPage": 250,
       "englishPrintedPage": 251,
-      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/250/mode/2up"
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/250/mode/2up",
+      "commentary": "commentary/5.29.json"
     },
     {
       "id": "5.30",
@@ -343,7 +344,8 @@
       "lineEnd": 811,
       "greekPrintedPage": 252,
       "englishPrintedPage": 253,
-      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/252/mode/2up"
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/252/mode/2up",
+      "commentary": "commentary/5.30.json"
     },
     {
       "id": "5.31",
@@ -353,7 +355,8 @@
       "lineEnd": 838,
       "greekPrintedPage": 254,
       "englishPrintedPage": 255,
-      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/254/mode/2up"
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/254/mode/2up",
+      "commentary": "commentary/5.31.json"
     },
     {
       "id": "5.32",
@@ -363,7 +366,8 @@
       "lineEnd": 866,
       "greekPrintedPage": 256,
       "englishPrintedPage": 257,
-      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/256/mode/2up"
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/256/mode/2up",
+      "commentary": "commentary/5.32.json"
     },
     {
       "id": "5.33",
@@ -373,7 +377,8 @@
       "lineEnd": 894,
       "greekPrintedPage": 258,
       "englishPrintedPage": 259,
-      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/258/mode/2up"
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/258/mode/2up",
+      "commentary": "commentary/5.33.json"
     },
     {
       "id": "5.34",
@@ -383,7 +388,8 @@
       "lineEnd": 909,
       "greekPrintedPage": 260,
       "englishPrintedPage": 261,
-      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/260/mode/2up"
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/260/mode/2up",
+      "commentary": "commentary/5.34.json"
     }
   ]
 }

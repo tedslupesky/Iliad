@@ -1,0 +1,63 @@
+{
+  "id": "5.31",
+  "title": "Permission to attack Ares",
+  "intro": "Diomedes answers Athena’s rebuke by accurately recalling her prohibition. She now explicitly changes the terms and takes Sthenelus’ place in the chariot. This exchange is essential for understanding why the coming attack is not simply mortal defiance of a god.",
+  "notes": [
+    {
+      "lines": "812–813",
+      "lemma": "δέος ἀκήριον · Οἰνεΐδαο",
+      "text": "δέος is fear, modified by ἀκήριος, commonly understood here as spiritless or disabling. Οἰνεΐδης, ‘son of Oeneus,’ identifies Tydeus by his own father. Athena’s taunt stretches the heroic genealogy backward: cowardice would make Diomedes unworthy of that line."
+    },
+    {
+      "lines": "815–818",
+      "lemma": "γιγνώσκω σε · ἐπικεύσω · μέμνημαι",
+      "text": "Diomedes recognizes the goddess and therefore speaks candidly. ἐπικεύσω is future of ἐπικεύθω, ‘conceal.’ μέμνημαι is perfect middle/passive of μιμνήσκω with present meaning ‘remember,’ taking genitive σέων ἐφετμέων, ‘your commands.’ σέων is possessive, not the genitive personal pronoun ‘of you’ standing alone."
+    },
+    {
+      "lines": "819–821",
+      "lemma": "εἴας · ἔλθῃσι · οὐτάμεν",
+      "text": "εἴας is second-singular imperfect of ἐάω, ‘allowed,’ negated. Diomedes repeats the earlier instruction closely, including the exception for Aphrodite. ἔλθῃσι is epic aorist subjunctive of ἔρχομαι; οὐτάμεν is epic infinitive of οὐτάω used as a command. His withdrawal is presented as obedience, not loss of courage."
+    },
+    {
+      "lines": "822–824",
+      "lemma": "ἀλήμεναι · κοιρανέοντα",
+      "text": "ἀλήμεναι is an epic aorist infinitive from the gathering verb εἴλω / ἀλέω, ‘assemble, crowd together.’ It depends on ἐκέλευσα, with the other Greeks as its accusative subject. κοιρανέοντα is present participle of κοιρανέω, ‘direct, command,’ describing Ares moving through the battle. Diomedes’ exceptional sight supplies the reason for his tactical decision."
+    },
+    {
+      "lines": "826–828",
+      "lemma": "κεχαρισμένε · δείδιθι · ἐπιτάρροθος",
+      "text": "κεχαρισμένε is perfect participle of χαρίζομαι used in affectionate address. δείδιθι is a perfect imperative of δείδω, ‘fear,’ negated by μήτε. The perfect has present meaning. ἐπιτάρροθος means helper: Athena makes her own support the guarantee for the new command, extending permission beyond Aphrodite."
+    },
+    {
+      "lines": "829–830",
+      "lemma": "ἐπ᾽ Ἄρηϊ πρώτῳ · τύψον σχεδίην",
+      "text": "ἔχε means direct or drive the horses, with ἐπί plus dative marking Ares as the first target. τύψον is aorist imperative of τύπτω, ‘strike.’ σχεδίην is adverbial ‘at close quarters.’ ἅζεο is uncontracted middle imperative of ἅζομαι, ‘stand in awe,’ negated: Diomedes is now told not to shrink before Ares."
+    },
+    {
+      "lines": "831",
+      "lemma": "τυκτὸν κακόν · ἀλλοπρόσαλλον",
+      "text": "τυκτὸν κακόν is ‘a made / embodied evil,’ a strongly contemptuous description. ἀλλοπρόσαλλος means shifting from one side to another, fickle. The epithet prepares Athena’s accusation that Ares has changed allegiance. These are the hostile speaker’s descriptions, not neutral labels for all aspects of his divinity."
+    },
+    {
+      "lines": "832–834",
+      "lemma": "στεῦτο · μαχήσεσθαι / ἀρήξειν · λέλασται",
+      "text": "στεῦτο, from στεῦμαι, means ‘asserted, promised.’ The future infinitives contrast fighting against the Trojans with helping the Argives. λέλασται is perfect middle/passive of λανθάνομαι / λήθομαι, ‘has forgotten,’ taking genitive τῶν, his earlier promises. πρῴην means recently or earlier, set against νῦν."
+    },
+    {
+      "lines": "835–836",
+      "lemma": "ὦσε … ἐρύσασα · ἐμμαπέως",
+      "text": "ὦσε is aorist of ὠθέω, ‘pushed,’ with χαμᾶζε, to the ground. ἐρύσασα is aorist active participle of ἐρύω, ‘pulling,’ with πάλιν, back. Athena physically removes Sthenelus, who springs out ἐμμαπέως, promptly or eagerly. The driver’s substitution is practical preparation for divine control of the attack."
+    },
+    {
+      "lines": "837–838",
+      "lemma": "παραὶ Διομήδεα · ἔβραχε · φήγινος",
+      "text": "παραί is epic παρά, here beside Diomedes. ἐμμεμαυῖα is feminine perfect participle, ‘eager.’ ἔβραχε is aorist of βράχω, ‘creaked / roared,’ as the axle takes the weight. φήγινος means made of the wood of the φηγός, conventionally oak. The divine passenger is made physically substantial through the chariot’s sound."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "5.29",
+  "title": "Zeus authorizes the counterattack",
+  "intro": "Hera obtains Zeus’ consent to set Athena against Ares. The divine horses cross an immense distance, then the goddesses approach the Greek line. The change of scale—from the horizon to a cluster of fighters—brings Olympian power back into the human battle.",
+  "notes": [
+    {
+      "lines": "757–759",
+      "lemma": "νεμεσίζῃ · ὁσσάτιον καὶ οἷον",
+      "text": "νεμεσίζῃ is second-singular present middle of νεμεσίζομαι, ‘feel indignation,’ with dative Ἄρῃ. ὁσσάτιον stresses quantity, οἷον quality: how numerous and excellent a force he has destroyed. μάψ means recklessly or without purpose; οὐ κατὰ κόσμον, ‘not in due order,’ frames Ares’ violence as disorderly excess."
+    },
+    {
+      "lines": "759–761",
+      "lemma": "ἕκηλοι · ἀνέντες · θέμιστα",
+      "text": "ἕκηλος means at ease, untroubled. ἀνέντες is aorist active participle of ἀνίημι, ‘having let loose,’ with Ares as object. θέμις is an established right or ordinance; θέμιστα is accusative singular here. Hera contrasts her grief with Aphrodite and Apollo’s unconcern and calls Ares ignorant of proper limits."
+    },
+    {
+      "lines": "762–763",
+      "lemma": "κεχολώσεαι · πεπληγυῖα · ἀποδίωμαι",
+      "text": "κεχολώσεαι is a reduplicated future middle of χολόω, ‘will you be angry?’ πεπληγυῖα is feminine perfect active participle of πλήσσω, ‘having struck,’ and ἀποδίωμαι is a middle subjunctive of ἀποδιώκω after αἴ κε. ἐκ μάχης gives the removal from battle. Hera seeks permission before the assault."
+    },
+    {
+      "lines": "764–766",
+      "lemma": "ἄγρει · ἔπορσον · εἴωθε",
+      "text": "ἄγρει is an encouraging imperative, ‘come on.’ ἔπορσον is aorist active imperative of ἐπόρνυμι, ‘rouse / set upon,’ with Athena as object and Ares as target. εἴωθε is perfect of ἔθω, ‘is accustomed,’ governing πελάζειν, ‘bring near,’ with dative ὀδύνῃσι. Zeus remarks that Athena habitually gives Ares pain."
+    },
+    {
+      "lines": "767–769",
+      "lemma": "πετέσθην · μεσσηγύς · ἀστερόεντος",
+      "text": "πετέσθην is third-dual aorist middle of πέτομαι, ‘flew,’ with the two horses as subject. μεσσηγύς governs the two genitives, earth and starry heaven. ἀστερόεις means star-filled. The horses’ flight occupies the space between the terrestrial battlefield and the divine dwelling."
+    },
+    {
+      "lines": "770–772",
+      "lemma": "ὅσσον … τόσσον · ἠεροειδές",
+      "text": "The correlative pair measures each stride by how far a watcher can see across the hazy sea. ἠεροειδές describes the misty extent of vision. λεύσσων is present participle of λεύσσω, ‘gaze.’ οἶνοψ, ‘wine-dark,’ is the conventional sea epithet; the comparison is visual scale rather than a literal calculation of distance."
+    },
+    {
+      "lines": "772–774",
+      "lemma": "ἐπιθρῴσκουσι · συμβάλλετον",
+      "text": "ἐπιθρῴσκουσι is present of ἐπιθρῴσκω, ‘spring forward.’ ὑψηχής means loud-neighing. ποταμώ and ῥέοντε are accusative dual, ‘the two flowing rivers,’ while συμβάλλετον is third-dual present, ‘bring together,’ with Simois and Scamander as subjects and ῥοάς, streams, as object."
+    },
+    {
+      "lines": "775–777",
+      "lemma": "ἠέρα … ἔχευε · ἀνέτειλε νέμεσθαι",
+      "text": "ἠέρα is accusative of ἀήρ, mist, here poured around the horses to conceal them. ἀνέτειλε is aorist of ἀνατέλλω used transitively, ‘made grow.’ The river Simois produces ambrosia for the horses νέμεσθαι, ‘to graze on.’ The landscape itself provides hospitality to the divine team."
+    },
+    {
+      "lines": "778–779",
+      "lemma": "τρήρωσι πελειάσιν ἴθμαθ᾽ ὁμοῖαι",
+      "text": "πελειάδες are doves; τρήρων conventionally describes them as timid or tremulous. ἴθματα, ‘steps / gait,’ is accusative of respect after ὁμοῖαι, ‘like in their movement.’ The text makes a comparison of movement, not an explicit physical transformation into birds. ἀλεξέμεναι is epic infinitive of ἀλέξω, ‘defend,’ after μεμαυῖαι."
+    },
+    {
+      "lines": "780–784",
+      "lemma": "εἰλόμενοι · λείουσιν · ἀλαπαδνόν",
+      "text": "εἰλόμενοι is aorist participle of εἴλω, ‘crowded together.’ λείουσιν is an epic dative plural of λέων, ‘lion,’ not the adjective λεῖος, ‘smooth.’ ὠμοφάγος means raw-flesh-eating. κάπροι are wild boars; ἀλαπαδνός means feeble. The clustered Greeks’ strength contrasts with the delicate dove comparison of the approaching goddesses."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}

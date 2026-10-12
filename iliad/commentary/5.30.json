@@ -1,0 +1,63 @@
+{
+  "id": "5.30",
+  "title": "The absent Achilles; Athena invokes Tydeus",
+  "intro": "Hera shames the Greeks by recalling the security Achilles once gave them. Athena then uses Diomedes’ father as a goad, even though his caution follows her own earlier orders. The wound remains physically troublesome despite his extraordinary fighting strength.",
+  "notes": [
+    {
+      "lines": "785–786",
+      "lemma": "εἰσαμένη · χαλκεοφώνῳ · αὐδήσασκε",
+      "text": "εἰσαμένη is aorist middle participle of εἴδομαι, ‘taking the likeness of,’ with dative Stentor. χαλκεόφωνος means bronze-voiced. αὐδήσασκε is an iterative past of αὐδάω: his customary shout equals that of fifty others. The name Stentor underlies the later adjective ‘stentorian.’"
+    },
+    {
+      "lines": "787",
+      "lemma": "αἰδώς · κάκ᾽ ἐλέγχεα · εἶδος ἀγητοί",
+      "text": "αἰδώς is an exclamation, ‘shame!’ ἐλέγχεα is a neuter plural insult, ‘disgraces,’ applied to the men. εἶδος is accusative of respect, ‘in appearance’; ἀγητοί means admirable. Hera opposes impressive looks to inadequate performance, a standard shaming strategy in battle exhortation."
+    },
+    {
+      "lines": "788–791",
+      "lemma": "πωλέσκετο · οἴχνεσκον · ἐδείδισαν",
+      "text": "πωλέσκετο and οἴχνεσκον are iterative imperfects, ‘used to come’ and ‘used to go.’ ἐδείδισαν is an epic past form of δείδω, ‘feared.’ The habitual past when Achilles fought contrasts with νῦν: the Trojans now fight far from their city at the ships. His absence is made tactically palpable without bringing him into the scene."
+    },
+    {
+      "lines": "793–795",
+      "lemma": "ἕλκος ἀναψύχοντα",
+      "text": "ἀναψύχοντα is present active participle of ἀναψύχω, ‘cool, refresh,’ agreeing with Diomedes after εὗρε. ἕλκος is the wound, and the relative τό refers to the place Pandarus struck with an arrow (ἰῷ). The scene returns to the earlier injury rather than introducing a new wound."
+    },
+    {
+      "lines": "796–798",
+      "lemma": "τελαμῶνος · κάμνε χεῖρα · ἀπομόργνυ",
+      "text": "τελαμών is the shield strap pressing on the wounded shoulder. κάμνε is imperfect of κάμνω, ‘was weary,’ with accusative of respect χεῖρα, his arm. ἂν is shortened ἀνά with ἴσχων, ‘holding up,’ to lift the strap. ἀπομόργνυ is imperfect of ἀπομόργνυμι, ‘wiped away,’ the dark blood."
+    },
+    {
+      "lines": "799–801",
+      "lemma": "ζυγοῦ ἥψατο · οἷ … ἐοικότα",
+      "text": "ἥψατο is aorist middle of ἅπτω, ‘touched,’ with genitive ζυγοῦ, yoke. οἷ is third-person dative, ‘to himself,’ after ἐοικότα, perfect participle of ἔοικα. Athena says Tydeus fathered a son little like himself. δέμας is accusative of respect: Tydeus was small in body, but a fighter."
+    },
+    {
+      "lines": "802–804",
+      "lemma": "εἴασκον · ἐκπαιφάσσειν · νόσφιν",
+      "text": "εἴασκον is iterative imperfect of ἐάω, ‘allowed,’ here negated. ἐκπαιφάσσειν, from ἐκπαιφάσσω, means rush out or show impetuous aggression. νόσφιν Ἀχαιῶν means apart from the other Greeks. Tydeus went as an envoy (ἄγγελος) to the Cadmeans at Thebes, a setting that called for restraint."
+    },
+    {
+      "lines": "805–808",
+      "lemma": "δαίνυσθαι · προκαλίζετο · ἐνίκα",
+      "text": "δαίνυσθαι is present middle infinitive of δαίνυμι, ‘feast,’ after ἄνωγον, ‘I ordered.’ Instead Tydeus challenged the young Cadmeans (προκαλίζετο, imperfect middle of προκαλίζομαι) and won every contest. ἐνίκα is imperfect of νικάω; πάντα is adverbial ‘in everything.’ Athena’s anecdote makes his competitive spirit the model."
+    },
+    {
+      "lines": "806–808",
+      "lemma": "θυμὸν ὃν · ἐπιτάρροθος ἦα",
+      "text": "ὅν is possessive ‘his own,’ not a relative pronoun here. ἐπιτάρροθος means helper or supporter. ἦα is epic first-singular imperfect of εἰμί, ‘I was.’ Athena simultaneously praises Tydeus’ independence and claims credit for his effortless victories, a characteristic tension in divine encouragement."
+    },
+    {
+      "lines": "809–811",
+      "lemma": "προφρονέως · κάματος πολυᾶϊξ · δέδυκεν",
+      "text": "προφρονέως means eagerly or kindly. κέλομαι governs μάχεσθαι, ‘I urge you to fight.’ πολυᾶϊξ describes exhausting, much-rushing effort. δέδυκεν is perfect active of δύω, ‘has entered,’ with fatigue as subject and γυῖα, limbs, as object. Athena offers fatigue as one possible explanation before a harsher alternative on the next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 5",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5"
+    }
+  ]
+}
