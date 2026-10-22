@@ -7,16 +7,18 @@ const files = {
   '/styles.css': ['styles.css', 'text/css'],
   '/app.js': ['app.js', 'text/javascript'],
   '/iliad/book-5.json': ['iliad/book-5.json', 'application/json'],
+  '/iliad/book-6.json': ['iliad/book-6.json', 'application/json'],
+  '/iliad/books.json': ['iliad/books.json', 'application/json'],
 };
 const port = Number(process.env.PORT || 3000);
 createServer(async (request, response) => {
   const pathname = new URL(request.url, 'http://localhost').pathname;
   let file = files[pathname];
   // Only expose reading content, never PDFs, extraction files, or arbitrary paths.
-  if (/^\/iliad\/(greek|english)\/5\.([1-9]|[12]\d|3[0-4])\.txt$/.test(pathname)) {
+  if (/^\/iliad\/(greek|english)\/[56]\.[1-9]\d*\.txt$/.test(pathname)) {
     file = [pathname.slice(1), 'text/plain'];
   }
-  if (/^\/iliad\/commentary\/5\.([1-9]|[12]\d|3[0-4])\.json$/.test(pathname)) {
+  if (/^\/iliad\/commentary\/[56]\.[1-9]\d*\.json$/.test(pathname)) {
     file = [pathname.slice(1), 'application/json'];
   }
   if (!file) { response.writeHead(404); response.end('Not found'); return; }

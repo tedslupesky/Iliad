@@ -1,0 +1,164 @@
+{
+  "id": "6.7",
+  "title": "Bellerophon's deadly commission",
+  "intro": "Anteia's false accusation sends Bellerophon to Lycia carrying his own death warrant.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "159",
+      "lemma": "ὑπὸ σκήπτρῳ ἐδάμασσε",
+      "text": "σκῆπτρον, sceptre; δαμάζω, subdue: 3sg aor, epic -σσ-. Zeus subjected the Argives to Proetus' rule."
+    },
+    {
+      "lines": "160",
+      "lemma": "ἐπεμήνατο",
+      "text": "ἐπιμαίνομαι, be madly in love with: 3sg aor mid + dat τῷ, Bellerophon."
+    },
+    {
+      "lines": "161",
+      "lemma": "κρυπταδίῃ φιλότητι μιγήμεναι",
+      "text": "κρυπτάδιος, secret; φιλότης, sexual intimacy; μίγνυμι epic 2aor pass inf, lie with / unite."
+    },
+    {
+      "lines": "162",
+      "lemma": "ἀγαθὰ φρονέοντα",
+      "text": "φρονέω pres ptc acc sg with Bellerophon; “with honourable intentions.”"
+    },
+    {
+      "lines": "163",
+      "lemma": "ψευσαμένη … βασιλῆα",
+      "text": "ψεύδομαι, lie: aor mid ptc; βασιλεύς, king: epic acc sg βασιλῆα."
+    },
+    {
+      "lines": "164",
+      "lemma": "τεθναίης … ἢ κάκτανε",
+      "text": "θνῄσκω perf opt 2sg, wish “may you die”; κατακτείνω 2sg aor imperative κάκτανε (κατ-κτα- assimilation). “Die—or kill him.”"
+    },
+    {
+      "lines": "165",
+      "lemma": "οὐκ ἐθελούσῃ",
+      "text": "ἐθέλω pres ptc dat fem sg, with μοι implied; “against my will,” the false allegation."
+    },
+    {
+      "lines": "166",
+      "lemma": "χόλος λάβεν οἷον ἄκουσε",
+      "text": "λαμβάνω unaugmented 3sg 2aor; anger seized him. οἷον, “such a thing [as] he heard,” reacting to the report."
+    },
+    {
+      "lines": "167",
+      "lemma": "κτεῖναι … ἀλέεινε · σεβάσσατο",
+      "text": "κτείνω aor inf; ἀλεείνω, avoid: impf; σεβάζομαι, feel awe / scruple: 3sg aor mid. He avoids direct murder."
+    },
+    {
+      "lines": "168",
+      "lemma": "Λυκίηνδε · πόρεν",
+      "text": "Λυκίην + directional -δε, to Lycia. πόρω, give / furnish: unaugmented 3sg 2aor."
+    },
+    {
+      "lines": "168–169",
+      "lemma": "σήματα λυγρὰ … θυμοφθόρα",
+      "text": "σήματα, signs / tokens; λυγρός, deadly / grievous; θυμοφθόρος, life-destroying. The tablet encodes instructions to kill its bearer."
+    },
+    {
+      "lines": "169",
+      "lemma": "γράψας ἐν πίνακι πτυκτῷ",
+      "text": "γράφω, inscribe: aor ptc; πίναξ, tablet: dat sg; πτυκτός, folded. A rare Homeric reference to a written message."
+    },
+    {
+      "lines": "170",
+      "lemma": "δεῖξαι … ἠνώγειν",
+      "text": "δείκνυμι aor inf, show; ἄνωγα 3sg past indicative, not an inf despite -ειν."
+    },
+    {
+      "lines": "170",
+      "lemma": "ᾧ πενθερῷ · ὄφρ᾽ ἀπόλοιτο",
+      "text": "His father-in-law; ἀπόλλυμι 3sg 2aor mid opt, purpose “so [Bellerophon] might die.”"
+    },
+    {
+      "lines": "171",
+      "lemma": "ἀμύμονι πομπῇ",
+      "text": "ἄμυμων, excellent; πομπή, escort / guidance: dat sg; under the gods' safe guidance."
+    },
+    {
+      "lines": "172",
+      "lemma": "ἷξε … ῥέοντα",
+      "text": "ἱκνέομαι / ἵκω, reach: unaugmented 3sg aor; ῥέω pres ptc acc sg with Xanthus, the Lycian river here."
+    },
+    {
+      "lines": "173",
+      "lemma": "προφρονέως … τῖεν",
+      "text": "προφρονέως, warmly / willingly; τίω, honour: unaugmented 3sg impf."
+    },
+    {
+      "lines": "174",
+      "lemma": "ἐννῆμαρ ξείνισσε",
+      "text": "ἐννῆμαρ, for nine days; ξενίζω, entertain as guest: 3sg aor, epic -σσ-."
+    },
+    {
+      "lines": "174–175",
+      "lemma": "ἱέρευσεν · ῥοδοδάκτυλος Ἠώς",
+      "text": "ἱερεύω, sacrifice: 3sg aor; rosy-fingered Dawn; δεκάτη, the tenth [dawn / day]."
+    },
+    {
+      "lines": "176",
+      "lemma": "ἐρέεινε · ᾔτεε … ἰδέσθαι",
+      "text": "ἐρεείνω, question: impf; αἰτέω, ask for: 3sg impf, uncontracted; εἶδον 2aor mid inf, see."
+    },
+    {
+      "lines": "177",
+      "lemma": "γαμβροῖο πάρα … φέροιτο",
+      "text": "γαμβρός, son-in-law here; παρά + gen, from Proetus. φέρω 3sg pres mid opt in indirect question: what message he was bringing."
+    },
+    {
+      "lines": "178",
+      "lemma": "παρεδέξατο",
+      "text": "παραδέχομαι, receive: 3sg aor mid."
+    },
+    {
+      "lines": "179–180",
+      "lemma": "ἀμαιμακέτην … πεφνέμεν",
+      "text": "ἀμαιμάκετος, irresistible / terrible: acc fem sg with Chimaera; πέφνω epic reduplicated aor inf, slay."
+    },
+    {
+      "lines": "180",
+      "lemma": "θεῖον γένος",
+      "text": "“Of divine stock”; γένος neuter predicate / acc of respect, contrasting with human origin."
+    },
+    {
+      "lines": "181",
+      "lemma": "πρόσθε … ὄπιθεν … μέσση",
+      "text": "In front … behind … in the middle. δράκων, serpent; χίμαιρα, she-goat, explaining the monster's name."
+    },
+    {
+      "lines": "182",
+      "lemma": "ἀποπνείουσα … αἰθομένοιο",
+      "text": "ἀποπνέω, breathe out: pres ptc nom fem sg; αἴθω, burn: pres mid ptc gen sg with fire."
+    },
+    {
+      "lines": "183",
+      "lemma": "κατέπεφνε … πιθήσας",
+      "text": "καταπέφνω, kill: reduplicated 3sg 2aor; πιθέω, obey / trust: aor ptc; τέρας dat pl τεράεσσι, divine signs."
+    },
+    {
+      "lines": "184",
+      "lemma": "μαχέσσατο κυδαλίμοισι",
+      "text": "μάχομαι 3sg aor mid, epic -σσ-; κυδάλιμος, glorious; the Solymi are his next opponents."
+    },
+    {
+      "lines": "185",
+      "lemma": "καρτίστην … δύμεναι",
+      "text": "κάρτιστος = κράτιστος, hardest / strongest; δύω root aor inf -μεναι, enter. “The hardest battle he ever entered.”"
+    },
+    {
+      "lines": "186",
+      "lemma": "ἀντιανείρας",
+      "text": "ἀντιάνειρα, a match for men / opposed to men: acc fem pl, Amazons' epithet; the first sense is Murray's rendering."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    }
+  ]
+}

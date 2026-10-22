@@ -1,0 +1,158 @@
+{
+  "id": "6.14",
+  "title": "Hector goes to find his family",
+  "intro": "Helen foresees their place in song. Hector refuses rest and seeks Andromache, who has hurried to the wall.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "352",
+      "lemma": "φρένες ἔμπεδοι",
+      "text": "φρήν, mind: nom pl; ἔμπεδος, firm / steady. Paris lacks sound judgment now and, she says, always will."
+    },
+    {
+      "lines": "352–353",
+      "lemma": "ὀπίσσω … ἔσσονται",
+      "text": "ὀπίσσω temporal, hereafter; εἰμί 3pl fut, epic -σσ-."
+    },
+    {
+      "lines": "353",
+      "lemma": "ἐπαυρήσεσθαι",
+      "text": "ἐπαυρίσκομαι, reap the result / suffer for: fut mid inf; ironic “enjoy the consequences.”"
+    },
+    {
+      "lines": "354",
+      "lemma": "εἴσελθε καὶ ἕζεο … δίφρῳ",
+      "text": "εἰσέρχομαι 2sg 2aor imperative, enter; ἕζομαι uncontracted pres imperative, sit; δίφρος here chair / stool, not chariot."
+    },
+    {
+      "lines": "355",
+      "lemma": "πόνος φρένας ἀμφιβέβηκεν",
+      "text": "ἀμφιβαίνω 3sg perf act, surrounds / besets; πόνος, hardship, subject; φρένας acc, your mind."
+    },
+    {
+      "lines": "356",
+      "lemma": "ἕνεκ᾽ ἄτης",
+      "text": "ἄτη, ruinous folly / blindness: gen sg; Paris' disastrous act."
+    },
+    {
+      "lines": "357–358",
+      "lemma": "ὡς … πελώμεθ᾽ ἀοίδιμοι",
+      "text": "πέλω, be: 1pl pres mid subj, purpose / result, “so we may become subjects of song”; ἀοίδιμος, sung of."
+    },
+    {
+      "lines": "358",
+      "lemma": "ἀνθρώποισι … ἐσσομένοισι",
+      "text": "εἰμί fut ptc dat pl, “for people yet to come.” Helen imagines future poetry about their suffering."
+    },
+    {
+      "lines": "360",
+      "lemma": "μή με κάθιζε … φιλέουσά περ",
+      "text": "καθίζω, seat / bid sit: 2sg pres imperative, negated; φιλέω pres ptc + περ, “kind though you are.”"
+    },
+    {
+      "lines": "361",
+      "lemma": "θυμὸς ἐπέσσυται",
+      "text": "ἐπισεύω perf mid/pass 3sg, “my spirit is set on / eager”; perfect state, not a new rush."
+    },
+    {
+      "lines": "361",
+      "lemma": "ὄφρ᾽ ἐπαμύνω",
+      "text": "ἐπαμύνω, defend / help: 1sg pres subj + dat Trojans; “to go to their aid.”"
+    },
+    {
+      "lines": "362",
+      "lemma": "ἐμεῖο ποθὴν ἀπεόντος",
+      "text": "ποθή, longing / need; ἐμεῖο = ἐμοῦ; ἄπειμι pres ptc gen sg, absent. “They sorely miss me in my absence.”"
+    },
+    {
+      "lines": "363",
+      "lemma": "ὄρνυθι … ἐπειγέσθω",
+      "text": "ὄρνυμι 2sg pres imperative, rouse him; ἐπείγομαι 3sg pres imperative, let him hurry himself."
+    },
+    {
+      "lines": "364",
+      "lemma": "ἔντοσθεν … καταμάρψῃ",
+      "text": "ἔντοσθεν + gen, inside; καταμάρπτω, catch up: 3sg aor subj; purpose after ὥς κε."
+    },
+    {
+      "lines": "365",
+      "lemma": "ἐλεύσομαι … ἴδωμαι",
+      "text": "ἔρχομαι 1sg fut mid; εἶδον 1sg 2aor mid subj, see; purpose, to see his household."
+    },
+    {
+      "lines": "366",
+      "lemma": "οἰκῆας",
+      "text": "οἰκεύς, household member / servant: acc pl; distinct from his wife and son, then named separately."
+    },
+    {
+      "lines": "367",
+      "lemma": "σφιν ὑπότροπος ἵξομαι",
+      "text": "σφιν dat pl, to them; ὑπότροπος, returning; ἱκνέομαι fut mid 1sg. He doubts whether he will come home again."
+    },
+    {
+      "lines": "368",
+      "lemma": "ἦ … δαμόωσιν",
+      "text": "ἦ, or; δαμάω / δαμάζω, subdue: epic 3pl fut, expanded δαμῶσιν. The indirect question pairs ἵξομαι, will I return, with will the gods bring me down?"
+    },
+    {
+      "lines": "370",
+      "lemma": "αἶψα · εὖ ναιετάοντας",
+      "text": "αἶψα, quickly; ναιετάω, dwell: pres ptc acc pl with house, “well-inhabited / pleasantly situated.”"
+    },
+    {
+      "lines": "371–372",
+      "lemma": "λευκώλενον · ἀμφιπόλῳ ἐϋπέπλῳ",
+      "text": "λευκώλενος, white-armed; ἀμφίπολος, attendant; ἐΰπεπλος, well-robed: dat sg."
+    },
+    {
+      "lines": "373",
+      "lemma": "ἐφεστήκει γοόωσα … μυρομένη",
+      "text": "ἐφίστημι 3sg plup, stood on the tower; γοάω, lament: expanded pres ptc; μύρομαι, weep: pres mid ptc."
+    },
+    {
+      "lines": "374",
+      "lemma": "τέτμεν ἄκοιτιν",
+      "text": "τέτμον, find / meet: reduplicated 3sg aor, no familiar present counterpart; ἄκοιτις, wife: acc sg."
+    },
+    {
+      "lines": "375",
+      "lemma": "οὐδόν · δμῳῇσιν",
+      "text": "οὐδός, threshold: acc sg; δμῳή, enslaved woman: dat pl."
+    },
+    {
+      "lines": "376",
+      "lemma": "νημερτέα μυθήσασθε",
+      "text": "νημερτής, unerring / true: acc neut pl; μυθέομαι 2pl aor mid imperative, tell truly."
+    },
+    {
+      "lines": "377",
+      "lemma": "πῇ ἔβη",
+      "text": "πῇ, where / which way; βαίνω 3sg root aor."
+    },
+    {
+      "lines": "378",
+      "lemma": "γαλόων … εἰνατέρων",
+      "text": "γαλόως, husband's sister; εἰνάτηρ, husband's brother's wife: gen pl. ἐς + gen implies their houses."
+    },
+    {
+      "lines": "379",
+      "lemma": "ἐς Ἀθηναίης ἐξοίχεται",
+      "text": "ἐξοίχομαι 3sg pres, has gone out, with completed-departure sense; Ἀθηναίης gen, temple understood after ἐς."
+    },
+    {
+      "lines": "380",
+      "lemma": "ἐϋπλόκαμοι … ἱλάσκονται",
+      "text": "ἐϋπλόκαμος, lovely-tressed; ἱλάσκομαι, propitiate / seek favour: 3pl pres mid."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    },
+    {
+      "title": "Selected forms checked · Dickinson College Commentaries, 6.332-368",
+      "url": "https://dcc.dickinson.edu/homer-iliad/homer-iliad-vi-332-368"
+    }
+  ]
+}

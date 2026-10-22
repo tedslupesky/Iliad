@@ -2,6 +2,8 @@ const $ = (id) => document.getElementById(id);
 const contentRoot = '/iliad/';
 const cache = new Map();
 let book;
+let catalog;
+let bookLoadVersion = 0;
 let currentPage = -1;
 let busy = false;
 let requestVersion = 0;
@@ -68,7 +70,10 @@ function render(page, content) {
   $('source-link').href = page.sourceUrl;
   $('source-link').hidden = false;
   renderCommentary(page);
-  document.title = `The Iliad · Book V · ${page.id}`;
+  const entry = catalog.books.find((entry) => entry.number === book.book);
+  $('chapter-title').textContent = book.title;
+  $('book-select').value = String(book.book);
+  document.title = `The Iliad · ${entry.label} · ${page.id}`;
 }
 
 async function showPage(index, { updateHash = true, scroll = false } = {}) {
@@ -122,7 +127,7 @@ async function renderCommentary(page) {
   container.replaceChildren();
   container.setAttribute('aria-busy', 'false');
   if (!page.commentary) {
-    container.textContent = 'Commentary hasn’t been added to this page yet. Start with page 5.1 for the first set of notes.';
+    container.textContent = 'Commentary hasn’t been added to this page yet.';
     return;
   }
   container.textContent = 'Loading notes…';
@@ -186,19 +191,46 @@ function indexFromHash() {
 }
 
 async function initialize() {
+  const version = ++bookLoadVersion;
+  ++requestVersion;
+  ++commentaryVersion;
   busy = true;
   $('reading-error').hidden = true;
-  $('page-status').textContent = 'Loading Book V…';
+  $('page-status').textContent = 'Loading…';
   updateControls();
   try {
-    book = JSON.parse(await getText('/iliad/book-5.json'));
-    if (!Array.isArray(book.pages) || !book.pages.length) throw new Error('Book has no pages');
+    if (!catalog) {
+      catalog = JSON.parse(await getText('/iliad/books.json'));
+      $('book-select').replaceChildren(...catalog.books.map((entry) => new Option(entry.label, entry.number)));
+    }
+    if (version !== bookLoadVersion) return;
+    const requested = Number(location.hash.match(/^#(\d+)\.\d+$/)?.[1]);
+    const entry = catalog.books.find((entry) => entry.number === requested)
+      || catalog.books.find((entry) => entry.number === catalog.defaultBook);
+    if (!book || book.book !== entry.number) {
+      currentPage = -1;
+      book = undefined;
+      $('greek-text').replaceChildren();
+      $('english-text').replaceChildren();
+      $('commentary-text').replaceChildren();
+      $('greek-range').textContent = '';
+      $('english-range').textContent = '';
+      $('commentary-range').textContent = '';
+      $('source-link').hidden = true;
+      $('chapter-title').textContent = `Loading ${entry.label}…`;
+      const loaded = JSON.parse(await getText(contentRoot + entry.manifest));
+      if (version !== bookLoadVersion) return;
+      if (loaded.book !== entry.number || !Array.isArray(loaded.pages) || !loaded.pages.length) throw new Error('Invalid book');
+      book = loaded;
+    }
+    $('book-select').disabled = false;
     await showPage(indexFromHash());
   } catch (error) {
+    if (version !== bookLoadVersion) return;
     busy = false;
     updateControls();
     $('page-status').textContent = 'Book unavailable';
-    showError('Couldn’t load Book V. Please try again.', initialize);
+    showError('Couldn’t load this book. Please try again.', initialize);
     console.error(error);
   }
 }
@@ -216,7 +248,8 @@ $('close-translation').addEventListener('click', () => {
   setTranslation(false);
   $('translation-toggle').focus();
 });
-window.addEventListener('hashchange', () => { if (book) showPage(indexFromHash(), { scroll: true }); });
+$('book-select').addEventListener('change', () => { location.hash = `${$('book-select').value}.1`; });
+window.addEventListener('hashchange', initialize);
 document.addEventListener('keydown', (event) => {
   if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey || event.target.closest('input, textarea, select, [contenteditable="true"]')) return;
   if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {

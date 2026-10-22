@@ -1,0 +1,83 @@
+{
+  "id": "6.20",
+  "title": "The brothers return to battle",
+  "intro": "Hector ends with a rebuke and a hope for liberation. This short final page completes the sentence begun on page 19.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "522",
+      "lemma": "ἔργον ἀτιμήσειε μάχης",
+      "text": "ἀτιμάω 3sg aor opt with ἄν from 521: no fair-minded man would disparage your work in battle. τοι on the previous page supplies your / in your case."
+    },
+    {
+      "lines": "522",
+      "lemma": "ἄλκιμός ἐσσι",
+      "text": "ἄλκιμος, strong / valiant, related to ἀλκή, fighting strength; ἐσσι = εἶ, 2sg pres of εἰμί."
+    },
+    {
+      "lines": "523",
+      "lemma": "ἑκὼν μεθιεῖς",
+      "text": "ἑκών nom sg masc, willingly; μεθίημι 2sg pres, relax / slacken your effort. Hector blames willingness, not ability."
+    },
+    {
+      "lines": "523–524",
+      "lemma": "κῆρ ἄχνυται",
+      "text": "κῆρ neut, heart; ἄχνυμαι 3sg pres, is distressed / grieves. κῆρ, not Hector, is the grammatical subject."
+    },
+    {
+      "lines": "524",
+      "lemma": "ὑπὲρ σέθεν αἴσχε᾽",
+      "text": "σέθεν epic gen = σοῦ; ὑπέρ + gen, about you; αἶσχος neut acc pl, shameful things / reproaches, elided αἴσχεα."
+    },
+    {
+      "lines": "525",
+      "lemma": "πρὸς Τρώων … εἵνεκα σεῖο",
+      "text": "πρός + gen, from the Trojans; εἵνεκα, because of, with gen σεῖο = σοῦ. Their suffering gives the reproaches weight."
+    },
+    {
+      "lines": "526",
+      "lemma": "ἴομεν",
+      "text": "εἶμι 1pl pres subj, with short vowel: let us go. Hortatory subj, not an ordinary statement of action."
+    },
+    {
+      "lines": "526",
+      "lemma": "τὰ δ᾽ ὄπισθεν ἀρεσσόμεθ᾽",
+      "text": "ἀρέσκομαι / ἀρέσκω 1pl fut mid, make good / settle; τὰ ὄπισθεν, what follows / matters hereafter. We shall settle things later."
+    },
+    {
+      "lines": "526–527",
+      "lemma": "αἴ κέ … δώῃ",
+      "text": "αἴ = εἰ, if; δίδωμι 3sg aor subj with κε. ποθι here adds indefiniteness: perhaps / at some point."
+    },
+    {
+      "lines": "527",
+      "lemma": "ἐπουρανίοισι … αἰειγενέτῃσι",
+      "text": "ἐπουράνιος, dwelling in heaven; αἰειγενέτης, everlasting. Dat pl agreeing with θεοῖς, for the gods."
+    },
+    {
+      "lines": "528",
+      "lemma": "κρητῆρα στήσασθαι ἐλεύθερον",
+      "text": "κρατήρ acc sg, wine-mixing bowl; ἵστημι aor mid inf, set up for ourselves. ἐλεύθερον: celebrating deliverance, a bowl of freedom."
+    },
+    {
+      "lines": "529",
+      "lemma": "ἐλάσαντας",
+      "text": "ἐλαύνω aor ptc acc pl, having driven out; agrees with the understood us, subject of στήσασθαι. Driving out the Achaeans would precede the celebration."
+    },
+    {
+      "lines": "529",
+      "lemma": "ἐϋκνήμιδας",
+      "text": "ἐϋκνήμις acc pl, well-greaved; κνημίς, shin guard. The book ends with Hector's hoped-for expulsion of the enemy."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    },
+    {
+      "title": "Selected forms checked · Dickinson College Commentaries, 6.503-529",
+      "url": "https://dcc.dickinson.edu/homer-iliad/homer-iliad-vi-503-529"
+    }
+  ]
+}

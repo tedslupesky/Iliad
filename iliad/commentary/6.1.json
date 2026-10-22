@@ -1,0 +1,159 @@
+{
+  "id": "6.1",
+  "title": "The battle without the gods",
+  "intro": "The gods have withdrawn after Book V. Mortal battle resumes; Axylus' hospitality cannot save him.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "1",
+      "lemma": "οἰώθη",
+      "text": "οἰόω, leave alone: 3sg aor pass; the fighting is left to mortals. οἶος = alone."
+    },
+    {
+      "lines": "1",
+      "lemma": "φύλοπις αἰνή",
+      "text": "φύλοπις, battle-din / combat (fem); αἰνός, terrible. Subject of οἰώθη."
+    },
+    {
+      "lines": "2",
+      "lemma": "πολλὰ … ἔνθα καὶ ἔνθα",
+      "text": "“Repeatedly … this way and that”; πολλά adverbial, ἔνθα, here / there."
+    },
+    {
+      "lines": "2",
+      "lemma": "ἴθυσε … πεδίοιο",
+      "text": "ἰθύω, rush straight: unaugmented 3sg impf; gen of space traversed, “across the plain.”"
+    },
+    {
+      "lines": "3",
+      "lemma": "ἀλλήλων ἰθυνομένων",
+      "text": "ἰθύνω, direct / aim: pres mid ptc gen pl; gen absolute, “as they aimed at one another.”"
+    },
+    {
+      "lines": "3",
+      "lemma": "χαλκήρεα δοῦρα",
+      "text": "χαλκήρης, fitted with bronze: acc neut pl; δόρυ, spear: epic pl δοῦρα."
+    },
+    {
+      "lines": "4",
+      "lemma": "μεσσηγύς · ἰδέ · ῥοάων",
+      "text": "μεσσηγύς + gen, between; ἰδέ, and; ῥοή, stream: gen pl -άων. Xanthus is also called Scamander."
+    },
+    {
+      "lines": "5",
+      "lemma": "ἕρκος Ἀχαιῶν",
+      "text": "“Bulwark of the Greeks”; ἕρκος, fence / defensive barrier (neut), apposition to Ajax."
+    },
+    {
+      "lines": "6",
+      "lemma": "ῥῆξε φάλαγγα",
+      "text": "ῥήγνυμι, break: unaugmented 3sg aor; φάλαγξ, battle-line: acc sg."
+    },
+    {
+      "lines": "6",
+      "lemma": "φόως … ἔθηκεν",
+      "text": "φόως = φῶς, light, here relief / deliverance; τίθημι 3sg aor, “brought light to his companions.”"
+    },
+    {
+      "lines": "7",
+      "lemma": "Θρῄκεσσι · τέτυκτο",
+      "text": "Θρᾷξ, Thracian: epic dat pl; τεύχω perf-system 3sg plup mid/pass, “was / had been made.”"
+    },
+    {
+      "lines": "8",
+      "lemma": "ἠΰν",
+      "text": "ἠΰς, good / noble: acc masc sg; familiar epic epithet in an unfamiliar stem."
+    },
+    {
+      "lines": "9",
+      "lemma": "κόρυθος φάλον ἱπποδασείης",
+      "text": "κόρυς, helmet: gen sg; φάλος, crest-piece / projection: acc sg; ἱπποδάσεια, thick with horsehair."
+    },
+    {
+      "lines": "9",
+      "lemma": "τὸν … φάλον",
+      "text": "Two accusatives after ἔβαλε: person struck and part struck, “hit him on the helmet's crest.”"
+    },
+    {
+      "lines": "10",
+      "lemma": "μετώπῳ πῆξε",
+      "text": "μέτωπον, forehead: dat sg; πήγνυμι, fix / drive in: unaugmented 3sg aor act; spear understood as object."
+    },
+    {
+      "lines": "10–11",
+      "lemma": "πέρησε … αἰχμή",
+      "text": "περάω, pierce / pass through: unaugmented 3sg aor; αἰχμή, spear-point, delayed subject. ὀστέον, bone; εἴσω, inward."
+    },
+    {
+      "lines": "11",
+      "lemma": "ὄσσε",
+      "text": "ὄσσε, the two eyes: acc dual. σκότος, darkness, is subject of κάλυψεν."
+    },
+    {
+      "lines": "12",
+      "lemma": "ἔπεφνε",
+      "text": "πέφνω / θείνω, slay: 3sg reduplicated 2aor; recognize φεν-/φν-, not the present stem."
+    },
+    {
+      "lines": "12",
+      "lemma": "βοὴν ἀγαθός",
+      "text": "“Good at the war-cry”; βοή acc of respect."
+    },
+    {
+      "lines": "13",
+      "lemma": "Τευθρανίδην · ἔναιεν",
+      "text": "Τευθρανίδης, son of Teuthras: acc sg. ναίω, dwell: 3sg impf; ἐϋκτίμενος, well-built."
+    },
+    {
+      "lines": "14",
+      "lemma": "ἀφνειὸς βιότοιο",
+      "text": "ἀφνειός, rich; βίοτος, livelihood / possessions: gen sg -οιο, “rich in substance.”"
+    },
+    {
+      "lines": "15",
+      "lemma": "φιλέεσκεν",
+      "text": "φιλέω, welcome / entertain: iterative impf, “used to show hospitality”; uncontracted -έε- + -σκ-."
+    },
+    {
+      "lines": "15",
+      "lemma": "ὁδῷ ἔπι οἰκία ναίων",
+      "text": "“Living in a house beside the road”; ἔπι = ἐπί, postposed + dat; ναίω can take acc of dwelling."
+    },
+    {
+      "lines": "16",
+      "lemma": "ἤρκεσε λυγρὸν ὄλεθρον",
+      "text": "ἀρκέω, ward off: 3sg aor; λυγρός, grievous; ὄλεθρος, destruction. οἱ dat, for Axylus."
+    },
+    {
+      "lines": "17",
+      "lemma": "πρόσθεν ὑπαντιάσας",
+      "text": "ὑπαντιάζω, meet / confront: aor act ptc nom sg; “stepping in front to face [the enemy].”"
+    },
+    {
+      "lines": "17",
+      "lemma": "ἄμφω θυμὸν ἀπηύρα",
+      "text": "ἀπαυράω, rob of: 3sg impf; double acc, both men and life. Diomedes is the unexpressed subject."
+    },
+    {
+      "lines": "18–19",
+      "lemma": "θεράποντα · ὑφηνίοχος",
+      "text": "θεράπων, attendant: acc sg; ὑφηνίοχος, charioteer. ἔσκεν: iterative past of εἰμί."
+    },
+    {
+      "lines": "19",
+      "lemma": "τὼ … ἐδύτην",
+      "text": "τώ nom dual; δύω, enter / sink: 3dual root aor act; “both went beneath the earth.”"
+    },
+    {
+      "lines": "20",
+      "lemma": "ἐξενάριξε",
+      "text": "ἐξεναρίζω, kill / strip: 3sg aor; catalogue of deaths continues next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    }
+  ]
+}

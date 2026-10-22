@@ -1,0 +1,168 @@
+{
+  "id": "6.19",
+  "title": "The mourning household; Paris like a horse",
+  "intro": "Andromache's household mourns Hector while he is still alive. Paris returns in an exuberant horse simile, sharply changing the emotional register.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "494–495",
+      "lemma": "κόρυθ᾽ … ἵππουριν",
+      "text": "κόρυς acc sg, helmet; ἵππουρις acc sg fem, horse-tailed / with a horsehair crest, separated from its noun by the verse end."
+    },
+    {
+      "lines": "495",
+      "lemma": "οἶκον δὲ βεβήκει",
+      "text": "οἶκον δέ = οἶκόνδε, homeward; βαίνω 3sg plup, had gone / was on her way."
+    },
+    {
+      "lines": "496",
+      "lemma": "ἐντροπαλιζομένη",
+      "text": "ἐντροπαλίζομαι pres mid ptc, repeatedly turning around. She keeps looking back as she leaves."
+    },
+    {
+      "lines": "496",
+      "lemma": "θαλερὸν … δάκρυ",
+      "text": "θαλερός, abundant / welling; δάκρυ singular collective, tears. κατά goes with χέουσα, pouring down."
+    },
+    {
+      "lines": "498",
+      "lemma": "κιχήσατο",
+      "text": "κιχάνομαι 3sg aor mid, came upon / found; one of the epic verbs of reaching or overtaking."
+    },
+    {
+      "lines": "499",
+      "lemma": "γόον … ἐνῶρσεν",
+      "text": "γόος, lament; ἐνόρνυμι 3sg aor, stirred up, with dat τῇσιν … πάσῃσιν, in all the women."
+    },
+    {
+      "lines": "500",
+      "lemma": "ζωὸν γόον",
+      "text": "ζωός, alive, acc agreeing with Hector; γοάω 3pl unaugmented impf contracted, lamented. Distinguish the verb γόον here from the noun at 499."
+    },
+    {
+      "lines": "501–502",
+      "lemma": "ἔφαντο … ἵξεσθαι",
+      "text": "φημί 3pl impf mid, thought / expected; ἱκνέομαι fut mid inf, would come. Subject μιν = Hector."
+    },
+    {
+      "lines": "501–502",
+      "lemma": "ὑπότροπον … προφυγόντα",
+      "text": "ὑπότροπος, returning; προφεύγω aor ptc acc masc, having escaped beforehand / safely escaped. Both describe Hector."
+    },
+    {
+      "lines": "503",
+      "lemma": "δήθυνεν",
+      "text": "δηθύνω 3sg impf, lingered; related to δηθά, for a long time."
+    },
+    {
+      "lines": "504",
+      "lemma": "κατέδυ … τεύχεα",
+      "text": "καταδύω 3sg root aor, put on / entered into; τεύχεα neut pl, armor. ποικίλα χαλκῷ: richly worked with bronze."
+    },
+    {
+      "lines": "505",
+      "lemma": "σεύατ᾽ … κραιπνοῖσι",
+      "text": "σεύω 3sg aor mid, rushed; κραιπνός dat pl, swift, describing his feet."
+    },
+    {
+      "lines": "505",
+      "lemma": "πεποιθώς",
+      "text": "πείθω perf ptc with active sense, trusting / confident, with dat ποσίν. The perfect stem has a settled present meaning."
+    },
+    {
+      "lines": "506",
+      "lemma": "στατὸς … ἀκοστήσας",
+      "text": "στατός, stalled / kept in a stall; ἀκοστάω aor ptc, fed on barley / fed full. Paris resembles a well-fed horse released from confinement."
+    },
+    {
+      "lines": "506",
+      "lemma": "φάτνῃ",
+      "text": "φάτνη dat sg, manger / feeding trough; ἐπί + dat, at."
+    },
+    {
+      "lines": "507",
+      "lemma": "ἀπορρήξας",
+      "text": "ἀπορρήγνυμι aor ptc, having broken away / burst; object δεσμόν, tether."
+    },
+    {
+      "lines": "507",
+      "lemma": "θείῃ … κροαίνων",
+      "text": "θέω 3sg pres subj, runs, in a generic simile after ὅτε; κροαίνω pres ptc, stamping / beating the ground with its hooves."
+    },
+    {
+      "lines": "507–508",
+      "lemma": "πεδίοιο … ποταμοῖο",
+      "text": "Genitives: over the plain; in / at the river, with λούεσθαι. Epic gen often carries a local relation without a preposition."
+    },
+    {
+      "lines": "508",
+      "lemma": "εἰωθὼς … ἐϋρρεῖος",
+      "text": "ἔθω perf ptc, accustomed; ἐϋρρεής gen sg, fair-flowing, agreeing with ποταμοῖο."
+    },
+    {
+      "lines": "509",
+      "lemma": "κυδιόων … κάρη",
+      "text": "κυδιάω pres ptc, exulting / glorying, epic expanded form; κάρη, head, neut acc sg."
+    },
+    {
+      "lines": "510",
+      "lemma": "ἀγλαΐηφι",
+      "text": "ἀγλαΐη, splendor / beauty, with old -φι ending functioning as dat after πεποιθώς."
+    },
+    {
+      "lines": "511",
+      "lemma": "ῥίμφα … γοῦνα",
+      "text": "ῥίμφα, swiftly / lightly; γόνυ neut pl γοῦνα, knees. Neut pl subject with singular φέρει; ἑ acc, him / it."
+    },
+    {
+      "lines": "511",
+      "lemma": "ἤθεα καὶ νομόν",
+      "text": "ἦθος neut pl, accustomed haunts; νομός, pasture. μετά + acc: toward the horses' familiar pasture grounds."
+    },
+    {
+      "lines": "512–513",
+      "lemma": "κατὰ Περγάμου ἄκρης",
+      "text": "κατά + gen, down from the height of Pergamus, Troy's citadel."
+    },
+    {
+      "lines": "513",
+      "lemma": "ἠλέκτωρ … ἐβεβήκει",
+      "text": "ἠλέκτωρ, the beaming sun; βαίνω 3sg plup, was striding along. παμφαίνων: shining all over."
+    },
+    {
+      "lines": "514–515",
+      "lemma": "καγχαλόων … ἔτετμεν",
+      "text": "καγχάλαω pres ptc, exulting; τέτμον 3sg reduplicated aor, met / came upon."
+    },
+    {
+      "lines": "516",
+      "lemma": "στρέψεσθ᾽ … ὀάριζε",
+      "text": "στρέφω fut mid inf after ἔμελλε, was about to turn away; ὀαρίζω 3sg impf, conversed intimately, with dat γυναικί."
+    },
+    {
+      "lines": "518",
+      "lemma": "ἠθεῖ᾽ … ἐσσύμενον",
+      "text": "ἠθεῖος voc, affectionate address to a respected brother; σεύω perf mid/pass ptc acc masc, hastening / eager."
+    },
+    {
+      "lines": "518–519",
+      "lemma": "κατερύκω … ἐναίσιμον",
+      "text": "κατερύκω, hold back / delay; ἐναίσιμος neut adverbial, in due measure, here at the proper time."
+    },
+    {
+      "lines": "521",
+      "lemma": "ὃς ἐναίσιμος εἴη",
+      "text": "εἰμί 3sg pres opt in an indefinite relative clause: any man who was fair-minded. Hector's main clause continues next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    },
+    {
+      "title": "Selected forms checked · Dickinson College Commentaries, 6.503-529",
+      "url": "https://dcc.dickinson.edu/homer-iliad/homer-iliad-vi-503-529"
+    }
+  ]
+}

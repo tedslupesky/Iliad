@@ -1,0 +1,173 @@
+{
+  "id": "6.5",
+  "title": "Diomedes meets Glaucus",
+  "intro": "Hector heads for Troy. Diomedes asks whether his new opponent is human, recalling Lycurgus' punishment.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "106",
+      "lemma": "ἐλελίχθησαν … ἔσταν",
+      "text": "ἐλελίζω, wheel / rally: 3pl aor pass; ἵστημι, stand: unaugmented 3pl root aor."
+    },
+    {
+      "lines": "106",
+      "lemma": "ἐναντίοι … Ἀχαιῶν",
+      "text": "ἐναντίος + gen, facing / opposite; the Trojans turn to face their pursuers."
+    },
+    {
+      "lines": "107",
+      "lemma": "ὑπεχώρησαν · λῆξαν φόνοιο",
+      "text": "ὑποχωρέω, withdraw: 3pl aor; λήγω, cease: unaugmented 3pl aor + gen; φόνος, slaughter."
+    },
+    {
+      "lines": "108",
+      "lemma": "φάν · ἀστερόεντος",
+      "text": "φημί, say / suppose: unaugmented 3pl impf; ἀστερόεις, starry: gen sg."
+    },
+    {
+      "lines": "109",
+      "lemma": "ἀλεξήσοντα κατελθέμεν",
+      "text": "ἀλέξω, defend: fut ptc acc sg, purpose; κατέρχομαι epic 2aor inf, = κατελθεῖν. “A god had come down to help the Trojans.”"
+    },
+    {
+      "lines": "109",
+      "lemma": "ὡς ἐλέλιχθεν",
+      "text": "“So completely had they rallied”; ἐλελίζω, unaugmented 3pl aor pass, shorter -θεν for -θησαν."
+    },
+    {
+      "lines": "110",
+      "lemma": "ἐκέκλετο … ἀΰσας",
+      "text": "κέλομαι reduplicated aor mid, called to; ἀΰω aor ptc, shouted; μακρόν adv., loudly."
+    },
+    {
+      "lines": "111",
+      "lemma": "ὑπέρθυμοι · τηλεκλειτοὶ ἐπίκουροι",
+      "text": "High-spirited; famed afar; allies / auxiliaries (the non-Trojan contingents)."
+    },
+    {
+      "lines": "112",
+      "lemma": "μνήσασθε θούριδος ἀλκῆς",
+      "text": "μιμνήσκομαι, remember: 2pl aor mid imperative + gen; θοῦρις, impetuous; ἀλκή, fighting strength."
+    },
+    {
+      "lines": "113",
+      "lemma": "ὄφρ᾽ ἂν … βείω",
+      "text": "“While I go”; βαίνω, epic 1sg root aor subj, = βῶ; προτί = πρός, towards."
+    },
+    {
+      "lines": "114",
+      "lemma": "εἴπω … βουλευτῇσι",
+      "text": "εἶπον 1sg 2aor subj, coordinated with βείω; βουλευτής, counsellor: dat pl, with γέρουσιν."
+    },
+    {
+      "lines": "115",
+      "lemma": "δαίμοσιν ἀρήσασθαι",
+      "text": "δαίμων, god / divine power: dat pl; ἀράομαι, pray: aor mid inf, after “tell.”"
+    },
+    {
+      "lines": "115",
+      "lemma": "ὑποσχέσθαι … ἑκατόμβας",
+      "text": "ὑπισχνέομαι, promise: 2aor mid inf; ἑκατόμβη, large sacrificial offering, originally a hundred cattle."
+    },
+    {
+      "lines": "116",
+      "lemma": "κορυθαίολος",
+      "text": "Flashing-helmed; Hector's recurrent epithet (κόρυς + αἰόλος)."
+    },
+    {
+      "lines": "117",
+      "lemma": "σφυρά … αὐχένα · δέρμα κελαινόν",
+      "text": "σφυρόν, ankle: acc pl; αὐχήν, neck: acc sg; δέρμα, hide (neut), with κελαινός, dark, subject of τύπτε."
+    },
+    {
+      "lines": "118",
+      "lemma": "ἄντυξ … πυμάτη",
+      "text": "ἄντυξ, rim; πύματος, outermost / last. Apposition to the shield's leather: rim strikes neck and ankles as Hector walks."
+    },
+    {
+      "lines": "118",
+      "lemma": "θέεν … ὀμφαλοέσσης",
+      "text": "θέω, run: unaugmented 3sg impf, “ran around”; ὀμφαλόεις, bossed: gen fem sg with shield."
+    },
+    {
+      "lines": "120",
+      "lemma": "συνίτην μεμαῶτε",
+      "text": "σύνειμι (εἶμι, go), come together: unaugmented 3dual impf. μέμονα perf ptc nom dual, eager."
+    },
+    {
+      "lines": "121",
+      "lemma": "ἰόντε",
+      "text": "εἶμι pres ptc nom dual; two champions closing on each other."
+    },
+    {
+      "lines": "123",
+      "lemma": "φέριστε καταθνητῶν",
+      "text": "φέριστος, best / mightiest: voc sg; καταθνητός, mortal: gen pl. Formally courteous challenge."
+    },
+    {
+      "lines": "124",
+      "lemma": "ὄπωπα",
+      "text": "ὁράω, see: 1sg perf act; “I have never seen you before.”"
+    },
+    {
+      "lines": "124",
+      "lemma": "κυδιανείρῃ",
+      "text": "κυδιάνειρα, bringing glory to men: dat fem sg with μάχῃ; κῦδος + ἀνήρ."
+    },
+    {
+      "lines": "125",
+      "lemma": "πολὺ προβέβηκας ἁπάντων",
+      "text": "προβαίνω, advance: 2sg perf act; “you have come far in front of everyone”; gen comparison / separation."
+    },
+    {
+      "lines": "126",
+      "lemma": "θάρσει · ἔμεινας",
+      "text": "θάρσος, boldness: dat sg; μένω, await / face: 2sg aor. ὅ τε introduces explanation, “since you have faced my spear.”"
+    },
+    {
+      "lines": "127",
+      "lemma": "δυστήνων … παῖδες",
+      "text": "δύστηνος, unfortunate: gen pl; “those who face me have unlucky parents,” a threat through anticipated bereavement."
+    },
+    {
+      "lines": "127",
+      "lemma": "ἀντιόωσιν",
+      "text": "ἀντιάω, meet / face: epic expanded 3pl pres; + dat μένει, my force."
+    },
+    {
+      "lines": "128",
+      "lemma": "κατ᾽ οὐρανοῦ εἰλήλουθας",
+      "text": "κατά + gen, down from; ἔρχομαι epic 2sg perf act, = ἐλήλυθας."
+    },
+    {
+      "lines": "129",
+      "lemma": "οὐκ ἂν … μαχοίμην",
+      "text": "μάχομαι 1sg pres opt + ἄν, “I would not fight”; ἐπουράνιος, heavenly."
+    },
+    {
+      "lines": "130–131",
+      "lemma": "Λυκόοργος … δὴν ἦν",
+      "text": "Lycurgus, son of Dryas; δήν, long; “did not live long.” ἔριζεν: ἐρίζω impf, quarrel / contend."
+    },
+    {
+      "lines": "132",
+      "lemma": "μαινομένοιο … τιθήνας",
+      "text": "μαίνομαι pres ptc gen sg with Dionysus; τιθήνη, nurse / foster-mother: acc pl."
+    },
+    {
+      "lines": "133",
+      "lemma": "σεῦε κατ᾽ ἠγάθεον Νυσήϊον",
+      "text": "σεύω, chase: unaugmented 3sg aor; ἠγάθεος, very holy; Νυσήϊον, Mount Nysa. Their flight continues."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    },
+    {
+      "title": "Selected forms checked · Dickinson College Commentaries, 6.116-155",
+      "url": "https://dcc.dickinson.edu/homer-iliad/homer-iliad-vi-116-155"
+    }
+  ]
+}

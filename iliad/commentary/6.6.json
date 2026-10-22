@@ -1,0 +1,149 @@
+{
+  "id": "6.6",
+  "title": "Leaves and generations",
+  "intro": "Diomedes finishes his warning. Glaucus answers with the leaf simile, then begins Bellerophon's story.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "134",
+      "lemma": "θύσθλα χαμαὶ κατέχευαν",
+      "text": "θύσθλα, Bacchic wands / ritual branches; χαμαί, to the ground; καταχέω epic 3pl aor, poured / dropped."
+    },
+    {
+      "lines": "135",
+      "lemma": "θεινόμεναι βουπλῆγι",
+      "text": "θείνω, strike: pres pass ptc nom fem pl; βουπλήξ, ox-goad: dat sg."
+    },
+    {
+      "lines": "135–136",
+      "lemma": "φοβηθεὶς δύσετο",
+      "text": "φοβέω aor pass ptc, terrified / put to flight; δύω mixed 3sg aor mid, “plunged beneath the sea.”"
+    },
+    {
+      "lines": "136",
+      "lemma": "ὑπεδέξατο κόλπῳ",
+      "text": "ὑποδέχομαι, receive / shelter: 3sg aor mid; κόλπος, bosom / lap: dat sg."
+    },
+    {
+      "lines": "137",
+      "lemma": "δειδιότα · τρόμος · ὁμοκλῇ",
+      "text": "δείδω perf ptc acc sg, afraid; τρόμος, trembling; ὁμοκλή, threatening shout: dat sg of cause."
+    },
+    {
+      "lines": "138",
+      "lemma": "ὀδύσαντο",
+      "text": "ὀδύσσομαι, be angry with: 3pl aor mid + dat τῷ, Lycurgus; not ὀδύρομαι, lament."
+    },
+    {
+      "lines": "138",
+      "lemma": "ῥεῖα ζώοντες",
+      "text": "“Living at ease”; ῥεῖα adv., easily; ζώω pres ptc. Divine ease contrasts with mortal troubles."
+    },
+    {
+      "lines": "139–140",
+      "lemma": "τυφλὸν ἔθηκε · ἀπήχθετο",
+      "text": "τίθημι aor, made blind; ἀπεχθάνομαι, become hated: 3sg 2aor mid + dat gods."
+    },
+    {
+      "lines": "141",
+      "lemma": "μακάρεσσι … ἐθέλοιμι",
+      "text": "μάκαρ, blessed: dat pl; ἐθέλω 1sg pres opt + ἄν, “I would not wish to fight.”"
+    },
+    {
+      "lines": "142",
+      "lemma": "ἀρούρης καρπὸν ἔδουσιν",
+      "text": "ἄρουρα, cultivated land; καρπός, produce; ἔδω, eat: 3pl pres. Eating grain marks mortality."
+    },
+    {
+      "lines": "143",
+      "lemma": "ἆσσον ἴθι … θᾶσσον",
+      "text": "ἆσσον, nearer; εἶμι 2sg imperative, come; θᾶσσον, sooner / more quickly. Rhyming comparatives sharpen the threat."
+    },
+    {
+      "lines": "143",
+      "lemma": "ὀλέθρου πείραθ᾽ ἵκηαι",
+      "text": "πεῖραρ, limit / bond: acc pl πείρατα; ἱκνέομαι 2sg aor mid subj. “Reach destruction's bounds / bonds”; image disputed, Murray renders “toils.”"
+    },
+    {
+      "lines": "145",
+      "lemma": "γενεὴν ἐρεείνεις",
+      "text": "γενεή, lineage / generation; ἐρεείνω, inquire about: 2sg pres."
+    },
+    {
+      "lines": "146",
+      "lemma": "οἵη περ … τοίη",
+      "text": "“Just as … so”; correlated feminine adjectives with γενεή. Mortal generations resemble successive leaves."
+    },
+    {
+      "lines": "147",
+      "lemma": "χαμάδις · ὕλη",
+      "text": "χαμάδις, to the ground; ὕλη, woodland / forest, subject of φύει."
+    },
+    {
+      "lines": "148",
+      "lemma": "τηλεθόωσα φύει",
+      "text": "τηλεθάω, flourish: epic expanded pres ptc nom fem sg; φύω transitive here, “puts forth [new leaves].”"
+    },
+    {
+      "lines": "148",
+      "lemma": "ἔαρος … ὥρη",
+      "text": "ἔαρ, spring: gen sg; ὥρη, season; ἐπιγίγνομαι, come on / arrive."
+    },
+    {
+      "lines": "149",
+      "lemma": "φύει … ἀπολήγει",
+      "text": "φύω intransitive, grows / arises; ἀπολήγω, cease / die out. The one generation … the other."
+    },
+    {
+      "lines": "150",
+      "lemma": "δαήμεναι · εἰδῇς",
+      "text": "δάω, learn: epic 2aor pass inf; οἶδα 2sg perf subj with present sense, “so that you may know.”"
+    },
+    {
+      "lines": "151",
+      "lemma": "ἴσασιν",
+      "text": "οἶδα, know: 3pl perf indicative with present sense; compare Attic ἴσασι."
+    },
+    {
+      "lines": "152",
+      "lemma": "μυχῷ Ἄργεος ἱπποβότοιο",
+      "text": "μυχός, innermost part: dat sg; ἱππόβοτος, horse-pasturing: gen sg. Argos here the wider region, not necessarily the city."
+    },
+    {
+      "lines": "153",
+      "lemma": "ἔσκεν · κέρδιστος",
+      "text": "ἔσκε, iterative past of εἰμί; κέρδιστος, craftiest / most cunning, from κέρδος, gain."
+    },
+    {
+      "lines": "154–155",
+      "lemma": "τέκετο · τίκτεν",
+      "text": "τίκτω, beget: unaugmented 3sg 2aor mid, then 3sg impf act. Sisyphus → Glaucus → Bellerophon."
+    },
+    {
+      "lines": "156",
+      "lemma": "ἠνορέην ἐρατεινήν",
+      "text": "ἠνορέη, manliness / manly strength; ἐρατεινός, lovely / desirable: acc fem sg."
+    },
+    {
+      "lines": "157",
+      "lemma": "ὤπασαν · μήσατο",
+      "text": "ὀπάζω, grant: 3pl aor; μήδομαι, devise: unaugmented 3sg aor mid, κακά its object."
+    },
+    {
+      "lines": "158",
+      "lemma": "ἐκ δήμου ἔλασσεν",
+      "text": "ἐλαύνω, drive out: 3sg aor, epic -σσ-; δῆμος, land / community; Ἀργείων follows next page."
+    },
+    {
+      "lines": "158",
+      "lemma": "πολὺ φέρτερος ἦεν",
+      "text": "φέρτερος, stronger / more powerful; ἦεν = ἦν. Proetus has superior political power."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    }
+  ]
+}

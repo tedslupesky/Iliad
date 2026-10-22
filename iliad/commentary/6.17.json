@@ -1,0 +1,164 @@
+{
+  "id": "6.17",
+  "title": "Hector imagines Troy's fall",
+  "intro": "Hector's public shame and private fear collide. His speech shifts between future prediction, possible scenes of captivity, and a final wish.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "438",
+      "lemma": "ἔνισπε … θεοπροπίων",
+      "text": "ἐνίσπω 3sg aor, told; θεοπρόπιον gen pl, divine messages / oracles, dependent on εὖ εἰδώς, knowing well."
+    },
+    {
+      "lines": "439",
+      "lemma": "ἐποτρύνει … ἀνώγει",
+      "text": "ἐποτρύνω, urge on; ἄνωγα, command, here a present-form 3sg. Subject θυμός, their own spirit."
+    },
+    {
+      "lines": "440",
+      "lemma": "κορυθαίολος",
+      "text": "With flashing helmet; κόρυς, helmet, + αἰόλος, glittering / shifting."
+    },
+    {
+      "lines": "441",
+      "lemma": "μέλει … γύναι",
+      "text": "μέλω 3sg pres impersonal, is a concern to, with dat ἐμοί; γυνή voc sg γύναι."
+    },
+    {
+      "lines": "442",
+      "lemma": "αἰδέομαι",
+      "text": "Feel shame before / respect, with acc of the people whose judgment matters."
+    },
+    {
+      "lines": "442",
+      "lemma": "ἑλκεσιπέπλους",
+      "text": "ἑλκεσίπεπλος, trailing-robed; acc pl fem. The compound evokes long robes drawn along the ground."
+    },
+    {
+      "lines": "443",
+      "lemma": "αἴ κε … ἀλυσκάζω",
+      "text": "αἴ = εἰ, if; ἀλυσκάζω pres subj 1sg after κε, avoid / shrink away from. πολέμοιο gen of separation."
+    },
+    {
+      "lines": "443",
+      "lemma": "κακὸς ὣς νόσφιν",
+      "text": "Like a coward, apart. Postposed ὥς bears an accent; νόσφιν, away / aloof."
+    },
+    {
+      "lines": "444",
+      "lemma": "μάθον ἔμμεναι ἐσθλός",
+      "text": "μανθάνω 1sg unaugmented aor; εἰμί pres inf epic ἔμμεναι. ἐσθλός stays nom because its subject is also the main verb's subject."
+    },
+    {
+      "lines": "445–446",
+      "lemma": "πρώτοισι … ἀρνύμενος",
+      "text": "πρῶτος dat pl, among the foremost; ἄρνυμαι pres mid ptc, winning / seeking to win, with acc κλέος."
+    },
+    {
+      "lines": "447",
+      "lemma": "κατὰ φρένα καὶ κατὰ θυμόν",
+      "text": "In mind and heart; paired expressions emphasize deep conviction."
+    },
+    {
+      "lines": "448",
+      "lemma": "ἔσσεται … ὀλώλῃ",
+      "text": "εἰμί 3sg fut; ὄλλυμι 3sg perf subj active, with intransitive sense, has perished. ὅτ᾽ ἄν: when the time comes that Troy is gone."
+    },
+    {
+      "lines": "449",
+      "lemma": "ἐϋμμελίω",
+      "text": "ἐϋμμελίης, skilled with the ash spear: gen sg epic -εω / -ω type, agreeing with Πριάμοιο."
+    },
+    {
+      "lines": "450",
+      "lemma": "τόσσον … ὀπίσσω",
+      "text": "τόσσον = τοσοῦτον, so much; balanced by ὅσσον at 454. ὀπίσσω, here in the future."
+    },
+    {
+      "lines": "452–453",
+      "lemma": "οἵ κεν … πέσοιεν",
+      "text": "πίπτω 3pl aor opt with κεν: who might fall. πολέες = πολλοί; despite being many and brave."
+    },
+    {
+      "lines": "453",
+      "lemma": "κονίῃσι … δυσμενέεσσιν",
+      "text": "κονίη dat pl, dust; δυσμενής dat pl, hostile. ὑπό + dat marks the hands / agency of their enemies."
+    },
+    {
+      "lines": "454–455",
+      "lemma": "σεῦ … δακρυόεσσαν",
+      "text": "σεῦ = σοῦ, gen: grief for you; δακρυόεις acc sg fem, tearful. The latter describes Andromache, object of ἄγηται."
+    },
+    {
+      "lines": "455",
+      "lemma": "ἄγηται … ἀπούρας",
+      "text": "ἄγω 3sg aor subj mid, carry off for oneself; ἀπαυράω aor ptc nom sg masc, having taken away."
+    },
+    {
+      "lines": "455",
+      "lemma": "ἐλεύθερον ἦμαρ",
+      "text": "The day of freedom: free life or free status, opposed to δούλιον ἦμαρ at 463."
+    },
+    {
+      "lines": "456",
+      "lemma": "πρὸς ἄλλης … ὑφαίνοις",
+      "text": "πρός + gen, at another woman's bidding; ὑφαίνω 2sg pres opt with κεν, might weave. ἱστός: loom, here its web."
+    },
+    {
+      "lines": "457",
+      "lemma": "φορέοις",
+      "text": "φορέω 2sg pres opt, uncontracted; carry repeatedly, here water-fetching as an enslaved woman's task."
+    },
+    {
+      "lines": "457",
+      "lemma": "Μεσσηΐδος ἢ Ὑπερείης",
+      "text": "Genitives of spring names, Messeis and Hypereia: water from either spring. The names evoke a distant Greek setting."
+    },
+    {
+      "lines": "458",
+      "lemma": "ἀεκαζομένη",
+      "text": "ἀεκάζομαι pres mid ptc fem, being unwilling / against your will; πόλλα adverbial, sorely."
+    },
+    {
+      "lines": "458",
+      "lemma": "ἐπικείσετ᾽ ἀνάγκη",
+      "text": "ἐπίκειμαι 3sg fut, will lie upon; ἀνάγκη, constraint / necessity. Elided -ται before ἀνάγκη."
+    },
+    {
+      "lines": "459",
+      "lemma": "εἴπῃσιν",
+      "text": "εἶπον 3sg aor subj with epic ending -ῃσι; independent anticipatory subj, someone will say / may well say."
+    },
+    {
+      "lines": "460–461",
+      "lemma": "ἀριστεύεσκε … ἀμφεμάχοντο",
+      "text": "ἀριστεύω iterative impf 3sg, used to excel; ἀμφιμάχομαι 3pl impf, fought around / for Troy."
+    },
+    {
+      "lines": "462",
+      "lemma": "ἐρέει",
+      "text": "ἐρέω 3sg uncontracted fut, will say; belongs to the suppletive system λέγω / εἶπον / ἐρῶ."
+    },
+    {
+      "lines": "463",
+      "lemma": "χήτεϊ … ἀμύνειν",
+      "text": "χῆτος dat sg, for lack of; gen τοιοῦδ᾽ ἀνδρός. Inf describes the missing man's capacity: a man to ward off enslavement."
+    },
+    {
+      "lines": "464",
+      "lemma": "τεθνηῶτα … καλύπτοι",
+      "text": "θνῄσκω perf ptc acc sg masc, dead; καλύπτω 3sg pres opt of wish, may it cover. χυτὴ γαῖα: earth heaped into a grave."
+    },
+    {
+      "lines": "465",
+      "lemma": "ἑλκηθμοῖο πυθέσθαι",
+      "text": "ἑλκηθμός gen sg, dragging away; πυνθάνομαι aor mid inf after πρίν, before learning / hearing, with gen of what is heard."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    }
+  ]
+}

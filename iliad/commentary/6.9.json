@@ -1,0 +1,154 @@
+{
+  "id": "6.9",
+  "title": "Inherited guest-friendship",
+  "intro": "Diomedes and Glaucus renew a family bond and exchange armour. Hector reaches the Trojan gates.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "215",
+      "lemma": "ξεῖνος πατρώϊος … παλαιός",
+      "text": "ξεῖνος, guest-friend, a reciprocal bond of hospitality; πατρώϊος, inherited from one's fathers; παλαιός, of long standing."
+    },
+    {
+      "lines": "217",
+      "lemma": "ξείνισ᾽ … ἐείκοσιν ἤματ᾽ ἐρύξας",
+      "text": "ξενίζω, entertain: 3sg aor; twenty days, acc of duration; ἐρύκω, keep: aor ptc."
+    },
+    {
+      "lines": "218",
+      "lemma": "πόρον ξεινήϊα",
+      "text": "πόρω, give: unaugmented 3pl 2aor; ξεινήϊα, guest-gifts, neut pl."
+    },
+    {
+      "lines": "219",
+      "lemma": "ζωστῆρα … φοίνικι φαεινόν",
+      "text": "ζωστήρ, belt: acc sg; φοῖνιξ, purple / crimson dye: dat sg; φαεινός, gleaming."
+    },
+    {
+      "lines": "220",
+      "lemma": "δέπας ἀμφικύπελλον",
+      "text": "δέπας, cup (neut); ἀμφικύπελλον, traditionally “two-handled,” exact design debated."
+    },
+    {
+      "lines": "221",
+      "lemma": "κατέλειπον ἰών",
+      "text": "καταλείπω, leave behind: 1sg impf; εἶμι pres ptc, “when I came away.” He still owns the heirloom."
+    },
+    {
+      "lines": "222",
+      "lemma": "μέμνημαι … τυτθόν",
+      "text": "μιμνήσκομαι perf mid with present sense, remember; τυτθός, tiny / very young: acc sg with με."
+    },
+    {
+      "lines": "223",
+      "lemma": "κάλλιπε",
+      "text": "καταλείπω, leave: unaugmented 3sg 2aor; κατ-λιπ- → καλλιπ-. Tydeus left Diomedes as a child."
+    },
+    {
+      "lines": "223",
+      "lemma": "ἐν Θήβῃσιν ἀπώλετο λαός",
+      "text": "ἀπόλλυμι 3sg 2aor mid, perished; the earlier expedition against Thebes, not the Trojan war."
+    },
+    {
+      "lines": "224",
+      "lemma": "τώ … Ἄργεϊ μέσσῳ",
+      "text": "τώ, therefore; Ἄργος uncontracted dat sg; μέσσος = μέσος. “In the heart of Argos.”"
+    },
+    {
+      "lines": "225",
+      "lemma": "ὅτε κεν … ἵκωμαι",
+      "text": "ἱκνέομαι 1sg aor mid subj, future eventuality; τῶν δῆμον, their land, the Lycians'."
+    },
+    {
+      "lines": "226",
+      "lemma": "ἔγχεα … ἀλεώμεθα",
+      "text": "ἀλέομαι, avoid: 1pl pres mid subj, exhortation; “let us avoid each other's spears.”"
+    },
+    {
+      "lines": "226",
+      "lemma": "δι᾽ ὁμίλου",
+      "text": "ὅμιλος, crowd / battle-throng: gen sg; even amid general fighting."
+    },
+    {
+      "lines": "227–228",
+      "lemma": "πολλοὶ … κτείνειν",
+      "text": "Supply εἰσί, “there are many … for me to kill”; κτείνω pres inf."
+    },
+    {
+      "lines": "228",
+      "lemma": "ὅν κε … πόρῃ … κιχείω",
+      "text": "πόρω, grant: 3sg 2aor subj; κιχάνω, overtake: epic 1sg 2aor subj. “Whomever a god grants and my feet catch.”"
+    },
+    {
+      "lines": "229",
+      "lemma": "ἐναιρέμεν … δύνηαι",
+      "text": "ἐναίρω, slay: epic pres inf; δύναμαι 2sg pres mid subj, uncontracted -ηαι."
+    },
+    {
+      "lines": "230",
+      "lemma": "ἐπαμείψομεν",
+      "text": "ἐπαμείβω, exchange: 1pl fut act, used as proposal; τεύχεα, armour."
+    },
+    {
+      "lines": "231",
+      "lemma": "γνῶσιν",
+      "text": "γιγνώσκω 3pl root aor subj; purpose after ὄφρα, “so these men too may know.”"
+    },
+    {
+      "lines": "232",
+      "lemma": "φωνήσαντε … ἀΐξαντε",
+      "text": "Two aor act ptcs, nom dual: speaking, then leaping down; καθ᾽ ἵππων, from their chariots."
+    },
+    {
+      "lines": "233",
+      "lemma": "λαβέτην καὶ πιστώσαντο",
+      "text": "λαμβάνω unaugmented 3dual 2aor; πιστόω 3pl aor mid, pledged faith. Dual shifts to plural."
+    },
+    {
+      "lines": "234",
+      "lemma": "φρένας ἐξέλετο",
+      "text": "ἐξαιρέω 3sg 2aor mid, took away his wits; narrator's explanation of Glaucus' unequal bargain."
+    },
+    {
+      "lines": "235–236",
+      "lemma": "χρύσεα χαλκείων",
+      "text": "“Gold [armour] for bronze”; gen of exchange after ἄμειβε."
+    },
+    {
+      "lines": "236",
+      "lemma": "ἑκατόμβοι᾽ ἐννεαβοίων",
+      "text": "ἑκατόμβοιος, worth a hundred cattle; ἐννεάβοιος, worth nine. Acc things given, gen things received."
+    },
+    {
+      "lines": "237",
+      "lemma": "Σκαιάς … φηγόν",
+      "text": "Scaean gates; φηγός, oak, landmark beside Troy."
+    },
+    {
+      "lines": "238",
+      "lemma": "ἀμφὶ … θέον",
+      "text": "θέω, run: unaugmented 3pl impf; women crowd around Hector."
+    },
+    {
+      "lines": "239",
+      "lemma": "εἰρόμεναι · κασιγνήτους · ἔτας",
+      "text": "εἴρομαι, ask: pres mid ptc; κασίγνητος, brother; ἔτης, kinsman / companion: acc pl."
+    },
+    {
+      "lines": "240",
+      "lemma": "πόσιας · ἀνώγει",
+      "text": "πόσις, husband: epic acc pl; ἄνωγα, command: 3sg past here; tells all to pray."
+    },
+    {
+      "lines": "241",
+      "lemma": "ἑξείης · κήδε᾽ ἐφῆπτο",
+      "text": "ἑξείης, in turn; κῆδος, grief: neut pl; ἐφάπτω 3sg plup pass, “sorrows were attached / hung over many.”"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    }
+  ]
+}

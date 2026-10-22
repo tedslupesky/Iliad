@@ -1,0 +1,164 @@
+{
+  "id": "6.4",
+  "title": "A robe and a prayer for Athena",
+  "intro": "Helenus sends Hector to arrange a collective offering. The commands mix imperatives and infinitives.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "79",
+      "lemma": "πᾶσαν ἐπ᾽ ἰθύν",
+      "text": "ἰθύς, direction / undertaking: acc sg; “in every enterprise.” μάχεσθαι … φρονέειν: in fighting and planning."
+    },
+    {
+      "lines": "80",
+      "lemma": "στῆτε … ἐρυκάκετε",
+      "text": "ἵστημι 2pl root aor imperative, stand firm; ἐρύκω reduplicated aor imperative 2pl, hold back / check; keep the army outside the gates."
+    },
+    {
+      "lines": "81",
+      "lemma": "πάντῃ ἐποιχόμενοι",
+      "text": "πάντῃ, in every direction; ἐποίχομαι, go about: pres mid ptc nom pl."
+    },
+    {
+      "lines": "81–82",
+      "lemma": "πρὶν … πεσέειν",
+      "text": "πρίν + inf, before; πίπτω epic 2aor inf, = πεσεῖν. “Before they fall fleeing into the women's arms.”"
+    },
+    {
+      "lines": "82",
+      "lemma": "δηΐοισι … χάρμα γενέσθαι",
+      "text": "δήϊος, enemy: dat pl; χάρμα, joy / cause of joy; γίγνομαι 2aor mid inf, still after πρίν."
+    },
+    {
+      "lines": "83",
+      "lemma": "ἐπεί κε … ἐποτρύνητον",
+      "text": "ἐποτρύνω, urge: 2dual aor subj; “when you two have urged all the ranks.”"
+    },
+    {
+      "lines": "84",
+      "lemma": "αὖθι μένοντες",
+      "text": "αὖθι, here / on the spot; μένω pres ptc nom pl, standing our ground."
+    },
+    {
+      "lines": "85",
+      "lemma": "τειρόμενοί περ",
+      "text": "τείρω, wear down: pres pass ptc nom pl; περ concessive, “hard pressed though we are.”"
+    },
+    {
+      "lines": "85",
+      "lemma": "ἀναγκαίη … ἐπείγει",
+      "text": "ἀναγκαίη, necessity; ἐπείγω, press / constrain: 3sg pres."
+    },
+    {
+      "lines": "86",
+      "lemma": "πόλιν δὲ μετέρχεο",
+      "text": "πόλινδε, to the city (-δε directional); μετέρχομαι, go to: uncontracted 2sg pres imperative."
+    },
+    {
+      "lines": "87",
+      "lemma": "ξυνάγουσα γεραιάς",
+      "text": "συνάγω, gather: pres ptc nom fem sg; γεραιός, aged: acc fem pl, the elder women."
+    },
+    {
+      "lines": "88",
+      "lemma": "νηόν … ἐν πόλει ἄκρῃ",
+      "text": "νηός = νεώς, temple; ἐν πόλει ἄκρῃ, in the citadel."
+    },
+    {
+      "lines": "89",
+      "lemma": "οἴξασα κληῗδι",
+      "text": "οἴγνυμι, open: aor act ptc nom fem sg; κληΐς, key: dat sg."
+    },
+    {
+      "lines": "90–92",
+      "lemma": "πέπλον … θεῖναι",
+      "text": "πέπλος, robe: acc sg; τίθημι aor act inf used as command, “let her lay [the robe].” Long intervening relative clause describes it."
+    },
+    {
+      "lines": "90",
+      "lemma": "χαριέστατος",
+      "text": "χαρίεις, lovely / graceful: superlative nom masc sg with πέπλος; greatest and most cherished robe."
+    },
+    {
+      "lines": "92",
+      "lemma": "γούνασιν ἠϋκόμοιο",
+      "text": "γόνυ, knee: dat pl; ἠΰκομος, lovely-haired: gen sg with Athena. Robe placed on the statue's knees."
+    },
+    {
+      "lines": "93",
+      "lemma": "ὑποσχέσθαι",
+      "text": "ὑπισχνέομαι, promise: 2aor mid inf, another command; οἱ, to Athena."
+    },
+    {
+      "lines": "93–94",
+      "lemma": "δυοκαίδεκα βοῦς ἤνις ἠκέστας",
+      "text": "Twelve yearling cattle, never goaded / unworked; ἦνις, yearling: acc pl ἤνις; ἠκέστης, ungoaded: acc pl."
+    },
+    {
+      "lines": "94",
+      "lemma": "ἱερευσέμεν · αἴ κ᾽ ἐλεήσῃ",
+      "text": "ἱερεύω, sacrifice: epic fut inf, dependent on promise. ἐλεέω, pity: 3sg aor subj; “if she will take pity.”"
+    },
+    {
+      "lines": "95",
+      "lemma": "ἀλόχους · νήπια τέκνα",
+      "text": "ἄλοχος, wife: acc pl; νήπιος, infant / young; τέκνον, child."
+    },
+    {
+      "lines": "96",
+      "lemma": "ὥς κεν … ἀπόσχῃ",
+      "text": "ἀπέχω, keep away: 3sg 2aor act subj; purpose, + gen Ἰλίου. ἱρός = ἱερός, sacred."
+    },
+    {
+      "lines": "97",
+      "lemma": "αἰχμητήν · μήστωρα φόβοιο",
+      "text": "αἰχμητής, spearman; μήστωρ, deviser / master: acc sg; φόβος, rout / panic: gen sg."
+    },
+    {
+      "lines": "98",
+      "lemma": "κάρτιστον",
+      "text": "κάρτιστος = κράτιστος, strongest; metathesis of ρ. Acc + inf after φημι: “I say he has proved strongest.”"
+    },
+    {
+      "lines": "99",
+      "lemma": "ἐδείδιμεν · ὄρχαμον",
+      "text": "δείδω, fear: 1pl plup with impf sense; ὄρχαμος, leader / chief: acc sg."
+    },
+    {
+      "lines": "100",
+      "lemma": "θεᾶς ἐξέμμεναι",
+      "text": "ἐξ + ἔμμεναι (= εἶναι), “to be born of a goddess”; gen θεᾶς. Achilles is Thetis' son."
+    },
+    {
+      "lines": "100–101",
+      "lemma": "λίην μαίνεται · ἰσοφαρίζειν",
+      "text": "λίην, exceedingly; μαίνομαι, rage; ἰσοφαρίζω, match / equal: pres inf, μένος acc of respect, in strength."
+    },
+    {
+      "lines": "102",
+      "lemma": "κασιγνήτῳ ἀπίθησεν",
+      "text": "κασίγνητος, brother: dat sg; ἀπιθέω, disobey: 3sg aor, negated. Helenus is Hector's brother."
+    },
+    {
+      "lines": "103",
+      "lemma": "ὀχέων … ἆλτο χαμᾶζε",
+      "text": "ὄχεα, chariot: gen pl; ἅλλομαι, leap: 3sg root aor mid; χαμᾶζε, to the ground."
+    },
+    {
+      "lines": "104",
+      "lemma": "πάλλων … ᾤχετο",
+      "text": "πάλλω, brandish: pres ptc; οἴχομαι, go: 3sg impf; δοῦρα, spears."
+    },
+    {
+      "lines": "105",
+      "lemma": "ὀτρύνων … ἔγειρε φύλοπιν",
+      "text": "ὀτρύνω, urge: pres ptc; ἐγείρω, rouse: 3sg impf; φύλοπις, battle-din: acc sg."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    }
+  ]
+}

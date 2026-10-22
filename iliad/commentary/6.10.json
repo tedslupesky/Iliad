@@ -1,0 +1,163 @@
+{
+  "id": "6.10",
+  "title": "Hector and Hecuba",
+  "intro": "Hecuba offers wine and rest. Hector refuses and directs her towards Athena's temple.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "242–243",
+      "lemma": "περικαλλέα … τετυγμένον",
+      "text": "περικαλλής, very beautiful: acc sg; τεύχω perf mid/pass ptc acc sg, built / adorned."
+    },
+    {
+      "lines": "243",
+      "lemma": "ξεστῇς αἰθούσῃσι",
+      "text": "ξεστός, polished / dressed; αἴθουσα, porch / colonnade: dat pl."
+    },
+    {
+      "lines": "244",
+      "lemma": "ἔνεσαν θάλαμοι",
+      "text": "ἔνειμι, be within: 3pl impf; θάλαμος, chamber / bedroom."
+    },
+    {
+      "lines": "245",
+      "lemma": "δεδμημένοι",
+      "text": "δέμω, build: perf mid/pass ptc nom pl, not δάμνημι, subdue."
+    },
+    {
+      "lines": "246",
+      "lemma": "κοιμῶντο … μνηστῇς ἀλόχοισι",
+      "text": "κοιμάομαι, sleep: unaugmented 3pl impf; μνηστός, wooed / wedded; ἄλοχος, wife: dat pl."
+    },
+    {
+      "lines": "247",
+      "lemma": "κουράων … ἑτέρωθεν … ἔνδοθεν",
+      "text": "κούρη, daughter: gen pl; ἑτέρωθεν, on the other side; ἔνδοθεν + gen, inside the courtyard."
+    },
+    {
+      "lines": "248",
+      "lemma": "τέγεοι θάλαμοι",
+      "text": "τέγεος, roofed; twelve covered chambers opposite the sons' fifty rooms."
+    },
+    {
+      "lines": "249–250",
+      "lemma": "γαμβροί … αἰδοίῃς",
+      "text": "γαμβρός, son-in-law here; αἰδοῖος, honoured / respected, with wives."
+    },
+    {
+      "lines": "251",
+      "lemma": "ἠπιόδωρος · ἐναντίη ἤλυθε",
+      "text": "ἠπιόδωρος, kindly giving / gentle; ἐναντίη, to meet him; ἤλυθε epic 3sg 2aor of ἔρχομαι."
+    },
+    {
+      "lines": "252",
+      "lemma": "ἐσάγουσα … εἶδος ἀρίστην",
+      "text": "ἐσάγω, bring in: pres ptc; εἶδος acc of respect, most beautiful in appearance."
+    },
+    {
+      "lines": "253",
+      "lemma": "οἱ φῦ χειρί",
+      "text": "φύω, grow / cling: unaugmented 3sg root aor, “clasped his hand”; οἱ possessive dat."
+    },
+    {
+      "lines": "253",
+      "lemma": "ἔκ τ᾽ ὀνόμαζε",
+      "text": "ἐξονομάζω separated by particles, call by name; unaugmented 3sg impf."
+    },
+    {
+      "lines": "254",
+      "lemma": "τίπτε … θρασύν … εἰλήλουθας",
+      "text": "τίπτε, why; θρασύς, fierce / bold, with battle; ἔρχομαι epic 2sg perf, have come."
+    },
+    {
+      "lines": "255",
+      "lemma": "τείρουσι δυσώνυμοι",
+      "text": "τείρω, wear down: 3pl pres; δυσώνυμος, ill-named / accursed, hostile epithet for the Greeks."
+    },
+    {
+      "lines": "256",
+      "lemma": "μαρνάμενοι · ἀνῆκεν",
+      "text": "μάρναμαι, fight: pres ptc nom pl; ἀνίημι, impel / send up: 3sg aor, θυμός subject."
+    },
+    {
+      "lines": "257",
+      "lemma": "Διὶ χεῖρας ἀνασχεῖν",
+      "text": "ἀνέχω, raise: 2aor act inf, stem σχε-; lifting hands in prayer. ἐξ ἄκρης πόλιος, from the citadel."
+    },
+    {
+      "lines": "258",
+      "lemma": "μελιηδέα … ἐνείκω",
+      "text": "μελιηδής, honey-sweet: acc sg; φέρω 1sg aor subj, stem ἐνεικ-, after ὄφρα, “until / so that I bring.”"
+    },
+    {
+      "lines": "259",
+      "lemma": "σπείσῃς",
+      "text": "σπένδω, pour a libation: 2sg aor subj; purpose after ὡς."
+    },
+    {
+      "lines": "260",
+      "lemma": "καὐτός … ὀνήσεαι",
+      "text": "καὶ αὐτός, you yourself too; ὀνίναμαι, benefit: epic 2sg fut mid, uncontracted."
+    },
+    {
+      "lines": "260",
+      "lemma": "αἴ κε πίῃσθα",
+      "text": "πίνω, drink: epic 2sg 2aor subj with -σθα; “if you drink.”"
+    },
+    {
+      "lines": "261",
+      "lemma": "κεκμηῶτι … ἀέξει",
+      "text": "κάμνω, toil / tire: perf act ptc dat sg, weary; ἀέξω = αὔξω, increase: 3sg pres."
+    },
+    {
+      "lines": "262",
+      "lemma": "τύνη … ἔτῃσι",
+      "text": "τύνη, emphatic σύ, you; ἔτης, kinsman / comrade: dat pl. κέκμηκας, 2sg perf of κάμνω."
+    },
+    {
+      "lines": "264",
+      "lemma": "ἄειρε μελίφρονα … πότνια",
+      "text": "ἀείρω, bring / lift: 2sg pres imperative, negated; μελίφρων, honey-hearted / cheering; πότνια, honoured lady."
+    },
+    {
+      "lines": "265",
+      "lemma": "ἀπογυιώσῃς μένεος",
+      "text": "ἀπογυιόω, weaken / unnerve: 2sg aor subj after μή; gen of deprivation, of strength."
+    },
+    {
+      "lines": "265",
+      "lemma": "ἀλκῆς … λάθωμαι",
+      "text": "λανθάνομαι, forget: 1sg 2aor mid subj + gen; “lest I forget my fighting strength.”"
+    },
+    {
+      "lines": "266",
+      "lemma": "ἀνίπτοισιν … λείβειν αἴθοπα οἶνον",
+      "text": "ἄνιπτος, unwashed; λείβω, pour a libation: pres inf; αἶθοψ, gleaming / fiery: acc sg."
+    },
+    {
+      "lines": "267",
+      "lemma": "ἅζομαι · κελαινεφέϊ",
+      "text": "ἅζομαι, shrink in reverence: 1sg pres; κελαινεφής, dark-clouded: dat sg with Zeus."
+    },
+    {
+      "lines": "268",
+      "lemma": "λύθρῳ πεπαλαγμένον εὐχετάασθαι",
+      "text": "λύθρον, gore / defilement; παλάσσω perf pass ptc acc sg, bespattered; εὐχετάομαι, pray: epic pres inf. Impersonal οὐκ ἔστι: not permissible."
+    },
+    {
+      "lines": "269",
+      "lemma": "ἀγελείης",
+      "text": "ἀγελείη, Athena's traditional epithet, often “driver of spoil”; derivation uncertain. Instruction continues next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    },
+    {
+      "title": "Selected forms checked · Dickinson College Commentaries, 6.232-262",
+      "url": "https://dcc.dickinson.edu/homer-iliad/homer-iliad-vi-232-262"
+    }
+  ]
+}

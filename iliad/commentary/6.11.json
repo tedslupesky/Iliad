@@ -1,0 +1,164 @@
+{
+  "id": "6.11",
+  "title": "Hecuba chooses the robe",
+  "intro": "Hector repeats Helenus' instructions, then turns bitterly to Paris. Hecuba selects the finest offering.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "270",
+      "lemma": "ἔρχεο … θυέεσσιν",
+      "text": "ἔρχομαι uncontracted 2sg pres imperative; θύος, burnt offering / incense: dat pl -εσσι."
+    },
+    {
+      "lines": "270",
+      "lemma": "ἀολλίσσασα γεραιάς",
+      "text": "ἀολλίζω, gather together: aor act ptc nom fem sg; γεραιαί, elder women."
+    },
+    {
+      "lines": "271–273",
+      "lemma": "πέπλον … τὸν θές",
+      "text": "Fronted robe resumed by τόν; τίθημι 2sg aor imperative, place. The intervening relative picks the finest and largest."
+    },
+    {
+      "lines": "271",
+      "lemma": "χαριέστατος",
+      "text": "χαρίεις, lovely / graceful: superlative; πολὺ φίλτατος (272), by far most cherished."
+    },
+    {
+      "lines": "273",
+      "lemma": "γούνασιν ἠϋκόμοιο",
+      "text": "γόνυ dat pl; ἠΰκομος, lovely-haired: gen sg of Athena. Offering on the statue's knees."
+    },
+    {
+      "lines": "274",
+      "lemma": "ὑποσχέσθαι",
+      "text": "ὑπισχνέομαι, promise: 2aor mid inf used as command; alternates with imperative θές."
+    },
+    {
+      "lines": "274–275",
+      "lemma": "ἤνις ἠκέστας ἱερευσέμεν",
+      "text": "Yearling cattle, never goaded / worked; ἱερεύω, sacrifice: epic fut inf after promise. Compare the same wording at 93–94."
+    },
+    {
+      "lines": "275–277",
+      "lemma": "αἴ κ᾽ ἐλεήσῃ … αἴ κεν … ἀπόσχῃ",
+      "text": "ἐλεέω aor subj, pity; ἀπέχω 2aor subj, keep away. Hoped-for divine response, both 3sg."
+    },
+    {
+      "lines": "278",
+      "lemma": "μήστωρα φόβοιο",
+      "text": "μήστωρ, deviser / master: acc sg; φόβος, rout / panic. Diomedes' terrifying reputation persists."
+    },
+    {
+      "lines": "280",
+      "lemma": "ἔρχευ · μετελεύσομαι",
+      "text": "ἔρχευ contracted 2sg imperative of ἔρχομαι; μετέρχομαι, go after: 1sg fut mid, μετ-ελεύσ-."
+    },
+    {
+      "lines": "280",
+      "lemma": "ὄφρα καλέσσω",
+      "text": "καλέω, call / summon: epic 1sg aor subj with -σσ-, purpose."
+    },
+    {
+      "lines": "281",
+      "lemma": "ἐθέλῃσ᾽ … ἀκουέμεν",
+      "text": "ἐθέλω 3sg pres subj -ῃσι, elided; ἀκούω pres inf -έμεν; “if he is willing to listen.” εἰπόντος gen ptc, to me speaking."
+    },
+    {
+      "lines": "281–282",
+      "lemma": "ὥς κέ οἱ αὖθι γαῖα χάνοι",
+      "text": "χάσκω, gape: 3sg 2aor opt; impassioned wish, “if only the earth would swallow him here!”"
+    },
+    {
+      "lines": "282",
+      "lemma": "ἔτρεφε πῆμα",
+      "text": "τρέφω, rear: 3sg impf; πῆμα, bane / affliction (neut), predicate to Paris. Zeus raised him as Troy's bane."
+    },
+    {
+      "lines": "283",
+      "lemma": "τοῖό τε παισίν",
+      "text": "τοῖο, epic gen sg demonstrative, “his,” Priam's; παῖς dat pl."
+    },
+    {
+      "lines": "284–285",
+      "lemma": "εἰ … ἴδοιμι … φαίην κε",
+      "text": "εἶδον 1sg 2aor opt; φημί 1sg pres opt + κε. “If I saw … I would say…”"
+    },
+    {
+      "lines": "284",
+      "lemma": "Ἄϊδος εἴσω",
+      "text": "“Into Hades' [house]”; gen with εἴσω, dwelling understood."
+    },
+    {
+      "lines": "285",
+      "lemma": "ἀτέρπου ὀϊζύος ἐκλελαθέσθαι",
+      "text": "ἄτερπος, joyless; ὀϊζύς, misery: gen sg. ἐκλανθάνομαι perf mid inf, utterly forget; φρένα acc subject, my heart."
+    },
+    {
+      "lines": "286",
+      "lemma": "μολοῦσα ποτί",
+      "text": "βλώσκω, go: 2aor ptc nom fem sg, stem μολ-; ποτί = πρός."
+    },
+    {
+      "lines": "286–287",
+      "lemma": "ἀμφιπόλοισι κέκλετο",
+      "text": "ἀμφίπολος, attendant: dat pl; κέλομαι reduplicated 3sg aor mid, called to."
+    },
+    {
+      "lines": "287",
+      "lemma": "ἀόλλισσαν",
+      "text": "ἀολλίζω, gather: unaugmented 3pl aor; they gather the elder women throughout the city."
+    },
+    {
+      "lines": "288",
+      "lemma": "κατεβήσετο κηώεντα",
+      "text": "καταβαίνω 3sg aor mid, went down; κηώεις, fragrant: acc masc sg with chamber."
+    },
+    {
+      "lines": "289",
+      "lemma": "παμποίκιλα ἔργα",
+      "text": "All-patterned / richly embroidered works; describes the robes."
+    },
+    {
+      "lines": "290–291",
+      "lemma": "Σιδονίων … Σιδονίηθεν",
+      "text": "Sidonian women; -θεν, from Sidon. These skilled women came with Paris from the Levant."
+    },
+    {
+      "lines": "291",
+      "lemma": "ἐπιπλώς",
+      "text": "ἐπιπλέω, sail over: 2aor act ptc nom sg, athematic stem πλω-."
+    },
+    {
+      "lines": "292",
+      "lemma": "τὴν ὁδόν … εὐπατέρειαν",
+      "text": "“On that journey on which…”; acc of time / course. εὐπατέρεια, noble-born: acc fem sg, Helen."
+    },
+    {
+      "lines": "293",
+      "lemma": "ἀειραμένη",
+      "text": "ἀείρω, lift / take up: aor mid ptc nom fem sg; she selects one robe."
+    },
+    {
+      "lines": "294",
+      "lemma": "ποικίλμασιν",
+      "text": "ποίκιλμα, embroidery / patterned work: dat pl of respect; most beautiful in its embroidery."
+    },
+    {
+      "lines": "295",
+      "lemma": "ἀστὴρ … ἀπέλαμπεν · νείατος",
+      "text": "ἀπολάμπω, shine out: 3sg impf, like a star; νείατος, bottommost, beneath the other robes."
+    },
+    {
+      "lines": "296",
+      "lemma": "βῆ … μετεσσεύοντο",
+      "text": "βαίνω root aor, set off; μετασεύομαι, hurry after: unaugmented 3pl impf mid, epic -σσ-."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    }
+  ]
+}

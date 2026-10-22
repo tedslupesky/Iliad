@@ -1,0 +1,164 @@
+{
+  "id": "6.8",
+  "title": "Bellerophon's descendants",
+  "intro": "Success gives way to isolation and family loss. Glaucus' genealogy reveals an unexpected bond with Diomedes.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "187",
+      "lemma": "ἀνερχομένῳ … δόλον … ὕφαινε",
+      "text": "ἀνέρχομαι pres ptc dat sg, returning; δόλος, trap / trick; ὑφαίνω, weave: unaugmented 3sg impf, “devised.”"
+    },
+    {
+      "lines": "187",
+      "lemma": "πυκινόν",
+      "text": "Close-knit / cunning; literal density becomes strategic craft."
+    },
+    {
+      "lines": "188",
+      "lemma": "κρίνας … φῶτας",
+      "text": "κρίνω, choose: aor ptc nom sg; φώς, man / warrior: acc pl."
+    },
+    {
+      "lines": "189",
+      "lemma": "εἷσε λόχον",
+      "text": "ἵζω, set / station: 3sg aor; λόχος, ambush / ambushing party."
+    },
+    {
+      "lines": "189",
+      "lemma": "οἶκον δὲ νέοντο",
+      "text": "οἶκονδε, homeward; νέομαι, return: unaugmented 3pl impf, negated."
+    },
+    {
+      "lines": "190",
+      "lemma": "κατέπεφνεν",
+      "text": "καταπέφνω, kill: reduplicated 3sg 2aor; Bellerophon kills the whole ambush."
+    },
+    {
+      "lines": "191",
+      "lemma": "θεοῦ γόνον ἠῢν ἐόντα",
+      "text": "γόνος, offspring; ἠΰς, noble: acc sg; ἐόντα = ὄντα. Recognizes him as the noble offspring of a god."
+    },
+    {
+      "lines": "192",
+      "lemma": "αὐτοῦ … κατέρυκε",
+      "text": "αὐτοῦ, there; κατερύκω, keep / detain: unaugmented 3sg impf. Now hospitable, not hostile detention."
+    },
+    {
+      "lines": "192",
+      "lemma": "δίδου … θυγατέρα ἥν",
+      "text": "δίδωμι unaugmented 3sg impf; ἥν possessive, his own; daughter given in marriage."
+    },
+    {
+      "lines": "193",
+      "lemma": "τιμῆς βασιληΐδος ἥμισυ",
+      "text": "βασιληΐς, royal: gen fem sg; ἥμισυ, half, + partitive gen; share of royal prerogatives / honour."
+    },
+    {
+      "lines": "194",
+      "lemma": "τέμενος τάμον ἔξοχον",
+      "text": "τέμενος, allotted estate, literally cut-off land; τέμνω unaugmented 3pl 2aor; ἔξοχος, outstanding / choice."
+    },
+    {
+      "lines": "195",
+      "lemma": "φυταλιῆς καὶ ἀρούρης",
+      "text": "φυταλιή, orchard / planted land; ἄρουρα, arable land: gen of contents / composition."
+    },
+    {
+      "lines": "195",
+      "lemma": "ὄφρα νέμοιτο",
+      "text": "νέμω, enjoy / occupy: 3sg pres mid opt, purpose."
+    },
+    {
+      "lines": "198",
+      "lemma": "παρελέξατο μητίετα Ζεύς",
+      "text": "παραλέγομαι, lie beside: 3sg aor mid; μητίετα, counsellor / wise, epic nom in -α. Zeus fathers Sarpedon by Laodameia."
+    },
+    {
+      "lines": "199",
+      "lemma": "ἀντίθεον … χαλκοκορυστήν",
+      "text": "Godlike; bronze-armoured warrior: acc sg with Sarpedon, wounded in Book V."
+    },
+    {
+      "lines": "200",
+      "lemma": "καὶ κεῖνος ἀπήχθετο",
+      "text": "κεῖνος, Bellerophon; ἀπεχθάνομαι 3sg 2aor mid, became hated. The reason is not supplied here."
+    },
+    {
+      "lines": "201",
+      "lemma": "κὰπ πεδίον … οἶος ἀλᾶτο",
+      "text": "κὰπ = κατά before π; οἶος, alone; ἀλάομαι, wander: unaugmented 3sg impf mid. Ἀλήϊον, Aleian plain, echoes wandering."
+    },
+    {
+      "lines": "202",
+      "lemma": "ὃν θυμὸν κατέδων",
+      "text": "ὅν possessive, his own; κατέδω, consume: pres ptc, “eating his heart out.”"
+    },
+    {
+      "lines": "202",
+      "lemma": "πάτον … ἀλεείνων",
+      "text": "πάτος, path / track: acc sg; ἀλεείνω, avoid: pres ptc; shunning human company."
+    },
+    {
+      "lines": "203–204",
+      "lemma": "ἆτος πολέμοιο · μαρνάμενον",
+      "text": "ἆτος, insatiate, + gen of war; μάρναμαι, fight: pres ptc acc sg with Isander."
+    },
+    {
+      "lines": "205",
+      "lemma": "τὴν … χολωσαμένη χρυσήνιος",
+      "text": "τήν, Laodameia; χολόω, anger: aor mid ptc nom fem sg; χρυσήνιος, golden-reined, Artemis."
+    },
+    {
+      "lines": "205",
+      "lemma": "ἔκτα",
+      "text": "κτείνω, kill: 3sg root aor act, short κτα- stem."
+    },
+    {
+      "lines": "206",
+      "lemma": "Ἱππόλοχος δέ μ᾽ ἔτικτε",
+      "text": "τίκτω 3sg impf, “Hippolochus begot me”; finally identifies this speaker, Glaucus, as Bellerophon's grandson."
+    },
+    {
+      "lines": "207",
+      "lemma": "ἐπέτελλεν",
+      "text": "ἐπιτέλλω, enjoin: 3sg impf; πόλλα adverbial, earnestly / repeatedly."
+    },
+    {
+      "lines": "208",
+      "lemma": "ἀριστεύειν … ὑπείροχον ἔμμεναι",
+      "text": "ἀριστεύω, excel: pres inf; ὑπείροχος, pre-eminent, + gen; ἔμμεναι = εἶναι. His father's charge: excel beyond the others."
+    },
+    {
+      "lines": "209",
+      "lemma": "αἰσχυνέμεν",
+      "text": "αἰσχύνω, shame: epic pres inf -έμεν = -ειν; do not disgrace the ancestral stock."
+    },
+    {
+      "lines": "211",
+      "lemma": "γενεῆς … αἵματος εὔχομαι εἶναι",
+      "text": "εὔχομαι, claim / avow here; gen of descent with εἶναι, “I claim this lineage and blood.”"
+    },
+    {
+      "lines": "212",
+      "lemma": "γήθησεν",
+      "text": "γηθέω, rejoice: 3sg aor; Diomedes recognizes the family connection."
+    },
+    {
+      "lines": "213",
+      "lemma": "κατέπηξεν … χθονὶ πουλυβοτείρῃ",
+      "text": "καταπήγνυμι, plant firmly: 3sg aor; χθών dat sg; πουλυβότειρα, feeding many, earth's epithet."
+    },
+    {
+      "lines": "214",
+      "lemma": "μειλιχίοισι … ποιμένα λαῶν",
+      "text": "μειλίχιος, gentle / soothing: dat neut pl, words understood; ποιμήν, shepherd: acc sg, leader of the host."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    }
+  ]
+}

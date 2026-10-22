@@ -1,0 +1,178 @@
+{
+  "id": "6.16",
+  "title": "Andromache's losses and plea",
+  "intro": "Andromache recounts the destruction of her family, then offers Hector a practical defensive plan. Several familiar verbs appear in epic aorist forms.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "408",
+      "lemma": "νηπίαχον … ἄμμορον",
+      "text": "νηπίαχος, little / infant; ἄμμορος, without a share, hence unfortunate. Acc objects of ἐλεαίρεις on the preceding page."
+    },
+    {
+      "lines": "408–409",
+      "lemma": "χήρη σεῦ ἔσομαι",
+      "text": "χήρη, widow / bereft; σεῦ = σοῦ, gen of separation; εἰμί 1sg fut: I shall be widowed of you."
+    },
+    {
+      "lines": "409",
+      "lemma": "κατακτανέουσιν",
+      "text": "κατακτείνω 3pl fut, uncontracted: will kill. Recognize the κταν- stem."
+    },
+    {
+      "lines": "410",
+      "lemma": "ἐφορμηθέντες",
+      "text": "ἐφορμάω aor pass-form ptc nom pl, with intransitive sense: rushing upon you together."
+    },
+    {
+      "lines": "410–411",
+      "lemma": "κέ κέρδιον εἴη … δύμεναι",
+      "text": "Potential optative: it would be better. κέρδιον neut comparative of κερδαλέος; δύω root aor inf, go down, with epic -μεναι."
+    },
+    {
+      "lines": "411",
+      "lemma": "σεῦ ἀφαμαρτούσῃ",
+      "text": "ἀφαμαρτάνω aor ptc dat sg fem, agreeing with ἐμοί: for me, deprived of you. Gen σεῦ with the verb of losing."
+    },
+    {
+      "lines": "411",
+      "lemma": "χθόνα",
+      "text": "χθών acc sg, earth; here going beneath the earth means dying."
+    },
+    {
+      "lines": "412",
+      "lemma": "θαλπωρή",
+      "text": "Warmth / comfort / consolation; related to θάλπω, warm or cherish."
+    },
+    {
+      "lines": "412",
+      "lemma": "πότμον ἐπίσπῃς",
+      "text": "ἐφέπω 2sg aor subj mid, meet / encounter; πότμος, fate, especially death. ἐπεί + ἄν + subj: when you meet your doom."
+    },
+    {
+      "lines": "413",
+      "lemma": "ἄχε᾽",
+      "text": "ἄχεα, neut pl of ἄχος, grief; elided before οὐδέ. Contrasted with the absent θαλπωρή."
+    },
+    {
+      "lines": "414",
+      "lemma": "ἁμόν",
+      "text": "Possessive adjective, my, acc sg masc; an epic form beside ἐμόν."
+    },
+    {
+      "lines": "415–416",
+      "lemma": "ἐκ … πέρσεν … κατὰ … ἔκτανεν",
+      "text": "ἐκπέρθω 3sg aor, utterly sacked; κατακτείνω 3sg aor, killed. Both compounds split in tmesis."
+    },
+    {
+      "lines": "415–416",
+      "lemma": "εὖ ναιετάουσαν … ὑψίπυλον",
+      "text": "ναιετάω pres ptc, well inhabited; ὑψίπυλος, high-gated. Both describe Thebe."
+    },
+    {
+      "lines": "417",
+      "lemma": "ἐξενάριξε",
+      "text": "ἐξεναρίζω 3sg aor, stripped the armor from a slain enemy."
+    },
+    {
+      "lines": "417",
+      "lemma": "σεβάσσατο",
+      "text": "σέβομαι 3sg aor mid, felt reverence / scruple. τό γε points to stripping the dead king, the act he shrank from."
+    },
+    {
+      "lines": "418",
+      "lemma": "κατέκηε … ἔντεσι δαιδαλέοισιν",
+      "text": "κατακαίω 3sg aor, burned; ἔντεα dat pl, armor; δαιδάλεος, elaborately wrought."
+    },
+    {
+      "lines": "419",
+      "lemma": "ἐπὶ σῆμ᾽ ἔχεεν",
+      "text": "χέω 3sg aor, heaped / poured; σῆμα, burial mound or grave marker. ἐπί: over him."
+    },
+    {
+      "lines": "419–420",
+      "lemma": "πτελέας … ὀρεστιάδες",
+      "text": "πτελέα, elm, acc pl; ὀρεστιάς, mountain-dwelling, nom pl fem, describing the nymphs."
+    },
+    {
+      "lines": "421–422",
+      "lemma": "κασίγνητοι … ἰῷ … ἤματι",
+      "text": "κασίγνητος, sibling, here brothers; ἰῷ dat sg of ἴος, one; ἦμαρ dat sg ἤματι: on one day."
+    },
+    {
+      "lines": "422",
+      "lemma": "κίον … Ἄϊδος εἴσω",
+      "text": "κίω 3pl impf, went; εἴσω with gen, into Hades' house. The house is understood."
+    },
+    {
+      "lines": "423",
+      "lemma": "κατέπεφνε",
+      "text": "καταπέφνω 3sg reduplicated aor, slew; φεν- / φον- family, as in φόνος, slaughter."
+    },
+    {
+      "lines": "424",
+      "lemma": "βουσὶν ἐπ᾽ εἰλιπόδεσσι",
+      "text": "βοῦς dat pl; εἰλίπους, rolling-gaited / shambling, dat pl. ἐπί: tending or among the cattle."
+    },
+    {
+      "lines": "424",
+      "lemma": "ἀργεννῇς ὀΐεσσι",
+      "text": "ἀργεννός, white / shining; ὄϊς, sheep, dat pl epic -εσσι."
+    },
+    {
+      "lines": "426",
+      "lemma": "κτεάτεσσιν",
+      "text": "κτέαρ, possession: dat pl; here other spoils carried off with her mother."
+    },
+    {
+      "lines": "427",
+      "lemma": "ἂψ … ἀπέλυσε … ἄποινα",
+      "text": "ἄψ, back / again; ἀπολύω 3sg aor, released; ἄποινα neut pl, ransom. ἀπερείσια: boundless / immense."
+    },
+    {
+      "lines": "428",
+      "lemma": "ἰοχέαιρα",
+      "text": "Arrow-showering, epithet of Artemis. Her arrow marks the mother's death after her release."
+    },
+    {
+      "lines": "430",
+      "lemma": "θαλερὸς παρακοίτης",
+      "text": "θαλερός, flourishing / vigorous; παρακοίτης, bedfellow / husband. Hector replaces every family bond she has lost."
+    },
+    {
+      "lines": "431–432",
+      "lemma": "αὐτοῦ μίμν᾽ … μὴ … θήῃς",
+      "text": "αὐτοῦ, here; μίμνω pres imperative, stay; τίθημι 2sg aor subj with μή, do not make. θήῃς is uncontracted."
+    },
+    {
+      "lines": "433",
+      "lemma": "στῆσον … ἐρινεόν",
+      "text": "ἵστημι 2sg aor imperative, station, transitive; ἐρινεός, wild fig tree, a landmark near the wall."
+    },
+    {
+      "lines": "434",
+      "lemma": "ἀμβατός … ἐπίδρομον",
+      "text": "ἀμβατός, climbable; ἐπίδρομος, open to assault. ἔπλετο, 3sg past of πέλομαι, functions like was / is found to be."
+    },
+    {
+      "lines": "435",
+      "lemma": "ἐπειρήσανθ᾽",
+      "text": "πειράομαι 3pl aor mid, tried / made an attempt; elided -ντο before οἱ."
+    },
+    {
+      "lines": "436–437",
+      "lemma": "ἀμφ᾽ Αἴαντε δύω … Ἀτρεΐδας",
+      "text": "ἀμφί + acc names the leaders and their company; Αἴαντε acc dual, the two Ajaxes; Ἀτρεΐδας acc pl, Agamemnon and Menelaus."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    },
+    {
+      "title": "Selected forms checked · Dickinson College Commentaries, 6.369-413",
+      "url": "https://dcc.dickinson.edu/homer-iliad/homer-iliad-vi-369-413"
+    }
+  ]
+}

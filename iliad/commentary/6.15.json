@@ -1,0 +1,168 @@
+{
+  "id": "6.15",
+  "title": "Hector meets Andromache",
+  "intro": "Hector finds his wife and infant son at the gate. Watch the household vocabulary and the contrast between the child's two names.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "381",
+      "lemma": "ὀτρηρὴ ταμίη",
+      "text": "ὀτρηρός, active / diligent; ταμίη, housekeeper or stewardess, fem of ταμίης."
+    },
+    {
+      "lines": "382",
+      "lemma": "ἄνωγας … μυθήσασθαι",
+      "text": "ἄνωγα, command: 2sg perf with pres sense; μυθέομαι aor mid inf, tell / relate."
+    },
+    {
+      "lines": "382",
+      "lemma": "ἀληθέα",
+      "text": "ἀληθής, neut acc pl used as a noun: the truth; object of μυθήσασθαι."
+    },
+    {
+      "lines": "383",
+      "lemma": "γαλόων … εἰνατέρων",
+      "text": "γαλόως, husband's sister; εἰνάτηρ, husband's brother's wife: gen pl, with houses understood after ἐς."
+    },
+    {
+      "lines": "384–385",
+      "lemma": "ἐξοίχεται … ἱλάσκονται",
+      "text": "ἐξοίχομαι 3sg pres, has gone out; ἱλάσκομαι 3pl pres, propitiate, with acc of deity."
+    },
+    {
+      "lines": "386–387",
+      "lemma": "οὕνεκ᾽ … τείρεσθαι",
+      "text": "οὕνεκα, because; τείρω pres pass inf, be hard pressed. Τρῶας is its acc subject in reported news."
+    },
+    {
+      "lines": "387",
+      "lemma": "κράτος",
+      "text": "Neut noun, strength / mastery / victory; here the Achaeans have the upper hand."
+    },
+    {
+      "lines": "388",
+      "lemma": "ἐπειγομένη ἀφικάνει",
+      "text": "ἐπείγομαι pres mid ptc, hastening; ἀφικάνω 3sg pres, arrives. Vivid present in the report."
+    },
+    {
+      "lines": "389",
+      "lemma": "μαινομένῃ ἐϊκυῖα",
+      "text": "μαίνομαι pres mid ptc, dat sg fem; ἔοικα perf ptc, nom sg fem: resembling a woman distraught. Resemblance takes dat."
+    },
+    {
+      "lines": "389",
+      "lemma": "τιθήνη",
+      "text": "Nurse; specifically the attendant carrying the baby."
+    },
+    {
+      "lines": "390",
+      "lemma": "ἦ … ἀπέσσυτο",
+      "text": "ἠμί 3sg impf, said; ἀποσεύομαι 3sg root aor mid, rushed away. Very different stems from ordinary λέγω / τρέχω."
+    },
+    {
+      "lines": "391",
+      "lemma": "ἀγυιάς",
+      "text": "ἀγυιά, street: acc pl after κατά, along."
+    },
+    {
+      "lines": "392–393",
+      "lemma": "εὖτε … διεξίμεναι",
+      "text": "εὖτε, when; διέξειμι pres inf, go out through. Epic -μεναι; dependent on ἔμελλε."
+    },
+    {
+      "lines": "393",
+      "lemma": "τῇ … πεδίον δέ",
+      "text": "τῇ, by which way; πεδίον δέ = πεδίονδε, toward the plain, with directional -δε."
+    },
+    {
+      "lines": "394",
+      "lemma": "πολύδωρος … θέουσα",
+      "text": "πολύδωρος, richly dowered; θέω pres ptc fem, running. ἐναντίη: to meet him."
+    },
+    {
+      "lines": "396–397",
+      "lemma": "ἔναιεν … ὑληέσσῃ",
+      "text": "ναίω 3sg impf, dwelt; ὑλήεις, wooded: dat sg fem agreeing with Πλάκῳ, the mountain Placus."
+    },
+    {
+      "lines": "397",
+      "lemma": "Θήβῃ Ὑποπλακίῃ",
+      "text": "Thebe beneath Placus, in Asia Minor; not Boeotian Thebes. Dat of place with the preceding ὑπό phrase."
+    },
+    {
+      "lines": "397",
+      "lemma": "Κιλίκεσσ᾽ … ἀνάσσων",
+      "text": "Κίλικες dat pl in -εσσι; ἀνάσσω pres ptc, ruling, with dat of the people ruled."
+    },
+    {
+      "lines": "398",
+      "lemma": "ἔχεθ᾽ Ἕκτορι",
+      "text": "ἔχω 3sg impf mid, elided ἔχετο: was married to Hector; dat of husband."
+    },
+    {
+      "lines": "399",
+      "lemma": "ἤντησ᾽ … κίεν",
+      "text": "ἀντάω 3sg aor, met, with dat οἱ; κίω 3sg impf, went. ἀμφίπολος: attendant."
+    },
+    {
+      "lines": "400",
+      "lemma": "κόλπῳ … ἀταλάφρονα",
+      "text": "κόλπος, bosom / fold of clothing; ἀταλάφρων, tender-minded, acc sg of the baby."
+    },
+    {
+      "lines": "400",
+      "lemma": "νήπιον αὔτως",
+      "text": "νήπιος, infant / uncomprehending; αὔτως, simply / just: a mere little child."
+    },
+    {
+      "lines": "401",
+      "lemma": "Ἑκτορίδην … ἀλίγκιον",
+      "text": "Ἑκτορίδης, son of Hector; ἀλίγκιος, resembling, with dat ἀστέρι. Both acc sg modifying παῖδα."
+    },
+    {
+      "lines": "402",
+      "lemma": "καλέεσκε",
+      "text": "καλέω iterative impf 3sg: used to call. -σκ- marks repeated or customary action."
+    },
+    {
+      "lines": "402–403",
+      "lemma": "Σκαμάνδριον … Ἀστυάνακτα",
+      "text": "Scamandrius recalls Troy's river Scamander; Astyanax means lord of the city, honoring his father's protection of Troy."
+    },
+    {
+      "lines": "403",
+      "lemma": "οἶος … ἐρύετο",
+      "text": "οἶος, alone; ἐρύομαι 3sg impf, guarded / defended. Distinguish ἐρύω, draw / drag."
+    },
+    {
+      "lines": "404–405",
+      "lemma": "μείδησεν … παρίστατο",
+      "text": "μειδάω 3sg aor, smiled; παρίστημι 3sg impf mid, stood beside. σιωπῇ: silently."
+    },
+    {
+      "lines": "406",
+      "lemma": "ἔν … φῦ χειρί",
+      "text": "ἐμφύω 3sg root aor, split by intervening words: clasped / clung to his hand. οἱ possessive dat; χειρί dat after ἐν."
+    },
+    {
+      "lines": "407",
+      "lemma": "δαιμόνιε … φθίσει",
+      "text": "Affectionate but distressed address, “dear, strange man”; φθίω 3sg fut active, will destroy. Subject τὸ σὸν μένος, your own fighting spirit."
+    },
+    {
+      "lines": "407",
+      "lemma": "ἐλεαίρεις",
+      "text": "ἐλεαίρω 2sg pres, pity / have compassion for; objects continue on the next page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    },
+    {
+      "title": "Selected forms checked · Dickinson College Commentaries, 6.369-413",
+      "url": "https://dcc.dickinson.edu/homer-iliad/homer-iliad-vi-369-413"
+    }
+  ]
+}

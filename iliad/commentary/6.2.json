@@ -1,0 +1,169 @@
+{
+  "id": "6.2",
+  "title": "Adrastus asks for ransom",
+  "intro": "A catalogue of deaths gives way to a captured Trojan's plea. Watch dual forms for the horses.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "21",
+      "lemma": "βῆ δὲ μετά",
+      "text": "βαίνω, go: unaugmented 3sg root aor; μετά + acc, “went after.”"
+    },
+    {
+      "lines": "22",
+      "lemma": "νηΐς · τέκε · ἀμύμονι",
+      "text": "νηΐς, water-nymph; τίκτω, bear: unaugmented 3sg 2aor; ἀμύμων, excellent / blameless: dat sg."
+    },
+    {
+      "lines": "23–24",
+      "lemma": "ἀγαυοῦ · πρεσβύτατος γενεῇ",
+      "text": "ἀγαυός, illustrious; πρέσβυς superlative, eldest; γενεή dat of respect, by birth."
+    },
+    {
+      "lines": "24",
+      "lemma": "σκότιον … γείνατο",
+      "text": "σκότιος, secret / born outside marriage: acc sg; γείνομαι, bear: unaugmented 3sg aor mid. ἑ = him."
+    },
+    {
+      "lines": "25",
+      "lemma": "ποιμαίνων … ὄεσσι",
+      "text": "ποιμαίνω, tend flocks: pres ptc; ὄϊς, sheep: dat pl, epic -εσσι."
+    },
+    {
+      "lines": "25",
+      "lemma": "μίγη φιλότητι καὶ εὐνῇ",
+      "text": "μίγνυμι, mingle: unaugmented 3sg 2aor pass, “lay with her”; φιλότης, intimacy, and εὐνή, bed: dat sg."
+    },
+    {
+      "lines": "26",
+      "lemma": "ὑποκυσαμένη",
+      "text": "ὑποκύομαι, conceive: aor mid ptc nom fem sg."
+    },
+    {
+      "lines": "26",
+      "lemma": "διδυμάονε … παῖδε",
+      "text": "διδυμάων, twin, and παῖς, child: acc dual; γείνατο, bore."
+    },
+    {
+      "lines": "27",
+      "lemma": "ὑπέλυσε μένος καὶ … γυῖα",
+      "text": "ὑπολύω, loosen / undo: 3sg aor; γυῖα, limbs. A killing formula: removes strength and control of the body."
+    },
+    {
+      "lines": "28",
+      "lemma": "Μηκιστηϊάδης · ἐσύλα",
+      "text": "Son of Mecisteus, Euryalus; συλάω, strip: 3sg impf. τεύχεα, armour, removed from shoulders."
+    },
+    {
+      "lines": "29",
+      "lemma": "ἔπεφνε · μενεπτόλεμος",
+      "text": "πέφνω, slay: reduplicated 2aor; μενεπτόλεμος, steadfast in battle."
+    },
+    {
+      "lines": "31",
+      "lemma": "Τεῦκρος δ᾽ Ἀρετάονα",
+      "text": "Supply the preceding verb “slew”; catalogue syntax repeatedly omits it."
+    },
+    {
+      "lines": "32",
+      "lemma": "ἐνήρατο δουρὶ φαεινῷ",
+      "text": "ἐναίρω, slay: 3sg aor mid; δόρυ dat sg; φαεινός, shining."
+    },
+    {
+      "lines": "34",
+      "lemma": "ἐϋρρείταο … ὄχθας",
+      "text": "ἐϋρρείτης, fair-flowing: gen sg -αο, river epithet; ὄχθη, bank: acc pl."
+    },
+    {
+      "lines": "35",
+      "lemma": "Πήδασον αἰπεινήν",
+      "text": "αἰπεινός, steep; acc of place inhabited after ναῖε (34)."
+    },
+    {
+      "lines": "35–36",
+      "lemma": "ἕλε … φεύγοντα",
+      "text": "αἱρέω, take / kill: unaugmented 3sg 2aor; φεύγω pres ptc acc sg, “as he fled.”"
+    },
+    {
+      "lines": "38",
+      "lemma": "ζωὸν ἕλε",
+      "text": "“Captured alive”; ζωός, alive, predicate acc; αἱρέω 3sg 2aor."
+    },
+    {
+      "lines": "38",
+      "lemma": "ἵππω … ἀτυζομένω",
+      "text": "ἵππος + ἀτύζομαι, be terrified: nom dual. πεδίοιο: gen of space traversed, across the plain."
+    },
+    {
+      "lines": "39",
+      "lemma": "ὄζῳ … βλαφθέντε μυρικίνῳ",
+      "text": "ὄζος, branch; μυρίκινος, of tamarisk. βλάπτω, hinder / entangle: aor pass ptc nom dual."
+    },
+    {
+      "lines": "39–40",
+      "lemma": "ἀγκύλον ἅρμα ἄξαντε",
+      "text": "ἀγκύλος, curved; ἅρμα, chariot; ἄγνυμι, break: aor act ptc nom dual. Distinguish ἄγω."
+    },
+    {
+      "lines": "40",
+      "lemma": "πρώτῳ ῥυμῷ · ἐβήτην",
+      "text": "ῥυμός, chariot-pole; “at the pole's front end.” βαίνω: 3dual root aor."
+    },
+    {
+      "lines": "41",
+      "lemma": "ᾗ περ … φοβέοντο",
+      "text": "ᾗ, where / by which way; περ emphasizes. φοβέομαι, flee in panic: unaugmented 3pl impf."
+    },
+    {
+      "lines": "42–43",
+      "lemma": "ἐξεκυλίσθη πρηνής",
+      "text": "ἐκκυλίω, roll out: 3sg aor pass; πρηνής, face down / headlong; τροχός, wheel; κονίη, dust."
+    },
+    {
+      "lines": "44",
+      "lemma": "δολιχόσκιον",
+      "text": "Long-shadowed; spear epithet, δολιχός + σκιά."
+    },
+    {
+      "lines": "45",
+      "lemma": "λαβὼν … γούνων",
+      "text": "λαμβάνω 2aor ptc + gen of part grasped; γόνυ, knee: gen pl. Grasping knees marks supplication."
+    },
+    {
+      "lines": "45",
+      "lemma": "ἐλίσσετο",
+      "text": "λίσσομαι, entreat: 3sg impf mid."
+    },
+    {
+      "lines": "46",
+      "lemma": "ζώγρει · δέξαι ἄποινα",
+      "text": "ζωγρέω, take alive / spare: 2sg pres imperative. δέχομαι 2sg aor mid imperative; ἄποινα, ransom (neut pl)."
+    },
+    {
+      "lines": "47",
+      "lemma": "κειμήλια κεῖται",
+      "text": "κειμήλια, stored valuables; κεῖμαι, lie: 3sg pres, neut pl subject + sg verb."
+    },
+    {
+      "lines": "48",
+      "lemma": "πολύκμητος σίδηρος",
+      "text": "πολύκμητος, much-worked / wrought with toil; σίδηρος, iron, valuable alongside bronze and gold."
+    },
+    {
+      "lines": "49",
+      "lemma": "κέν … χαρίσαιτο · ἀπερείσια",
+      "text": "χαρίζομαι, give gladly: 3sg aor mid opt + κεν, potential. ἀπερείσιος, boundless / countless."
+    },
+    {
+      "lines": "50",
+      "lemma": "εἴ κεν … πεπύθοιτο",
+      "text": "πυνθάνομαι, learn: 3sg reduplicated aor mid opt; “if he should learn that I am alive.” νηυσίν dat pl of ναῦς."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 6",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6"
+    }
+  ]
+}
