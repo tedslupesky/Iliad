@@ -1,0 +1,184 @@
+{
+  "id": "7.7",
+  "title": "Nine champions and the lot",
+  "intro": "Nine Greeks volunteer. They draw lots in Agamemnon’s helmet, and the lot of Ajax comes out.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "159",
+      "lemma": "ὑμέων · ἔασιν",
+      "text": "ὑμέων = ὑμῶν, gen pl; ἔασιν = εἰσίν, 3pl of εἰμί; ἀριστῆες Παναχαιῶν, best of all the Achaeans."
+    },
+    {
+      "lines": "160",
+      "lemma": "προφρονέως · μέμαθ᾽",
+      "text": "προφρονέως, eagerly; μέμονα, be eager: 2pl perf, elided, with inf."
+    },
+    {
+      "lines": "160",
+      "lemma": "Ἕκτορος ἀντίον ἐλθεῖν",
+      "text": "ἀντίον + gen, against; ἔρχομαι, go: 2aor inf ἐλθεῖν."
+    },
+    {
+      "lines": "161",
+      "lemma": "νείκεσσ᾽ · ἀνέσταν",
+      "text": "νεικέω, rebuke: 3sg aor, epic -σσ-; ἀνίστημι, rise: 3pl root aor ἀνέσταν (= ἀνέστησαν); ἐννέα, nine."
+    },
+    {
+      "lines": "162",
+      "lemma": "ὦρτο",
+      "text": "ὄρνυμι, rouse: 3sg 2aor mid, “rose up”; πολὺ πρῶτος, first by far."
+    },
+    {
+      "lines": "163",
+      "lemma": "τῷ δ᾽ ἐπὶ Τυδεΐδης",
+      "text": "ἐπί + dat, after him; Τυδεΐδης, son of Tydeus, Diomedes."
+    },
+    {
+      "lines": "164",
+      "lemma": "Αἴαντες · θοῦριν ἐπιειμένοι ἀλκήν",
+      "text": "Αἴαντε, the two Ajaxes; θοῦρις, impetuous; ἐπιέννυμι, clothe in: perf mid ptc nom pl + acc."
+    },
+    {
+      "lines": "165",
+      "lemma": "ὀπάων",
+      "text": "ὀπάων, attendant / henchman: Meriones served Idomeneus."
+    },
+    {
+      "lines": "166",
+      "lemma": "ἀτάλαντος · Ἐνυαλίῳ ἀνδρειφόντῃ",
+      "text": "ἀτάλαντος, equal in weight to + dat; Ἐνυάλιος, Enyalius, a name of Ares; ἀνδρειφόντης, man-slaying."
+    },
+    {
+      "lines": "167",
+      "lemma": "Εὐρύπυλος · ἀγλαός",
+      "text": "Εὐρύπυλος, Eurypylus; Εὐαίμων, Euaemon; ἀγλαός, splendid."
+    },
+    {
+      "lines": "168",
+      "lemma": "ἂν δέ",
+      "text": "ἀν- = ἀνά, tmesis for ἀνέστη, “and up rose.”"
+    },
+    {
+      "lines": "168",
+      "lemma": "Ἀνδραιμονίδης",
+      "text": "Ἀνδραιμονίδης, son of Andraemon, i.e. Thoas; δῖος Ὀδυσσεύς, godlike Odysseus."
+    },
+    {
+      "lines": "169",
+      "lemma": "ἔθελον",
+      "text": "ἐθέλω, be willing: 3pl impf; with inf πολεμίζειν + dat Ἕκτορι."
+    },
+    {
+      "lines": "170",
+      "lemma": "αὖτις · μετέειπε",
+      "text": "αὖτις, again; μετεῖπον, spoke among."
+    },
+    {
+      "lines": "170",
+      "lemma": "Γερήνιος ἱππότα",
+      "text": "Γερήνιος, of Gerenia, Nestor’s epithet; ἱππότα, horseman: epic nom sg in -α."
+    },
+    {
+      "lines": "171",
+      "lemma": "Κλήρῳ · πεπάλασθε",
+      "text": "κλῆρος, lot: dat of means; πάλλω, shake: perf mid imperative 2pl, “cast lots.”"
+    },
+    {
+      "lines": "171",
+      "lemma": "διαμπερές · ὅς κε λάχῃσιν",
+      "text": "διαμπερές, right through; λαγχάνω, obtain by lot: 3sg 2aor subj, -σιν ending."
+    },
+    {
+      "lines": "172",
+      "lemma": "ὀνήσει",
+      "text": "ὀνίνημι, benefit: 3sg fut."
+    },
+    {
+      "lines": "173",
+      "lemma": "καὶ δ᾽ αὐτός · ὀνήσεται",
+      "text": "καὶ δέ, also; ὀνίναμαι, profit: 3sg fut mid; ὃν θυμόν, his own life."
+    },
+    {
+      "lines": "173–174",
+      "lemma": "αἴ κε φύγῃσι",
+      "text": "φεύγω, escape: 3sg 2aor subj; the formula of 118–119 repeated."
+    },
+    {
+      "lines": "175",
+      "lemma": "ἐσημήναντο",
+      "text": "σημαίνομαι, mark: 3pl aor mid; each marked his lot."
+    },
+    {
+      "lines": "176",
+      "lemma": "ἐν δ᾽ ἔβαλον · κυνέῃ",
+      "text": "ἐμβάλλω, throw in: tmesis, 3pl 2aor; κυνέη, helmet: dat sg; Ἀτρεΐδαο, gen of Ἀτρεΐδης."
+    },
+    {
+      "lines": "177",
+      "lemma": "ἠρήσαντο · ἀνέσχον",
+      "text": "ἀράομαι, pray: 3pl aor mid; ἀνέχω, lift up: 3pl 2aor."
+    },
+    {
+      "lines": "178",
+      "lemma": "εἴπεσκεν",
+      "text": "εἶπον, say: 3sg iterative in -σκε-, “each would say.”"
+    },
+    {
+      "lines": "179",
+      "lemma": "λαχεῖν",
+      "text": "λαγχάνω, obtain by lot: 2aor inf; a wish-prayer, with Ζεῦ πάτερ."
+    },
+    {
+      "lines": "179",
+      "lemma": "Τυδέος υἱόν",
+      "text": "Τυδεύς, Tydeus: gen sg; son of Tydeus, Diomedes."
+    },
+    {
+      "lines": "180",
+      "lemma": "πολυχρύσοιο Μυκήνης",
+      "text": "πολύχρυσος, rich in gold: gen sg fem; Μυκήνη, Mycenae; Agamemnon himself."
+    },
+    {
+      "lines": "181",
+      "lemma": "ἔφαν · πάλλεν",
+      "text": "φημί, say: 3pl impf; πάλλω, shake: 3sg impf, epic -εν."
+    },
+    {
+      "lines": "182",
+      "lemma": "ἐκ δ᾽ ἔθορε",
+      "text": "ἐκθρῴσκω, leap out: tmesis, 3sg 2aor."
+    },
+    {
+      "lines": "182",
+      "lemma": "ὃν ἄρ᾽ ἤθελον αὐτοί",
+      "text": "ὅν, the very lot; ἐθέλω, wish: 3pl impf with augment ἤ-."
+    },
+    {
+      "lines": "183",
+      "lemma": "κῆρυξ · ἀν᾽ ὅμιλον ἁπάντῃ",
+      "text": "κῆρυξ, herald; ἀνά + acc, through; ὅμιλος, throng; ἁπάντῃ, everywhere."
+    },
+    {
+      "lines": "184",
+      "lemma": "δεῖξ᾽ · ἐνδέξια",
+      "text": "δείκνυμι, show: 3sg aor, unaugmented; ἐνδέξια, to the right, left to right."
+    },
+    {
+      "lines": "185",
+      "lemma": "οὐ γιγνώσκοντες",
+      "text": "γιγνώσκω, recognise: pres ptc nom pl."
+    },
+    {
+      "lines": "185",
+      "lemma": "ἀπηνήναντο",
+      "text": "ἀπαναίνομαι, disown: 3pl aor mid, with reduplicated -ηνήν-."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

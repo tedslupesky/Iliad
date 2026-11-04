@@ -1,0 +1,169 @@
+{
+  "id": "7.1",
+  "title": "Hector and Paris return",
+  "intro": "Hector and Paris rejoin the fighting like a welcome wind for tired sailors. Athena and Apollo set out to meet each other.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "1",
+      "lemma": "πυλέων · ἐξέσσυτο",
+      "text": "πύλη, gate: gen pl, epic -έων; ἐκσεύομαι, rush out: 3sg aor mid; φαίδιμος, gleaming / glorious."
+    },
+    {
+      "lines": "2",
+      "lemma": "τῷ δ᾽ ἅμ᾽ … κί᾽ ἀδελφεός",
+      "text": "τῷ, with him (demonstrative dat); ἅμα, together; κίε, 3sg impf of κίω, go; ἀδελφεός, brother (epic form)."
+    },
+    {
+      "lines": "2–3",
+      "lemma": "ἐν δ᾽ ἄρα θυμῷ · μέμασαν",
+      "text": "θυμός, heart / spirit: “in their hearts”; μέμονα, be eager: 3pl perf with present sense + inf πολεμίζειν, μάχεσθαι."
+    },
+    {
+      "lines": "4",
+      "lemma": "ναύτῃσιν ἐελδομένοισιν",
+      "text": "ναύτης, sailor; ἐέλδομαι, long for: pres mid ptc dat pl; ἔδωκεν, 3sg aor of δίδωμι (gnomic: “gives”)."
+    },
+    {
+      "lines": "5",
+      "lemma": "οὖρον · ἐπεί κε κάμωσιν",
+      "text": "οὖρος, fair wind; κάμνω, grow weary: 3pl aor subj, general clause with κε."
+    },
+    {
+      "lines": "5",
+      "lemma": "ἐϋξέστῃς ἐλάτῃσι",
+      "text": "εὔξεστος, well-polished: dat pl fem; ἐλάτη, fir tree, by metonymy an oar."
+    },
+    {
+      "lines": "6",
+      "lemma": "πόντον ἐλαύνοντες · καμάτῳ δ᾽ ὑπὸ",
+      "text": "ἐλαύνω, drive / row: pres ptc nom pl; κάματος, toil / weariness: dat, with ὑπό “under, from”."
+    },
+    {
+      "lines": "6",
+      "lemma": "γυῖα λέλυνται",
+      "text": "γυῖον, limb (pl); λύω, loosen: 3pl perf pass, “are unstrung.”"
+    },
+    {
+      "lines": "7",
+      "lemma": "ὣς ἄρα τὼ · φανήτην",
+      "text": "τώ, nom dual of ὁ, the two; φαίνομαι, appear: 3du aor pass; ἐελδομένοισι, to the longing Trojans."
+    },
+    {
+      "lines": "8",
+      "lemma": "ἑλέτην",
+      "text": "αἱρέω, take / kill: 3du 2aor, unaugmented; ὃ μὲν (Paris) answered by Ἕκτωρ δέ in 11."
+    },
+    {
+      "lines": "8",
+      "lemma": "υἱὸν Ἀρηϊθόοιο ἄνακτος",
+      "text": "Ἀρηΐθοος, Areithous; ἄναξ, lord: gen sg with υἱόν; the son is Menesthius."
+    },
+    {
+      "lines": "9",
+      "lemma": "Ἄρνῃ ναιετάοντα",
+      "text": "Ἄρνη, Arne: dat of place; ναιετάω, dwell: pres ptc acc sg."
+    },
+    {
+      "lines": "9",
+      "lemma": "κορυνήτης",
+      "text": "κορυνήτης, club- / mace-bearer: nom sg, in apposition to Areithous."
+    },
+    {
+      "lines": "10",
+      "lemma": "γείνατ᾽ · βοῶπις",
+      "text": "γείνομαι, beget / bear: 3sg aor mid, elided; βοῶπις, ox-eyed: epithet of Phylomedusa."
+    },
+    {
+      "lines": "11",
+      "lemma": "Ἠϊονῆα βάλ᾽ ἔγχεϊ ὀξυόεντι",
+      "text": "Ἠϊονεύς, acc Ἠϊονῆα; βάλλω, strike: 3sg 2aor; ἔγχος, spear; ὀξυόεις, sharp: dat sg."
+    },
+    {
+      "lines": "12",
+      "lemma": "αὐχέν᾽ ὑπὸ στεφάνης εὐχάλκου",
+      "text": "αὐχήν, neck; στεφάνη, helmet rim; εὔχαλκος, well-bronzed: gen sg; ὑπό + gen, beneath."
+    },
+    {
+      "lines": "12",
+      "lemma": "λύντο δὲ γυῖα",
+      "text": "λύω, loosen: unaugmented 3pl aor mid with passive sense; formulaic death line, repeated in 16."
+    },
+    {
+      "lines": "13",
+      "lemma": "Ἱππολόχοιο πάϊς · ἀγὸς ἀνδρῶν",
+      "text": "Ἱππόλοχος, Hippolochus: gen sg; πάϊς = παῖς, child; ἀγός, leader: of the Lycians, pl gen."
+    },
+    {
+      "lines": "14",
+      "lemma": "Ἰφίνοον · δουρὶ",
+      "text": "Ἴφινοος, Iphinous: acc; δόρυ, spear: dat sg δουρί."
+    },
+    {
+      "lines": "14",
+      "lemma": "κατὰ κρατερὴν ὑσμίνην",
+      "text": "κατά + acc, throughout; κρατερός, strong; ὑσμίνη, fight."
+    },
+    {
+      "lines": "15",
+      "lemma": "Δεξιάδην ἐπιάλμενον",
+      "text": "Δεξιάδης, son of Dexios: patronymic acc; ἐφάλλομαι, leap upon: 2aor mid ptc acc sg, syncopated."
+    },
+    {
+      "lines": "15",
+      "lemma": "ὠκειάων",
+      "text": "ὠκύς, swift: gen pl fem, epic -άων."
+    },
+    {
+      "lines": "16",
+      "lemma": "ὦμον · χαμάδις",
+      "text": "ὦμος, shoulder: acc of the part struck; χαμάδις, to the ground; πέσε, πίπτω 3sg 2aor."
+    },
+    {
+      "lines": "17",
+      "lemma": "ἐνόησε · γλαυκῶπις",
+      "text": "νοέω, perceive: 3sg aor; γλαυκῶπις, bright- / grey-eyed: epithet of Athena."
+    },
+    {
+      "lines": "18",
+      "lemma": "ὀλέκοντας",
+      "text": "ὀλέκω, destroy: pres ptc acc pl, agreeing with Ἀργείους (here the Trojans are killing Greeks)."
+    },
+    {
+      "lines": "19",
+      "lemma": "βῆ ῥα κατ᾽ Οὐλύμποιο καρήνων",
+      "text": "βαίνω, go: 3sg 2aor; κάρηνα, peaks: gen pl, κατά + gen, down from."
+    },
+    {
+      "lines": "19",
+      "lemma": "ἀΐξασα",
+      "text": "ἀΐσσω, dart / swoop: aor ptc nom fem sg."
+    },
+    {
+      "lines": "20",
+      "lemma": "Ἴλιον εἰς ἱερήν",
+      "text": "Ἴλιος, Ilios; ἱερός, holy: fem acc sg."
+    },
+    {
+      "lines": "20",
+      "lemma": "τῇ δ᾽ ἀντίος ὄρνυτ᾽",
+      "text": "τῇ, to meet her (dat fem); ἀντίος + dat, opposite; ὄρνυμι, rouse: mid 3sg, rose / set out."
+    },
+    {
+      "lines": "21",
+      "lemma": "Περγάμου ἐκκατιδών",
+      "text": "Πέργαμος, Pergamos, Troy’s citadel: gen of place, “from”; ἐκκαθοράω, look down from: aor ptc nom sg."
+    },
+    {
+      "lines": "21",
+      "lemma": "βούλετο",
+      "text": "βούλομαι, wish: 3sg impf; Τρώεσσι δὲ νίκην, he wanted victory for the Trojans."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

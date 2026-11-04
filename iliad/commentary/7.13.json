@@ -1,0 +1,199 @@
+{
+  "id": "7.13",
+  "title": "Nestor’s plan; Troy’s assembly",
+  "intro": "Nestor proposes a truce to burn the dead and build a wall and ditch. Meanwhile the Trojans assemble.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "321",
+      "lemma": "νώτοισιν … διηνεκέεσσι",
+      "text": "νῶτον, back / chine cut; διηνεκής, unbroken, full-length: dat pl; dat of means."
+    },
+    {
+      "lines": "321",
+      "lemma": "γέραιρεν",
+      "text": "γεραίρω, honour: 3sg impf; Ajax gets the best cut."
+    },
+    {
+      "lines": "322",
+      "lemma": "ἥρως · εὐρὺ κρείων",
+      "text": "ἥρως, hero; κρείων, ruling: pres ptc; εὐρύ adverbial, “wide-ruling.”"
+    },
+    {
+      "lines": "323",
+      "lemma": "πόσιος καὶ ἐδητύος",
+      "text": "πόσις, drink; ἐδητύς, food: gen, with ἔρον."
+    },
+    {
+      "lines": "323",
+      "lemma": "ἐξ ἔρον ἕντο",
+      "text": "ἵημι, send: 3pl 2aor mid ἕντο; tmesis ἐξ … ἕντο, “drove out desire,” i.e. satisfied hunger."
+    },
+    {
+      "lines": "324",
+      "lemma": "πάμπρωτος · ὑφαίνειν · ἤρχετο",
+      "text": "πάμπρωτος, first of all; ὑφαίνω, weave; μῆτις, counsel: acc; ἄρχομαι, begin: 3sg impf."
+    },
+    {
+      "lines": "325",
+      "lemma": "οὗ καὶ πρόσθεν",
+      "text": "οὗ, whose: gen, with βουλή; πρόσθεν, formerly; φαίνετο, appeared."
+    },
+    {
+      "lines": "326",
+      "lemma": "ἐϋφρονέων · σφιν",
+      "text": "ἐυφρονέω, be well-meaning: pres ptc, uncontracted; σφιν, to them."
+    },
+    {
+      "lines": "326",
+      "lemma": "ἀγορήσατο · μετέειπε",
+      "text": "ἀγοράομαι, speak in assembly: 3sg aor; μετεῖπον, spoke among."
+    },
+    {
+      "lines": "327",
+      "lemma": "Παναχαιῶν",
+      "text": "Πανάχαιοι, all the Achaeans: gen pl."
+    },
+    {
+      "lines": "328",
+      "lemma": "τεθνᾶσι",
+      "text": "θνῄσκω, die: 3pl perf, “lie dead.”"
+    },
+    {
+      "lines": "329",
+      "lemma": "κελαινὸν ἐΰρροον",
+      "text": "κελαινός, dark; εὔρροος, fair-flowing: epithet of Scamander, here modifies blood."
+    },
+    {
+      "lines": "330",
+      "lemma": "ἐσκέδασ᾽ · ὀξὺς Ἄρης",
+      "text": "σκεδάννυμι, scatter / spill: 3sg aor; ὀξύς, keen; Ἄρης as a name for war."
+    },
+    {
+      "lines": "330",
+      "lemma": "Ἄϊδος δὲ κατῆλθον",
+      "text": "-δε, to: “to Hades”; κατέρχομαι, go down: 3pl 2aor; ψυχαί, spirits."
+    },
+    {
+      "lines": "331",
+      "lemma": "τώ σε χρὴ",
+      "text": "τώ, therefore; χρή + acc and inf, “you must.”"
+    },
+    {
+      "lines": "331",
+      "lemma": "ἅμ᾽ ἠοῖ · παῦσαι",
+      "text": "ἠώς, dawn: dat; παύω, make cease: aor inf (transitive) with πόλεμον."
+    },
+    {
+      "lines": "332",
+      "lemma": "αὐτοὶ δ᾽ ἀγρόμενοι",
+      "text": "ἀγείρω, gather: aor mid ptc nom pl, syncopated; “we ourselves assemble.”"
+    },
+    {
+      "lines": "332",
+      "lemma": "κυκλήσομεν",
+      "text": "κυκλέω, bring round / wheel: 1pl aor subj or fut, epic -ο- vowel; νεκρούς, bodies."
+    },
+    {
+      "lines": "333",
+      "lemma": "βουσὶ καὶ ἡμιόνοισιν",
+      "text": "βοῦς, ox; ἡμίονος, mule: dat pl of means (carts)."
+    },
+    {
+      "lines": "333",
+      "lemma": "κατακήομεν",
+      "text": "κατακαίω, burn: 1pl aor subj, epic -ομεν."
+    },
+    {
+      "lines": "334",
+      "lemma": "τυτθὸν ἀπὸ πρὸ νεῶν",
+      "text": "τυτθός, a little; πρὸ νεῶν, in front of the ships; ἀπό adverbial, away."
+    },
+    {
+      "lines": "334–335",
+      "lemma": "ὥς κ᾽ ὀστέα … ἄγῃ",
+      "text": "ὀστέον, bone; ἄγω: 3sg pres subj, purpose; each man takes the bones home to the children."
+    },
+    {
+      "lines": "335",
+      "lemma": "ὅτ᾽ ἂν … νεώμεθα",
+      "text": "νέομαι, return: 1pl pres subj; πατρίδα γαῖαν, fatherland."
+    },
+    {
+      "lines": "336",
+      "lemma": "χεύομεν · ἐξαγαγόντες",
+      "text": "χέω, heap up: 1pl aor subj; ἐξάγω, lead out: 2aor ptc; ἕνα τύμβον, one mound."
+    },
+    {
+      "lines": "337",
+      "lemma": "ἄκριτον · ποτὶ δ᾽ αὐτόν",
+      "text": "ἄκριτος, undivided / common; ποτί = πρός; αὐτόν, the mound."
+    },
+    {
+      "lines": "337",
+      "lemma": "δείμομεν · ὦκα",
+      "text": "δέμω, build: 1pl aor subj; ὠκέως, quickly."
+    },
+    {
+      "lines": "338",
+      "lemma": "πύργους ὑψηλοὺς εἶλαρ",
+      "text": "πύργος, tower; εἶλαρ, shelter / protection: in apposition."
+    },
+    {
+      "lines": "339",
+      "lemma": "πύλας ποιήσομεν εὖ ἀραρυίας",
+      "text": "πύλη, gate; ποιέω: 1pl fut; ἀραρίσκω, fit: perf ptc fem pl, “well-fitted.”"
+    },
+    {
+      "lines": "340",
+      "lemma": "αὐτάων · ἱππηλασίη ὁδός",
+      "text": "αὐτάων = αὐτῶν, epic gen pl fem; ἱππηλασίη, for driving horses; ὁδός, road."
+    },
+    {
+      "lines": "341",
+      "lemma": "ἔκτοσθεν · ὀρύξομεν · τάφρον",
+      "text": "ἔκτοσθεν, outside; ὀρύσσω, dig: 1pl fut; τάφρος, ditch; ἐγγύθι, near."
+    },
+    {
+      "lines": "342",
+      "lemma": "ἥ χ᾽ … ἐρυκάκοι",
+      "text": "ἐρύκω, keep off: 3sg reduplicated 2aor opt (ἐρυκάκοι), potential; ἀμφὶς ἐοῦσα, lying around it."
+    },
+    {
+      "lines": "343",
+      "lemma": "μή ποτ᾽ ἐπιβρίσῃ",
+      "text": "ἐπιβρίθω, press upon: 3sg aor subj, fear clause; ἀγερωχος, proud / haughty."
+    },
+    {
+      "lines": "344",
+      "lemma": "ἐπῄνησαν",
+      "text": "ἐπαινέω, approve: 3pl aor."
+    },
+    {
+      "lines": "345",
+      "lemma": "ἀγορὴ γένετ᾽ · ἄκρῃ",
+      "text": "ἀγορή, assembly; γίγνομαι: 3sg 2aor; ἄκρη, citadel: dat sg fem."
+    },
+    {
+      "lines": "346",
+      "lemma": "δεινὴ τετρηχυῖα",
+      "text": "τρηχύνω, make rough: perf ptc nom fem, “stormy / tumultuous.”"
+    },
+    {
+      "lines": "346",
+      "lemma": "παρὰ Πριάμοιο θύρῃσι",
+      "text": "παρά + dat, beside; θύρη, door: dat pl; the doors of Priam’s palace."
+    },
+    {
+      "lines": "347",
+      "lemma": "πεπνυμένος · ἦρχ᾽ ἀγορεύειν",
+      "text": "πέπνυμαι, be wise: perf ptc; ἄρχω, begin: 3sg impf, + inf ἀγορεύειν."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

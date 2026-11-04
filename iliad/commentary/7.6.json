@@ -1,0 +1,204 @@
+{
+  "id": "7.6",
+  "title": "Nestor’s boast: Ereuthalion",
+  "intro": "Nestor wishes he were young again and tells how he killed the club-bearing Ereuthalion in the war between Pylians and Arcadians.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "132",
+      "lemma": "αἲ γάρ",
+      "text": "αἲ γάρ, would that (introduces a wish); Ἄπολλον, voc."
+    },
+    {
+      "lines": "133",
+      "lemma": "ἡβῷμ᾽ · ὠκυρόῳ Κελάδοντι",
+      "text": "ἡβάω, be young: 1sg pres opt, wish; ὠκύρους, swift-flowing: dat sg; Κελάδων, river of the Pylos region."
+    },
+    {
+      "lines": "133",
+      "lemma": "μάχοντο",
+      "text": "μάχομαι, fight: 3pl impf, without augment."
+    },
+    {
+      "lines": "134",
+      "lemma": "ἀγρόμενοι",
+      "text": "ἀγείρω, gather: aor mid ptc nom pl, syncopated."
+    },
+    {
+      "lines": "134",
+      "lemma": "Πύλιοι · Ἀρκάδες ἐγχεσίμωροι",
+      "text": "Πύλιοι, Pylians; ἐγχεσίμωρος, spear-fighting: nom pl; Nestor’s own people against Arcadians."
+    },
+    {
+      "lines": "135",
+      "lemma": "Φειᾶς πὰρ τείχεσσιν",
+      "text": "Φειά, Pheia: gen; παρά + dat, beside; τεῖχος, wall: dat pl."
+    },
+    {
+      "lines": "135",
+      "lemma": "Ἰαρδάνου · ῥέεθρα",
+      "text": "Ἰάρδανος, a local river; ῥέεθρον, stream: acc pl; ἀμφί + acc, around."
+    },
+    {
+      "lines": "136",
+      "lemma": "τοῖσι · πρόμος ἵστατο",
+      "text": "τοῖσι, among them; πρόμος, champion; ἵστημι, stand: mid 3sg impf, “stood forth.”"
+    },
+    {
+      "lines": "136",
+      "lemma": "Ἐρευθαλίων · ἰσόθεος φώς",
+      "text": "Ἐρευθαλίων, Ereuthalion, the Arcadian; ἰσόθεος, godlike; φώς, man."
+    },
+    {
+      "lines": "137",
+      "lemma": "τεύχε᾽ ἔχων ὤμοισιν",
+      "text": "τεύχεα, arms; ὦμος, shoulder: dat pl, “on his shoulders”; gen Ἀρηϊθόοιο follows."
+    },
+    {
+      "lines": "138",
+      "lemma": "τὸν ἐπίκλησιν κορυνήτην",
+      "text": "ἐπίκλησις, by-name: acc of respect; κορυνήτης, club-bearer, the nickname of Areithous."
+    },
+    {
+      "lines": "139",
+      "lemma": "κίκλησκον · καλλίζωνοι",
+      "text": "καλέω, call: 3pl impf reduplicated; καλλίζωνος, fair-girdled: epithet of women."
+    },
+    {
+      "lines": "140",
+      "lemma": "οὕνεκ᾽ · μαχέσκετο",
+      "text": "οὕνεκα, because; μάχομαι: 3sg iterative impf in -σκε-, “was accustomed to fight.”"
+    },
+    {
+      "lines": "140",
+      "lemma": "τόξοισι · δουρί … μακρῷ",
+      "text": "τόξον, bow (pl); δόρυ, spear: dat sg δουρί; μακρός, long."
+    },
+    {
+      "lines": "141",
+      "lemma": "σιδηρείῃ κορύνῃ",
+      "text": "σιδήρειος, of iron: dat fem; κορύνη, club."
+    },
+    {
+      "lines": "141",
+      "lemma": "ῥήγνυσκε",
+      "text": "ῥήγνυμι, break: 3sg iterative impf."
+    },
+    {
+      "lines": "142",
+      "lemma": "ἔπεφνε · δόλῳ",
+      "text": "φένω, slay: 3sg 2aor ἔπεφνον; δόλος, trick: dat; κράτεϊ, by strength (dat of κράτος)."
+    },
+    {
+      "lines": "143",
+      "lemma": "στεινωπῷ ἐν ὁδῷ",
+      "text": "στεινωπός, narrow: dat sg; ὁδός, road / path; ὅθ᾽ ἄρ᾽, where."
+    },
+    {
+      "lines": "144",
+      "lemma": "χραῖσμε",
+      "text": "χραισμέω, ward off / avail: 3sg aor; ὄλεθρον, destruction, the object."
+    },
+    {
+      "lines": "144",
+      "lemma": "ὑποφθάς",
+      "text": "ὑποφθάνω, get in first: aor ptc nom sg; Lycurgus was quicker."
+    },
+    {
+      "lines": "145",
+      "lemma": "περόνησεν",
+      "text": "περονάω, pierce: 3sg aor; μέσον, in the middle."
+    },
+    {
+      "lines": "145",
+      "lemma": "ὕπτιος · ἐρείσθη",
+      "text": "ὕπτιος, on his back; ἐρείδω, press down: 3sg aor pass; οὔδει, dat of οὖδας, ground."
+    },
+    {
+      "lines": "146",
+      "lemma": "ἐξενάριξε · πόρε",
+      "text": "ἐξεναρίζω, strip: 3sg aor; πόρον, gave: 3sg 2aor, unaugmented."
+    },
+    {
+      "lines": "146",
+      "lemma": "χάλκεος",
+      "text": "χάλκεος, bronze: epithet of Ares as god of war."
+    },
+    {
+      "lines": "147",
+      "lemma": "φόρει · μῶλον Ἄρηος",
+      "text": "φορέω, wear: 3sg impf; μῶλος, toil of battle: acc; Ἄρηος, gen of Ἄρης."
+    },
+    {
+      "lines": "148",
+      "lemma": "ἐγήρα",
+      "text": "γηράω, grow old: 3sg impf; μέγαρον, hall: dat pl μεγάροισιν."
+    },
+    {
+      "lines": "149",
+      "lemma": "δῶκε · φορῆναι",
+      "text": "δίδωμι: 3sg aor; φορέω, wear: pres inf, epic φορῆναι; θεράπων, attendant."
+    },
+    {
+      "lines": "150",
+      "lemma": "τοῦ ὅ γε · προκαλίζετο",
+      "text": "τοῦ, his (the armour); ὅ γε, he; προκαλίζομαι, challenge: 3sg impf mid."
+    },
+    {
+      "lines": "151",
+      "lemma": "ἐτρόμεον · ἐδείδισαν · ἔτλη",
+      "text": "τρομέω, tremble: 3pl impf, uncontracted; δείδω, fear: 3pl aor; τλάω, dare: 3sg root aor."
+    },
+    {
+      "lines": "152",
+      "lemma": "ἀνῆκε · πολυτλήμων",
+      "text": "ἀνίημι, urge on: 3sg aor; πολυτλήμων, much-enduring / bold: nom sg."
+    },
+    {
+      "lines": "153",
+      "lemma": "θάρσεϊ ᾧ",
+      "text": "θάρσος, courage: dat sg; ὅς, his own, possessive."
+    },
+    {
+      "lines": "153",
+      "lemma": "γενεῇ νεώτατος · ἔσκον",
+      "text": "γενεή, age: dat of respect; νέος superlative νεώτατος, youngest; ἔσκον, 1sg iterative impf of εἰμί."
+    },
+    {
+      "lines": "154",
+      "lemma": "μαχόμην · οἱ · εὖχος",
+      "text": "μάχομαι: 1sg impf, lengthened; οἱ, against him; εὖχος, glory."
+    },
+    {
+      "lines": "155",
+      "lemma": "μήκιστον · κάρτιστον · κτάνον",
+      "text": "μακρός, tall: superlative; καρτερός, strong: superlative; κτείνω, kill: 1sg 2aor."
+    },
+    {
+      "lines": "156",
+      "lemma": "πολλὸς · ἔκειτο · παρήορος",
+      "text": "πολλός, huge; κεῖμαι, lie: 3sg impf; παρήορος, stretched out to the side; ἔνθα καὶ ἔνθα, this way and that."
+    },
+    {
+      "lines": "157",
+      "lemma": "εἴθ᾽ · ἡβώοιμι · ἔμπεδος",
+      "text": "εἴθε, if only; ἡβάω: 1sg pres opt, epic ἡβώοιμι; ἔμπεδος, firm: nom sg; εἴη 3sg opt."
+    },
+    {
+      "lines": "158",
+      "lemma": "τώ κε · ἀντήσειε",
+      "text": "τώ, then; ἀντάω, meet + gen: 3sg aor opt, potential with κε; μάχης, in battle."
+    },
+    {
+      "lines": "158",
+      "lemma": "κορυθαίολος",
+      "text": "κορυθαίολος, with flashing helmet: epithet of Hector."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

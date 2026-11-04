@@ -1,0 +1,204 @@
+{
+  "id": "7.2",
+  "title": "Apollo and Athena plan a duel",
+  "intro": "Apollo and Athena meet at the oak and agree to stop the fighting for the day. Helenus overhears their plan.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "22",
+      "lemma": "ἀλλήλοισι · τώ γε · συναντέσθην",
+      "text": "ἀλλήλων, each other: dat pl; τώ, nom dual, those two; συναντάομαι, meet: 3du aor mid."
+    },
+    {
+      "lines": "22",
+      "lemma": "παρὰ φηγῷ",
+      "text": "φηγός, oak: dat sg; the oak by the Scaean gate, later a Trojan landmark."
+    },
+    {
+      "lines": "23",
+      "lemma": "τὴν πρότερος προσέειπεν",
+      "text": "τήν, her; πρότερος, first (adj used as adv); προσεῖπον, address: 3sg 2aor with epic ε-lengthening."
+    },
+    {
+      "lines": "24",
+      "lemma": "Τίπτε · μεμαυῖα",
+      "text": "τίπτε, why then; μέμονα, be eager: perf ptc nom fem sg; θύγατερ, voc of θυγάτηρ."
+    },
+    {
+      "lines": "25",
+      "lemma": "ἦλθες · ἀνῆκεν",
+      "text": "ἔρχομαι, come: 2sg 2aor; ἀνίημι, urge on: 3sg aor, with μέγας θυμός as subject."
+    },
+    {
+      "lines": "26",
+      "lemma": "ἦ ἵνα δὴ · ἑτεραλκέα",
+      "text": "ἦ, interrogative “is it that”; ἑτεραλκής, giving strength to the other side: acc sg fem, a victory that swings."
+    },
+    {
+      "lines": "26–27",
+      "lemma": "Δαναοῖσι · δῷς",
+      "text": "Δαναοί, Greeks: dat pl; δίδωμι, give: 2sg aor subj, purpose after ἵνα."
+    },
+    {
+      "lines": "27",
+      "lemma": "ἀπολλυμένους ἐλεαίρεις",
+      "text": "ἀπόλλυμι, perish: pres mid ptc acc pl; ἐλεαίρω, pity: 2sg pres, “you do not pity the Trojans.”"
+    },
+    {
+      "lines": "28",
+      "lemma": "εἴ μοί τι πίθοιο",
+      "text": "πείθομαι, obey + dat: 2sg aor opt mid; τι adverbial, “in any way.”"
+    },
+    {
+      "lines": "28",
+      "lemma": "τό κεν πολὺ κέρδιον εἴη",
+      "text": "κερδίων, more profitable: comparative; εἴη 3sg opt, potential with κεν."
+    },
+    {
+      "lines": "29",
+      "lemma": "παύσωμεν · δηϊοτῆτα",
+      "text": "παύω, stop: 1pl aor subj, hortative; δηϊοτής, hostile fighting: acc sg."
+    },
+    {
+      "lines": "30",
+      "lemma": "μαχήσοντ᾽ · τέκμωρ",
+      "text": "μαχέομαι, fight: 3pl fut mid, elided; τέκμωρ, goal / end: acc sg."
+    },
+    {
+      "lines": "30–31",
+      "lemma": "εἰς ὅ κε … εὕρωσιν",
+      "text": "εἰς ὅ κε, until; εὑρίσκω, find: 3pl aor subj; Ἰλίου, of Ilios, the end of Ilios."
+    },
+    {
+      "lines": "31",
+      "lemma": "ἔπλετο",
+      "text": "πέλομαι, be / prove: 3sg aor; ὣς φίλον ἔπλετο, “so it was pleasing to.”"
+    },
+    {
+      "lines": "32",
+      "lemma": "ἀθανάτῃσι · διαπραθέειν",
+      "text": "ἀθάνατος, immortal: epic dat pl fem with ὑμῖν; διαπέρθω, sack: 2aor inf, epic -έειν."
+    },
+    {
+      "lines": "34",
+      "lemma": "Ὧδ᾽ ἔστω · ἑκάεργε",
+      "text": "ἔστω, 3sg imperative, “so be it”; ἑκάεργος, far-working: voc, epithet of Apollo."
+    },
+    {
+      "lines": "34",
+      "lemma": "τὰ γὰρ φρονέουσα",
+      "text": "φρονέω, intend: pres ptc nom fem sg, uncontracted; τά, these very things."
+    },
+    {
+      "lines": "35",
+      "lemma": "μετὰ Τρῶας καὶ Ἀχαιούς",
+      "text": "μετά + acc, among."
+    },
+    {
+      "lines": "36",
+      "lemma": "ἀλλ᾽ ἄγε · μέμονας",
+      "text": "ἄγε, come now; μέμονα, intend: 2sg perf with present sense."
+    },
+    {
+      "lines": "36",
+      "lemma": "καταπαυσέμεν",
+      "text": "καταπαύω, put a stop to: fut inf, epic -έμεν."
+    },
+    {
+      "lines": "38",
+      "lemma": "ὄρσωμεν",
+      "text": "ὄρνυμι, rouse: 1pl aor subj, hortative."
+    },
+    {
+      "lines": "38",
+      "lemma": "μένος ἱπποδάμοιο",
+      "text": "μένος, might; ἱππόδαμος, horse-taming: gen sg."
+    },
+    {
+      "lines": "39",
+      "lemma": "ἤν τινά που",
+      "text": "ἤν = εἰ ἄν, if; που, perhaps; τινά, acc object of the challenge."
+    },
+    {
+      "lines": "39",
+      "lemma": "προκαλέσσεται",
+      "text": "προκαλέω, challenge: 3sg aor subj mid, epic -σσ-."
+    },
+    {
+      "lines": "39",
+      "lemma": "οἰόθεν οἶος",
+      "text": "οἰόθεν, from alone / by himself; οἶος, alone: pleonastic."
+    },
+    {
+      "lines": "40",
+      "lemma": "ἀντίβιον μαχέσασθαι",
+      "text": "ἀντίβιος, face to face: adverbial acc; μάχομαι aor inf."
+    },
+    {
+      "lines": "40",
+      "lemma": "ἐν αἰνῇ δηϊοτῆτι",
+      "text": "αἰνός, grim: dat sg fem; δηϊοτής, fighting."
+    },
+    {
+      "lines": "41",
+      "lemma": "οἳ δέ κ᾽ ἀγασσάμενοι",
+      "text": "ἀγάομαι, admire / be roused: aor ptc nom pl, epic -σσ-; χαλκοκνήμιδες, bronze-greaved."
+    },
+    {
+      "lines": "42",
+      "lemma": "ἐπόρσειαν",
+      "text": "ἐπόρνυμι, urge on: 3pl aor opt; “they might rouse one man to fight.”"
+    },
+    {
+      "lines": "42",
+      "lemma": "οἶον · Ἕκτορι δίῳ",
+      "text": "οἶος, alone: acc sg, one man; δῖος, godlike: dat sg."
+    },
+    {
+      "lines": "43",
+      "lemma": "ἔφατ᾽ · ἀπίθησε",
+      "text": "φημί, say: 3sg impf, unaugmented-looking; ἀπιθέω, disobey: 3sg aor."
+    },
+    {
+      "lines": "44",
+      "lemma": "τῶν δ᾽ Ἕλενος",
+      "text": "τῶν, their (gods’); Ἕλενος, Helenus, Priam’s prophet son."
+    },
+    {
+      "lines": "44",
+      "lemma": "σύνθετο θυμῷ",
+      "text": "συντίθεμαι, take in / grasp: 3sg 2aor mid; θυμῷ, in his mind."
+    },
+    {
+      "lines": "45",
+      "lemma": "βουλήν · ἐφήνδανε",
+      "text": "βουλή, plan; ἐφανδάνω, please: 3sg impf, augment lengthened to ἐφήν-."
+    },
+    {
+      "lines": "45",
+      "lemma": "μητιόωσι",
+      "text": "μητιάω, plan: pres ptc dat pl, uncontracted; “the plan that pleased the gods as they planned it.”"
+    },
+    {
+      "lines": "46",
+      "lemma": "στῆ · ἰών",
+      "text": "ἵστημι, stand: 3sg root aor; εἶμι, go: pres ptc nom sg."
+    },
+    {
+      "lines": "46",
+      "lemma": "μιν · ἔειπεν",
+      "text": "μιν, him; εἶπον, say: 3sg 2aor with epic doubled ε-."
+    },
+    {
+      "lines": "47",
+      "lemma": "Ἕκτορ υἱὲ · Διὶ μῆτιν ἀτάλαντε",
+      "text": "voc phrases; ἀτάλαντος, equal in weight: voc sg + dat Διί; μῆτις, counsel: acc of respect."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "7.17",
+  "title": "The Greek wall; Poseidon complains",
+  "intro": "The Greeks build a wall and ditch. Poseidon objects to Zeus that the gods were not honoured.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "431–432",
+      "lemma": "ἐπινήνεον · πρήσαντες · ἔβαν",
+      "text": "repeats 428–429 for the Greeks; ἐπινηνέω, heap upon: 3pl impf; πίμπρημι, burn: aor ptc; βαίνω: 3pl 2aor."
+    },
+    {
+      "lines": "433",
+      "lemma": "Ἦμος · οὔτ᾽ ἄρ πω · ἀμφιλύκη",
+      "text": "ἦμος, when; οὔτε … πω, not yet; ἀμφιλύκη, twilight: fem adj with νύξ."
+    },
+    {
+      "lines": "434",
+      "lemma": "τῆμος · κριτὸς ἔγρετο",
+      "text": "τῆμος, then; κριτός, picked: chosen men; ἐγείρω, wake: 3sg 2aor mid ἔγρετο."
+    },
+    {
+      "lines": "435",
+      "lemma": "ποίεον · ἐξαγαγόντες",
+      "text": "ποιέω, make: 3pl impf, uncontracted; ἐξάγω, lead out: 2aor ptc; ἕνα τύμβον, one mound."
+    },
+    {
+      "lines": "436",
+      "lemma": "ἄκριτον · ποτὶ δ᾽ αὐτόν · ἔδειμαν",
+      "text": "ἄκριτος, common / undivided; ποτί = πρός; δέμω, build: 3pl aor."
+    },
+    {
+      "lines": "437–439",
+      "lemma": "πύργους … εἶλαρ … πύλας … ὁδὸς εἴη",
+      "text": "repeats Nestor’s plan in 338–340: towers, gates, a chariot road."
+    },
+    {
+      "lines": "438",
+      "lemma": "ἐνεποίεον",
+      "text": "ἐμποιέω, make in: 3pl impf, uncontracted; πύλας εὖ ἀραρυίας, well-fitted gates."
+    },
+    {
+      "lines": "440",
+      "lemma": "ἔκτοσθεν · ὄρυξαν",
+      "text": "ἔκτοσθεν, outside; ὀρύσσω, dig: 3pl aor; τάφρος, ditch."
+    },
+    {
+      "lines": "441",
+      "lemma": "εὐρεῖαν μεγάλην",
+      "text": "εὐρύς, wide: fem acc sg; μέγας, great: fem acc sg, with τάφρον."
+    },
+    {
+      "lines": "441",
+      "lemma": "σκόλοπας κατέπηξαν",
+      "text": "σκόλοψ, stake; καταπήγνυμι, fix in: 3pl aor, tmesis ἐν … κατέπηξαν."
+    },
+    {
+      "lines": "442",
+      "lemma": "πονέοντο",
+      "text": "πονέομαι, toil: 3pl impf mid, uncontracted."
+    },
+    {
+      "lines": "443",
+      "lemma": "πὰρ Ζηνὶ καθήμενοι",
+      "text": "Ζηνί, dat of Ζεύς; κάθημαι, sit: pres ptc nom pl; ἀστεροπητής, lightning-wielder."
+    },
+    {
+      "lines": "444",
+      "lemma": "θηεῦντο · χαλκοχιτώνων",
+      "text": "θηέομαι, gaze at: 3pl impf; χαλκοχίτων, bronze-clad: gen pl."
+    },
+    {
+      "lines": "445",
+      "lemma": "μύθων ἦρχε",
+      "text": "ἄρχω + gen, begin the talk: 3sg impf; Ποσειδάων, Poseidon."
+    },
+    {
+      "lines": "445",
+      "lemma": "ἐνοσίχθων",
+      "text": "ἐνοσίχθων, earth-shaker: epithet of Poseidon."
+    },
+    {
+      "lines": "446",
+      "lemma": "ἦ ῥά · ἀπείρονα",
+      "text": "ἦ ῥά, really?; ἀπείρων, boundless: acc sg fem."
+    },
+    {
+      "lines": "447",
+      "lemma": "ὅς τις ἔτ᾽",
+      "text": "ὅς τις, anyone who; ἔτι, still: will any mortal still."
+    },
+    {
+      "lines": "447",
+      "lemma": "νόον καὶ μῆτιν ἐνίψει",
+      "text": "νόος, mind; μῆτις, counsel; ἐνίπτω / ἐνέπω, declare to: 3sg fut."
+    },
+    {
+      "lines": "448",
+      "lemma": "ὁράᾳς",
+      "text": "ὁράω, see: 2sg pres, uncontracted; ὅτι δ᾽ αὖτε, how again."
+    },
+    {
+      "lines": "449",
+      "lemma": "ἐτειχίσσαντο · νεῶν ὕπερ",
+      "text": "τειχίζω, build a wall: 3pl aor mid, epic -σσ-; ὕπερ postposed, in defence of the ships."
+    },
+    {
+      "lines": "449–450",
+      "lemma": "ἀμφὶ δὲ τάφρον ἤλασαν",
+      "text": "ἐλαύνω, drive / dig: 3pl aor, tmesis with ἀμφί."
+    },
+    {
+      "lines": "450",
+      "lemma": "δόσαν · κλειτὰς ἑκατόμβας",
+      "text": "δίδωμι: 3pl aor = ἔδοσαν; κλειτός, famed; ἑκατόμβη, hecatomb."
+    },
+    {
+      "lines": "451",
+      "lemma": "τοῦ δ᾽ ἤτοι κλέος",
+      "text": "τοῦ, of it (the wall); κλέος, fame; ἔσται, fut of εἰμί."
+    },
+    {
+      "lines": "451",
+      "lemma": "ὅσον τ᾽ ἐπικίδναται ἠώς",
+      "text": "ἐπικίδναμαι, spread over: 3sg pres; “as far as dawn spreads.”"
+    },
+    {
+      "lines": "452",
+      "lemma": "ἐπιλήσονται",
+      "text": "ἐπιλανθάνομαι, forget + gen: 3pl fut mid; τοῦ, the thing."
+    },
+    {
+      "lines": "452",
+      "lemma": "τὸ ἐγὼ καὶ Φοῖβος",
+      "text": "τό, which (relative); Φοῖβος, Phoebus Apollo."
+    },
+    {
+      "lines": "453",
+      "lemma": "ἥρῳ Λαομέδοντι",
+      "text": "ἥρως, hero: dat sg; Λαομέδων, Laomedon, the earlier king of Troy."
+    },
+    {
+      "lines": "453",
+      "lemma": "πολίσσαμεν ἀθλήσαντε",
+      "text": "πολίζω, build a city: 1pl aor, epic -σσ-; ἀθλέω, toil: aor ptc dual; Poseidon and Apollo built Troy’s wall."
+    },
+    {
+      "lines": "454",
+      "lemma": "ὀχθήσας · προσέφη",
+      "text": "ὀχθέω, be vexed: aor ptc; πρόσφημι, address: 3sg 2aor."
+    },
+    {
+      "lines": "455",
+      "lemma": "ἐννοσίγαι᾽ εὐρυσθενές",
+      "text": "ἐνοσίγαιος, earth-shaker: voc elided; εὐρυσθενής, wide-ruling / of broad strength: voc."
+    },
+    {
+      "lines": "455",
+      "lemma": "οἷον ἔειπες",
+      "text": "οἷος, what a thing; εἶπον, say: 2sg 2aor with epic ε-."
+    },
+    {
+      "lines": "456",
+      "lemma": "ἄλλός κέν τις",
+      "text": "ἄλλος, another; κεν + opt, potential."
+    },
+    {
+      "lines": "456",
+      "lemma": "δείσειε · νόημα",
+      "text": "δείδω, fear: 3sg aor opt; νόημα, thought / device."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

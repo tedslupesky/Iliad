@@ -1,0 +1,194 @@
+{
+  "id": "7.14",
+  "title": "Antenor, Paris and Priam",
+  "intro": "Antenor urges the Trojans to give back Helen. Paris refuses, and Priam sends a herald to propose a truce.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "348",
+      "lemma": "Κέκλυτέ μευ · Δάρδανοι · ἐπίκουροι",
+      "text": "repeats Hector’s call in 67; Δάρδανοι, Dardanians; ἐπίκουρος, ally."
+    },
+    {
+      "lines": "349",
+      "lemma": "ὄφρ᾽ εἴπω τά με θυμὸς … κελεύει",
+      "text": "repeats 68: aor subj of purpose; κελεύω, bid: 3sg pres."
+    },
+    {
+      "lines": "350",
+      "lemma": "δεῦτ᾽ ἄγετ᾽",
+      "text": "δεῦτε, come here (pl); ἄγετε, come on; hortative."
+    },
+    {
+      "lines": "350",
+      "lemma": "Ἀργείην Ἑλένην · κτήμαθ᾽ ἅμ᾽ αὐτῇ",
+      "text": "Ἀργεῖος, Argive; κτῆμα, possession: pl, elided; ἅμα + dat, together with her."
+    },
+    {
+      "lines": "351",
+      "lemma": "δώομεν · ἄγειν",
+      "text": "δίδωμι: 1pl aor subj, hortative; ἄγω, take away: pres inf of purpose; Ἀτρεΐδῃσιν, dat pl."
+    },
+    {
+      "lines": "351",
+      "lemma": "ὅρκια πιστά · ψευσάμενοι",
+      "text": "ὅρκιον, oath; πιστός, trustworthy; ψεύδομαι, falsify / break: aor ptc nom pl."
+    },
+    {
+      "lines": "352",
+      "lemma": "τὼ · κέρδιον ἡμῖν",
+      "text": "τώ, therefore; κερδίων, more profitable: neut comparative; οὔ τι, not at all."
+    },
+    {
+      "lines": "353",
+      "lemma": "ἔλπομαι ἐκτελέεσθαι",
+      "text": "ἔλπομαι, expect; ἐκτελέω, fulfil: pres inf pass, epic -έεσθαι, “be accomplished.”"
+    },
+    {
+      "lines": "353",
+      "lemma": "ἵνα μὴ ῥέξομεν",
+      "text": "ἵνα μή with the future ῥέξομεν (ῥέζω, do), here “unless we act so.”"
+    },
+    {
+      "lines": "354",
+      "lemma": "κατ᾽ ἄρ᾽ ἕζετο",
+      "text": "ἕζομαι, sit: κατά with tmesis, 3sg impf; ὣς εἰπών, having so spoken."
+    },
+    {
+      "lines": "354",
+      "lemma": "ἀνέστη",
+      "text": "ἀνίστημι, stand up: 3sg root aor."
+    },
+    {
+      "lines": "355",
+      "lemma": "Ἑλένης πόσις ἠϋκόμοιο",
+      "text": "πόσις, husband; ἠΰκομος, fair-haired: gen sg fem, epithet of Helen."
+    },
+    {
+      "lines": "356",
+      "lemma": "ὅς μιν ἀμειβόμενος",
+      "text": "ἀμείβομαι, answer: pres ptc; μιν, him."
+    },
+    {
+      "lines": "356",
+      "lemma": "ἔπεα πτερόεντα προσηύδα",
+      "text": "ἔπος, word; πτερόεις, winged; προσαυδάω, address: 3sg impf."
+    },
+    {
+      "lines": "357",
+      "lemma": "Ἀντῆνορ · φίλα",
+      "text": "Ἀντήνωρ: voc; φίλος, pleasing: neut pl; οὐκέτι, no longer."
+    },
+    {
+      "lines": "358",
+      "lemma": "οἶσθα · νοῆσαι",
+      "text": "οἶδα, know how: 2sg perf; νοέω, devise: aor inf; ἀμείνονα τοῦδε, a better word than this."
+    },
+    {
+      "lines": "359",
+      "lemma": "ἐτεὸν · ἀπὸ σπουδῆς",
+      "text": "ἐτεός, true: adverbial acc; ἀπὸ σπουδῆς, in earnest; ἀγορεύω, say."
+    },
+    {
+      "lines": "360",
+      "lemma": "ἐξ … ὤλεσαν",
+      "text": "ὄλλυμι, destroy: 3pl aor, tmesis ἐξ … ὤλεσαν; φρένες, wits; τοι = σοι."
+    },
+    {
+      "lines": "361",
+      "lemma": "μεθ᾽ ἱπποδάμοις · ἀγορεύσω",
+      "text": "μετά + dat, among; ἱππόδαμος, horse-taming; ἀγορεύω: 1sg fut."
+    },
+    {
+      "lines": "362",
+      "lemma": "ἀντικρύ · ἀπόφημι",
+      "text": "ἀντικρύ, flatly; ἀποφημί, declare plainly: 1sg pres."
+    },
+    {
+      "lines": "362",
+      "lemma": "ἀποδώσω",
+      "text": "ἀποδίδωμι, give back: 1sg fut, negated."
+    },
+    {
+      "lines": "363",
+      "lemma": "ὅσσ᾽ ἀγόμην",
+      "text": "ὅσσα = ὅσα, as many as; ἄγομαι, bring with me: 1sg impf mid."
+    },
+    {
+      "lines": "363",
+      "lemma": "ἐξ Ἄργεος · ἡμέτερον δῶ",
+      "text": "Ἄργος, Argos: gen sg; ἡμέτερος, our; δῶ = δῶμα, house: acc, “to our house.”"
+    },
+    {
+      "lines": "364",
+      "lemma": "δόμεναι · οἴκοθεν · ἐπιθεῖναι",
+      "text": "δίδωμι, give: aor inf δόμεναι; οἴκοθεν, from my own house; ἐπιτίθημι, add: aor inf."
+    },
+    {
+      "lines": "365",
+      "lemma": "Ἤτοι ὅ γ᾽ … ἀνέστη",
+      "text": "repeats 354 for Priam’s turn."
+    },
+    {
+      "lines": "366",
+      "lemma": "Δαρδανίδης · θεόφιν μήστωρ ἀτάλαντος",
+      "text": "Δαρδανίδης, descendant of Dardanus; θεόφιν, like the gods (-φιν ending); μήστωρ, counsellor; ἀτάλαντος, equal to."
+    },
+    {
+      "lines": "367",
+      "lemma": "ἐϋφρονέων ἀγορήσατο",
+      "text": "repeats 326 for the speaker; ἐυφρονέω: pres ptc; ἀγοράομαι: 3sg aor."
+    },
+    {
+      "lines": "370",
+      "lemma": "δόρπον ἕλεσθε",
+      "text": "δόρπον, supper; αἱρέομαι, take: 2pl 2aor imperative mid."
+    },
+    {
+      "lines": "370",
+      "lemma": "ὡς τὸ πάρος περ",
+      "text": "ὡς, as; τὸ πάρος, formerly; περ strengthens."
+    },
+    {
+      "lines": "371",
+      "lemma": "φυλακῆς μνήσασθε",
+      "text": "μιμνῄσκομαι + gen, remember / attend to: 2pl aor imperative mid; φυλακή, watch."
+    },
+    {
+      "lines": "371",
+      "lemma": "ἐγρήγορθε",
+      "text": "ἐγείρω, wake: 2pl perf imperative ἐγρήγορθε, “be awake.”"
+    },
+    {
+      "lines": "372",
+      "lemma": "ἠῶθεν · ἴτω",
+      "text": "ἠῶθεν, at dawn; εἶμι, go: 3sg imperative ἴτω."
+    },
+    {
+      "lines": "373",
+      "lemma": "εἰπέμεν",
+      "text": "εἶπον, say: aor inf, epic -έμεν, used as imperative of purpose."
+    },
+    {
+      "lines": "374",
+      "lemma": "τοῦ εἵνεκα · νεῖκος ὄρωρε",
+      "text": "τοῦ εἵνεκα, for whose sake; νεῖκος, strife; ὄρνυμι, rouse: 3sg perf mid ὄρωρε."
+    },
+    {
+      "lines": "375",
+      "lemma": "εἰπέμεναι · πυκινὸν ἔπος",
+      "text": "εἶπον: aor inf, epic -έμεναι; πυκινός, shrewd; ἔπος, word."
+    },
+    {
+      "lines": "375",
+      "lemma": "αἴ κ᾽ ἐθέλωσι",
+      "text": "ἐθέλω, be willing: 3pl pres subj with αἴ κε."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

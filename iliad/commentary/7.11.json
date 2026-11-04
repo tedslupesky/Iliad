@@ -1,0 +1,204 @@
+{
+  "id": "7.11",
+  "title": "The heralds part the fighters",
+  "intro": "Ajax throws a boulder and knocks Hector down; Apollo lifts him. The heralds stop the duel at nightfall.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "266",
+      "lemma": "τῷ βάλεν",
+      "text": "τῷ, with this (the stone); βάλλω, strike: 3sg 2aor; Hector hits the shield’s boss."
+    },
+    {
+      "lines": "267",
+      "lemma": "μέσσον ἐπομφάλιον",
+      "text": "μέσσος, middle; ἐπομφάλιος, on the boss (ὀμφαλός)."
+    },
+    {
+      "lines": "267",
+      "lemma": "περιήχησεν",
+      "text": "περιηχέω, ring around: 3sg aor; the bronze rang."
+    },
+    {
+      "lines": "268",
+      "lemma": "δεύτερος · μείζονα λᾶαν ἀείρας",
+      "text": "δεύτερος, in turn; μείζων, bigger: comparative of μέγας; λᾶας, stone; ἀείρω, lift: aor ptc."
+    },
+    {
+      "lines": "269",
+      "lemma": "ἧκ᾽ ἐπιδινήσας",
+      "text": "ἵημι, hurl: 3sg aor; ἐπιδινέω, whirl round: aor ptc."
+    },
+    {
+      "lines": "269",
+      "lemma": "ἐπέρεισε · ἶν᾽ ἀπέλεθρον",
+      "text": "ἐπερείδω, lean upon: 3sg aor; ἴς, strength: acc ἶνα; ἀπέλεθρος, immense."
+    },
+    {
+      "lines": "270",
+      "lemma": "εἴσω · ἔαξε",
+      "text": "εἴσω, inward; ἄγνυμι, break: 3sg aor ἔαξε, with long augment; ἀσπίδα as object."
+    },
+    {
+      "lines": "270",
+      "lemma": "μυλοειδέϊ πέτρῳ",
+      "text": "μυλοειδής, like a millstone: dat sg; πέτρος, boulder."
+    },
+    {
+      "lines": "271",
+      "lemma": "βλάψε · γούναθ᾽",
+      "text": "βλάπτω, disable: 3sg aor; γόνυ, knee: pl γούνατα, elided before the aspirate."
+    },
+    {
+      "lines": "271",
+      "lemma": "ὕπτιος ἐξετανύσθη",
+      "text": "ὕπτιος, on his back; ἐκτανύω, stretch out: 3sg aor pass."
+    },
+    {
+      "lines": "272",
+      "lemma": "ἐγχριμφθείς · ὤρθωσεν",
+      "text": "ἐγχρίμπτω, thrust against: aor pass ptc; ὀρθόω, set upright: 3sg aor; αἶψα, at once."
+    },
+    {
+      "lines": "273",
+      "lemma": "καί νύ κε … οὐτάζοντο",
+      "text": "οὐτάζω, stab: 3pl impf mid, reciprocal, with κε “would have been stabbing each other.”"
+    },
+    {
+      "lines": "273",
+      "lemma": "ξιφέεσσ᾽ αὐτοσχεδόν",
+      "text": "ξίφος, sword: dat pl ξιφέεσσι; αὐτοσχεδόν, at close quarters."
+    },
+    {
+      "lines": "274",
+      "lemma": "εἰ μὴ κήρυκες",
+      "text": "εἰ μή, unless; κῆρυξ, herald; Διὸς ἄγγελοι, messengers of Zeus and men."
+    },
+    {
+      "lines": "275",
+      "lemma": "ὃ μὲν … ὃ δ᾽ · χαλκοχιτώνων",
+      "text": "ὃ μὲν … ὃ δέ, one … the other; χαλκοχίτων, bronze-clad: gen pl."
+    },
+    {
+      "lines": "276",
+      "lemma": "Ταλθύβιος · Ἰδαῖος",
+      "text": "heralds of Agamemnon and of Priam; Ταλθύβιός τε καὶ Ἰδαῖος."
+    },
+    {
+      "lines": "276",
+      "lemma": "πεπνυμένω ἄμφω",
+      "text": "πνέω, be wise: perf ptc nom dual of πέπνυμαι; ἄμφω, both."
+    },
+    {
+      "lines": "277",
+      "lemma": "μέσσῳ δ᾽ ἀμφοτέρων",
+      "text": "μέσσῳ, in the middle (of); ἀμφότερος, both: gen pl."
+    },
+    {
+      "lines": "277",
+      "lemma": "σκῆπτρα σχέθον",
+      "text": "σκῆπτρον, staff; ἔχω, hold: 3du 2aor σχέθον, iterative form; εἶπέ τε μῦθον, and spoke."
+    },
+    {
+      "lines": "278",
+      "lemma": "πεπνυμένα μήδεα εἰδώς",
+      "text": "πεπνυμένος, prudent; μήδεα, counsels; οἶδα: perf ptc εἰδώς, knowing."
+    },
+    {
+      "lines": "279",
+      "lemma": "Μηκέτι · παῖδε φίλω",
+      "text": "μηκέτι, no longer; παῖς, child: voc dual; φίλος, dear: dual."
+    },
+    {
+      "lines": "279",
+      "lemma": "πολεμίζετε μηδὲ μάχεσθον",
+      "text": "πολεμίζω: 2pl pres imperative; μάχομαι: 2du pres imperative; the herald mixes plural and dual."
+    },
+    {
+      "lines": "280",
+      "lemma": "σφῶϊ · νεφεληγερέτα",
+      "text": "σφῶϊ, you two: acc dual; νεφεληγερέτα, cloud-gatherer: epic nom sg masc in -α."
+    },
+    {
+      "lines": "281",
+      "lemma": "αἰχμητά · ἴδμεν",
+      "text": "αἰχμητής, spearman: nom dual; οἶδα, know: 1pl perf ἴδμεν, epic form of ἴσμεν."
+    },
+    {
+      "lines": "282",
+      "lemma": "τελέθει",
+      "text": "τελέθω, be / come to be: 3sg pres."
+    },
+    {
+      "lines": "282",
+      "lemma": "ἀγαθὸν … πιθέσθαι",
+      "text": "πείθομαι, obey: 2aor inf mid + dat νυκτί, “it is good to yield to night.”"
+    },
+    {
+      "lines": "283",
+      "lemma": "ἀπαμειβόμενος προσέφη",
+      "text": "ἀπαμείβομαι, reply: pres ptc; πρόσφημι, address: 3sg impf / aor."
+    },
+    {
+      "lines": "284",
+      "lemma": "Ἰδαῖ᾽ · κελεύετε μυθήσασθαι",
+      "text": "Ἰδαῖε, voc; κελεύω, bid: 2pl pres; μυθέομαι, speak: aor inf."
+    },
+    {
+      "lines": "285",
+      "lemma": "χάρμῃ προκαλέσσατο",
+      "text": "χάρμη, battle: dat; προκαλέω, challenge: 3sg aor mid; Hector issued the challenge."
+    },
+    {
+      "lines": "286",
+      "lemma": "ἀρχέτω · πείσομαι",
+      "text": "ἄρχω, begin: 3sg imperative; πείθομαι, obey: 1sg fut mid; ᾗ περ ἂν οὗτος, in whatever way he does."
+    },
+    {
+      "lines": "288",
+      "lemma": "μέγεθος · βίην",
+      "text": "μέγεθος, size; βίη, strength; δῶκε, 3sg aor of δίδωμι."
+    },
+    {
+      "lines": "289",
+      "lemma": "πινυτήν · περὶ … φέρτατος",
+      "text": "πινυτή, wisdom; περί, beyond; φέρτατος, strongest: superlative of φέρτερος; ἔγχει, dat of respect."
+    },
+    {
+      "lines": "289",
+      "lemma": "ἐσσι",
+      "text": "ἐσσί = εἶ, 2sg of εἰμί, epic."
+    },
+    {
+      "lines": "290",
+      "lemma": "παυσώμεσθα",
+      "text": "παύομαι, cease: 1pl aor subj mid, hortative + gen μάχης."
+    },
+    {
+      "lines": "291",
+      "lemma": "μαχησόμεθ᾽ · εἰς ὅ κε δαίμων",
+      "text": "μάχομαι: 1pl fut; εἰς ὅ κε, until; δαίμων, divinity."
+    },
+    {
+      "lines": "292",
+      "lemma": "ἄμμε διακρίνῃ",
+      "text": "ἄμμε = ἡμᾶς, Aeolic acc; διακρίνω, decide between: 3sg aor subj."
+    },
+    {
+      "lines": "292",
+      "lemma": "δώῃ · ἑτέροισί γε",
+      "text": "δίδωμι: 3sg aor subj; ἕτερος, one of the two: dat pl."
+    },
+    {
+      "lines": "293",
+      "lemma": "νὺξ δ᾽ ἤδη τελέθει",
+      "text": "repeats Ajax’s formula in 282; τελέθω, be: 3sg pres."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

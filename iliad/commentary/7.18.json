@@ -1,0 +1,189 @@
+{
+  "id": "7.18",
+  "title": "Zeus’s answer; the night of feasting",
+  "intro": "Zeus tells Poseidon he may destroy the wall later. The Greeks buy Lemnian wine and feast while Zeus thunders.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "457",
+      "lemma": "σέο πολλὸν ἀφαυρότερος",
+      "text": "σέο = σοῦ, gen of comparison; πολλόν, by far; ἀφαυρός, feeble: comparative."
+    },
+    {
+      "lines": "457",
+      "lemma": "χεῖράς τε μένος τε",
+      "text": "χείρ, hand; μένος, might: accusatives of respect, “in hand and might.”"
+    },
+    {
+      "lines": "458",
+      "lemma": "σὸν δ᾽ ἤτοι κλέος",
+      "text": "σός, your; κλέος, fame; the formula of 451 turned back on Poseidon."
+    },
+    {
+      "lines": "459",
+      "lemma": "ἄγρει μάν",
+      "text": "ἄγρει = ἄγε, come now; μάν, indeed; ὅτ᾽ ἂν + subj, whenever."
+    },
+    {
+      "lines": "460",
+      "lemma": "οἴχωνται",
+      "text": "οἴχομαι, be gone: 3pl pres subj (perfect sense); φίλην πατρίδα γαῖαν, dear fatherland."
+    },
+    {
+      "lines": "461",
+      "lemma": "ἀναρρήξας",
+      "text": "ἀναρρήγνυμι, break up: aor ptc nom sg."
+    },
+    {
+      "lines": "461",
+      "lemma": "καταχεῦαι · ἅλα",
+      "text": "καταχέω, sweep down / pour over: aor inf, imperative sense; ἅλς, sea: acc ἅλα."
+    },
+    {
+      "lines": "462",
+      "lemma": "ἠϊόνα · ψαμάθοισι καλύψαι",
+      "text": "ἠϊών, beach: acc; ψάμαθος, sand: dat pl; καλύπτω, cover: aor inf."
+    },
+    {
+      "lines": "463",
+      "lemma": "ὥς κέν τοι",
+      "text": "ὡς + subj, so that; κεν; τοι = σοι, for you."
+    },
+    {
+      "lines": "463",
+      "lemma": "ἀμαλδύνηται",
+      "text": "ἀμαλδύνω, destroy / efface: 3sg subj pass; the wall will be obliterated."
+    },
+    {
+      "lines": "464",
+      "lemma": "ἀγόρευον",
+      "text": "ἀγορεύω, speak: 3pl impf; πρὸς ἀλλήλους, to one another."
+    },
+    {
+      "lines": "465",
+      "lemma": "δύσετο · τετέλεστο",
+      "text": "δύομαι, set: 3sg aor mid; τελέω, complete: 3sg plpf pass."
+    },
+    {
+      "lines": "466",
+      "lemma": "βουφόνεον",
+      "text": "βουφονέω, slaughter oxen: 3pl impf, uncontracted; κατὰ κλισίας, in the huts."
+    },
+    {
+      "lines": "466",
+      "lemma": "δόρπον ἕλοντο",
+      "text": "δόρπον, supper; αἱρέομαι, take: 3pl 2aor mid."
+    },
+    {
+      "lines": "467",
+      "lemma": "Λήμνοιο · παρέσταν",
+      "text": "Λῆμνος, Lemnos: gen sg; παρίστημι, come up: 3pl root aor (= παρέστησαν)."
+    },
+    {
+      "lines": "467",
+      "lemma": "οἶνον ἄγουσαι",
+      "text": "ἄγω, bring: pres ptc nom fem pl, of the ships."
+    },
+    {
+      "lines": "468",
+      "lemma": "προέηκεν",
+      "text": "προΐημι, send forth: 3sg aor; Ἰησονίδης, son of Jason: Euneus."
+    },
+    {
+      "lines": "469",
+      "lemma": "τόν ῥ᾽ ἔτεχ᾽ · ὑπ᾽ Ἰήσονι",
+      "text": "τίκτω, bear: 3sg 2aor; ὑπό + dat, “to” / by Jason; Ὑψιπύλη, Hypsipyle of Lemnos."
+    },
+    {
+      "lines": "470",
+      "lemma": "χωρίς",
+      "text": "χωρίς, separately: a gift to the Atreidae apart from the sale."
+    },
+    {
+      "lines": "471",
+      "lemma": "ἀγέμεν · μέθυ · χίλια μέτρα",
+      "text": "ἄγω: pres inf, epic -έμεν, “to take”; μέθυ, wine; μέτρον, measure; χίλια, a thousand."
+    },
+    {
+      "lines": "472",
+      "lemma": "ἔνθεν οἰνίζοντο",
+      "text": "ἔνθεν, from there; οἰνίζομαι, supply oneself with wine: 3pl impf mid."
+    },
+    {
+      "lines": "473",
+      "lemma": "χαλκῷ · αἴθωνι σιδήρῳ",
+      "text": "χαλκός, bronze; αἴθων, gleaming; σίδηρος, iron: dat of price."
+    },
+    {
+      "lines": "474",
+      "lemma": "ῥινοῖς · αὐτῇσι βόεσσιν",
+      "text": "ῥινός, hide: dat pl; αὐτῇσι βόεσσιν, with the live cattle themselves: epic dat pl."
+    },
+    {
+      "lines": "475",
+      "lemma": "ἀνδραπόδεσσι",
+      "text": "ἀνδράποδον, slave: dat pl, epic -εσσι."
+    },
+    {
+      "lines": "475",
+      "lemma": "τίθεντο δαῖτα θάλειαν",
+      "text": "τίθεμαι, make for oneself: 3pl impf mid; δαίς, feast; θαλερός / θάλεια, plentiful."
+    },
+    {
+      "lines": "476",
+      "lemma": "παννύχιοι",
+      "text": "παννύχιος, all night long: nom pl masc, adj used as adverb."
+    },
+    {
+      "lines": "477",
+      "lemma": "δαίνυντο",
+      "text": "δαίνυμαι, feast: 3pl impf; ἐπίκουροι, allies."
+    },
+    {
+      "lines": "478",
+      "lemma": "σφιν · μήδετο",
+      "text": "σφιν, for them; μήδομαι, plan: 3sg impf; μητίετα, counselling: epithet of Zeus."
+    },
+    {
+      "lines": "479",
+      "lemma": "σμερδαλέα κτυπέων",
+      "text": "σμερδαλέος, terrible: neut pl as adverb; κτυπέω, crash / thunder: pres ptc, uncontracted."
+    },
+    {
+      "lines": "479",
+      "lemma": "χλωρὸν δέος ᾕρει",
+      "text": "χλωρός, pale: green-pale; δέος, fear; αἱρέω, seize: 3sg impf."
+    },
+    {
+      "lines": "480",
+      "lemma": "δεπάων · χαμάδις χέον",
+      "text": "δέπας, cup: gen pl; χαμάδις, to the ground; χέω, pour: 3pl impf, uncontracted."
+    },
+    {
+      "lines": "480–481",
+      "lemma": "ἔτλη · πρὶν πιέειν πρὶν λεῖψαι",
+      "text": "τλάω, dare: 3sg root aor; πρίν + inf, before; πίνω: aor inf πιέειν; λείβω, pour a libation: aor inf λεῖψαι."
+    },
+    {
+      "lines": "481",
+      "lemma": "ὑπερμενέϊ Κρονίωνι",
+      "text": "ὑπερμενής, very mighty: dat sg; Κρονίων, son of Cronos."
+    },
+    {
+      "lines": "482",
+      "lemma": "κοιμήσαντ᾽",
+      "text": "κοιμάομαι, lie down to sleep: 3pl aor mid; ὕπνου δῶρον, the gift of sleep."
+    },
+    {
+      "lines": "482",
+      "lemma": "ἕλοντο",
+      "text": "αἱρέομαι, take: 3pl 2aor mid; the book closes with the Greeks asleep."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

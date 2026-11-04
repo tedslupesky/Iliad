@@ -1,0 +1,194 @@
+{
+  "id": "7.16",
+  "title": "The truce and the burning of the dead",
+  "intro": "Agamemnon accepts the burial truce. At dawn both armies collect and burn their dead.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "404",
+      "lemma": "ἀγασσάμενοι",
+      "text": "ἀγάομαι, admire: aor ptc nom pl, epic -σσ-; ἱπποδάμοιο, horse-taming: gen sg."
+    },
+    {
+      "lines": "405",
+      "lemma": "προσέφη · κρείων",
+      "text": "πρόσφημι, address: 3sg 2aor; κρείων, ruling: pres ptc."
+    },
+    {
+      "lines": "406",
+      "lemma": "ἤτοι · ἀκούεις",
+      "text": "ἤτοι, truly; ἀκούω, hear: 2sg pres; αὐτός, for yourself; Ἰδαῖ᾽, voc elided."
+    },
+    {
+      "lines": "407",
+      "lemma": "ὑποκρίνονται",
+      "text": "ὑποκρίνομαι, answer: 3pl pres mid; “how the Achaeans reply to you.”"
+    },
+    {
+      "lines": "407",
+      "lemma": "ἐπιανδάνει",
+      "text": "ἐπιανδάνω = ἐφανδάνω, please: 3sg pres; “it pleases me thus.”"
+    },
+    {
+      "lines": "408",
+      "lemma": "ἀμφὶ … νεκροῖσιν",
+      "text": "ἀμφί + dat, concerning; νεκρός, corpse: dat pl."
+    },
+    {
+      "lines": "408",
+      "lemma": "κατακαιέμεν · μεγαίρω",
+      "text": "κατακαίω, burn: pres inf, epic -έμεν; μεγαίρω, begrudge: 1sg pres."
+    },
+    {
+      "lines": "409",
+      "lemma": "φειδώ · κατατεθνηώτων",
+      "text": "φειδώ, sparing; καταθνῄσκω, die: perf ptc gen pl, epic -ηώτων; νεκύων, of the dead."
+    },
+    {
+      "lines": "410",
+      "lemma": "γίγνετ᾽ · ἐπεί κε θάνωσι",
+      "text": "γίγνομαι, there is: 3sg; θνῄσκω, die: 3pl 2aor subj with ἐπεί κε."
+    },
+    {
+      "lines": "410",
+      "lemma": "πυρὸς μειλισσέμεν",
+      "text": "μειλίσσω, appease: pres inf, epic -έμεν; “to appease the dead with fire,” i.e. to give funeral rites."
+    },
+    {
+      "lines": "411",
+      "lemma": "ἴστω · ἐρίγδουπος",
+      "text": "οἶδα, know / witness: 3sg imperative ἴστω; ἐρίγδουπος, loud-thundering; πόσις Ἥρης, Hera’s husband."
+    },
+    {
+      "lines": "412",
+      "lemma": "ἀνέσχεθε",
+      "text": "ἀνέχω, raise: 3sg 2aor ἀνέσχεθε; σκῆπτρον, the staff held up as an oath-gesture."
+    },
+    {
+      "lines": "413",
+      "lemma": "ἄψορρον · προτὶ Ἴλιον",
+      "text": "ἄψορρος, back; προτί = πρός; Ἴλιον ἱρήν, holy Ilios."
+    },
+    {
+      "lines": "414",
+      "lemma": "ἕατ᾽ · εἰν ἀγορῇ",
+      "text": "ἧμαι, sit: 3pl impf ἕατο; εἰν = ἐν; Δαρδανίωνες, Dardanians."
+    },
+    {
+      "lines": "415",
+      "lemma": "ὁμηγερέες · ποτιδέγμενοι",
+      "text": "ὁμηγερής, gathered together; ποτιδέχομαι, await: pres ptc nom pl."
+    },
+    {
+      "lines": "415",
+      "lemma": "ὁππότ᾽ ἄρ᾽ ἔλθοι",
+      "text": "ὁππότε + opt, “until / whenever he should come”; ἔρχομαι: 3sg 2aor opt."
+    },
+    {
+      "lines": "416",
+      "lemma": "ἀγγελίην ἀπέειπε",
+      "text": "ἀγγελίη, message; ἀπεῖπον, deliver / announce: 3sg 2aor, epic ε-."
+    },
+    {
+      "lines": "417",
+      "lemma": "στὰς ἐν μέσσοισιν",
+      "text": "ἵστημι: 2aor ptc, “standing in their midst.”"
+    },
+    {
+      "lines": "417",
+      "lemma": "τοὶ δ᾽ ὁπλίζοντο",
+      "text": "τοί = οἱ, they; ὁπλίζομαι, make ready: 3pl impf mid."
+    },
+    {
+      "lines": "418",
+      "lemma": "ἀμφότερον · νέκυας ἀγέμεν",
+      "text": "ἀμφότερον, for both tasks; νέκυς, corpse: acc pl νέκυας; ἄγω: pres inf, epic -έμεν, purpose."
+    },
+    {
+      "lines": "418",
+      "lemma": "ἕτεροι δὲ μεθ᾽ ὕλην",
+      "text": "ἕτεροι, others; μετά + acc, in quest of; ὕλη, wood."
+    },
+    {
+      "lines": "419",
+      "lemma": "ἐϋσσέλμων ἀπὸ νηῶν",
+      "text": "ἐΰσσελμος, well-benched; ναῦς, ship: gen pl νηῶν."
+    },
+    {
+      "lines": "420",
+      "lemma": "ὀτρύνοντο",
+      "text": "ὀτρύνω, urge on: 3pl impf mid, “bestirred themselves.”"
+    },
+    {
+      "lines": "421",
+      "lemma": "νέον προσέβαλλεν",
+      "text": "νέον, newly; προσβάλλω, strike: 3sg impf; ἄρουρα, field: acc pl."
+    },
+    {
+      "lines": "422",
+      "lemma": "ἀκαλαρρείταο βαθυρρόου Ὠκεανοῖο",
+      "text": "ἀκαλαρρείτης, gently flowing; βαθύρροος, deep-flowing: gen sg masc; Ὠκεανός, Ocean."
+    },
+    {
+      "lines": "423",
+      "lemma": "εἰσανιών · ἤντεον",
+      "text": "εἰσάνειμι, climb into: pres ptc; ἀντάω, meet: 3pl impf, uncontracted; ἀλλήλοισιν, one another."
+    },
+    {
+      "lines": "424",
+      "lemma": "διαγνῶναι χαλεπῶς ἦν",
+      "text": "διαγιγνώσκω, distinguish: 2aor inf; χαλεπῶς, hard; ἦν, was."
+    },
+    {
+      "lines": "425",
+      "lemma": "νίζοντες ἄπο",
+      "text": "νίζω, wash: pres ptc; ἄπο, tmesis, “wash off.”"
+    },
+    {
+      "lines": "425",
+      "lemma": "βρότον αἱματόεντα",
+      "text": "βρότος, gore; αἱματόεις, bloody: acc sg masc."
+    },
+    {
+      "lines": "426",
+      "lemma": "δάκρυα θερμὰ χέοντες",
+      "text": "δάκρυον, tear; θερμός, hot; χέω, shed: pres ptc nom pl."
+    },
+    {
+      "lines": "426",
+      "lemma": "ἀμαξάων ἐπάειραν",
+      "text": "ἅμαξα, wagon: gen pl; ἐπαείρω, lift on to: 3pl aor, epic ἐπάειραν."
+    },
+    {
+      "lines": "427",
+      "lemma": "οὐδ᾽ εἴα κλαίειν",
+      "text": "ἐάω, permit: 3sg impf εἴα; κλαίω, weep: pres inf; Priam forbade weeping."
+    },
+    {
+      "lines": "428",
+      "lemma": "πυρκαϊῆς ἐπινήνεον",
+      "text": "πυρκαϊή, pyre: gen sg; ἐπινηνέω, heap on: 3pl impf, uncontracted."
+    },
+    {
+      "lines": "428",
+      "lemma": "ἀχνύμενοι κῆρ",
+      "text": "ἄχνυμαι, grieve: pres ptc; κῆρ acc of respect, in heart."
+    },
+    {
+      "lines": "429",
+      "lemma": "πρήσαντες · ἔβαν",
+      "text": "πίμπρημι, burn: aor ptc nom pl, epic πρήσαντες; βαίνω, go: 3pl 2aor."
+    },
+    {
+      "lines": "430",
+      "lemma": "ὣς δ᾽ αὔτως ἑτέρωθεν",
+      "text": "ὣς αὔτως, in just the same way; ἑτέρωθεν, from the other side; ἐϋκνήμιδες, well-greaved."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

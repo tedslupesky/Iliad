@@ -1,0 +1,189 @@
+{
+  "id": "7.12",
+  "title": "Gifts exchanged and the feast",
+  "intro": "Hector and Ajax part with gifts. Agamemnon feasts the chieftains.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "294",
+      "lemma": "ὡς σύ τ᾽ ἐϋφρήνῃς",
+      "text": "ἐυφραίνω, gladden: 2sg aor subj; ὡς + subj, purpose; σύ τε, you as well."
+    },
+    {
+      "lines": "295",
+      "lemma": "σούς · ἔτας · ἔασιν",
+      "text": "σός, your; ἔτης, kinsman: acc pl; ἔασιν = εἰσίν, 3pl of εἰμί."
+    },
+    {
+      "lines": "296–297",
+      "lemma": "κατὰ ἄστυ · ἐϋφρανέω",
+      "text": "ἄστυ, city; ἐυφραίνω: 1sg fut, uncontracted; Priam’s town."
+    },
+    {
+      "lines": "297",
+      "lemma": "Τρῳάδας ἑλκεσιπέπλους",
+      "text": "Τρῳάς, Trojan woman: acc pl; ἑλκεσίπεπλος, with trailing robes."
+    },
+    {
+      "lines": "298",
+      "lemma": "εὐχόμεναι · δύσονται",
+      "text": "εὔχομαι, pray: pres ptc nom fem pl; δύομαι, enter: 3pl fut mid, i.e. go into the temples."
+    },
+    {
+      "lines": "298",
+      "lemma": "θεῖον ἀγῶνα",
+      "text": "θεῖος, divine; ἀγών, assembly / place of gathering."
+    },
+    {
+      "lines": "299",
+      "lemma": "ἄγ᾽ · περικλυτά · δώομεν",
+      "text": "ἄγε, come; περικλυτός, famous; δίδωμι: 1pl aor subj, epic δώομεν, hortative."
+    },
+    {
+      "lines": "300",
+      "lemma": "ὄφρά τις … εἴπῃσιν",
+      "text": "ὄφρα + aor subj, so that someone may say; εἶπον: 3sg aor subj in -σιν."
+    },
+    {
+      "lines": "301",
+      "lemma": "Ἠμὲν ἐμαρνάσθην",
+      "text": "ἠμέν … ἠδέ, both … and; μάρναμαι, fight: 3du impf."
+    },
+    {
+      "lines": "301",
+      "lemma": "ἔριδος πέρι",
+      "text": "ἔρις, strife: gen; πέρι = περί, postposed; θυμοβόρος, heart-eating."
+    },
+    {
+      "lines": "302",
+      "lemma": "ἐν φιλότητι · διέτμαγεν",
+      "text": "φιλότης, friendship; διατμήγω, part: 3du 2aor pass διετμάγην, epic."
+    },
+    {
+      "lines": "302",
+      "lemma": "ἀρθμήσαντε",
+      "text": "ἀρθμέω, be reconciled / join in friendship: aor ptc nom dual."
+    },
+    {
+      "lines": "303",
+      "lemma": "φωνήσας · ἀργυρόηλον",
+      "text": "φωνέω, speak: aor ptc; ἀργυρόηλος, silver-studded: acc sg neut; ξίφος, sword."
+    },
+    {
+      "lines": "304",
+      "lemma": "σὺν κολεῷ · ἐϋτμήτῳ τελαμῶνι",
+      "text": "κολεός, scabbard: dat; εὔτμητος, well-cut: dat sg; τελαμών, baldric."
+    },
+    {
+      "lines": "305",
+      "lemma": "ζωστῆρα · δίδου · φοίνικι",
+      "text": "ζωστήρ, belt; δίδωμι: 3sg impf δίδου; φοῖνιξ, purple-red: dat sg, of the dye."
+    },
+    {
+      "lines": "306",
+      "lemma": "διακρινθέντε",
+      "text": "διακρίνω, separate: aor pass ptc nom dual; ὃ μὲν … ὃ δέ, the one … the other."
+    },
+    {
+      "lines": "307",
+      "lemma": "ἤϊ᾽ · ὅμαδον · κίε",
+      "text": "εἶμι, go: 3sg impf; ὅμαδος, throng / din; κίω, go: 3sg impf."
+    },
+    {
+      "lines": "307",
+      "lemma": "τοὶ δὲ χάρησαν",
+      "text": "τοί = οἱ, they; χαίρω, rejoice: 3pl 2aor pass."
+    },
+    {
+      "lines": "308",
+      "lemma": "ζωόν τε καὶ ἀρτεμέα",
+      "text": "ζωός, alive; ἀρτεμής, unharmed: acc sg masc; προσιόντα, approaching."
+    },
+    {
+      "lines": "309",
+      "lemma": "προφυγόντα · ἀάπτους",
+      "text": "προφεύγω, escape: 2aor ptc acc sg; ἄαπτος, irresistible: acc pl fem."
+    },
+    {
+      "lines": "310",
+      "lemma": "ἦγον · ἀελπτέοντες",
+      "text": "ἄγω: 3pl impf; ἀελπτέω, despair of: pres ptc; σόον εἶναι, that he was safe."
+    },
+    {
+      "lines": "311",
+      "lemma": "Αἴαντ᾽ αὖθ᾽ ἑτέρωθεν",
+      "text": "αὖτε, in turn; ἑτέρωθεν, from the other side."
+    },
+    {
+      "lines": "312",
+      "lemma": "κεχαρηότα νίκῃ",
+      "text": "χαίρω, rejoice: perf ptc acc sg; νίκη, victory: dat."
+    },
+    {
+      "lines": "313",
+      "lemma": "κλισίῃσιν · γένοντο",
+      "text": "κλισίη, hut: dat pl; γίγνομαι, come to be / arrive: 3pl 2aor."
+    },
+    {
+      "lines": "314",
+      "lemma": "τοῖσι · ἱέρευσεν",
+      "text": "τοῖσι, for them; ἱερεύω, sacrifice: 3sg aor."
+    },
+    {
+      "lines": "315",
+      "lemma": "ἄρσενα πενταέτηρον",
+      "text": "ἄρσην, male; πενταέτηρος, five years old; ὑπερμενής, very mighty: dat sg of Zeus."
+    },
+    {
+      "lines": "316",
+      "lemma": "δέρον · ἀμφί θ᾽ ἕπον",
+      "text": "δέρω, flay: 3pl impf; ἀμφέπω, handle / dress: tmesis, 3pl impf."
+    },
+    {
+      "lines": "316",
+      "lemma": "διέχευαν",
+      "text": "διαχέω, cut up: 3pl aor, with -αν for -αν; μιν, it."
+    },
+    {
+      "lines": "317",
+      "lemma": "μίστυλλον · ἐπισταμένως",
+      "text": "μιστύλλω, cut small: 3pl impf; ἐπισταμένως, skilfully."
+    },
+    {
+      "lines": "317",
+      "lemma": "πεῖράν · ὀβελοῖσιν",
+      "text": "πείρω, pierce / spit: 3pl impf; ὀβελός, spit: dat pl."
+    },
+    {
+      "lines": "318",
+      "lemma": "ὄπτησαν · περιφραδέως",
+      "text": "ὀπτάω, roast: 3pl aor; περιφραδέως, with care."
+    },
+    {
+      "lines": "318",
+      "lemma": "ἐρύσαντο",
+      "text": "ἐρύω, draw off: 3pl aor mid, took off the fire."
+    },
+    {
+      "lines": "319",
+      "lemma": "παύσαντο · τετύκοντο",
+      "text": "παύομαι, cease: 3pl aor mid; τεύχω, prepare: 3pl reduplicated 2aor mid."
+    },
+    {
+      "lines": "320",
+      "lemma": "δαίνυντ᾽ · ἐδεύετο",
+      "text": "δαίνυμαι, feast: 3pl impf; δεύομαι, lack + gen: 3sg impf, “nothing was wanting.”"
+    },
+    {
+      "lines": "320",
+      "lemma": "δαιτὸς ἐΐσης",
+      "text": "δαίς, meal: gen; ἐΐση, equal / fair: gen sg fem."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

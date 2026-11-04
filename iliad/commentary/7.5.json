@@ -1,0 +1,214 @@
+{
+  "id": "7.5",
+  "title": "Agamemnon restrains Menelaus",
+  "intro": "Agamemnon stops Menelaus from fighting Hector. Nestor shames the silent Greeks.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "104",
+      "lemma": "ἔνθά κέ τοι … φάνη",
+      "text": "φαίνομαι, appear: 3sg aor pass; κε + aor indicative, “would have appeared” (unreal past); τοι = σοι."
+    },
+    {
+      "lines": "104–105",
+      "lemma": "βιότοιο τελευτή · παλάμῃσιν",
+      "text": "βίοτος, life; τελευτή, end; παλάμη, palm / hand: dat pl, “at Hector’s hands.”"
+    },
+    {
+      "lines": "105",
+      "lemma": "φέρτερος ἦεν",
+      "text": "φέρτερος, stronger: comparative of ἀγαθός; ἦεν = ἦν, 3sg impf of εἰμί."
+    },
+    {
+      "lines": "106",
+      "lemma": "εἰ μὴ ἀναΐξαντες ἕλον",
+      "text": "ἀναΐσσω, spring up: aor ptc nom pl; αἱρέω, seize: 3pl 2aor, unreal condition “had not seized.”"
+    },
+    {
+      "lines": "107",
+      "lemma": "εὐρὺ κρείων",
+      "text": "κρείων, ruling: pres ptc, formulaic; εὐρύ, widely, adverbial acc."
+    },
+    {
+      "lines": "108",
+      "lemma": "δεξιτερῆς … χειρός",
+      "text": "δεξιτερός, right: gen sg, the part by which he was taken; ἕλε, 3sg 2aor of αἱρέω."
+    },
+    {
+      "lines": "108",
+      "lemma": "ἔπος τ᾽ ἔφατ᾽ ἔκ τ᾽ ὀνόμαζεν",
+      "text": "φημί, say: 3sg impf; ἐξονομάζω, call by name: tmesis, 3sg impf."
+    },
+    {
+      "lines": "109",
+      "lemma": "Ἀφραίνεις · διοτρεφές",
+      "text": "ἀφραίνω, be foolish: 2sg pres; διοτρεφής, nourished by Zeus: voc."
+    },
+    {
+      "lines": "109–110",
+      "lemma": "οὐδέ τί σε χρὴ ταύτης ἀφροσύνης",
+      "text": "χρή + acc of person and gen of thing: “you have no need of this folly”; ἀφροσύνη, folly."
+    },
+    {
+      "lines": "110",
+      "lemma": "ἀνὰ … σχέο",
+      "text": "ἀνέχω, hold back: tmesis, 2sg 2aor imperative mid, σχέο = σχοῦ."
+    },
+    {
+      "lines": "110",
+      "lemma": "κηδόμενός περ",
+      "text": "κήδομαι, be troubled: pres ptc; περ, even though."
+    },
+    {
+      "lines": "111",
+      "lemma": "ἔθελ᾽ · ἐξ ἔριδος",
+      "text": "ἐθέλω, be willing: 2sg imperative; ἔρις, strife: “out of rivalry.”"
+    },
+    {
+      "lines": "111",
+      "lemma": "σεῦ ἀμείνονι φωτί",
+      "text": "σεῦ = σοῦ, gen of comparison; ἀμείνων, better: dat sg; φώς, man."
+    },
+    {
+      "lines": "112",
+      "lemma": "τόν τε στυγέουσι",
+      "text": "στυγέω, hate: 3pl pres, uncontracted; τε, generic “whom even others dread.”"
+    },
+    {
+      "lines": "113",
+      "lemma": "καὶ δ᾽ Ἀχιλεὺς · κυδιανείρῃ",
+      "text": "καὶ δέ, even; κυδιάνειρα, man-glorifying: dat sg fem, epithet of battle."
+    },
+    {
+      "lines": "114",
+      "lemma": "ἔρριγ᾽ ἀντιβολῆσαι",
+      "text": "ῥιγέω, shudder: 3sg perf, pres sense “shrinks”; ἀντιβολέω, meet: aor inf."
+    },
+    {
+      "lines": "114",
+      "lemma": "σέο πολλὸν ἀμείνων",
+      "text": "σέο = σοῦ, gen of comparison; πολλόν, by far, adverbial; ἀμείνων, better."
+    },
+    {
+      "lines": "115",
+      "lemma": "ἵζευ · ἔθνος",
+      "text": "ἵζω, sit: 2sg imperative mid; ἔθνος, band / company; ἑταῖρος, comrade: gen pl."
+    },
+    {
+      "lines": "116",
+      "lemma": "πρόμον · ἀναστήσουσιν",
+      "text": "πρόμος, champion; ἀνίστημι, raise up: 3pl fut."
+    },
+    {
+      "lines": "117",
+      "lemma": "ἀδειής · ἀκόρητος",
+      "text": "ἀδειής, fearless; ἀκόρητος, insatiable of + gen μόθου, tumult of battle."
+    },
+    {
+      "lines": "118",
+      "lemma": "ἀσπασίως · γόνυ κάμψειν",
+      "text": "ἀσπασίως, gladly; κάμπτω, bend: fut inf, i.e. sit down in relief."
+    },
+    {
+      "lines": "118",
+      "lemma": "αἴ κε φύγῃσι",
+      "text": "φεύγω, flee / escape: 3sg 2aor subj, -σι ending."
+    },
+    {
+      "lines": "119",
+      "lemma": "δηΐου · δηϊοτῆτος",
+      "text": "δήϊος, hostile; δηϊοτής, fighting: gen sg."
+    },
+    {
+      "lines": "120",
+      "lemma": "παρέπεισεν · ἀδελφειοῦ",
+      "text": "παραπείθω, win over: 3sg aor; ἀδελφειός, brother: gen sg."
+    },
+    {
+      "lines": "121",
+      "lemma": "αἴσιμα παρειπών",
+      "text": "αἴσιμος, fitting: neut pl; παρεῖπον, speak persuasively: aor ptc."
+    },
+    {
+      "lines": "121",
+      "lemma": "ἐπείθετο",
+      "text": "πείθομαι, obey: 3sg impf; ὃ δ᾽, he (Menelaus)."
+    },
+    {
+      "lines": "122",
+      "lemma": "γηθόσυνοι · ἕλοντο",
+      "text": "γηθόσυνος, glad; αἱρέομαι, take off: 3pl 2aor mid; τοῦ … ἀπ᾽ ὤμων, from his shoulders."
+    },
+    {
+      "lines": "123",
+      "lemma": "ἀνίστατο καὶ μετέειπεν",
+      "text": "ἀνίστημι, rise: mid 3sg impf; μετεῖπον, speak among."
+    },
+    {
+      "lines": "124",
+      "lemma": "Ὢ πόποι · πένθος",
+      "text": "ὢ πόποι, alas; πένθος, grief; ἱκάνω, come to: 3sg pres."
+    },
+    {
+      "lines": "124",
+      "lemma": "Ἀχαιΐδα γαῖαν",
+      "text": "Ἀχαιΐς, Achaean: fem acc sg; the grief that comes on all Achaea."
+    },
+    {
+      "lines": "125",
+      "lemma": "ἦ κε μέγ᾽ οἰμώξειε",
+      "text": "οἰμώζω, wail: 3sg aor opt, potential with κε."
+    },
+    {
+      "lines": "125",
+      "lemma": "ἱππηλάτα",
+      "text": "ἱππηλάτης, horse-driving: epic nom sg masc in -α."
+    },
+    {
+      "lines": "126",
+      "lemma": "βουληφόρος ἠδ᾽ ἀγορητής",
+      "text": "βουληφόρος, counsellor; ἀγορητής, speaker; ἠδέ = καί; Μυρμιδόνων, of the Myrmidons."
+    },
+    {
+      "lines": "127",
+      "lemma": "εἰρόμενος · ἐγήθεεν",
+      "text": "εἴρομαι, ask: pres ptc mid; γηθέω, rejoice: 3sg impf, uncontracted."
+    },
+    {
+      "lines": "127–128",
+      "lemma": "ᾧ ἐνὶ οἴκῳ · ἐρέων",
+      "text": "ἐνί after its noun, in his own house; ἐρέω, ask about: pres ptc nom sg."
+    },
+    {
+      "lines": "128",
+      "lemma": "γενεήν τε τόκον τε",
+      "text": "γενεή, lineage; τόκος, offspring; Nestor was asked about the Greek heroes’ ancestry."
+    },
+    {
+      "lines": "129",
+      "lemma": "πτώσσοντας · ἀκούσαι",
+      "text": "πτώσσω, cower: pres ptc acc pl; ἀκούω, hear: 3sg aor opt, protasis; ὑφ᾽ Ἕκτορι, under Hector."
+    },
+    {
+      "lines": "130",
+      "lemma": "ἀνὰ … ἀείραι",
+      "text": "ἀείρω, lift: tmesis, 3sg aor opt, apodosis with κεν; ἀθανάτοισι dat of the gods; φίλας … χεῖρας, hands."
+    },
+    {
+      "lines": "131",
+      "lemma": "θυμὸν ἀπὸ μελέων δῦναι",
+      "text": "μέλος, limb: gen pl; δύω, sink: aor inf, a wish that the spirit leave the limbs."
+    },
+    {
+      "lines": "131",
+      "lemma": "δόμον Ἄϊδος εἴσω",
+      "text": "Ἅιδης, gen Ἄϊδος; εἴσω, into; Peleus would wish to die rather than hear this."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

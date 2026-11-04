@@ -1,0 +1,218 @@
+{
+  "work": "iliad",
+  "book": 7,
+  "title": "The duel of Hector and Ajax",
+  "translator": "A. T. Murray",
+  "source": {
+    "title": "The Iliad, Volume I, Loeb Classical Library",
+    "url": "https://archive.org/details/in.ernet.dli.2015.12689",
+    "printedPages": [
+      302,
+      337
+    ],
+    "pdfPages": [
+      318,
+      353
+    ]
+  },
+  "pages": [
+    {
+      "id": "7.1",
+      "greek": "greek/7.1.txt",
+      "english": "english/7.1.txt",
+      "lineStart": 1,
+      "lineEnd": 21,
+      "greekPrintedPage": 302,
+      "englishPrintedPage": 303,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/302/mode/2up",
+      "commentary": "commentary/7.1.json"
+    },
+    {
+      "id": "7.2",
+      "greek": "greek/7.2.txt",
+      "english": "english/7.2.txt",
+      "lineStart": 22,
+      "lineEnd": 47,
+      "greekPrintedPage": 304,
+      "englishPrintedPage": 305,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/304/mode/2up",
+      "commentary": "commentary/7.2.json"
+    },
+    {
+      "id": "7.3",
+      "greek": "greek/7.3.txt",
+      "english": "english/7.3.txt",
+      "lineStart": 48,
+      "lineEnd": 76,
+      "greekPrintedPage": 306,
+      "englishPrintedPage": 307,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/306/mode/2up",
+      "commentary": "commentary/7.3.json"
+    },
+    {
+      "id": "7.4",
+      "greek": "greek/7.4.txt",
+      "english": "english/7.4.txt",
+      "lineStart": 77,
+      "lineEnd": 103,
+      "greekPrintedPage": 308,
+      "englishPrintedPage": 309,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/308/mode/2up",
+      "commentary": "commentary/7.4.json"
+    },
+    {
+      "id": "7.5",
+      "greek": "greek/7.5.txt",
+      "english": "english/7.5.txt",
+      "lineStart": 104,
+      "lineEnd": 131,
+      "greekPrintedPage": 310,
+      "englishPrintedPage": 311,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/310/mode/2up",
+      "commentary": "commentary/7.5.json"
+    },
+    {
+      "id": "7.6",
+      "greek": "greek/7.6.txt",
+      "english": "english/7.6.txt",
+      "lineStart": 132,
+      "lineEnd": 158,
+      "greekPrintedPage": 312,
+      "englishPrintedPage": 313,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/312/mode/2up",
+      "commentary": "commentary/7.6.json"
+    },
+    {
+      "id": "7.7",
+      "greek": "greek/7.7.txt",
+      "english": "english/7.7.txt",
+      "lineStart": 159,
+      "lineEnd": 185,
+      "greekPrintedPage": 314,
+      "englishPrintedPage": 315,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/314/mode/2up",
+      "commentary": "commentary/7.7.json"
+    },
+    {
+      "id": "7.8",
+      "greek": "greek/7.8.txt",
+      "english": "english/7.8.txt",
+      "lineStart": 186,
+      "lineEnd": 211,
+      "greekPrintedPage": 316,
+      "englishPrintedPage": 317,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/316/mode/2up",
+      "commentary": "commentary/7.8.json"
+    },
+    {
+      "id": "7.9",
+      "greek": "greek/7.9.txt",
+      "english": "english/7.9.txt",
+      "lineStart": 212,
+      "lineEnd": 239,
+      "greekPrintedPage": 318,
+      "englishPrintedPage": 319,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/318/mode/2up",
+      "commentary": "commentary/7.9.json"
+    },
+    {
+      "id": "7.10",
+      "greek": "greek/7.10.txt",
+      "english": "english/7.10.txt",
+      "lineStart": 240,
+      "lineEnd": 265,
+      "greekPrintedPage": 320,
+      "englishPrintedPage": 321,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/320/mode/2up",
+      "commentary": "commentary/7.10.json"
+    },
+    {
+      "id": "7.11",
+      "greek": "greek/7.11.txt",
+      "english": "english/7.11.txt",
+      "lineStart": 266,
+      "lineEnd": 293,
+      "greekPrintedPage": 322,
+      "englishPrintedPage": 323,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/322/mode/2up",
+      "commentary": "commentary/7.11.json"
+    },
+    {
+      "id": "7.12",
+      "greek": "greek/7.12.txt",
+      "english": "english/7.12.txt",
+      "lineStart": 294,
+      "lineEnd": 320,
+      "greekPrintedPage": 324,
+      "englishPrintedPage": 325,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/324/mode/2up",
+      "commentary": "commentary/7.12.json"
+    },
+    {
+      "id": "7.13",
+      "greek": "greek/7.13.txt",
+      "english": "english/7.13.txt",
+      "lineStart": 321,
+      "lineEnd": 347,
+      "greekPrintedPage": 326,
+      "englishPrintedPage": 327,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/326/mode/2up",
+      "commentary": "commentary/7.13.json"
+    },
+    {
+      "id": "7.14",
+      "greek": "greek/7.14.txt",
+      "english": "english/7.14.txt",
+      "lineStart": 348,
+      "lineEnd": 375,
+      "greekPrintedPage": 328,
+      "englishPrintedPage": 329,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/328/mode/2up",
+      "commentary": "commentary/7.14.json"
+    },
+    {
+      "id": "7.15",
+      "greek": "greek/7.15.txt",
+      "english": "english/7.15.txt",
+      "lineStart": 376,
+      "lineEnd": 403,
+      "greekPrintedPage": 330,
+      "englishPrintedPage": 331,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/330/mode/2up",
+      "commentary": "commentary/7.15.json"
+    },
+    {
+      "id": "7.16",
+      "greek": "greek/7.16.txt",
+      "english": "english/7.16.txt",
+      "lineStart": 404,
+      "lineEnd": 430,
+      "greekPrintedPage": 332,
+      "englishPrintedPage": 333,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/332/mode/2up",
+      "commentary": "commentary/7.16.json"
+    },
+    {
+      "id": "7.17",
+      "greek": "greek/7.17.txt",
+      "english": "english/7.17.txt",
+      "lineStart": 431,
+      "lineEnd": 456,
+      "greekPrintedPage": 334,
+      "englishPrintedPage": 335,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/334/mode/2up",
+      "commentary": "commentary/7.17.json"
+    },
+    {
+      "id": "7.18",
+      "greek": "greek/7.18.txt",
+      "english": "english/7.18.txt",
+      "lineStart": 457,
+      "lineEnd": 482,
+      "greekPrintedPage": 336,
+      "englishPrintedPage": 337,
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.12689/page/336/mode/2up",
+      "commentary": "commentary/7.18.json"
+    }
+  ]
+}

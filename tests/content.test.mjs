@@ -40,6 +40,6 @@ for (const entry of catalog.books) {
       }
       expectedLine = page.lineEnd + 1;
     }
-    assert.equal(expectedLine - 1, { 5: 909, 6: 529 }[book.book]);
+    assert.equal(expectedLine - 1, { 5: 909, 6: 529, 7: 482 }[book.book]);
   });
 }

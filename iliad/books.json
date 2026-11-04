@@ -1,7 +1,20 @@
 {
-  "defaultBook": 6,
+  "defaultBook": 7,
   "books": [
-    { "number": 5, "label": "Book V", "manifest": "book-5.json" },
-    { "number": 6, "label": "Book VI", "manifest": "book-6.json" }
+    {
+      "number": 5,
+      "label": "Book V",
+      "manifest": "book-5.json"
+    },
+    {
+      "number": 6,
+      "label": "Book VI",
+      "manifest": "book-6.json"
+    },
+    {
+      "number": 7,
+      "label": "Book VII",
+      "manifest": "book-7.json"
+    }
   ]
 }

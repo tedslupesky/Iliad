@@ -1,0 +1,199 @@
+{
+  "id": "7.4",
+  "title": "The terms of the duel",
+  "intro": "Hector sets out the terms: the winner strips the loser’s armour but returns the body. The Greeks fall silent, and Menelaus arms himself.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "77",
+      "lemma": "εἰ μέν κεν … ἕλῃ",
+      "text": "αἱρέω, take / kill: 3sg 2aor subj, future-more-vivid with κεν; κεῖνος = ἐκεῖνος, that man."
+    },
+    {
+      "lines": "77",
+      "lemma": "ταναήκεϊ χαλκῷ",
+      "text": "ταναήκης, long-edged: dat sg; χαλκός, bronze, i.e. the spear."
+    },
+    {
+      "lines": "78",
+      "lemma": "τεύχεα συλήσας φερέτω",
+      "text": "τεύχεα, arms (pl of τεῦχος); συλάω, strip: aor ptc; φέρω: 3sg imperative."
+    },
+    {
+      "lines": "79",
+      "lemma": "δόμεναι",
+      "text": "δίδωμι, give: aor inf, epic -μεναι, used as imperative; οἴκαδε, homeward; πάλιν, back."
+    },
+    {
+      "lines": "79–80",
+      "lemma": "πυρός με … λελάχωσι",
+      "text": "λαγχάνω, obtain a share of + gen: 3pl reduplicated 2aor subj, purpose after ὄφρα; θανόντα, aor ptc acc, “me dead.”"
+    },
+    {
+      "lines": "80",
+      "lemma": "ἄλοχοι",
+      "text": "ἄλοχος, wife: nom pl; the Trojans and their wives will give the funeral rites."
+    },
+    {
+      "lines": "81",
+      "lemma": "εἰ δέ κ᾽ ἐγὼ τὸν ἕλω",
+      "text": "αἱρέω: 1sg aor subj; second condition, set against the first."
+    },
+    {
+      "lines": "81",
+      "lemma": "δώῃ · εὖχος",
+      "text": "δίδωμι, give: 3sg aor subj; εὖχος, glory / boast of victory."
+    },
+    {
+      "lines": "82",
+      "lemma": "σύλησας · οἴσω",
+      "text": "συλάω aor ptc, as in 78; φέρω, carry: 1sg fut οἴσω; προτί = πρός, to."
+    },
+    {
+      "lines": "83",
+      "lemma": "κρεμόω",
+      "text": "κρεμάννυμι, hang up: 1sg fut, epic uncontracted; νηός, temple: acc νηόν."
+    },
+    {
+      "lines": "83",
+      "lemma": "ἑκάτοιο",
+      "text": "ἕκατος, far-shooting: gen sg, epithet of Apollo."
+    },
+    {
+      "lines": "84",
+      "lemma": "νέκυν · ἐϋσσέλμους",
+      "text": "νέκυς, corpse; ἐΰσσελμος, well-benched: acc pl fem, of the ships."
+    },
+    {
+      "lines": "84",
+      "lemma": "ἀποδώσω",
+      "text": "ἀποδίδωμι, give back: 1sg fut."
+    },
+    {
+      "lines": "85",
+      "lemma": "ὄφρά ἑ ταρχύσωσι",
+      "text": "ταρχύω, bury with full rites: 3pl aor subj; ἑ, him, enclitic acc."
+    },
+    {
+      "lines": "85",
+      "lemma": "κάρη κομόωντες",
+      "text": "κομάω, wear long hair: pres ptc nom pl, epic; κάρη, acc of respect; stock epithet “long-haired.”"
+    },
+    {
+      "lines": "86",
+      "lemma": "σῆμά τέ οἱ χεύωσιν",
+      "text": "σῆμα, mound / marker; χέω, pour / heap up: 3pl aor subj; οἱ, for him."
+    },
+    {
+      "lines": "86",
+      "lemma": "πλατεῖ Ἑλλησπόντῳ",
+      "text": "πλατύς, broad: dat sg; Ἑλλήσποντος, Hellespont."
+    },
+    {
+      "lines": "87",
+      "lemma": "εἴπῃσι · ὀψιγόνων",
+      "text": "εἶπον: 3sg aor subj, -σι ending, indefinite “someone will say”; ὀψίγονος, born later: gen pl."
+    },
+    {
+      "lines": "88",
+      "lemma": "νηῒ πολυκλήϊδι πλέων",
+      "text": "πολυκλήϊς, with many oarlocks / benches: dat sg; πλέω, sail: pres ptc."
+    },
+    {
+      "lines": "88",
+      "lemma": "οἴνοπα",
+      "text": "οἶνοψ, wine-dark: acc sg with πόντον."
+    },
+    {
+      "lines": "89",
+      "lemma": "Ἀνδρὸς … κατατεθνηῶτος",
+      "text": "καταθνῄσκω, die: perf ptc gen sg, epic -ηῶτος; σῆμα, mound of a man long dead."
+    },
+    {
+      "lines": "90",
+      "lemma": "ἀριστεύοντα · κατέκτανε",
+      "text": "ἀριστεύω, be the best, fight bravely: pres ptc acc; κατακτείνω, kill: 3sg 2aor."
+    },
+    {
+      "lines": "91",
+      "lemma": "ἐρέει · ὀλεῖται",
+      "text": "ἐρέω, will say: 3sg fut; ὄλλυμι, perish: 3sg fut mid; κλέος, glory."
+    },
+    {
+      "lines": "92",
+      "lemma": "ἀκὴν ἐγένοντο σιωπῇ",
+      "text": "ἀκήν, silent; γίγνομαι: 3pl 2aor; σιωπῇ, in silence, dat."
+    },
+    {
+      "lines": "93",
+      "lemma": "αἴδεσθεν",
+      "text": "αἰδέομαι, feel shame: 3pl aor pass, epic form."
+    },
+    {
+      "lines": "93",
+      "lemma": "ἀνήνασθαι · δεῖσαν · ὑποδέχθαι",
+      "text": "ἀναίνομαι, refuse: aor inf; δείδω, fear: 3pl aor; ὑποδέχομαι, accept / undertake: aor inf."
+    },
+    {
+      "lines": "94",
+      "lemma": "ὀψέ · ἀνίστατο · μετέειπε",
+      "text": "ὀψέ, late; ἀνίστημι, stand up: mid 3sg impf; μετεῖπον, speak among: 3sg aor."
+    },
+    {
+      "lines": "95",
+      "lemma": "νείκει ὀνειδίζων",
+      "text": "νεῖκος, reproach: dat sg; ὀνειδίζω, revile: pres ptc."
+    },
+    {
+      "lines": "95",
+      "lemma": "στεναχίζετο",
+      "text": "στεναχίζω, groan: 3sg impf mid."
+    },
+    {
+      "lines": "96",
+      "lemma": "ἀπειλητῆρες Ἀχαιΐδες",
+      "text": "ἀπειλητήρ, boaster: voc pl; Ἀχαιΐς, Achaean woman: pl, “Achaean women, no longer Achaean men.”"
+    },
+    {
+      "lines": "97",
+      "lemma": "λώβη · αἰνόθεν αἰνῶς",
+      "text": "λώβη, disgrace; ἔσσεται = ἔσται; αἰνόθεν αἰνῶς, “dreadfully dreadful.”"
+    },
+    {
+      "lines": "98",
+      "lemma": "ἀντίος εἶσιν",
+      "text": "ἀντίος, facing; εἶμι, go: 3sg, with future sense, after εἰ μή."
+    },
+    {
+      "lines": "99",
+      "lemma": "γένοισθε",
+      "text": "γίγνομαι, become: 2pl aor opt, wish; “may you all turn to water and earth.”"
+    },
+    {
+      "lines": "100",
+      "lemma": "ἥμενοι αὖθι · ἀκήριοι ἀκλεὲς αὔτως",
+      "text": "ἧμαι, sit: ptc; αὖθι, right there; ἀκήριος, spiritless; ἀκλεές adv, inglorious; αὔτως, just so."
+    },
+    {
+      "lines": "101",
+      "lemma": "τῷδε · θωρήξομαι",
+      "text": "τῷδε, against this man; θωρήσσομαι, arm myself: 1sg fut; ὕπερθε, above."
+    },
+    {
+      "lines": "102",
+      "lemma": "πείρατ᾽ · ἔχονται",
+      "text": "πεῖραρ, end / cord: nom pl; ἔχομαι, be held: 3pl pres mid; “the ends of victory lie with the gods.”"
+    },
+    {
+      "lines": "103",
+      "lemma": "φωνήσας · κατεδύσετο",
+      "text": "φωνέω, speak: aor ptc; καταδύομαι, put on: 3sg aor mid, epic -σετο."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

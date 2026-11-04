@@ -1,0 +1,224 @@
+{
+  "id": "7.3",
+  "title": "Hector’s challenge",
+  "intro": "Hector halts both armies, who sit down like a ruffled sea. He proposes a single combat to settle the war.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "48",
+      "lemma": "ἦ ῥά νύ · πίθοιο",
+      "text": "ἦ ῥά νυ, surely now; πείθομαι + dat: 2sg aor opt mid, wish / polite request."
+    },
+    {
+      "lines": "48",
+      "lemma": "κασίγνητος δέ τοί εἰμι",
+      "text": "κασίγνητος, brother; τοι = σοι, to you, ethic dat. Helenus is Hector’s brother."
+    },
+    {
+      "lines": "49",
+      "lemma": "κάθισον",
+      "text": "καθίζω, make sit: 2sg aor imperative."
+    },
+    {
+      "lines": "50",
+      "lemma": "προκάλεσσαι",
+      "text": "προκαλέω, challenge: 2sg aor imperative mid, epic -σσ-."
+    },
+    {
+      "lines": "50",
+      "lemma": "ὅς τις ἄριστος",
+      "text": "ὅς τις, whoever; ἄριστος, best: superlative of ἀγαθός."
+    },
+    {
+      "lines": "51",
+      "lemma": "ἀντίβιον μαχέσασθαι",
+      "text": "ἀντίβιον, face to face; μάχομαι aor inf, result / purpose."
+    },
+    {
+      "lines": "52",
+      "lemma": "οὐ γάρ πώ τοι μοῖρα",
+      "text": "μοῖρα, fate (ἐστί understood); πώ, as yet; τοι = σοι."
+    },
+    {
+      "lines": "52",
+      "lemma": "θανεῖν · ἐπισπεῖν",
+      "text": "θνῄσκω, die: 2aor inf; ἐφέπω, meet / incur: 2aor inf ἐπισπεῖν; πότμον, doom (acc)."
+    },
+    {
+      "lines": "53",
+      "lemma": "ὄπ᾽ ἄκουσα",
+      "text": "ὄψ, voice: acc ὄπα, elided; ἀκούω, hear: 1sg aor, without augment."
+    },
+    {
+      "lines": "53",
+      "lemma": "αἰειγενετάων",
+      "text": "αἰειγενέτης, ever-living: gen pl, epic -άων, of the gods."
+    },
+    {
+      "lines": "54",
+      "lemma": "ἔφαθ᾽ · χάρη",
+      "text": "φημί, say: 3sg impf, aspirated before ἕκτωρ; χαίρω, rejoice: 3sg 2aor pass."
+    },
+    {
+      "lines": "54",
+      "lemma": "μῦθον ἀκούσας",
+      "text": "μῦθος, speech; ἀκούω aor ptc nom sg, “on hearing.”"
+    },
+    {
+      "lines": "55",
+      "lemma": "ἐς μέσσον ἰὼν · ἀνέεργε",
+      "text": "ἐς μέσσον, into the middle; εἶμι, go: pres ptc; ἀνέργω, hold back: 3sg impf, uncontracted."
+    },
+    {
+      "lines": "56",
+      "lemma": "μέσσου δουρὸς ἑλών",
+      "text": "δόρυ, spear: gen sg of the part, grasping the spear by the middle; αἱρέω, take: 2aor ptc."
+    },
+    {
+      "lines": "56",
+      "lemma": "ἱδρύνθησαν",
+      "text": "ἱδρύω, make sit / settle: 3pl aor pass."
+    },
+    {
+      "lines": "57",
+      "lemma": "κὰδ … εἷσεν",
+      "text": "κάδ = κατά by assimilation, tmesis; ἵζω, seat: 3sg aor, augment-like εἷ-."
+    },
+    {
+      "lines": "58",
+      "lemma": "ἀργυρότοξος",
+      "text": "ἀργυρότοξος, silver-bowed: epithet of Apollo."
+    },
+    {
+      "lines": "59",
+      "lemma": "ἑζέσθην",
+      "text": "ἕζομαι, sit: 3du aor; the two gods, Athena and Apollo."
+    },
+    {
+      "lines": "59",
+      "lemma": "ὄρνισιν … αἰγυπιοῖσι",
+      "text": "ὄρνις, bird; αἰγυπιός, vulture: dat pl; ἔοικα, be like: perf ptc nom pl masc ἐοικότες + dat."
+    },
+    {
+      "lines": "60",
+      "lemma": "φηγῷ ἐφ᾽ ὑψηλῇ",
+      "text": "φηγός, oak; ὑψηλός, tall; ἐπί + dat, on."
+    },
+    {
+      "lines": "60",
+      "lemma": "αἰγιόχοιο",
+      "text": "αἰγίοχος, aegis-bearing: gen sg, epithet of Zeus."
+    },
+    {
+      "lines": "61",
+      "lemma": "τερπόμενοι",
+      "text": "τέρπομαι, take delight in: pres ptc + dat ἀνδράσι."
+    },
+    {
+      "lines": "61",
+      "lemma": "στίχες εἵατο πυκναί",
+      "text": "στίχες, rows; ἧμαι, sit: 3pl plpf / impf εἵατο; πυκνός, thick."
+    },
+    {
+      "lines": "62",
+      "lemma": "πεφρικυῖαι",
+      "text": "φρίσσω, bristle: perf ptc nom fem pl; dat of means ἀσπίσι, κορύθεσσι (κόρυς, helmet), ἔγχεσι."
+    },
+    {
+      "lines": "63",
+      "lemma": "οἵη · ἐχεύατο · ἔπι",
+      "text": "οἷος, such as; χέω, pour out: 3sg aor mid, gnomic; ἔπι = ἐπί, anastrophe, after its noun."
+    },
+    {
+      "lines": "63",
+      "lemma": "Ζεφύροιο · φρίξ",
+      "text": "Ζέφυρος, west wind: gen; φρίξ, ripple."
+    },
+    {
+      "lines": "64",
+      "lemma": "ὀρνυμένοιο νέον",
+      "text": "ὄρνυμι, rise: mid ptc gen sg, genitive absolute with Zephyr; νέον, newly."
+    },
+    {
+      "lines": "64",
+      "lemma": "μελάνει",
+      "text": "μελαίνω, grow dark: 3sg pres; ὑπ᾽ αὐτῆς, under it, the ripple."
+    },
+    {
+      "lines": "65",
+      "lemma": "τοῖαι · εἵατ᾽",
+      "text": "τοῖος, such: nom pl fem, correlative with οἵη; εἵατο, were seated."
+    },
+    {
+      "lines": "66",
+      "lemma": "μετ᾽ ἀμφοτέροισιν ἔειπε",
+      "text": "μετά + dat, among; ἀμφότεροι, both; εἶπον 3sg 2aor with epic ε-."
+    },
+    {
+      "lines": "67",
+      "lemma": "Κέκλυτε · μευ",
+      "text": "κλύω, hear: reduplicated 2aor imperative 2pl; μευ = μου, gen with verb of hearing."
+    },
+    {
+      "lines": "68",
+      "lemma": "ὄφρ᾽ εἴπω · κελεύει",
+      "text": "ὄφρα + aor subj: purpose; κελεύω, bid: 3sg pres; τά, the things (relative)."
+    },
+    {
+      "lines": "69",
+      "lemma": "ὅρκια · ἐτέλεσσεν",
+      "text": "ὅρκιον, oath / treaty: nom pl neut; τελέω, fulfil: 3sg aor, epic -σσ-."
+    },
+    {
+      "lines": "69",
+      "lemma": "ὑψίζυγος",
+      "text": "ὑψίζυγος, high-throned: epithet of Zeus."
+    },
+    {
+      "lines": "70",
+      "lemma": "κακὰ φρονέων · τεκμαίρεται",
+      "text": "φρονέω, devise: pres ptc; τεκμαίρομαι, ordain / plan: 3sg pres mid."
+    },
+    {
+      "lines": "71",
+      "lemma": "εἰς ὅ κεν · ἕλητε",
+      "text": "εἰς ὅ κε, until; αἱρέω, take: 2pl 2aor subj; εὔπυργος, well-towered."
+    },
+    {
+      "lines": "72",
+      "lemma": "δαμείετε · ποντοπόροισιν",
+      "text": "δάμνημι, subdue: 2pl aor pass subj, epic lengthened; ποντοπόρος, sea-crossing: dat pl."
+    },
+    {
+      "lines": "73",
+      "lemma": "ἐν γὰρ ἔασιν",
+      "text": "ἔασιν = εἰσίν, 3pl of εἰμί, with tmesis ἐν; Παναχαιῶν, of all the Achaeans."
+    },
+    {
+      "lines": "74",
+      "lemma": "τῶν · ὅν τινα · ἀνώγει",
+      "text": "partitive τῶν; ὅν τινα, whomever; ἄνωγα, bid / urge: pres 3sg, with inf μαχέσασθαι."
+    },
+    {
+      "lines": "75",
+      "lemma": "δεῦρ᾽ ἴτω",
+      "text": "δεῦρο, here; εἶμι, go: 3sg imperative."
+    },
+    {
+      "lines": "75",
+      "lemma": "πρόμος ἔμμεναι",
+      "text": "πρόμος, front-fighter / champion; ἔμμεναι = εἶναι, epic inf of purpose."
+    },
+    {
+      "lines": "76",
+      "lemma": "μυθέομαι · ἄμμ᾽ ἐπιμάρτυρος ἔστω",
+      "text": "μυθέομαι, speak: 1sg pres; ἄμμε = ἡμῖν, Aeolic dat; ἐπιμάρτυρος, witness; ἔστω, 3sg imperative."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}

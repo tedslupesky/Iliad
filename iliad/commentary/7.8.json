@@ -1,0 +1,189 @@
+{
+  "id": "7.8",
+  "title": "Ajax arms himself",
+  "intro": "Ajax recognises his mark, asks the Greeks to pray for him, and arms. He strides out like Ares.",
+  "format": "vocabulary",
+  "notes": [
+    {
+      "lines": "186",
+      "lemma": "ἵκανε · ἀν᾽ ὅμιλον ἁπάντῃ",
+      "text": "ἱκάνω, reach: 3sg impf; φέρων, carrying it round the whole throng, as in 183."
+    },
+    {
+      "lines": "187",
+      "lemma": "ὅς μιν ἐπιγράψας κυνέῃ βάλε",
+      "text": "ὅς, who (Ajax); μιν, it; ἐπιγράφω, scratch a mark on: aor ptc; βάλλω, throw: 3sg 2aor."
+    },
+    {
+      "lines": "188",
+      "lemma": "ἤτοι ὑπέσχεθε",
+      "text": "ἤτοι, indeed; ὑπέχω, hold out: 3sg 2aor ὑπέσχεθε."
+    },
+    {
+      "lines": "188",
+      "lemma": "ἔμβαλεν · παραστάς",
+      "text": "ἐμβάλλω, put in: 3sg aor; παρίστημι, stand beside: 2aor ptc nom sg."
+    },
+    {
+      "lines": "189",
+      "lemma": "γνῶ · σῆμα · γήθησε",
+      "text": "γιγνώσκω, recognise: 3sg root aor; σῆμα, mark; γηθέω, rejoice: 3sg aor."
+    },
+    {
+      "lines": "190",
+      "lemma": "πὰρ πόδ᾽ ἑόν",
+      "text": "παρά + acc, beside; ἑός, his own: acc sg masc."
+    },
+    {
+      "lines": "190",
+      "lemma": "χαμάδις · φώνησεν",
+      "text": "χαμάδις, to the ground; φωνέω, speak: 3sg aor, with ἐν τε."
+    },
+    {
+      "lines": "191",
+      "lemma": "Ὦ φίλοι ἤτοι",
+      "text": "ὦ φίλοι, friends; ἤτοι, surely; ἐμός, mine."
+    },
+    {
+      "lines": "192",
+      "lemma": "δοκέω νικησέμεν",
+      "text": "δοκέω, think: 1sg pres; νικάω, win: fut inf, epic -σέμεν."
+    },
+    {
+      "lines": "193",
+      "lemma": "ἀλλ᾽ ἄγετ᾽ ὄφρ᾽ ἂν … δύω",
+      "text": "ἄγετε, come now; ὄφρα ἄν + aor subj, “while”; δύω, put on: 1sg aor subj (trans.)."
+    },
+    {
+      "lines": "193",
+      "lemma": "πολεμήϊα τεύχεα",
+      "text": "πολεμήϊος, of war: neut pl; τεύχεα, arms."
+    },
+    {
+      "lines": "194",
+      "lemma": "τόφρ᾽ · εὔχεσθε · Κρονίωνι",
+      "text": "τόφρα, meanwhile; εὔχομαι, pray: 2pl imperative; Κρονίων, son of Cronos."
+    },
+    {
+      "lines": "195",
+      "lemma": "σιγῇ ἐφ᾽ ὑμείων",
+      "text": "σιγή, silence: dat; ἐπί + gen, by yourselves; ὑμείων = ὑμῶν."
+    },
+    {
+      "lines": "195",
+      "lemma": "ἵνα μὴ … πύθωνται",
+      "text": "πυνθάνομαι, learn: 3pl 2aor subj; negative purpose clause."
+    },
+    {
+      "lines": "196",
+      "lemma": "ἠὲ καὶ ἀμφαδίην",
+      "text": "ἠέ, or; ἀμφαδίην, openly, adverbial acc."
+    },
+    {
+      "lines": "196",
+      "lemma": "δείδιμεν ἔμπης",
+      "text": "δείδω, fear: 1pl perf with present sense; ἔμπης, nonetheless."
+    },
+    {
+      "lines": "197",
+      "lemma": "βίῃ γε ἑκὼν ἀέκοντα",
+      "text": "βίη, force: dat of means; ἑκών, willing; ἀέκων, unwilling: acc sg, with the pair as contrast."
+    },
+    {
+      "lines": "197",
+      "lemma": "δίηται",
+      "text": "δίεμαι, drive / chase: 3sg subj mid, “put me to flight.”"
+    },
+    {
+      "lines": "198",
+      "lemma": "ἰδρείῃ · νήϊδα",
+      "text": "ἰδρείη, skill; νήϊς, ignorant: acc sg, “unskilled.”"
+    },
+    {
+      "lines": "199",
+      "lemma": "ἔλπομαι · Σαλαμῖνι",
+      "text": "ἔλπομαι, expect; Σαλαμίς, Salamis: dat of place, Ajax’s home island."
+    },
+    {
+      "lines": "199",
+      "lemma": "γενέσθαι τε τραφέμεν τε",
+      "text": "γίγνομαι, be born: 2aor inf; τρέφω, raise: aor pass inf, epic -έμεν."
+    },
+    {
+      "lines": "200",
+      "lemma": "εὔχοντο",
+      "text": "εὔχομαι, pray: 3pl impf."
+    },
+    {
+      "lines": "201",
+      "lemma": "εἴπεσκεν",
+      "text": "εἶπον: 3sg iterative impf, as in 178."
+    },
+    {
+      "lines": "202",
+      "lemma": "Ἴδηθεν μεδέων",
+      "text": "Ἴδηθεν, from Mt Ida; μεδέων, ruling: pres ptc nom, epithet of Zeus."
+    },
+    {
+      "lines": "202",
+      "lemma": "κύδιστε μέγιστε",
+      "text": "κῦδος, glory: superlative κύδιστος; μέγας, great: superlative μέγιστος; vocatives."
+    },
+    {
+      "lines": "203",
+      "lemma": "δὸς · ἀρέσθαι",
+      "text": "δίδωμι, give: 2sg 2aor imperative; ἀείρομαι, win / carry off: 2aor inf mid ἀρέσθαι."
+    },
+    {
+      "lines": "204",
+      "lemma": "φιλέεις · κήδεαι",
+      "text": "φιλέω, love: 2sg pres, uncontracted; κήδομαι, care for + gen: 2sg pres mid."
+    },
+    {
+      "lines": "205",
+      "lemma": "ἴσην · ὄπασσον",
+      "text": "ἴσος, equal: fem acc sg; ὀπάζω, grant: 2sg aor imperative ὄπασσον; ἀμφοτέροισι, to both."
+    },
+    {
+      "lines": "206",
+      "lemma": "κορύσσετο · νώροπι χαλκῷ",
+      "text": "κορύσσομαι, arm oneself: 3sg impf mid; νώροψ, flashing: dat sg."
+    },
+    {
+      "lines": "207",
+      "lemma": "περὶ χροῒ ἕσσατο",
+      "text": "χρώς, skin: dat χροΐ; ἕννυμι, put on: 3sg aor mid, ἕσσατο."
+    },
+    {
+      "lines": "208",
+      "lemma": "σεύατ᾽ · οἷός τε",
+      "text": "σεύομαι, rush: 3sg aor mid; οἷός τε, such as; πελώριος, huge."
+    },
+    {
+      "lines": "209",
+      "lemma": "ὅς τ᾽ εἶσιν · πόλεμον δὲ",
+      "text": "εἶμι, go: 3sg pres; -δε, to: πόλεμόνδε; οὕς τε relative, whom."
+    },
+    {
+      "lines": "210",
+      "lemma": "θυμοβόρου ἔριδος",
+      "text": "θυμοβόρος, heart-eating: gen sg; ἔρις, strife."
+    },
+    {
+      "lines": "210",
+      "lemma": "ξυνέηκε",
+      "text": "συνίημι, bring together: 3sg aor, Cronus’ son sets men to fight; μένεϊ, dat of μένος."
+    },
+    {
+      "lines": "211",
+      "lemma": "τοῖος ἄρ᾽ · ὦρτο · ἕρκος",
+      "text": "τοῖος, such; ὄρνυμι, rouse: 3sg 2aor mid; ἕρκος, bulwark, defence."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greek text and word lookup · Perseus, Iliad 7",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D7"
+    }
+  ]
+}
