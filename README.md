@@ -17,3 +17,5 @@ Run `npm run check` for JavaScript syntax checks and `npm test` to validate the 
 Run `npm run build` to create `dist/`, containing only the reader and its published reading files. Vercel uses `vercel.json` to run this build and serve the static output; `server.js` remains the local development server. Downloaded scans, extraction files, and previews are excluded from deployment.
 
 To deploy from this directory, sign in with `npx vercel login`, then run `npx vercel --prod`. Subsequent deployments use the project connection in the ignored `.vercel/` directory.
+
+
