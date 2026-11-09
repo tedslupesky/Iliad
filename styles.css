@@ -21,7 +21,7 @@ main { max-width: 1240px; margin: 0 auto; padding: 0 40px; }
 h1 { margin: 12px 0 11px; font: 35px Georgia, "Times New Roman", serif; font-weight: 400; }
 .sample-label { font-size: 11px; color: var(--muted); }
 .reading-layout { max-width: 730px; margin: 0 auto; }
-.reading-layout.with-english { max-width: 1160px; display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(0, 1fr); gap: 40px; }
+.reading-layout.with-pane { max-width: 1160px; display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(0, 1fr); gap: 40px; }
 .greek-page { min-width: 0; padding: 26px 32px 12px; background: #fdfcf8; border: 1px solid #e3dfd5; box-shadow: 0 3px 12px #3d302006; }
 .page-heading { display: flex; justify-content: space-between; align-items: center; height: 24px; margin-bottom: 26px; }
 h2 { font-size: 9px; font-weight: 500; letter-spacing: 2.3px; margin: 0; color: var(--muted); }
@@ -31,9 +31,9 @@ h2 { font-size: 9px; font-weight: 500; letter-spacing: 2.3px; margin: 0; color: 
 .verse-number { font: 10px/4.3 -apple-system, BlinkMacSystemFont, sans-serif; color: #939084; user-select: none; text-align: right; }
 .verse-text { overflow-wrap: anywhere; }
 .page-ornament { color: #ada38d; text-align: center; margin: 20px 0 3px; font-size: 13px; }
-.translation { border-left: 1px solid var(--line); padding: 26px 0 20px 32px; min-width: 0; }
+.companion { border-left: 1px solid var(--line); padding: 26px 0 0 32px; min-width: 0; position: sticky; top: 20px; align-self: start; }
 [hidden] { display: none !important; }
-.translation .page-heading { margin-bottom: 10px; }
+.companion .page-heading { margin-bottom: 14px; }
 .close-button { border: 0; background: transparent; width: 32px; height: 32px; font-size: 24px; font-weight: 300; color: var(--muted); }
 .close-button:hover { color: var(--accent); }
 .translation-note { font-size: 10px; color: var(--muted); }
@@ -50,9 +50,9 @@ h2 { font-size: 9px; font-weight: 500; letter-spacing: 2.3px; margin: 0; color: 
 footer { max-width: 730px; margin: 27px auto 30px; display: flex; justify-content: space-between; gap: 15px; color: #827e72; font-size: 10px; }
 footer > span:first-child { font: italic 12px Georgia, serif; }
 kbd { font: inherit; border: 1px solid var(--line); border-radius: 3px; padding: 1px 4px; }
-@media (min-width: 1000px) { .with-english .verses { font-size: 21px; } }
-@media (max-width: 900px) { main { padding: 0 24px; } .reading-layout.with-english { grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 22px; } .with-english .greek-page { padding: 22px 18px 12px; } .translation { padding-left: 22px; } .with-english .verses { font-size: 19px; } .english-text { font-size: 17px; } .room-label { display: none; } }
-@media (max-width: 650px) { .masthead { margin: 0 20px; height: 88px; } .book-title { font-size: 22px; } .brand { gap: 10px; } .brand-mark { width: 29px; height: 37px; } .translation-toggle { min-width: 130px; padding: 10px; } main { padding: 0 16px; } .chapter-heading { padding: 30px 0 26px; } h1 { font-size: 30px; } .greek-page { padding: 20px 15px 12px; } .verses { font-size: 19px; } .verse { grid-template-columns: 19px minmax(0, 1fr); gap: 9px; } .reading-layout.with-english { display: block; } .translation { margin-top: 24px; padding: 24px 16px 0; border-left: 0; border-top: 1px solid var(--line); } .page-button { min-width: 98px; padding: 12px 8px; } footer { justify-content: center; } .keyboard-hint { display: none; } }
+@media (min-width: 1000px) { .with-pane .verses { font-size: 21px; } }
+@media (max-width: 900px) { main { padding: 0 24px; } .reading-layout.with-pane { grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 22px; } .with-pane .greek-page { padding: 22px 18px 12px; } .companion { padding-left: 22px; } .with-pane .verses { font-size: 19px; } .english-text { font-size: 17px; } .room-label { display: none; } }
+@media (max-width: 650px) { .masthead { margin: 0 20px; height: 88px; } .book-title { font-size: 22px; } .brand { gap: 10px; } .brand-mark { width: 29px; height: 37px; } .translation-toggle { min-width: 130px; padding: 10px; } main { padding: 0 16px; } .chapter-heading { padding: 30px 0 26px; } h1 { font-size: 30px; } .greek-page { padding: 20px 15px 12px; } .verses { font-size: 19px; } .verse { grid-template-columns: 19px minmax(0, 1fr); gap: 9px; } .reading-layout.with-pane { display: block; } .companion { position: static; margin-top: 24px; padding: 24px 16px 0; border-left: 0; border-top: 1px solid var(--line); } .companion-view { max-height: 70vh; } .page-button { min-width: 98px; padding: 12px 8px; } footer { justify-content: center; } .keyboard-hint { display: none; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 
 /* Full Loeb pages retain their verse breaks and scroll naturally. */
@@ -64,15 +64,16 @@ kbd { font: inherit; border: 1px solid var(--line); border-radius: 3px; padding:
 #source-link:hover { color: var(--accent); }
 @media (max-width: 650px) { .page-position { font-size: 10px; } }
 
-/* Optional reading companions, independently opened. */
-.pane-controls { display: flex; gap: 10px; }
-main:has(.with-commentary) { max-width: 1600px; }
-.reading-layout.with-commentary { display: grid; max-width: 1160px; grid-template-columns: minmax(260px, 1fr) minmax(0, 1.9fr); gap: 32px; align-items: start; }
-.reading-layout.with-commentary.with-english { max-width: 1520px; grid-template-columns: minmax(250px, 1fr) minmax(0, 1.8fr) minmax(230px, 1fr); gap: 28px; }
-.commentary { min-width: 0; padding: 26px 20px 12px 0; border-right: 1px solid var(--line); position: sticky; top: 20px; }
-.commentary .page-heading { margin-bottom: 10px; }
-.commentary-text { max-height: calc(100vh - 150px); overflow-y: auto; overscroll-behavior: contain; padding: 0 12px 12px 0; margin-top: 22px; font: 15px/1.65 Georgia, "Times New Roman", serif; scrollbar-width: thin; }
-.commentary-text:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+/* Companion pane: one view at a time, Notes or English. */
+.view-switch { display: flex; border: 1px solid #c8c2b4; border-radius: 5px; overflow: hidden; }
+.view-switch button { border: 0; background: transparent; padding: 7px 14px; font-size: 11px; letter-spacing: 1px; color: var(--muted); }
+.view-switch button + button { border-left: 1px solid #c8c2b4; }
+.view-switch button:hover { background: #eae6dc; }
+.view-switch button[aria-pressed="true"] { background: #e9e3d7; color: var(--ink); }
+.view-switch button:focus-visible { outline-offset: -3px; }
+.companion-view { max-height: calc(100vh - 110px); overflow-y: auto; overscroll-behavior: contain; padding: 0 12px 12px 0; scrollbar-width: thin; }
+.companion-view:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.commentary-text { margin-top: 22px; font: 15px/1.65 Georgia, "Times New Roman", serif; }
 .commentary-text h3 { font-size: 20px; line-height: 1.35; font-weight: normal; margin: 0 0 14px; }
 .commentary-intro { color: var(--muted); }
 .commentary-entry { padding: 20px 0; border-top: 1px solid var(--line); }
@@ -86,21 +87,3 @@ main:has(.with-commentary) { max-width: 1600px; }
 .vocabulary-notes .commentary-entry::marker { color: var(--accent); }
 .vocabulary-notes strong { font-weight: 600; }
 .commentary-sources a { display: block; color: var(--accent); margin: 12px 0; font-size: 13px; }
-.with-commentary .greek-page { padding-left: 22px; padding-right: 22px; }
-.with-commentary .verses { font-size: 20px; }
-.with-commentary .english-text { font-size: 17px; }
-@media (min-width: 761px) and (max-width: 1100px) {
-  .reading-layout.with-commentary.with-english { grid-template-columns: minmax(240px, 1fr) minmax(0, 1.9fr); }
-  .with-commentary .commentary { grid-column: 1; grid-row: 1 / span 2; }
-  .with-commentary .translation { grid-column: 2; border-left: 0; border-top: 1px solid var(--line); padding-left: 0; }
-}
-@media (max-width: 760px) {
-  .masthead { height: auto; min-height: 100px; padding: 16px 0; flex-wrap: wrap; }
-  .pane-controls { flex-wrap: wrap; }
-  .pane-controls .translation-toggle { min-width: 0; font-size: 11px; padding: 9px; }
-  .reading-layout.with-commentary, .reading-layout.with-commentary.with-english { display: flex; flex-direction: column; gap: 24px; }
-  .with-commentary .greek-page { order: 0; width: 100%; }
-  .commentary { order: 1; position: static; width: 100%; border-right: 0; border-top: 1px solid var(--line); padding: 24px 12px 0; }
-  .commentary-text { max-height: 60vh; }
-  .with-commentary .translation { order: 2; width: 100%; margin: 0; border-left: 0; border-top: 1px solid var(--line); padding: 24px 12px 0; }
-}

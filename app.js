@@ -105,25 +105,39 @@ function turnPage(direction) {
   showPage(currentPage + direction, { scroll: true });
 }
 
-function setTranslation(open) {
-  $('translation').hidden = !open;
-  $('reading-layout').classList.toggle('with-english', open);
-  $('translation-toggle').setAttribute('aria-expanded', String(open));
-  $('translation-toggle').querySelector('span').textContent = open ? 'Hide English' : 'Show English';
+const paneKey = 'iliad-pane';
+const pane = (() => {
+  try {
+    const saved = JSON.parse(localStorage.getItem(paneKey));
+    if (saved && typeof saved.open === 'boolean' && ['notes', 'english'].includes(saved.view)) return saved;
+  } catch {}
+  return { open: false, view: 'notes' };
+})();
+
+function applyPane() {
+  const notes = pane.view === 'notes';
+  $('companion').hidden = !pane.open;
+  $('commentary').hidden = !notes;
+  $('translation').hidden = notes;
+  $('reading-layout').classList.toggle('with-pane', pane.open);
+  $('pane-toggle').setAttribute('aria-expanded', String(pane.open));
+  $('pane-toggle').querySelector('span').textContent = pane.open ? 'Hide pane' : 'Show notes & English';
+  $('view-notes').setAttribute('aria-pressed', String(notes));
+  $('view-english').setAttribute('aria-pressed', String(!notes));
+  try { localStorage.setItem(paneKey, JSON.stringify(pane)); } catch {}
 }
 
-function setCommentary(open) {
-  $('commentary').hidden = !open;
-  $('reading-layout').classList.toggle('with-commentary', open);
-  $('commentary-toggle').setAttribute('aria-expanded', String(open));
-  $('commentary-toggle').querySelector('span').textContent = open ? 'Hide notes' : 'Show notes';
+function setPane(changes) {
+  Object.assign(pane, changes);
+  applyPane();
 }
 
 async function renderCommentary(page) {
   const version = ++commentaryVersion;
   const container = $('commentary-text');
   $('commentary-range').textContent = `${page.id} · Lines ${page.lineStart}–${page.lineEnd}`;
-  container.scrollTop = 0;
+  $('commentary').scrollTop = 0;
+  $('translation').scrollTop = 0;
   container.replaceChildren();
   container.setAttribute('aria-busy', 'false');
   if (!page.commentary) {
@@ -235,19 +249,16 @@ async function initialize() {
   }
 }
 
-$('commentary-toggle').addEventListener('click', () => setCommentary($('commentary').hidden));
-$('close-commentary').addEventListener('click', () => {
-  setCommentary(false);
-  $('commentary-toggle').focus();
+$('pane-toggle').addEventListener('click', () => setPane({ open: !pane.open }));
+$('close-pane').addEventListener('click', () => {
+  setPane({ open: false });
+  $('pane-toggle').focus();
 });
+$('view-notes').addEventListener('click', () => setPane({ view: 'notes' }));
+$('view-english').addEventListener('click', () => setPane({ view: 'english' }));
 $('previous').addEventListener('click', () => turnPage(-1));
 $('next').addEventListener('click', () => turnPage(1));
 $('retry').addEventListener('click', () => retryAction?.());
-$('translation-toggle').addEventListener('click', () => setTranslation($('translation').hidden));
-$('close-translation').addEventListener('click', () => {
-  setTranslation(false);
-  $('translation-toggle').focus();
-});
 $('book-select').addEventListener('change', () => { location.hash = `${$('book-select').value}.1`; });
 window.addEventListener('hashchange', initialize);
 document.addEventListener('keydown', (event) => {
@@ -256,12 +267,10 @@ document.addEventListener('keydown', (event) => {
     event.preventDefault();
     turnPage(event.key === 'ArrowLeft' ? -1 : 1);
   }
-  if (event.key === 'Escape' && !$('commentary').hidden && ($('translation').hidden || $('commentary').contains(event.target) || event.target === $('commentary-toggle'))) {
-    setCommentary(false);
-    $('commentary-toggle').focus();
-  } else if (event.key === 'Escape' && !$('translation').hidden) {
-    setTranslation(false);
-    $('translation-toggle').focus();
+  if (event.key === 'Escape' && pane.open) {
+    setPane({ open: false });
+    $('pane-toggle').focus();
   }
 });
+applyPane();
 initialize();

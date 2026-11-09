@@ -12,28 +12,31 @@
   <body>
     <header class="masthead">
       <div class="brand"><span class="brand-mark" aria-hidden="true">Ι</span><div><span class="book-title">The Iliad</span><span class="byline">HOMER</span></div></div>
-      <div class="pane-controls"><button id="commentary-toggle" class="translation-toggle" aria-expanded="false" aria-controls="commentary"><span>Show notes</span></button>
-      <button id="translation-toggle" class="translation-toggle" aria-expanded="false" aria-controls="translation"><svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><rect x="2.5" y="3.5" width="15" height="13" rx="2"/><path d="M11 4v12"/></svg><span>Show English</span></button></div>
+      <div class="pane-controls"><button id="pane-toggle" class="translation-toggle" aria-expanded="false" aria-controls="companion"><svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><rect x="2.5" y="3.5" width="15" height="13" rx="2"/><path d="M11 4v12"/></svg><span>Show notes &amp; English</span></button></div>
     </header>
     <main>
       <div class="chapter-heading"><label class="eyebrow" for="book-select">READING <select id="book-select" aria-label="Book" disabled></select></label><h1 id="chapter-title">The Iliad</h1><span class="sample-label">Homer · Loeb Classical Library</span></div>
       <div id="reading-error" class="reading-error" role="alert" hidden><span id="error-message"></span> <button id="retry">Try again</button></div>
       <div class="reading-layout" id="reading-layout">
-        <aside id="commentary" class="commentary" aria-labelledby="commentary-heading" hidden>
-          <div class="page-heading"><h2 id="commentary-heading">COMMENTARY</h2><button class="close-button" id="close-commentary" aria-label="Hide notes">×</button></div>
-          <span id="commentary-range" class="translation-note"></span>
-          <div id="commentary-text" class="commentary-text" role="region" aria-label="Lexical and grammatical notes" tabindex="0"></div>
-        </aside>
         <article class="greek-page" aria-labelledby="greek-heading">
           <div class="page-heading"><h2 id="greek-heading">GREEK</h2><span class="line-range" id="greek-range"></span></div>
           <div class="verses" id="greek-text" lang="grc"></div>
           <div class="page-ornament" aria-hidden="true">✦</div>
         </article>
-        <aside id="translation" class="translation" aria-labelledby="english-heading" hidden>
-          <div class="page-heading"><h2 id="english-heading">ENGLISH</h2><button class="close-button" id="close-translation" aria-label="Hide English">×</button></div>
-          <span class="translation-note">A. T. Murray <span aria-hidden="true">/</span> <span id="english-range"></span></span>
-          <div id="english-text" class="english-text"></div>
-          <p class="edition-note">English follows the facing page of the Loeb edition.</p>
+        <aside id="companion" class="companion" aria-label="Notes and English" hidden>
+          <div class="page-heading">
+            <div class="view-switch" role="group" aria-label="Pane content"><button id="view-notes" aria-pressed="true" aria-controls="commentary">Notes</button><button id="view-english" aria-pressed="false" aria-controls="translation">English</button></div>
+            <button class="close-button" id="close-pane" aria-label="Close pane">×</button>
+          </div>
+          <section id="commentary" class="companion-view" aria-label="Commentary" tabindex="0">
+            <span id="commentary-range" class="translation-note"></span>
+            <div id="commentary-text" class="commentary-text"></div>
+          </section>
+          <section id="translation" class="companion-view" aria-label="English translation" tabindex="0" hidden>
+            <span class="translation-note">A. T. Murray <span aria-hidden="true">/</span> <span id="english-range"></span></span>
+            <div id="english-text" class="english-text"></div>
+            <p class="edition-note">English follows the facing page of the Loeb edition.</p>
+          </section>
         </aside>
       </div>
       <nav class="pagination" aria-label="Page navigation">
