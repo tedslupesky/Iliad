@@ -121,7 +121,7 @@ function applyPane() {
   $('translation').hidden = notes;
   $('reading-layout').classList.toggle('with-pane', pane.open);
   $('pane-toggle').setAttribute('aria-expanded', String(pane.open));
-  $('pane-toggle').querySelector('span').textContent = pane.open ? 'Hide pane' : 'Show notes & English';
+  $('pane-toggle').querySelector('span').textContent = pane.open ? 'Hide pane' : 'Show pane';
   $('view-notes').setAttribute('aria-pressed', String(notes));
   $('view-english').setAttribute('aria-pressed', String(!notes));
   try { localStorage.setItem(paneKey, JSON.stringify(pane)); } catch {}
@@ -130,6 +130,11 @@ function applyPane() {
 function setPane(changes) {
   Object.assign(pane, changes);
   applyPane();
+}
+
+// Keyboard shortcut: open the pane on this view, or close it if the view is already showing.
+function toggleView(view) {
+  setPane(pane.open && pane.view === view ? { open: false } : { open: true, view });
 }
 
 async function renderCommentary(page) {
@@ -266,6 +271,11 @@ document.addEventListener('keydown', (event) => {
   if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
     event.preventDefault();
     turnPage(event.key === 'ArrowLeft' ? -1 : 1);
+  }
+  const key = event.key.toLowerCase();
+  if (key === 'n' || key === 'e') {
+    event.preventDefault();
+    toggleView(key === 'n' ? 'notes' : 'english');
   }
   if (event.key === 'Escape' && pane.open) {
     setPane({ open: false });
